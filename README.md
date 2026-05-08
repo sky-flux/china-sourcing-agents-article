@@ -7,7 +7,7 @@ Written by hardware engineers who have been on both sides of the transaction.
 
 ---
 
-## Articles
+## Articles (English)
 
 | Title | Topics |
 |-------|--------|
@@ -16,6 +16,33 @@ Written by hardware engineers who have been on both sides of the transaction.
 | [China Payment Terms Explained](articles/china-payment-terms-explained.md) | T/T, L/C, escrow, risk management |
 | [Alibaba vs 1688 vs Direct Factory](articles/alibaba-vs-1688-vs-direct-factory.md) | Platform comparison, sourcing strategy |
 | [Shenzhen Electronics Market Guide](articles/shenzhen-electronics-market-guide.md) | Huaqiangbei, component sourcing, districts |
+
+---
+
+## Translations
+
+All 5 articles are available in 11 languages:
+
+| Language | Directory |
+|----------|-----------|
+| 🇩🇪 Deutsch | [articles/de/](articles/de/) |
+| 🇪🇸 Español | [articles/es/](articles/es/) |
+| 🇫🇷 Français | [articles/fr/](articles/fr/) |
+| 🇮🇹 Italiano | [articles/it/](articles/it/) |
+| 🇯🇵 日本語 | [articles/ja/](articles/ja/) |
+| 🇰🇷 한국어 | [articles/ko/](articles/ko/) |
+| 🇳🇱 Nederlands | [articles/nl/](articles/nl/) |
+| 🇵🇱 Polski | [articles/pl/](articles/pl/) |
+| 🇧🇷 Português | [articles/pt/](articles/pt/) |
+| 🇷🇺 Русский | [articles/ru/](articles/ru/) |
+
+---
+
+## Dev Articles
+
+| Title | Platform |
+|-------|----------|
+| [I built a 11-language B2B site on Astro 6 + Cloudflare Workers — here's what surprised me](devto/astro6-cloudflare-multilingual-sourcing-site.md) | dev.to |
 
 ---
 

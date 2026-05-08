@@ -1,5 +1,7 @@
 # China Sourcing Agent — Articles & Resources
 
+<a href="https://china-sourcing-agents.com/"><img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/35725f85-cd3b-425c-ac25-450d0c06b4f6" /></a>
+
 Practical guides on sourcing electronics and IoT hardware from China.
 Written by hardware engineers who have been on both sides of the transaction.
 

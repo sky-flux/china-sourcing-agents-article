@@ -1,0 +1,22 @@
+title: "China Sourcing Agent — Articles & Resources"
+description: "Practical guides on sourcing electronics and IoT hardware from China."
+baseurl: "/china-sourcing-agents-article"
+url: "https://sky-flux.github.io"
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - articles
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"

@@ -166,11 +166,11 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 
 ## Deutsch
 
-### Home
+### Startseite
 
-- [Home](https://china-sourcing-agents.com/de/)
+- [Startseite](https://china-sourcing-agents.com/de/)
 
-### Home & Company
+### Startseite & Unternehmen
 
 - [About](https://china-sourcing-agents.com/de/about/)
 - [Contact](https://china-sourcing-agents.com/de/contact/)
@@ -181,7 +181,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Search](https://china-sourcing-agents.com/de/search/)
 - [Terms](https://china-sourcing-agents.com/de/terms/)
 
-### Services
+### Dienstleistungen
 
 - [Services](https://china-sourcing-agents.com/de/services/)
 - [Services/Audit](https://china-sourcing-agents.com/de/services/audit/)
@@ -190,7 +190,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Services/Private Label](https://china-sourcing-agents.com/de/services/private-label/)
 - [Services/Sourcing](https://china-sourcing-agents.com/de/services/sourcing/)
 
-### Industries
+### Branchen
 
 - [Industries](https://china-sourcing-agents.com/de/industries/)
 - [Industries/Automotive Electronics](https://china-sourcing-agents.com/de/industries/automotive-electronics/)
@@ -202,7 +202,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Industries/Smart Home](https://china-sourcing-agents.com/de/industries/smart-home/)
 - [Industries/Wearables](https://china-sourcing-agents.com/de/industries/wearables/)
 
-### Guides
+### Leitfäden
 
 - [Guides](https://china-sourcing-agents.com/de/guides/)
 - [Guides/Alibaba Vs 1688](https://china-sourcing-agents.com/de/guides/alibaba-vs-1688/)
@@ -220,7 +220,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Blog/Alibaba Vs 1688 Vs Direct Factory](https://china-sourcing-agents.com/de/blog/alibaba-vs-1688-vs-direct-factory/)
 - [Blog/Shenzhen Electronics Market Guide](https://china-sourcing-agents.com/de/blog/shenzhen-electronics-market-guide/)
 
-### Cases
+### Fallstudien
 
 - [Cases](https://china-sourcing-agents.com/de/cases/)
 - [Cases/Amazon Seller Iot Sensor](https://china-sourcing-agents.com/de/cases/amazon-seller-iot-sensor/)
@@ -229,7 +229,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Cases/Jp Distributor Lora Gateway](https://china-sourcing-agents.com/de/cases/jp-distributor-lora-gateway/)
 - [Cases/Us Startup Smart Watch](https://china-sourcing-agents.com/de/cases/us-startup-smart-watch/)
 
-### Alternatives
+### Alternativen
 
 - [Alternatives](https://china-sourcing-agents.com/de/alternatives/)
 - [Alternatives/Flexport Alternatives](https://china-sourcing-agents.com/de/alternatives/flexport-alternatives/)
@@ -299,11 +299,11 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 
 ## Español
 
-### Home
+### Inicio
 
-- [Home](https://china-sourcing-agents.com/es/)
+- [Inicio](https://china-sourcing-agents.com/es/)
 
-### Home & Company
+### Inicio & Empresa
 
 - [About](https://china-sourcing-agents.com/es/about/)
 - [Contact](https://china-sourcing-agents.com/es/contact/)
@@ -314,7 +314,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Search](https://china-sourcing-agents.com/es/search/)
 - [Terms](https://china-sourcing-agents.com/es/terms/)
 
-### Services
+### Servicios
 
 - [Services](https://china-sourcing-agents.com/es/services/)
 - [Services/Audit](https://china-sourcing-agents.com/es/services/audit/)
@@ -323,7 +323,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Services/Private Label](https://china-sourcing-agents.com/es/services/private-label/)
 - [Services/Sourcing](https://china-sourcing-agents.com/es/services/sourcing/)
 
-### Industries
+### Industrias
 
 - [Industries](https://china-sourcing-agents.com/es/industries/)
 - [Industries/Automotive Electronics](https://china-sourcing-agents.com/es/industries/automotive-electronics/)
@@ -335,7 +335,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Industries/Smart Home](https://china-sourcing-agents.com/es/industries/smart-home/)
 - [Industries/Wearables](https://china-sourcing-agents.com/es/industries/wearables/)
 
-### Guides
+### Guías
 
 - [Guides](https://china-sourcing-agents.com/es/guides/)
 - [Guides/Alibaba Vs 1688](https://china-sourcing-agents.com/es/guides/alibaba-vs-1688/)
@@ -353,7 +353,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Blog/Alibaba Vs 1688 Vs Direct Factory](https://china-sourcing-agents.com/es/blog/alibaba-vs-1688-vs-direct-factory/)
 - [Blog/Shenzhen Electronics Market Guide](https://china-sourcing-agents.com/es/blog/shenzhen-electronics-market-guide/)
 
-### Cases
+### Casos
 
 - [Cases](https://china-sourcing-agents.com/es/cases/)
 - [Cases/Amazon Seller Iot Sensor](https://china-sourcing-agents.com/es/cases/amazon-seller-iot-sensor/)
@@ -362,7 +362,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Cases/Jp Distributor Lora Gateway](https://china-sourcing-agents.com/es/cases/jp-distributor-lora-gateway/)
 - [Cases/Us Startup Smart Watch](https://china-sourcing-agents.com/es/cases/us-startup-smart-watch/)
 
-### Alternatives
+### Alternativas
 
 - [Alternatives](https://china-sourcing-agents.com/es/alternatives/)
 - [Alternatives/Flexport Alternatives](https://china-sourcing-agents.com/es/alternatives/flexport-alternatives/)
@@ -432,11 +432,11 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 
 ## Français
 
-### Home
+### Accueil
 
-- [Home](https://china-sourcing-agents.com/fr/)
+- [Accueil](https://china-sourcing-agents.com/fr/)
 
-### Home & Company
+### Accueil & Entreprise
 
 - [About](https://china-sourcing-agents.com/fr/about/)
 - [Contact](https://china-sourcing-agents.com/fr/contact/)
@@ -486,7 +486,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Blog/Alibaba Vs 1688 Vs Direct Factory](https://china-sourcing-agents.com/fr/blog/alibaba-vs-1688-vs-direct-factory/)
 - [Blog/Shenzhen Electronics Market Guide](https://china-sourcing-agents.com/fr/blog/shenzhen-electronics-market-guide/)
 
-### Cases
+### Cas
 
 - [Cases](https://china-sourcing-agents.com/fr/cases/)
 - [Cases/Amazon Seller Iot Sensor](https://china-sourcing-agents.com/fr/cases/amazon-seller-iot-sensor/)
@@ -569,7 +569,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 
 - [Home](https://china-sourcing-agents.com/it/)
 
-### Home & Company
+### Home & Azienda
 
 - [About](https://china-sourcing-agents.com/it/about/)
 - [Contact](https://china-sourcing-agents.com/it/contact/)
@@ -580,7 +580,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Search](https://china-sourcing-agents.com/it/search/)
 - [Terms](https://china-sourcing-agents.com/it/terms/)
 
-### Services
+### Servizi
 
 - [Services](https://china-sourcing-agents.com/it/services/)
 - [Services/Audit](https://china-sourcing-agents.com/it/services/audit/)
@@ -589,7 +589,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Services/Private Label](https://china-sourcing-agents.com/it/services/private-label/)
 - [Services/Sourcing](https://china-sourcing-agents.com/it/services/sourcing/)
 
-### Industries
+### Industrie
 
 - [Industries](https://china-sourcing-agents.com/it/industries/)
 - [Industries/Automotive Electronics](https://china-sourcing-agents.com/it/industries/automotive-electronics/)
@@ -601,7 +601,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Industries/Smart Home](https://china-sourcing-agents.com/it/industries/smart-home/)
 - [Industries/Wearables](https://china-sourcing-agents.com/it/industries/wearables/)
 
-### Guides
+### Guide
 
 - [Guides](https://china-sourcing-agents.com/it/guides/)
 - [Guides/Alibaba Vs 1688](https://china-sourcing-agents.com/it/guides/alibaba-vs-1688/)
@@ -619,7 +619,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Blog/Alibaba Vs 1688 Vs Direct Factory](https://china-sourcing-agents.com/it/blog/alibaba-vs-1688-vs-direct-factory/)
 - [Blog/Shenzhen Electronics Market Guide](https://china-sourcing-agents.com/it/blog/shenzhen-electronics-market-guide/)
 
-### Cases
+### Casi
 
 - [Cases](https://china-sourcing-agents.com/it/cases/)
 - [Cases/Amazon Seller Iot Sensor](https://china-sourcing-agents.com/it/cases/amazon-seller-iot-sensor/)
@@ -628,7 +628,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Cases/Jp Distributor Lora Gateway](https://china-sourcing-agents.com/it/cases/jp-distributor-lora-gateway/)
 - [Cases/Us Startup Smart Watch](https://china-sourcing-agents.com/it/cases/us-startup-smart-watch/)
 
-### Alternatives
+### Alternative
 
 - [Alternatives](https://china-sourcing-agents.com/it/alternatives/)
 - [Alternatives/Flexport Alternatives](https://china-sourcing-agents.com/it/alternatives/flexport-alternatives/)
@@ -698,11 +698,11 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 
 ## 日本語
 
-### Home
+### ホーム
 
-- [Home](https://china-sourcing-agents.com/ja/)
+- [ホーム](https://china-sourcing-agents.com/ja/)
 
-### Home & Company
+### ホーム & 会社概要
 
 - [About](https://china-sourcing-agents.com/ja/about/)
 - [Contact](https://china-sourcing-agents.com/ja/contact/)
@@ -713,7 +713,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Search](https://china-sourcing-agents.com/ja/search/)
 - [Terms](https://china-sourcing-agents.com/ja/terms/)
 
-### Services
+### サービス
 
 - [Services](https://china-sourcing-agents.com/ja/services/)
 - [Services/Audit](https://china-sourcing-agents.com/ja/services/audit/)
@@ -722,7 +722,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Services/Private Label](https://china-sourcing-agents.com/ja/services/private-label/)
 - [Services/Sourcing](https://china-sourcing-agents.com/ja/services/sourcing/)
 
-### Industries
+### 業界
 
 - [Industries](https://china-sourcing-agents.com/ja/industries/)
 - [Industries/Automotive Electronics](https://china-sourcing-agents.com/ja/industries/automotive-electronics/)
@@ -734,7 +734,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Industries/Smart Home](https://china-sourcing-agents.com/ja/industries/smart-home/)
 - [Industries/Wearables](https://china-sourcing-agents.com/ja/industries/wearables/)
 
-### Guides
+### ガイド
 
 - [Guides](https://china-sourcing-agents.com/ja/guides/)
 - [Guides/Alibaba Vs 1688](https://china-sourcing-agents.com/ja/guides/alibaba-vs-1688/)
@@ -746,13 +746,13 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Guides/Pcb Assembly China](https://china-sourcing-agents.com/ja/guides/pcb-assembly-china/)
 - [Guides/Wearable Manufacturing China](https://china-sourcing-agents.com/ja/guides/wearable-manufacturing-china/)
 
-### Blog
+### ブログ
 
 - [Blog](https://china-sourcing-agents.com/ja/blog/)
 - [Blog/Alibaba Vs 1688 Vs Direct Factory](https://china-sourcing-agents.com/ja/blog/alibaba-vs-1688-vs-direct-factory/)
 - [Blog/Shenzhen Electronics Market Guide](https://china-sourcing-agents.com/ja/blog/shenzhen-electronics-market-guide/)
 
-### Cases
+### 事例
 
 - [Cases](https://china-sourcing-agents.com/ja/cases/)
 - [Cases/Amazon Seller Iot Sensor](https://china-sourcing-agents.com/ja/cases/amazon-seller-iot-sensor/)
@@ -761,7 +761,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Cases/Jp Distributor Lora Gateway](https://china-sourcing-agents.com/ja/cases/jp-distributor-lora-gateway/)
 - [Cases/Us Startup Smart Watch](https://china-sourcing-agents.com/ja/cases/us-startup-smart-watch/)
 
-### Alternatives
+### 代替案
 
 - [Alternatives](https://china-sourcing-agents.com/ja/alternatives/)
 - [Alternatives/Flexport Alternatives](https://china-sourcing-agents.com/ja/alternatives/flexport-alternatives/)
@@ -831,11 +831,11 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 
 ## 한국어
 
-### Home
+### 홈
 
-- [Home](https://china-sourcing-agents.com/ko/)
+- [홈](https://china-sourcing-agents.com/ko/)
 
-### Home & Company
+### 홈 & 회사
 
 - [About](https://china-sourcing-agents.com/ko/about/)
 - [Contact](https://china-sourcing-agents.com/ko/contact/)
@@ -846,7 +846,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Search](https://china-sourcing-agents.com/ko/search/)
 - [Terms](https://china-sourcing-agents.com/ko/terms/)
 
-### Services
+### 서비스
 
 - [Services](https://china-sourcing-agents.com/ko/services/)
 - [Services/Audit](https://china-sourcing-agents.com/ko/services/audit/)
@@ -855,7 +855,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Services/Private Label](https://china-sourcing-agents.com/ko/services/private-label/)
 - [Services/Sourcing](https://china-sourcing-agents.com/ko/services/sourcing/)
 
-### Industries
+### 산업
 
 - [Industries](https://china-sourcing-agents.com/ko/industries/)
 - [Industries/Automotive Electronics](https://china-sourcing-agents.com/ko/industries/automotive-electronics/)
@@ -867,7 +867,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Industries/Smart Home](https://china-sourcing-agents.com/ko/industries/smart-home/)
 - [Industries/Wearables](https://china-sourcing-agents.com/ko/industries/wearables/)
 
-### Guides
+### 가이드
 
 - [Guides](https://china-sourcing-agents.com/ko/guides/)
 - [Guides/Alibaba Vs 1688](https://china-sourcing-agents.com/ko/guides/alibaba-vs-1688/)
@@ -879,13 +879,13 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Guides/Pcb Assembly China](https://china-sourcing-agents.com/ko/guides/pcb-assembly-china/)
 - [Guides/Wearable Manufacturing China](https://china-sourcing-agents.com/ko/guides/wearable-manufacturing-china/)
 
-### Blog
+### 블로그
 
 - [Blog](https://china-sourcing-agents.com/ko/blog/)
 - [Blog/Alibaba Vs 1688 Vs Direct Factory](https://china-sourcing-agents.com/ko/blog/alibaba-vs-1688-vs-direct-factory/)
 - [Blog/Shenzhen Electronics Market Guide](https://china-sourcing-agents.com/ko/blog/shenzhen-electronics-market-guide/)
 
-### Cases
+### 사례
 
 - [Cases](https://china-sourcing-agents.com/ko/cases/)
 - [Cases/Amazon Seller Iot Sensor](https://china-sourcing-agents.com/ko/cases/amazon-seller-iot-sensor/)
@@ -894,13 +894,13 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Cases/Jp Distributor Lora Gateway](https://china-sourcing-agents.com/ko/cases/jp-distributor-lora-gateway/)
 - [Cases/Us Startup Smart Watch](https://china-sourcing-agents.com/ko/cases/us-startup-smart-watch/)
 
-### Alternatives
+### 대안
 
 - [Alternatives](https://china-sourcing-agents.com/ko/alternatives/)
 - [Alternatives/Flexport Alternatives](https://china-sourcing-agents.com/ko/alternatives/flexport-alternatives/)
 - [Alternatives/Sourcify Vs China Sourcing Agent](https://china-sourcing-agents.com/ko/alternatives/sourcify-vs-china-sourcing-agent/)
 
-### Wiki
+### 위키
 
 - [Wiki](https://china-sourcing-agents.com/ko/wiki/)
 - [Wiki/Adas 77Ghz Radar](https://china-sourcing-agents.com/ko/wiki/adas-77ghz-radar/)
@@ -968,7 +968,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 
 - [Home](https://china-sourcing-agents.com/nl/)
 
-### Home & Company
+### Home & Bedrijf
 
 - [About](https://china-sourcing-agents.com/nl/about/)
 - [Contact](https://china-sourcing-agents.com/nl/contact/)
@@ -979,7 +979,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Search](https://china-sourcing-agents.com/nl/search/)
 - [Terms](https://china-sourcing-agents.com/nl/terms/)
 
-### Services
+### Diensten
 
 - [Services](https://china-sourcing-agents.com/nl/services/)
 - [Services/Audit](https://china-sourcing-agents.com/nl/services/audit/)
@@ -988,7 +988,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Services/Private Label](https://china-sourcing-agents.com/nl/services/private-label/)
 - [Services/Sourcing](https://china-sourcing-agents.com/nl/services/sourcing/)
 
-### Industries
+### Industrieën
 
 - [Industries](https://china-sourcing-agents.com/nl/industries/)
 - [Industries/Automotive Electronics](https://china-sourcing-agents.com/nl/industries/automotive-electronics/)
@@ -1000,7 +1000,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Industries/Smart Home](https://china-sourcing-agents.com/nl/industries/smart-home/)
 - [Industries/Wearables](https://china-sourcing-agents.com/nl/industries/wearables/)
 
-### Guides
+### Gidsen
 
 - [Guides](https://china-sourcing-agents.com/nl/guides/)
 - [Guides/Alibaba Vs 1688](https://china-sourcing-agents.com/nl/guides/alibaba-vs-1688/)
@@ -1027,7 +1027,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Cases/Jp Distributor Lora Gateway](https://china-sourcing-agents.com/nl/cases/jp-distributor-lora-gateway/)
 - [Cases/Us Startup Smart Watch](https://china-sourcing-agents.com/nl/cases/us-startup-smart-watch/)
 
-### Alternatives
+### Alternatieven
 
 - [Alternatives](https://china-sourcing-agents.com/nl/alternatives/)
 - [Alternatives/Flexport Alternatives](https://china-sourcing-agents.com/nl/alternatives/flexport-alternatives/)
@@ -1097,11 +1097,11 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 
 ## Polski
 
-### Home
+### Strona główna
 
-- [Home](https://china-sourcing-agents.com/pl/)
+- [Strona główna](https://china-sourcing-agents.com/pl/)
 
-### Home & Company
+### Strona główna & Firma
 
 - [About](https://china-sourcing-agents.com/pl/about/)
 - [Contact](https://china-sourcing-agents.com/pl/contact/)
@@ -1112,7 +1112,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Search](https://china-sourcing-agents.com/pl/search/)
 - [Terms](https://china-sourcing-agents.com/pl/terms/)
 
-### Services
+### Usługi
 
 - [Services](https://china-sourcing-agents.com/pl/services/)
 - [Services/Audit](https://china-sourcing-agents.com/pl/services/audit/)
@@ -1121,7 +1121,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Services/Private Label](https://china-sourcing-agents.com/pl/services/private-label/)
 - [Services/Sourcing](https://china-sourcing-agents.com/pl/services/sourcing/)
 
-### Industries
+### Branże
 
 - [Industries](https://china-sourcing-agents.com/pl/industries/)
 - [Industries/Automotive Electronics](https://china-sourcing-agents.com/pl/industries/automotive-electronics/)
@@ -1133,7 +1133,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Industries/Smart Home](https://china-sourcing-agents.com/pl/industries/smart-home/)
 - [Industries/Wearables](https://china-sourcing-agents.com/pl/industries/wearables/)
 
-### Guides
+### Przewodniki
 
 - [Guides](https://china-sourcing-agents.com/pl/guides/)
 - [Guides/Alibaba Vs 1688](https://china-sourcing-agents.com/pl/guides/alibaba-vs-1688/)
@@ -1151,7 +1151,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Blog/Alibaba Vs 1688 Vs Direct Factory](https://china-sourcing-agents.com/pl/blog/alibaba-vs-1688-vs-direct-factory/)
 - [Blog/Shenzhen Electronics Market Guide](https://china-sourcing-agents.com/pl/blog/shenzhen-electronics-market-guide/)
 
-### Cases
+### Case studies
 
 - [Cases](https://china-sourcing-agents.com/pl/cases/)
 - [Cases/Amazon Seller Iot Sensor](https://china-sourcing-agents.com/pl/cases/amazon-seller-iot-sensor/)
@@ -1160,7 +1160,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Cases/Jp Distributor Lora Gateway](https://china-sourcing-agents.com/pl/cases/jp-distributor-lora-gateway/)
 - [Cases/Us Startup Smart Watch](https://china-sourcing-agents.com/pl/cases/us-startup-smart-watch/)
 
-### Alternatives
+### Alternatywy
 
 - [Alternatives](https://china-sourcing-agents.com/pl/alternatives/)
 - [Alternatives/Flexport Alternatives](https://china-sourcing-agents.com/pl/alternatives/flexport-alternatives/)
@@ -1230,11 +1230,11 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 
 ## Português
 
-### Home
+### Início
 
-- [Home](https://china-sourcing-agents.com/pt/)
+- [Início](https://china-sourcing-agents.com/pt/)
 
-### Home & Company
+### Início & Empresa
 
 - [About](https://china-sourcing-agents.com/pt/about/)
 - [Contact](https://china-sourcing-agents.com/pt/contact/)
@@ -1245,7 +1245,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Search](https://china-sourcing-agents.com/pt/search/)
 - [Terms](https://china-sourcing-agents.com/pt/terms/)
 
-### Services
+### Serviços
 
 - [Services](https://china-sourcing-agents.com/pt/services/)
 - [Services/Audit](https://china-sourcing-agents.com/pt/services/audit/)
@@ -1254,7 +1254,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Services/Private Label](https://china-sourcing-agents.com/pt/services/private-label/)
 - [Services/Sourcing](https://china-sourcing-agents.com/pt/services/sourcing/)
 
-### Industries
+### Indústrias
 
 - [Industries](https://china-sourcing-agents.com/pt/industries/)
 - [Industries/Automotive Electronics](https://china-sourcing-agents.com/pt/industries/automotive-electronics/)
@@ -1266,7 +1266,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Industries/Smart Home](https://china-sourcing-agents.com/pt/industries/smart-home/)
 - [Industries/Wearables](https://china-sourcing-agents.com/pt/industries/wearables/)
 
-### Guides
+### Guias
 
 - [Guides](https://china-sourcing-agents.com/pt/guides/)
 - [Guides/Alibaba Vs 1688](https://china-sourcing-agents.com/pt/guides/alibaba-vs-1688/)
@@ -1284,7 +1284,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Blog/Alibaba Vs 1688 Vs Direct Factory](https://china-sourcing-agents.com/pt/blog/alibaba-vs-1688-vs-direct-factory/)
 - [Blog/Shenzhen Electronics Market Guide](https://china-sourcing-agents.com/pt/blog/shenzhen-electronics-market-guide/)
 
-### Cases
+### Casos
 
 - [Cases](https://china-sourcing-agents.com/pt/cases/)
 - [Cases/Amazon Seller Iot Sensor](https://china-sourcing-agents.com/pt/cases/amazon-seller-iot-sensor/)
@@ -1293,7 +1293,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Cases/Jp Distributor Lora Gateway](https://china-sourcing-agents.com/pt/cases/jp-distributor-lora-gateway/)
 - [Cases/Us Startup Smart Watch](https://china-sourcing-agents.com/pt/cases/us-startup-smart-watch/)
 
-### Alternatives
+### Alternativas
 
 - [Alternatives](https://china-sourcing-agents.com/pt/alternatives/)
 - [Alternatives/Flexport Alternatives](https://china-sourcing-agents.com/pt/alternatives/flexport-alternatives/)
@@ -1363,11 +1363,11 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 
 ## Русский
 
-### Home
+### Главная
 
-- [Home](https://china-sourcing-agents.com/ru/)
+- [Главная](https://china-sourcing-agents.com/ru/)
 
-### Home & Company
+### Главная & Компания
 
 - [About](https://china-sourcing-agents.com/ru/about/)
 - [Contact](https://china-sourcing-agents.com/ru/contact/)
@@ -1378,7 +1378,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Search](https://china-sourcing-agents.com/ru/search/)
 - [Terms](https://china-sourcing-agents.com/ru/terms/)
 
-### Services
+### Услуги
 
 - [Services](https://china-sourcing-agents.com/ru/services/)
 - [Services/Audit](https://china-sourcing-agents.com/ru/services/audit/)
@@ -1387,7 +1387,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Services/Private Label](https://china-sourcing-agents.com/ru/services/private-label/)
 - [Services/Sourcing](https://china-sourcing-agents.com/ru/services/sourcing/)
 
-### Industries
+### Отрасли
 
 - [Industries](https://china-sourcing-agents.com/ru/industries/)
 - [Industries/Automotive Electronics](https://china-sourcing-agents.com/ru/industries/automotive-electronics/)
@@ -1399,7 +1399,7 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Industries/Smart Home](https://china-sourcing-agents.com/ru/industries/smart-home/)
 - [Industries/Wearables](https://china-sourcing-agents.com/ru/industries/wearables/)
 
-### Guides
+### Руководства
 
 - [Guides](https://china-sourcing-agents.com/ru/guides/)
 - [Guides/Alibaba Vs 1688](https://china-sourcing-agents.com/ru/guides/alibaba-vs-1688/)
@@ -1411,13 +1411,13 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Guides/Pcb Assembly China](https://china-sourcing-agents.com/ru/guides/pcb-assembly-china/)
 - [Guides/Wearable Manufacturing China](https://china-sourcing-agents.com/ru/guides/wearable-manufacturing-china/)
 
-### Blog
+### Блог
 
 - [Blog](https://china-sourcing-agents.com/ru/blog/)
 - [Blog/Alibaba Vs 1688 Vs Direct Factory](https://china-sourcing-agents.com/ru/blog/alibaba-vs-1688-vs-direct-factory/)
 - [Blog/Shenzhen Electronics Market Guide](https://china-sourcing-agents.com/ru/blog/shenzhen-electronics-market-guide/)
 
-### Cases
+### Кейсы
 
 - [Cases](https://china-sourcing-agents.com/ru/cases/)
 - [Cases/Amazon Seller Iot Sensor](https://china-sourcing-agents.com/ru/cases/amazon-seller-iot-sensor/)
@@ -1426,13 +1426,13 @@ A complete index of all pages on [china-sourcing-agents.com](https://china-sourc
 - [Cases/Jp Distributor Lora Gateway](https://china-sourcing-agents.com/ru/cases/jp-distributor-lora-gateway/)
 - [Cases/Us Startup Smart Watch](https://china-sourcing-agents.com/ru/cases/us-startup-smart-watch/)
 
-### Alternatives
+### Альтернативы
 
 - [Alternatives](https://china-sourcing-agents.com/ru/alternatives/)
 - [Alternatives/Flexport Alternatives](https://china-sourcing-agents.com/ru/alternatives/flexport-alternatives/)
 - [Alternatives/Sourcify Vs China Sourcing Agent](https://china-sourcing-agents.com/ru/alternatives/sourcify-vs-china-sourcing-agent/)
 
-### Wiki
+### Вики
 
 - [Wiki](https://china-sourcing-agents.com/ru/wiki/)
 - [Wiki/Adas 77Ghz Radar](https://china-sourcing-agents.com/ru/wiki/adas-77ghz-radar/)

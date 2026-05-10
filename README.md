@@ -25,18 +25,18 @@ Written by hardware engineers who have been on both sides of the transaction.
 
 All 5 articles are available in 11 languages:
 
-| Language | Directory |
+| Language | Main Site |
 |----------|-----------|
-| 🇩🇪 Deutsch | [articles/de/](articles/de/) |
-| 🇪🇸 Español | [articles/es/](articles/es/) |
-| 🇫🇷 Français | [articles/fr/](articles/fr/) |
-| 🇮🇹 Italiano | [articles/it/](articles/it/) |
-| 🇯🇵 日本語 | [articles/ja/](articles/ja/) |
-| 🇰🇷 한국어 | [articles/ko/](articles/ko/) |
-| 🇳🇱 Nederlands | [articles/nl/](articles/nl/) |
-| 🇵🇱 Polski | [articles/pl/](articles/pl/) |
-| 🇧🇷 Português | [articles/pt/](articles/pt/) |
-| 🇷🇺 Русский | [articles/ru/](articles/ru/) |
+| 🇩🇪 Deutsch | [china-sourcing-agents.com/de/guides/](https://china-sourcing-agents.com/de/guides/) |
+| 🇪🇸 Español | [china-sourcing-agents.com/es/guides/](https://china-sourcing-agents.com/es/guides/) |
+| 🇫🇷 Français | [china-sourcing-agents.com/fr/guides/](https://china-sourcing-agents.com/fr/guides/) |
+| 🇮🇹 Italiano | [china-sourcing-agents.com/it/guides/](https://china-sourcing-agents.com/it/guides/) |
+| 🇯🇵 日本語 | [china-sourcing-agents.com/ja/guides/](https://china-sourcing-agents.com/ja/guides/) |
+| 🇰🇷 한국어 | [china-sourcing-agents.com/ko/guides/](https://china-sourcing-agents.com/ko/guides/) |
+| 🇳🇱 Nederlands | [china-sourcing-agents.com/nl/guides/](https://china-sourcing-agents.com/nl/guides/) |
+| 🇵🇱 Polski | [china-sourcing-agents.com/pl/guides/](https://china-sourcing-agents.com/pl/guides/) |
+| 🇧🇷 Português | [china-sourcing-agents.com/pt/guides/](https://china-sourcing-agents.com/pt/guides/) |
+| 🇷🇺 Русский | [china-sourcing-agents.com/ru/guides/](https://china-sourcing-agents.com/ru/guides/) |
 
 ---
 

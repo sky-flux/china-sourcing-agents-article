@@ -5,7 +5,7 @@
 Practical guides on sourcing electronics and IoT hardware from China.
 Written by hardware engineers who have been on both sides of the transaction.
 
-**Main site**: [china-sourcing-agents.com](https://china-sourcing-agents.com)
+**Main site**: [china-sourcing-agents.com](https://china-sourcing-agents.com) — [full site directory](https://sky-flux.github.io/china-sourcing-agents-article/directory)
 
 ---
 

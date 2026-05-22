@@ -1,4 +1,4 @@
-# Factory Audit Checklist: 47 Things to Verify Before Placing an Order
+# China Factory Audit Checklist
 
 > **Read the full guide with updates**: [china-sourcing-agents.com/guides/factory-audit-checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist)
 

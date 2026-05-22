@@ -1,4 +1,4 @@
-# Гид по электронному рынку Shenzhen: Huaqiangbei и для чего он реально нужен
+# Путеводитель по электронным рынкам Шэньчжэня: Хуацянбэй, Бао'ань и Лунган
 
 > **Читать полное руководство** (ru): [china-sourcing-agents.com/ru/blog/shenzhen-electronics-market-guide](https://china-sourcing-agents.com/ru/blog/shenzhen-electronics-market-guide)
 

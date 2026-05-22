@@ -1,4 +1,4 @@
-# China Payment Terms Explained: T/T, L/C, and How Not to Get Burned
+# China Payment Terms: T/T, LC, Escrow
 
 > **Read the full guide with updates**: [china-sourcing-agents.com/guides/china-payment-terms-explained](https://china-sourcing-agents.com/guides/china-payment-terms-explained)
 

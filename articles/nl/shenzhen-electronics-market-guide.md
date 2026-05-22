@@ -1,4 +1,4 @@
-# Gids Shenzhen Electronics Market: Huaqiangbei, Waar Het Echt Voor Bedoeld Is
+# Shenzhen Elektronikamarkt Gids: Huaqiangbei, Bao'an & Longgang
 
 > **Lees de volledige gids**: [china-sourcing-agents.com/nl/blog/shenzhen-electronics-market-guide](https://china-sourcing-agents.com/nl/blog/shenzhen-electronics-market-guide)
 

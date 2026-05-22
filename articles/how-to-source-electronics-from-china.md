@@ -1,4 +1,4 @@
-# How to Source Electronics from China: A Complete Guide for Hardware Startups
+# How to Source Electronics from China
 
 > **Read the full guide with updates**: [china-sourcing-agents.com/guides/how-to-source-electronics-from-china](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china)
 

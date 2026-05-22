@@ -1,4 +1,4 @@
-# Shenzhen 전자제품 시장 가이드: Huaqiangbei가 실제로 무엇을 위한 것인가
+# 선전 전자제품 시장 가이드: 화강베이, 바오안, 룽강
 
 > **전체 가이드 읽기**: [china-sourcing-agents.com/ko/blog/shenzhen-electronics-market-guide](https://china-sourcing-agents.com/ko/blog/shenzhen-electronics-market-guide)
 

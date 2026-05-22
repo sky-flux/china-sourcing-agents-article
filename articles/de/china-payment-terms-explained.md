@@ -1,4 +1,4 @@
-# China-Zahlungsbedingungen erklärt: T/T, L/C und wie Sie sich absichern
+# China-Zahlungsbedingungen: T/T, L/C, Escrow erklärt
 
 > **Read the full guide**: [china-sourcing-agents.com/de/guides/china-payment-terms-explained](https://china-sourcing-agents.com/de/guides/china-payment-terms-explained)
 

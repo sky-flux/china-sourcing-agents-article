@@ -1,4 +1,4 @@
-# Przewodnik po rynku elektroniki w Shenzhen: Huaqiangbei — do czego naprawdę służy
+# Przewodnik po rynku elektroniki w Shenzhen: Huaqiangbei, Bao'an i Longgang
 
 > **Przeczytaj pełny przewodnik** (pl): [china-sourcing-agents.com/pl/blog/shenzhen-electronics-market-guide](https://china-sourcing-agents.com/pl/blog/shenzhen-electronics-market-guide)
 

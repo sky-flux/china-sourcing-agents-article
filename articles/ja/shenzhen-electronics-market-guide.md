@@ -1,4 +1,4 @@
-# Shenzhenエレクトロニクスマーケットガイド：Huaqiangbeiの実際の用途
+# 深圳エレクトロニクス市場ガイド：華強北・宝安・龍崗
 
 > **完全なガイドを読む**: [china-sourcing-agents.com/ja/blog/shenzhen-electronics-market-guide](https://china-sourcing-agents.com/ja/blog/shenzhen-electronics-market-guide)
 

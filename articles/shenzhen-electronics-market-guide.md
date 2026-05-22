@@ -1,4 +1,4 @@
-# Shenzhen Electronics Market Guide: Huaqiangbei, What It's Actually For
+# Shenzhen Electronics Market: Huaqiangbei, Bao'an & Longgang
 
 > **Read the full guide with updates**: [china-sourcing-agents.com/blog/shenzhen-electronics-market-guide](https://china-sourcing-agents.com/blog/shenzhen-electronics-market-guide)
 

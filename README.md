@@ -1,42 +1,35 @@
-# China Sourcing Agent — Articles & Resources
+# China Sourcing Agent — Multilingual Site Directory
 
 <a href="https://china-sourcing-agents.com/"><img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/35725f85-cd3b-425c-ac25-450d0c06b4f6" /></a>
 
-Practical guides on sourcing electronics and IoT hardware from China.
-Written by hardware engineers who have been on both sides of the transaction.
+A comprehensive multilingual directory of [china-sourcing-agents.com](https://china-sourcing-agents.com/), mirroring all 2,345+ pages across 11 languages with real translated titles from the main site.
 
-**Main site**: [china-sourcing-agents.com](https://china-sourcing-agents.com) — [full site directory](https://sky-flux.github.io/china-sourcing-agents-article/directory)
-
----
-
-## Articles (English)
-
-| Title | Topics |
-|-------|--------|
-| [How to Source Electronics from China](articles/how-to-source-electronics-from-china.md) | Supplier search, RFQ, factory selection |
-| [Factory Audit Checklist: 47 Items](articles/factory-audit-checklist.md) | On-site audit, quality systems, equipment |
-| [China Payment Terms Explained](articles/china-payment-terms-explained.md) | T/T, L/C, escrow, risk management |
-| [Alibaba vs 1688 vs Direct Factory](articles/alibaba-vs-1688-vs-direct-factory.md) | Platform comparison, sourcing strategy |
-| [Shenzhen Electronics Market Guide](articles/shenzhen-electronics-market-guide.md) | Huaqiangbei, component sourcing, districts |
+**Live directory**: [sky-flux.github.io/china-sourcing-agents-article/directory](https://sky-flux.github.io/china-sourcing-agents-article/directory)
 
 ---
 
-## Translations
+## Coverage
 
-All 5 articles are available in 11 languages:
+| Section | Pages (×11 languages) |
+|---------|----------------------|
+| Blog | 16 articles |
+| Guides | 23 guides |
+| Wiki | 50 technical references |
+| Products | 32 categories, 90+ product pages |
+| Cities | 71 city pages |
+| Cases | 5 case studies |
+| Alternatives | 4 comparison pages |
+| Services | 5 service pages |
+| Industries | 8 industry pages |
+| Authors | 1 author |
+| Tags | 200+ taxonomy tags |
+| Home & Company | About, Contact, FAQ, Pricing, Privacy, Terms |
 
-| Language | Main Site |
-|----------|-----------|
-| 🇩🇪 Deutsch | [china-sourcing-agents.com/de/guides/](https://china-sourcing-agents.com/de/guides/) |
-| 🇪🇸 Español | [china-sourcing-agents.com/es/guides/](https://china-sourcing-agents.com/es/guides/) |
-| 🇫🇷 Français | [china-sourcing-agents.com/fr/guides/](https://china-sourcing-agents.com/fr/guides/) |
-| 🇮🇹 Italiano | [china-sourcing-agents.com/it/guides/](https://china-sourcing-agents.com/it/guides/) |
-| 🇯🇵 日本語 | [china-sourcing-agents.com/ja/guides/](https://china-sourcing-agents.com/ja/guides/) |
-| 🇰🇷 한국어 | [china-sourcing-agents.com/ko/guides/](https://china-sourcing-agents.com/ko/guides/) |
-| 🇳🇱 Nederlands | [china-sourcing-agents.com/nl/guides/](https://china-sourcing-agents.com/nl/guides/) |
-| 🇵🇱 Polski | [china-sourcing-agents.com/pl/guides/](https://china-sourcing-agents.com/pl/guides/) |
-| 🇧🇷 Português | [china-sourcing-agents.com/pt/guides/](https://china-sourcing-agents.com/pt/guides/) |
-| 🇷🇺 Русский | [china-sourcing-agents.com/ru/guides/](https://china-sourcing-agents.com/ru/guides/) |
+---
+
+## Languages
+
+🇬🇧 English · 🇩🇪 Deutsch · 🇪🇸 Español · 🇫🇷 Français · 🇮🇹 Italiano · 🇯🇵 日本語 · 🇰🇷 한국어 · 🇳🇱 Nederlands · 🇵🇱 Polski · 🇵🇹 Português · 🇷🇺 Русский
 
 ---
 

@@ -77,7 +77,27 @@ description: "Join our Telegram channel for daily China sourcing tips, supplier 
   </div>
 </div>
 
-<div class="tg-feed-label">All Posts (25 total)</div>
+<div class="tg-feed-label">All Posts (30 total)</div>
+
+<div class="tg-post">
+<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-post="china_wholesale_b2b/30" data-width="100%" data-userpic="false" data-color="229ED9" data-dark-color="229ED9"></script>
+</div>
+
+<div class="tg-post">
+<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-post="china_wholesale_b2b/29" data-width="100%" data-userpic="false" data-color="229ED9" data-dark-color="229ED9"></script>
+</div>
+
+<div class="tg-post">
+<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-post="china_wholesale_b2b/28" data-width="100%" data-userpic="false" data-color="229ED9" data-dark-color="229ED9"></script>
+</div>
+
+<div class="tg-post">
+<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-post="china_wholesale_b2b/27" data-width="100%" data-userpic="false" data-color="229ED9" data-dark-color="229ED9"></script>
+</div>
+
+<div class="tg-post">
+<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-post="china_wholesale_b2b/26" data-width="100%" data-userpic="false" data-color="229ED9" data-dark-color="229ED9"></script>
+</div>
 
 <div class="tg-post">
 <script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-post="china_wholesale_b2b/25" data-width="100%" data-userpic="false" data-color="229ED9" data-dark-color="229ED9"></script>

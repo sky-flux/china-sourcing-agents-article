@@ -1,0 +1,32 @@
+# Zigbee 3.0 Module (CC2652 / EFR32)
+
+> **Read the full guide**: [https://china-sourcing-agents.com/products/zigbee-module/](https://china-sourcing-agents.com/products/zigbee-module/)
+
+Zigbee 3.0 module on TI CC2652 or Silicon Labs EFR32. Matter-over-Thread path. OEM from 1,000 units for smart home, building automation, and IoT.
+
+---
+
+The Connectivity Standards Alliance (CSA, formerly Zigbee Alliance) requires that any product using "Zigbee" in its product name, marketing, or packaging must hold a Zigbee Alliance product certification. This is a per-product certification (not a chip or module certification) and requires testing at a CSA-authorized test house. When sourcing Zigbee modules for smart home products, CSA certification is the first qualification gate.
+
+**Cost and timeline:** CSA certification testing typically costs $3,000–8,000 USD at a third-party test lab and takes 4–8 weeks. Factories offering "Zigbee 3.0 modules" without a CSA-issued certification number are selling 802.15.4 compatible hardware, not certified Zigbee products. A factory audit should verify the CSA certification number against the Alliance's online database.
+
+If your product uses Zigbee for its connectivity but does not market it using the Zigbee brand name, you may be able to avoid the full certification. However, interoperability with certified hubs (Amazon Echo, Samsung SmartThings, Philips Hue) often requires the Zigbee Alliance profile compliance anyway — the certification process validates this.
+
+---
+
+## What this covers
+
+- Zigbee Alliance Certification: Mandatory for the Trademark
+- CC2652 vs. EFR32: Ecosystem Comparison
+- Matter / Thread Migration Path
+- Common Issues
+
+---
+
+## Further reading
+
+- [sourcing Zigbee modules](https://china-sourcing-agents.com/industries/iot-modules/)
+- [smart home](https://china-sourcing-agents.com/industries/smart-home/)
+- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/zigbee-module/)
+

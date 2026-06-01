@@ -1,0 +1,29 @@
+# Power Electronics Sourcing China — GaN Chargers, BMS & EV
+
+> **Read the full guide**: [https://china-sourcing-agents.com/industries/power-electronics/](https://china-sourcing-agents.com/industries/power-electronics/)
+
+Source GaN chargers, power banks, BMS units, and EV accessories from China with certification management for US, EU, UK, Japan, and Korea.
+
+---
+
+Power electronics covers devices that convert, store, or manage electrical power — GaN chargers, power banks, battery management systems (BMS), DC-DC converters, EV charging accessories, and solar inverters — sourced from China for global markets. It is one of the most compliance-intensive categories in China sourcing: a charger pulled from an Amazon listing for a certification failure costs 5–10× more than getting compliance right upfront. Our engineering background means we can read actual test reports — not just check that a document exists. Our sourcing service covers the full process from factory shortlist to verified, audit-backed quote.
+
+---
+
+## What this covers
+
+- What power electronics products can you source from China?
+- What are the main risks when sourcing power electronics from China?
+- Amazon Compliance for Charging Products
+- Multi-Market Certification: Realistic Timelines and Costs
+- DOE Level VI Efficiency Requirements
+
+---
+
+## Further reading
+
+- [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
+- [LiFePO4 battery packs](https://china-sourcing-agents.com/products/power-electronics/lifepo4-battery/)
+- [Solar inverters](https://china-sourcing-agents.com/products/power-electronics/solar-inverter/)
+- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/industries/power-electronics/)
+

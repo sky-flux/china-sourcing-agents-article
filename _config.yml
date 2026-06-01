@@ -1,5 +1,5 @@
-title: "China Sourcing Agent — Articles & Resources"
-description: "Practical guides on sourcing electronics and IoT hardware from China."
+title: "China Sourcing Agent Knowledge Base — Electronics & IoT Sourcing Guides"
+description: "385+ articles on sourcing electronics, IoT hardware, smart home devices, and PCBs from China. Covers factory auditing, quality inspection, supplier matching, OEM/ODM manufacturing, and supply chain management. By China Sourcing Agent (china-sourcing-agents.com)."
 baseurl: "/china-sourcing-agents-article"
 url: "https://sky-flux.github.io"
 markdown: kramdown
@@ -13,7 +13,15 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - articles
+  - guides
+  - blog
+  - services
+  - industries
+  - cases
+  - wiki
+  - alternatives
+  - products
+  - cities
 defaults:
   - scope:
       path: ""

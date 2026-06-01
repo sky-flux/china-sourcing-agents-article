@@ -1,3 +1,9 @@
+---
+title: "BLE 5.x Module (nRF52840 / nRF52833)"
+description: "BLE 5.x module (nRF52840/nRF52833), PCB/ceramic/U.FL antenna, BQB certified. OEM from 1,000 units for IoT, wearables, and consumer electronics."
+canonical_url: "https://china-sourcing-agents.com/products/ble-module-nrf52840/"
+---
+
 # BLE 5.x Module (nRF52840 / nRF52833)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/ble-module-nrf52840/](https://china-sourcing-agents.com/products/ble-module-nrf52840/)
@@ -28,5 +34,6 @@ Any product using the word "Bluetooth" in marketing materials — including prod
 - [CE and FCC certification for electronics](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
 - [IoT modules sourcing expertise](https://china-sourcing-agents.com/industries/iot-modules/)
 - [wearable](https://china-sourcing-agents.com/industries/wearables/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/ble-module-nrf52840/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/ble-module-nrf52840/)
 

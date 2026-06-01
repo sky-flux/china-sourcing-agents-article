@@ -1,3 +1,9 @@
+---
+title: "SAE J1939 Protocol Modules and Gateways: Sourcing from China"
+description: "SAE J1939 modules and CAN-to-MQTT gateways from China: PGN/SPN structure, 250/500 kbps variants, 29-bit frame, connector pinout, and vendor vetting."
+canonical_url: "https://china-sourcing-agents.com/wiki/j1939-protocol/"
+---
+
 # SAE J1939 Protocol Modules and Gateways: Sourcing from China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/j1939-protocol/](https://china-sourcing-agents.com/wiki/j1939-protocol/)
@@ -30,5 +36,6 @@ J1939 is **not** a replacement for OBD-II in passenger cars. It is a separate ec
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/j1939-protocol/)
+- [CAN Bus Modules Reference](https://china-sourcing-agents.com/wiki/can-bus-modules/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/j1939-protocol/)
 

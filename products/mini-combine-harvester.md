@@ -1,3 +1,9 @@
+---
+title: "Mini Combine Harvester for Rice & Wheat"
+description: "Mini combine harvester from China: 60–120HP diesel, axial-flow threshing, 1.5–2.5m cut width. CE compliant. For rice, wheat, and soybean."
+canonical_url: "https://china-sourcing-agents.com/products/mini-combine-harvester/"
+---
+
 # Mini Combine Harvester for Rice & Wheat
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/mini-combine-harvester/](https://china-sourcing-agents.com/products/mini-combine-harvester/)
@@ -26,5 +32,5 @@ The threshing system determines crop compatibility, grain loss rate, and mainten
 ## Further reading
 
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/mini-combine-harvester/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/mini-combine-harvester/)
 

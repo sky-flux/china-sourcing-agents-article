@@ -1,3 +1,9 @@
+---
+title: "China Private Label & OEM — Electronics Manufacturing"
+description: "Your brand, your packaging, your specs — manufactured in China. We manage molds, packaging design, logo application, and regulatory marking."
+canonical_url: "https://china-sourcing-agents.com/services/private-label/"
+---
+
 # China Private Label & OEM — Electronics Manufacturing
 
 > **Read the full guide**: [https://china-sourcing-agents.com/services/private-label/](https://china-sourcing-agents.com/services/private-label/)
@@ -29,5 +35,6 @@ We manage that entire process end-to-end.
 - [overview of private label electronics manufacturing in China](https://china-sourcing-agents.com/blog/private-label-electronics-china-guide/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/services/private-label/)
+- [Amazon seller project](https://china-sourcing-agents.com/cases/amazon-seller-iot-sensor/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/services/private-label/)
 

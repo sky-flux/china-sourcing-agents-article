@@ -1,3 +1,9 @@
+---
+title: "MIPI CSI/DSI Camera & Display FPC Connectors"
+description: "MIPI CSI-2 and DSI FPC connectors from China: pin counts, ZIF types, lane configs, signal integrity limits, and non-standard Chinese pinout risks."
+canonical_url: "https://china-sourcing-agents.com/wiki/mipi-camera-fpc-connectors/"
+---
+
 # MIPI CSI/DSI Camera & Display FPC Connectors
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/mipi-camera-fpc-connectors/](https://china-sourcing-agents.com/wiki/mipi-camera-fpc-connectors/)
@@ -29,5 +35,6 @@ The connector itself is a ZIF (Zero Insertion Force) surface-mount FPC connector
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/mipi-camera-fpc-connectors/)
+- [FPC & FFC Connectors](https://china-sourcing-agents.com/wiki/fpc-ffc-connectors/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/mipi-camera-fpc-connectors/)
 

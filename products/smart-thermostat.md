@@ -1,3 +1,9 @@
+---
+title: "Smart Thermostat (Matter / Zigbee / Z-Wave OEM)"
+description: "OEM smart thermostat from China. Matter 1.2 / Thread/WiFi, Zigbee 3.0, Z-Wave 800. 24V US and 230V EU wiring. CE, FCC, CSA certified."
+canonical_url: "https://china-sourcing-agents.com/products/smart-thermostat/"
+---
+
 # Smart Thermostat (Matter / Zigbee / Z-Wave OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/smart-thermostat/](https://china-sourcing-agents.com/products/smart-thermostat/)
@@ -28,5 +34,6 @@ Protocol selection locks in your chipset, your certification scope, and which fa
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/smart-thermostat/)
+- [smart home industry page](https://china-sourcing-agents.com/industries/smart-home/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/smart-thermostat/)
 

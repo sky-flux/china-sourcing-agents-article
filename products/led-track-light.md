@@ -1,3 +1,9 @@
+---
+title: "LED Track Light (15W–50W OEM, H / J / L Rail)"
+description: "LED track lights from China. 15W–50W, CRI90+, 15°–60° beam angle. H/J/L-type rail compatible. CE, UL 1574, RoHS. Retail, gallery, office use."
+canonical_url: "https://china-sourcing-agents.com/products/led-track-light/"
+---
+
 # LED Track Light (15W–50W OEM, H / J / L Rail)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/led-track-light/](https://china-sourcing-agents.com/products/led-track-light/)
@@ -26,5 +32,5 @@ Track lighting systems use three competing mechanical and electrical standards. 
 ## Further reading
 
 - [DALI vs 0-10V vs PWM wiki](https://china-sourcing-agents.com/wiki/dali-vs-0-10v-vs-pwm-dimming/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/led-track-light/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/led-track-light/)
 

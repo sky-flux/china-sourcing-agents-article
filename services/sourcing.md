@@ -1,3 +1,9 @@
+---
+title: "China Electronics Sourcing & Supplier Matching Service"
+description: "Find verified Chinese suppliers for your product. We search 1688, Alibaba, and our factory network — then filter to 3–5 candidates worth vetting."
+canonical_url: "https://china-sourcing-agents.com/services/sourcing/"
+---
+
 # China Electronics Sourcing & Supplier Matching Service
 
 > **Read the full guide**: [https://china-sourcing-agents.com/services/sourcing/](https://china-sourcing-agents.com/services/sourcing/)
@@ -22,6 +28,7 @@ We start by understanding your product at a technical level: BOM, target specs, 
 - Where We Search
 - The Shortlisting Process
 - Comparison Report Format
+- What Sourcing Doesn't Include
 
 ---
 
@@ -30,5 +37,6 @@ We start by understanding your product at a technical level: BOM, target specs, 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [a recent sourcing project](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/services/sourcing/)
+- [Amazon seller IoT sensor project](https://china-sourcing-agents.com/cases/amazon-seller-iot-sensor/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/services/sourcing/)
 

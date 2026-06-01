@@ -1,3 +1,9 @@
+---
+title: "China Electronics Glossary: 80 Terms Every Buyer Should Know"
+description: "A practical glossary for buyers working with Chinese electronics manufacturers — product categories, factory jargon, certifications, and shipping terms."
+canonical_url: "https://china-sourcing-agents.com/blog/china-electronics-product-glossary/"
+---
+
 # China Electronics Glossary: 80 Terms Every Buyer Should Know
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/china-electronics-product-glossary/](https://china-sourcing-agents.com/blog/china-electronics-product-glossary/)
@@ -29,5 +35,6 @@ This glossary covers the ~80 terms you're most likely to encounter. It's organiz
 - [sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [PCB assembly guide](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [IoT modules and components](https://china-sourcing-agents.com/industries/iot-modules/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/china-electronics-product-glossary/)
+- [IPC-A-610 wiki page](https://china-sourcing-agents.com/wiki/ipc-a-610/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/china-electronics-product-glossary/)
 

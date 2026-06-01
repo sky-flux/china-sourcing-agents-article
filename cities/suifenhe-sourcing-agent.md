@@ -1,3 +1,9 @@
+---
+title: "Suifenhe Sourcing Agent — Russia Border Trade Gateway"
+description: "Logistics guide for Suifenhe, Heilongjiang. China's eastern Russia border crossing, timber and agricultural trade flows, and transit to Vladivostok."
+canonical_url: "https://china-sourcing-agents.com/cities/suifenhe-sourcing-agent/"
+---
+
 # Suifenhe Sourcing Agent — Russia Border Trade Gateway
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/suifenhe-sourcing-agent/](https://china-sourcing-agents.com/cities/suifenhe-sourcing-agent/)
@@ -24,5 +30,5 @@ Suifenhe is China's eastern gateway to the Russian Far East — a border city in
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/suifenhe-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/suifenhe-sourcing-agent/)
 

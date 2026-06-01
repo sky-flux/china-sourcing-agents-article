@@ -1,3 +1,9 @@
+---
+title: "Electronics Quality Control in China: An Engineer's Approach"
+description: "QC for electronics goes beyond AQL sampling — component substitution, counterfeit parts, and firmware integrity require engineering-level review."
+canonical_url: "https://china-sourcing-agents.com/guides/electronics-quality-control-china/"
+---
+
 # Electronics Quality Control in China: An Engineer's Approach
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/electronics-quality-control-china/](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
@@ -22,6 +28,8 @@ Third-party inspection firms like QIMA, Bureau Veritas, and V-Trust offer reliab
 - PCB workmanship beyond visual inspection
 - Firmware and software integrity
 - The three-stage engineering QC process
+- When to use engineering QC vs. standard QC
+- Practical notes on component verification
 
 ---
 
@@ -30,5 +38,6 @@ Third-party inspection firms like QIMA, Bureau Veritas, and V-Trust offer reliab
 - [AQL sampling](https://china-sourcing-agents.com/wiki/aql-sampling/)
 - [a production run of 3,000 IoT sensor units](https://china-sourcing-agents.com/cases/amazon-seller-iot-sensor/)
 - [X-ray](https://china-sourcing-agents.com/wiki/x-ray-inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
+- [IoT modules and components](https://china-sourcing-agents.com/industries/iot-modules/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
 

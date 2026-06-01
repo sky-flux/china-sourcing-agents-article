@@ -1,3 +1,9 @@
+---
+title: "Smart Home Device Sourcing China — Zigbee, Matter & WiFi"
+description: "Source smart home devices from China — Zigbee, Matter, and WiFi products. We handle EU and US certifications so your products reach market without delays."
+canonical_url: "https://china-sourcing-agents.com/industries/smart-home/"
+---
+
 # Smart Home Device Sourcing China — Zigbee, Matter & WiFi
 
 > **Read the full guide**: [https://china-sourcing-agents.com/industries/smart-home/](https://china-sourcing-agents.com/industries/smart-home/)
@@ -27,5 +33,6 @@ For the underlying wireless modules used in many of these products — Zigbee So
 - [smart home device sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [Smart bulbs](https://china-sourcing-agents.com/products/smart-home/smart-bulb/)
 - [Smart door locks](https://china-sourcing-agents.com/products/smart-home/smart-door-lock/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/industries/smart-home/)
+- [Robot vacuums](https://china-sourcing-agents.com/products/smart-home/robot-vacuum/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/industries/smart-home/)
 

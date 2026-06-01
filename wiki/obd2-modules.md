@@ -1,3 +1,9 @@
+---
+title: "OBD-II Modules: ELM327, J2534 & Diagnostic Adapters"
+description: "OBD-II modules from China: ELM327 clones and genuine, J2534 pass-thru, ISO 15765/J1850/KWP2000 protocol stacks, Bluetooth/WiFi variants, fake detection."
+canonical_url: "https://china-sourcing-agents.com/wiki/obd2-modules/"
+---
+
 # OBD-II Modules: ELM327, J2534 & Diagnostic Adapters
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/obd2-modules/](https://china-sourcing-agents.com/wiki/obd2-modules/)
@@ -10,7 +16,7 @@ OBD-II (On-Board Diagnostics, second generation) is the mandatory vehicle diagno
 
 The OBD-II standard is defined across multiple SAE and ISO documents:
 
-For any vehicle manufactured after 2008 (US) or 2004 (EU), you only need CAN/ISO 15765-4 support. J1850 VPW/PWM and ISO 9141-2 are legacy and only relevant for products targeting old vehicle fleets.
+The OBD-II connector provides access to one or more of five physical-layer protocols depending on vehicle model year and OEM:
 
 ---
 
@@ -30,5 +36,6 @@ For any vehicle manufactured after 2008 (US) or 2004 (EU), you only need CAN/ISO
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/obd2-modules/)
+- [CAN Bus Modules](https://china-sourcing-agents.com/wiki/can-bus-modules/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/obd2-modules/)
 

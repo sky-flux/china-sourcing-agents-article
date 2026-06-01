@@ -1,3 +1,9 @@
+---
+title: "Air Fryer Private Label: Multi-Function Upgrade Strategy"
+description: "Portable air fryer searches grew +1,017% YoY. Here's how Amazon sellers and distributors source differentiated units from Chinese OEM factories."
+canonical_url: "https://china-sourcing-agents.com/blog/air-fryer-private-label-china/"
+---
+
 # Air Fryer Private Label: Multi-Function Upgrade Strategy
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/air-fryer-private-label-china/](https://china-sourcing-agents.com/blog/air-fryer-private-label-china/)
@@ -28,5 +34,5 @@ The multi-function combos — 6-in-1 or 8-in-1 units with a flip-lid design, dua
 ## Further reading
 
 - [how to source electronics from China guide](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/air-fryer-private-label-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/air-fryer-private-label-china/)
 

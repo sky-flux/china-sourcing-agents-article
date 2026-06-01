@@ -1,3 +1,9 @@
+---
+title: "Waterproof Circular Connectors: GX & SP Series"
+description: "GX12/GX16/GX20 and SP21 circular connectors from China: IP67/IP68 ratings, current ratings, thread-lock vs bayonet, and clone quality risks vs branded."
+canonical_url: "https://china-sourcing-agents.com/wiki/waterproof-circular-connectors/"
+---
+
 # Waterproof Circular Connectors: GX & SP Series
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/waterproof-circular-connectors/](https://china-sourcing-agents.com/wiki/waterproof-circular-connectors/)
@@ -10,7 +16,7 @@ GX-series and SP-series circular connectors are the dominant connector format fo
 
 GX-series connectors (GX12, GX16, GX20) use a screw-lock thread mechanism and are available in panel-mount and cable-end configurations. SP-series connectors (SP13, SP17, SP21) are dimensionally similar to Lemo Series B but are non-keyed and significantly cheaper. Neither series has a governing IEC standard — they are market-standard connector families defined by Chinese manufacturers and widely copied. IP67 is claimed by most manufacturers; IP68 is available from a subset. The absence of a normative standard means mechanical and electrical performance varies substantially between manufacturers even for physically identical-looking products.
 
-SP connectors use a push-pull or screw-lock locking mechanism depending on variant. They are physically similar in appearance to Lemo Series B connectors but are not keyed, not mechanically interchangeable, and do not meet Lemo's IP68 specification. Do not substitute SP series for Lemo connectors in medical or broadcast applications where Lemo IP/keying requirements are specified.
+Contact material (standard): copper alloy, tin-plated. Gold-plated contacts available as option — specify when ordering for low-level signal applications. Working voltage: 250V AC (GX12/GX16), 500V AC (GX20 power variants). Shell finish: nickel-plated aluminum or silver-plated brass — specify brass for higher conductivity shell grounding in shielded cable applications.
 
 ---
 
@@ -29,5 +35,6 @@ SP connectors use a push-pull or screw-lock locking mechanism depending on varia
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/waterproof-circular-connectors/)
+- [M12 Industrial Connectors](https://china-sourcing-agents.com/wiki/m12-industrial-connectors/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/waterproof-circular-connectors/)
 

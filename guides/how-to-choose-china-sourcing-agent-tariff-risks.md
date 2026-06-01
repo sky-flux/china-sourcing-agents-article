@@ -1,3 +1,9 @@
+---
+title: "Choosing a China Sourcing Agent to Avoid Tariff Risks"
+description: "US-China tariffs hit 35% for most electronics in 2026. Seven criteria for vetting whether your sourcing agent can navigate the new tariff landscape."
+canonical_url: "https://china-sourcing-agents.com/guides/how-to-choose-china-sourcing-agent-tariff-risks/"
+---
+
 # Choosing a China Sourcing Agent to Avoid Tariff Risks
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/how-to-choose-china-sourcing-agent-tariff-risks/](https://china-sourcing-agents.com/guides/how-to-choose-china-sourcing-agent-tariff-risks/)
@@ -30,5 +36,6 @@ For the current tariff rate structure and landed cost formula, see our China Ele
 - [China Electronics Tariffs 2026 guide](https://china-sourcing-agents.com/blog/china-electronics-tariff-2026-guide/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [importing electronics from China to the USA](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/how-to-choose-china-sourcing-agent-tariff-risks/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/how-to-choose-china-sourcing-agent-tariff-risks/)
 

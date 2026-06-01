@@ -1,3 +1,9 @@
+---
+title: "Infrared Thermometer OEM (Non-Contact Body & Industrial IR)"
+description: "OEM infrared thermometer sourcing from China. Non-contact body thermometers and industrial IR pyrometers. FDA 510(k), CE MDR, ISO 80601-2-59."
+canonical_url: "https://china-sourcing-agents.com/products/infrared-thermometer-oem/"
+---
+
 # Infrared Thermometer OEM (Non-Contact Body & Industrial IR)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/infrared-thermometer-oem/](https://china-sourcing-agents.com/products/infrared-thermometer-oem/)
@@ -17,7 +23,6 @@ Non-contact infrared thermometers in both categories measure thermal radiation f
 ## What this covers
 
 - Body Thermometer vs Industrial IR: Sensor Architecture and Why They Cannot Be Swapped
-- Medical Device Regulation for Non-Contact Body Thermometers
 - Accuracy Specification Verification: What the Datasheet Does Not Tell You
 - OEM Scope and Private Label: Mold Costs, Firmware, and Which Factories Accept OEM Orders
 
@@ -28,5 +33,5 @@ Non-contact infrared thermometers in both categories measure thermal radiation f
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/infrared-thermometer-oem/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/infrared-thermometer-oem/)
 

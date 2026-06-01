@@ -1,3 +1,9 @@
+---
+title: "Bluetooth Speaker (OEM / Custom Brand)"
+description: "Custom-brand Bluetooth speaker, BT 5.3, IPX-rated, firmware customizable. OEM from 500 units for consumer electronics brands and Amazon sellers."
+canonical_url: "https://china-sourcing-agents.com/products/bluetooth-speaker-oem/"
+---
+
 # Bluetooth Speaker (OEM / Custom Brand)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/bluetooth-speaker-oem/](https://china-sourcing-agents.com/products/bluetooth-speaker-oem/)
@@ -27,5 +33,6 @@ Bluetooth speaker factories cluster around Shenzhen (Longhua, Baoan districts) a
 - [consumer electronics sourcing expertise](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [quality inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/bluetooth-speaker-oem/)
+- [Bluetooth speaker case study](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/bluetooth-speaker-oem/)
 

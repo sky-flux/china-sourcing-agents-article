@@ -1,3 +1,9 @@
+---
+title: "Gerber Files for PCB Manufacturing: Reference Guide"
+description: "PCB fabrication data for Chinese factories: RS-274X Gerber format, Excellon drill files, ODB++, IPC-2581, and correct board parameter specification."
+canonical_url: "https://china-sourcing-agents.com/wiki/gerber-files/"
+---
+
 # Gerber Files for PCB Manufacturing: Reference Guide
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/gerber-files/](https://china-sourcing-agents.com/wiki/gerber-files/)
@@ -22,6 +28,8 @@ The Gerber package describes geometry only — what copper is where, where solde
 - Excellon Drill File
 - ODB++ Format
 - IPC-2581
+- Fabrication Notes — What to Specify
+- Naming Conventions
 
 ---
 
@@ -30,5 +38,6 @@ The Gerber package describes geometry only — what copper is where, where solde
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [PCB Substrate Materials](https://china-sourcing-agents.com/wiki/pcb-materials/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/gerber-files/)
+- [DFM Guidelines](https://china-sourcing-agents.com/wiki/dfm-guidelines/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/gerber-files/)
 

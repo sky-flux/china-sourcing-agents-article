@@ -1,3 +1,9 @@
+---
+title: "DC Backup Power Module (DC UPS / Battery Buffer)"
+description: "DC UPS module for 12V/24V/48V loads, Li-ion or lead-acid buffer, &lt;20ms switchover, dry-contact alarm. Powers routers, CCTV, IoT gateways. CE certified."
+canonical_url: "https://china-sourcing-agents.com/products/dc-backup-power/"
+---
+
 # DC Backup Power Module (DC UPS / Battery Buffer)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/dc-backup-power/](https://china-sourcing-agents.com/products/dc-backup-power/)
@@ -27,5 +33,5 @@ Industrial PLCs and SCADA RTUs are the exception. Many require <5ms switchover, 
 - [industrial IoT gateways](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/dc-backup-power/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/dc-backup-power/)
 

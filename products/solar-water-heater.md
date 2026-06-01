@@ -1,3 +1,9 @@
+---
+title: "Solar Water Heater (Evacuated Tube OEM / Wholesale)"
+description: "OEM evacuated tube solar water heater, 100–300L tank, 10–30 heat-pipe tubes, EN 12975 Solar Keymark certified. Domestic and commercial, MOQ 50 units."
+canonical_url: "https://china-sourcing-agents.com/products/solar-water-heater/"
+---
+
 # Solar Water Heater (Evacuated Tube OEM / Wholesale)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/solar-water-heater/](https://china-sourcing-agents.com/products/solar-water-heater/)
@@ -27,5 +33,5 @@ Two distinct evacuated tube technologies dominate the market, and the distinctio
 - [sourcing solar water heaters](https://china-sourcing-agents.com/services/sourcing/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/solar-water-heater/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/solar-water-heater/)
 

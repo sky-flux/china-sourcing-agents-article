@@ -1,3 +1,9 @@
+---
+title: "DC Barrel Power Connectors: China Sourcing Reference"
+description: "DC barrel connectors from China: 5.5/2.1mm and 5.5/2.5mm standards, current ratings, locking variants, PCB vs panel mount, and polarity conventions."
+canonical_url: "https://china-sourcing-agents.com/wiki/dc-barrel-connectors/"
+---
+
 # DC Barrel Power Connectors: China Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/dc-barrel-connectors/](https://china-sourcing-agents.com/wiki/dc-barrel-connectors/)
@@ -29,5 +35,6 @@ Current ratings assume clean contacts at ambient 25°C. Derated by approximately
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [electronics quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/dc-barrel-connectors/)
+- [GaN Charger IC Sourcing Reference](https://china-sourcing-agents.com/wiki/gan-charger-ic/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/dc-barrel-connectors/)
 

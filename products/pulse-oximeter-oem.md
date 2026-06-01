@@ -1,3 +1,9 @@
+---
+title: "Fingertip Pulse Oximeter (OEM / CE/FDA Class II)"
+description: "OLED fingertip pulse oximeter, SpO2 ±2%, PR ±1 BPM, AAA battery, CE MDR 2017/745 and FDA 510(k) path. OEM from 1,000 units."
+canonical_url: "https://china-sourcing-agents.com/products/pulse-oximeter-oem/"
+---
+
 # Fingertip Pulse Oximeter (OEM / CE/FDA Class II)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/pulse-oximeter-oem/](https://china-sourcing-agents.com/products/pulse-oximeter-oem/)
@@ -27,5 +33,6 @@ The Unique Device Identification (UDI) requirement under MDR is also new: every 
 - [sourcing medical wearable devices](https://china-sourcing-agents.com/industries/wearables/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [sourcing OEM oximeters](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/pulse-oximeter-oem/)
+- [CE and FCC certification guide](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/pulse-oximeter-oem/)
 

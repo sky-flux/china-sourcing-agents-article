@@ -1,3 +1,9 @@
+---
+title: "CAN Bus Transceiver & Interface Modules"
+description: "CAN bus modules from China: ISO 11898, CAN FD at 5 Mbps, AEC-Q100 transceivers, OBD-II gateway boards, PCB layout rules, and supplier verification."
+canonical_url: "https://china-sourcing-agents.com/wiki/can-bus-modules/"
+---
+
 # CAN Bus Transceiver & Interface Modules
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/can-bus-modules/](https://china-sourcing-agents.com/wiki/can-bus-modules/)
@@ -30,5 +36,6 @@ ISO 11898-2 defines the physical layer for high-speed CAN (up to 1 Mbps). ISO 11
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/can-bus-modules/)
+- [OBD-II Modules: ELM327 Clones and J2534 Interfaces](https://china-sourcing-agents.com/wiki/obd2-modules/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/can-bus-modules/)
 

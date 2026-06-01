@@ -1,3 +1,9 @@
+---
+title: "Shanghai Sourcing Agent — Trade, R&D & Manufacturing Hub"
+description: "Engineer-led sourcing in Shanghai. Automotive supply chain, personal care R&D, medical device manufacturing, and Yangshan Deep Water Port logistics."
+canonical_url: "https://china-sourcing-agents.com/cities/shanghai-sourcing-agent/"
+---
+
 # Shanghai Sourcing Agent — Trade, R&D & Manufacturing Hub
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/shanghai-sourcing-agent/](https://china-sourcing-agents.com/cities/shanghai-sourcing-agent/)
@@ -22,11 +28,13 @@ Automotive and electric vehicle production is Shanghai's highest-value manufactu
 - Industrial IoT and Precision Electronics
 - Chemicals and Electronic-Grade Materials
 - Shanghai as a Yangtze Delta Base
+- Yangshan Port and Logistics Advantages
+- Practical Notes
 
 ---
 
 ## Further reading
 
 - [Factory audits](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/shanghai-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/shanghai-sourcing-agent/)
 

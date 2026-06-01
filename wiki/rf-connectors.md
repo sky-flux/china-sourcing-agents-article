@@ -1,3 +1,9 @@
+---
+title: "RF Connectors: SMA, MMCX, U.FL/IPEX"
+description: "RF connectors from China: SMA, RP-SMA, MMCX, U.FL/IPEX, BNC, and N-type — VSWR limits, gold plating requirements, frequency ranges, and polarity mistakes."
+canonical_url: "https://china-sourcing-agents.com/wiki/rf-connectors/"
+---
+
 # RF Connectors: SMA, MMCX, U.FL/IPEX
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/rf-connectors/](https://china-sourcing-agents.com/wiki/rf-connectors/)
@@ -29,5 +35,6 @@ Standard SMA is the most common RF connector in electronics, used for antennas, 
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/rf-connectors/)
+- [BLE 5.x Modules Sourcing Reference](https://china-sourcing-agents.com/wiki/ble-5-modules/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/rf-connectors/)
 

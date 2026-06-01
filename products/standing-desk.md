@@ -1,3 +1,9 @@
+---
+title: "Electric Height-Adjustable Standing Desk"
+description: "OEM electric standing desks, BIFMA X5.5 certified, 2-motor anti-racking frames. Verified steel gauge, off-gassing compliance, GREENGUARD specs."
+canonical_url: "https://china-sourcing-agents.com/products/standing-desk/"
+---
+
 # Electric Height-Adjustable Standing Desk
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/standing-desk/](https://china-sourcing-agents.com/products/standing-desk/)
@@ -26,5 +32,6 @@ Desktop off-gassing (formaldehyde and VOCs from MDF core and adhesives) is regul
 - [sourcing standing desks](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/standing-desk/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/standing-desk/)
 

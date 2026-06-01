@@ -1,3 +1,9 @@
+---
+title: "Tianjin Sourcing Agent — Bicycles, Auto Parts & Port"
+description: "Engineer-led sourcing in Tianjin. Bicycle manufacturing base, automotive parts, Binhai heavy manufacturing, and Tianjin Port — northern China's gateway."
+canonical_url: "https://china-sourcing-agents.com/cities/tianjin-sourcing-agent/"
+---
+
 # Tianjin Sourcing Agent — Bicycles, Auto Parts & Port
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/tianjin-sourcing-agent/](https://china-sourcing-agents.com/cities/tianjin-sourcing-agent/)
@@ -22,6 +28,7 @@ Tianjin is one of China's most strategically positioned manufacturing and export
 - Consumer Electronics and Display Supply Chains
 - E-Commerce and Industrial Robot Clusters
 - Tianjin vs. Beijing for Electronics Sourcing
+- Practical Notes
 
 ---
 
@@ -30,5 +37,6 @@ Tianjin is one of China's most strategically positioned manufacturing and export
 - [Automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [Power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [Industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/tianjin-sourcing-agent/)
+- [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/tianjin-sourcing-agent/)
 

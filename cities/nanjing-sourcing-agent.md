@@ -1,3 +1,9 @@
+---
+title: "Nanjing Sourcing Agent — Semiconductors & Auto Electronics"
+description: "Engineer-led sourcing in Nanjing. Semiconductor supply chain, automotive electronics (VW/Chery), PCB assembly, Yangtze port logistics. 8,000+ makers."
+canonical_url: "https://china-sourcing-agents.com/cities/nanjing-sourcing-agent/"
+---
+
 # Nanjing Sourcing Agent — Semiconductors & Auto Electronics
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/nanjing-sourcing-agent/](https://china-sourcing-agents.com/cities/nanjing-sourcing-agent/)
@@ -22,6 +28,7 @@ TSMC Nanjing's fab (12-inch wafers, 16nm and 28nm nodes) and Samsung Semiconduct
 - Yangtze River Port — Cost Advantage for Heavy Freight
 - R&D and University Ecosystem
 - Nanjing vs. Suzhou for Electronics Sourcing
+- Practical Notes
 
 ---
 
@@ -30,5 +37,6 @@ TSMC Nanjing's fab (12-inch wafers, 16nm and 28nm nodes) and Samsung Semiconduct
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/nanjing-sourcing-agent/)
+- [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/nanjing-sourcing-agent/)
 

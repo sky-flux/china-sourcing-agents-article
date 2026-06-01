@@ -1,3 +1,9 @@
+---
+title: "Wuhan Sourcing Agent — Dongfeng Auto, Optics & Logistics Hub"
+description: "China sourcing agent in Wuhan: Dongfeng auto parts, Optics Valley optoelectronics, fiber optics, and central China inland logistics via Yangtze River."
+canonical_url: "https://china-sourcing-agents.com/cities/wuhan-sourcing-agent/"
+---
+
 # Wuhan Sourcing Agent — Dongfeng Auto, Optics & Logistics Hub
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/wuhan-sourcing-agent/](https://china-sourcing-agents.com/cities/wuhan-sourcing-agent/)
@@ -28,5 +34,5 @@ Dongfeng Motor Group's headquarters and primary R&D facilities are in Wuhan, and
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [factory audit process](https://china-sourcing-agents.com/services/audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/wuhan-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/wuhan-sourcing-agent/)
 

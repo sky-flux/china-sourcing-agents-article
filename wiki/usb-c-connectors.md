@@ -1,3 +1,9 @@
+---
+title: "USB-C Connectors: China Sourcing Reference"
+description: "USB-C connectors from China: receptacle types, USB4 pinouts, PD 3.1 EPR 240W ratings, gold plating thickness, counterfeit detection, and PCB retention."
+canonical_url: "https://china-sourcing-agents.com/wiki/usb-c-connectors/"
+---
+
 # USB-C Connectors: China Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/usb-c-connectors/](https://china-sourcing-agents.com/wiki/usb-c-connectors/)
@@ -29,5 +35,6 @@ Receptacle variants differ primarily by mounting style. Mid-mount receptacles si
 - [wearables](https://china-sourcing-agents.com/industries/wearables/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/usb-c-connectors/)
+- [USB-A, Micro-B & Mini-B Connectors Sourcing Reference](https://china-sourcing-agents.com/wiki/usb-legacy-connectors/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/usb-c-connectors/)
 

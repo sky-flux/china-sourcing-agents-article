@@ -1,3 +1,9 @@
+---
+title: "Nantong Sourcing Agent — Bedding, Marine Electronics & Port"
+description: "Sourcing agent in Nantong — home of Dieshiqiao, world's largest home-textile market. Covers marine electronics, PCB assembly, and Yangtze port logistics."
+canonical_url: "https://china-sourcing-agents.com/cities/nantong-sourcing-agent/"
+---
+
 # Nantong Sourcing Agent — Bedding, Marine Electronics & Port
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/nantong-sourcing-agent/](https://china-sourcing-agents.com/cities/nantong-sourcing-agent/)
@@ -29,5 +35,6 @@ The centerpiece is **Dieshiqiao International Home Textile City (叠石桥国际
 - [PCB Assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/nantong-sourcing-agent/)
+- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/nantong-sourcing-agent/)
 

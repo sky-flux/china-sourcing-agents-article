@@ -1,3 +1,9 @@
+---
+title: "Smart LED Bulb (Zigbee / Matter)"
+description: "E27/E26 smart bulb with Zigbee 3.0 and Matter support. 9W, 800lm, tunable white and RGB, compatible with Alexa, Google Home, Apple HomeKit."
+canonical_url: "https://china-sourcing-agents.com/products/smart-bulb/"
+---
+
 # Smart LED Bulb (Zigbee / Matter)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/smart-bulb/](https://china-sourcing-agents.com/products/smart-bulb/)
@@ -26,5 +32,6 @@ The smart home lighting module ecosystem has consolidated around a few chipsets 
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [Matter certification overview](https://china-sourcing-agents.com/wiki/matter-certification/)
 - [private-label](https://china-sourcing-agents.com/services/private-label/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/smart-bulb/)
+- [CE and FCC certification](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/smart-bulb/)
 

@@ -1,3 +1,9 @@
+---
+title: "ESD Protection in Electronics: PCB Layout & Design"
+description: "ESD protection for China-sourced electronics: HBM/CDM models, TVS diode selection, PCB layout rules, IEC 61000-4-2 compliance, and ESD-safe factory specs."
+canonical_url: "https://china-sourcing-agents.com/wiki/esd-protection/"
+---
+
 # ESD Protection in Electronics: PCB Layout & Design
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/esd-protection/](https://china-sourcing-agents.com/wiki/esd-protection/)
@@ -22,6 +28,7 @@ ESD events happen when a charged object (human body, machine, component) rapidly
 - PCB Layout Rules for ESD Protection
 - ESD-Safe Manufacturing Requirements
 - What to Specify When Ordering from China
+- Common Issues
 
 ---
 
@@ -30,5 +37,6 @@ ESD events happen when a charged object (human body, machine, component) rapidly
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/esd-protection/)
+- [SMT Assembly Process](https://china-sourcing-agents.com/wiki/smt-process/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/esd-protection/)
 

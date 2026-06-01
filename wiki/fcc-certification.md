@@ -1,3 +1,9 @@
+---
+title: "FCC Certification for Electronics Importers"
+description: "FCC certification for US-market electronics from China: Part 15 SDoC vs TCB, modular approval for ESP32 and nRF52, test costs, timelines, and lab options."
+canonical_url: "https://china-sourcing-agents.com/wiki/fcc-certification/"
+---
+
 # FCC Certification for Electronics Importers
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/fcc-certification/](https://china-sourcing-agents.com/wiki/fcc-certification/)
@@ -22,6 +28,8 @@ The FCC's Equipment Authorization System (EAS) maintains a public database at ap
 - Process & Timeline
 - Getting It Done from China
 - Common Mistakes
+- Enforcement and Market Access
+- FCC vs. CE: Running Both Programs Concurrently
 
 ---
 
@@ -30,5 +38,6 @@ The FCC's Equipment Authorization System (EAS) maintains a public database at ap
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/fcc-certification/)
+- [CE Marking for Electronics](https://china-sourcing-agents.com/wiki/ce-marking/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/fcc-certification/)
 

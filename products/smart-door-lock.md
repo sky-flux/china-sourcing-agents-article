@@ -1,3 +1,9 @@
+---
+title: "Smart Door Lock (Fingerprint + PIN + App)"
+description: "Keyless entry lock with fingerprint sensor, PIN keypad, Bluetooth app, and mechanical key backup. Fits 38–68mm doors. CE/FCC certified OEM from China."
+canonical_url: "https://china-sourcing-agents.com/products/smart-door-lock/"
+---
+
 # Smart Door Lock (Fingerprint + PIN + App)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/smart-door-lock/](https://china-sourcing-agents.com/products/smart-door-lock/)
@@ -26,5 +32,6 @@ Smart locks are both a security product and an IoT device — they have mechanic
 - [sourcing smart home devices](https://china-sourcing-agents.com/industries/smart-home/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [private-label](https://china-sourcing-agents.com/services/private-label/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/smart-door-lock/)
+- [sourcing smart locks](https://china-sourcing-agents.com/services/sourcing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/smart-door-lock/)
 

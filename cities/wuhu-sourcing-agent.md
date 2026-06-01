@@ -1,3 +1,9 @@
+---
+title: "Wuhu Sourcing Agent — Chery Auto & Display Components"
+description: "China sourcing agent in Wuhu: Chery tier-2/3 auto parts, BOE display components, and Ro-Ro vehicle export via Yangtze River port."
+canonical_url: "https://china-sourcing-agents.com/cities/wuhu-sourcing-agent/"
+---
+
 # Wuhu Sourcing Agent — Chery Auto & Display Components
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/wuhu-sourcing-agent/](https://china-sourcing-agents.com/cities/wuhu-sourcing-agent/)
@@ -30,5 +36,6 @@ Chery's headquarters and primary manufacturing campus are located in Wuhu's Econ
 - [PCB assemblies](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [PCB assembly guide](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/wuhu-sourcing-agent/)
+- [Factory audits](https://china-sourcing-agents.com/services/audit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/wuhu-sourcing-agent/)
 

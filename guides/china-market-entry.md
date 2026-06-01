@@ -1,3 +1,9 @@
+---
+title: "China Market Entry for Electronics and Hardware Buyers"
+description: "How to enter the Chinese electronics supply chain: supplier selection, factory audits, compliance, and first-shipment strategy for hardware buyers."
+canonical_url: "https://china-sourcing-agents.com/guides/china-market-entry/"
+---
+
 # China Market Entry for Electronics and Hardware Buyers
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/china-market-entry/](https://china-sourcing-agents.com/guides/china-market-entry/)
@@ -22,8 +28,10 @@ The phrase is used two ways. One meaning: a foreign company entering China as a 
 - Step 2: Choose your sourcing channel
 - Step 3: Qualify suppliers before you audit
 - Step 4: Audit the short list
+- Step 5: Sample procurement and specification lock
+- Step 6: Certifications and IP — start earlier than you think
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/guides/china-market-entry/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/guides/china-market-entry/)
 

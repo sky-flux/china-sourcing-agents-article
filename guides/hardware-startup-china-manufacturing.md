@@ -1,3 +1,9 @@
+---
+title: "Hardware Startup Manufacturing in China: A Founder's Guide"
+description: "What happens after crowdfunding succeeds — a sourcing agent's breakdown of every production milestone from prototype to 5,000+ units."
+canonical_url: "https://china-sourcing-agents.com/guides/hardware-startup-china-manufacturing/"
+---
+
 # Hardware Startup Manufacturing in China: A Founder's Guide
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/hardware-startup-china-manufacturing/](https://china-sourcing-agents.com/guides/hardware-startup-china-manufacturing/)
@@ -22,6 +28,8 @@ The hardware startup mental model is usually: build prototype, run campaign, shi
 - The tooling decision
 - Certifications: timing matters more than you think
 - Common milestone mistakes
+- Realistic timeline and cost
+- The sourcing agent's role: what it changes
 
 ---
 
@@ -30,5 +38,6 @@ The hardware startup mental model is usually: build prototype, run campaign, shi
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/hardware-startup-china-manufacturing/)
+- [OEM/ODM project](https://china-sourcing-agents.com/guides/oem-vs-odm-electronics-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/hardware-startup-china-manufacturing/)
 

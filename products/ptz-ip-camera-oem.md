@@ -1,3 +1,9 @@
+---
+title: "PTZ IP Camera (4MP, 25× Optical Zoom, OEM)"
+description: "4MP PTZ IP camera: 25× optical zoom, IR night vision 100m, PoE+ (802.3at), ONVIF S/T/G. OEM from 50 units for integrators and distributors."
+canonical_url: "https://china-sourcing-agents.com/products/ptz-ip-camera-oem/"
+---
+
 # PTZ IP Camera (4MP, 25× Optical Zoom, OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/ptz-ip-camera-oem/](https://china-sourcing-agents.com/products/ptz-ip-camera-oem/)
@@ -27,5 +33,6 @@ ONVIF (Open Network Video Interface Forum) profiles define interoperability laye
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/ptz-ip-camera-oem/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/ptz-ip-camera-oem/)
 

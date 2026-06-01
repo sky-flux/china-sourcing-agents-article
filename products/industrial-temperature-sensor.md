@@ -1,3 +1,9 @@
+---
+title: "Industrial Temperature & Humidity Sensor (DIN Rail / RS-485)"
+description: "Industrial temp & humidity sensor, RS-485 Modbus RTU or 4–20mA, IP65, ±0.3°C accuracy. DIN rail or wall-mount. CE/RoHS certified."
+canonical_url: "https://china-sourcing-agents.com/products/industrial-temperature-sensor/"
+---
+
 # Industrial Temperature & Humidity Sensor (DIN Rail / RS-485)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/industrial-temperature-sensor/](https://china-sourcing-agents.com/products/industrial-temperature-sensor/)
@@ -23,5 +29,5 @@ IP65 certifies protection against dust ingress and directed water jets (12.5 L/m
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/products/industrial-temperature-sensor/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/products/industrial-temperature-sensor/)
 

@@ -1,3 +1,9 @@
+---
+title: "Online UPS System (OEM / White Label)"
+description: "Online double-conversion UPS 1kVA–10kVA. Zero transfer time, &lt;2% THD, IEC 62040-1/2/3 certified. Tower and rack-mount from 50 units."
+canonical_url: "https://china-sourcing-agents.com/products/online-ups/"
+---
+
 # Online UPS System (OEM / White Label)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/online-ups/](https://china-sourcing-agents.com/products/online-ups/)
@@ -27,5 +33,5 @@ The IEC 62040-3 standard defines UPS topology classes: VFI (Voltage and Frequenc
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/online-ups/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/online-ups/)
 

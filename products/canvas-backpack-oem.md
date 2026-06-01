@@ -1,3 +1,9 @@
+---
+title: "Canvas Laptop Backpack (OEM / Custom Print)"
+description: "1680D nylon or waxed canvas laptop backpack, padded 15.6\\\" slot, USB-A, anti-theft zipper, full-color branding. OEM from 300 units."
+canonical_url: "https://china-sourcing-agents.com/products/canvas-backpack-oem/"
+---
+
 # Canvas Laptop Backpack (OEM / Custom Print)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/canvas-backpack-oem/](https://china-sourcing-agents.com/products/canvas-backpack-oem/)
@@ -27,5 +33,5 @@ Denier (D) is a measure of fibre linear density — specifically, the mass in gr
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [private label service](https://china-sourcing-agents.com/services/private-label/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/canvas-backpack-oem/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/canvas-backpack-oem/)
 

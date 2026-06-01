@@ -1,3 +1,9 @@
+---
+title: "Private Label IoT Sensor: From Generic to 4.6★ on Amazon"
+description: "US Amazon seller launches private-label Zigbee/Matter IoT sensor from China in 90 days. 34% margin vs 12% on prior generic — 4.6★ after 200 reviews."
+canonical_url: "https://china-sourcing-agents.com/cases/amazon-seller-iot-sensor/"
+---
+
 # Private Label IoT Sensor: From Generic to 4.6★ on Amazon
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cases/amazon-seller-iot-sensor/](https://china-sourcing-agents.com/cases/amazon-seller-iot-sensor/)
@@ -36,5 +42,6 @@ We started with a technical spec definition session. The client knew what they w
 - [IoT sensor](https://china-sourcing-agents.com/industries/iot-modules/)
 - [Supplier sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [Factory audit](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cases/amazon-seller-iot-sensor/)
+- [Private label](https://china-sourcing-agents.com/services/private-label/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cases/amazon-seller-iot-sensor/)
 

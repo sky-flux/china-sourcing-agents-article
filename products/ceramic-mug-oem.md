@@ -1,3 +1,9 @@
+---
+title: "Custom Ceramic Mug (OEM / Logo Print)"
+description: "11oz/15oz stoneware or porcelain mug, full-color sublimation or reactive glaze. Food-safe, dishwasher-safe, FDA/LFGB compliant. OEM from 500 units."
+canonical_url: "https://china-sourcing-agents.com/products/ceramic-mug-oem/"
+---
+
 # Custom Ceramic Mug (OEM / Logo Print)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/ceramic-mug-oem/](https://china-sourcing-agents.com/products/ceramic-mug-oem/)
@@ -27,5 +33,5 @@ The three dominant print methods for ceramic mugs differ in durability, cost, an
 - [private label service](https://china-sourcing-agents.com/services/private-label/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/ceramic-mug-oem/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/ceramic-mug-oem/)
 

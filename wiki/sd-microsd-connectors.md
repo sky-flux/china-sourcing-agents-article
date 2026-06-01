@@ -1,3 +1,9 @@
+---
+title: "SD & microSD Card Connectors: China Sourcing Reference"
+description: "SD and microSD connectors from China: push-push vs push-pull actuation, mating cycle life, SIM/SD combo types, SMD footprint, and failure modes."
+canonical_url: "https://china-sourcing-agents.com/wiki/sd-microsd-connectors/"
+---
+
 # SD & microSD Card Connectors: China Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/sd-microsd-connectors/](https://china-sourcing-agents.com/wiki/sd-microsd-connectors/)
@@ -29,5 +35,6 @@ Full-size SD cards (32 mm × 24 mm × 2.1 mm) are used in cameras, data loggers,
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/sd-microsd-connectors/)
+- [DFM Guidelines](https://china-sourcing-agents.com/wiki/dfm-guidelines/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/sd-microsd-connectors/)
 

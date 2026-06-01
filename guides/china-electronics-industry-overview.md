@@ -1,3 +1,9 @@
+---
+title: "China Electronics Industry 2026: What Importers Need to Know"
+description: "An overview of China's electronics sector — scale, geography, product categories, and what importers need to know about the supply chain in 2026."
+canonical_url: "https://china-sourcing-agents.com/guides/china-electronics-industry-overview/"
+---
+
 # China Electronics Industry 2026: What Importers Need to Know
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/china-electronics-industry-overview/](https://china-sourcing-agents.com/guides/china-electronics-industry-overview/)
@@ -22,6 +28,7 @@ China's electronics manufacturing dominance is the result of 40 years of deliber
 - The supply chain structure
 - Key 2026 trends for importers
 - What China's electronics industry means for importers specifically
+- How to navigate it as a foreign buyer
 
 ---
 
@@ -30,5 +37,6 @@ China's electronics manufacturing dominance is the result of 40 years of deliber
 - [consumer electronics sourcing](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [IoT module sourcing](https://china-sourcing-agents.com/industries/iot-modules/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/china-electronics-industry-overview/)
+- [Wearables](https://china-sourcing-agents.com/industries/wearables/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-electronics-industry-overview/)
 

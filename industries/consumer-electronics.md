@@ -1,3 +1,9 @@
+---
+title: "Consumer Electronics Sourcing China — Bluetooth, TWS & OEM"
+description: "Source Bluetooth speakers, TWS earphones, smart watches, and portable chargers from China with full certification support for FCC, CE, and RoHS."
+canonical_url: "https://china-sourcing-agents.com/industries/consumer-electronics/"
+---
+
 # Consumer Electronics Sourcing China — Bluetooth, TWS & OEM
 
 > **Read the full guide**: [https://china-sourcing-agents.com/industries/consumer-electronics/](https://china-sourcing-agents.com/industries/consumer-electronics/)
@@ -26,5 +32,6 @@ The point of this specificity: a buyer searching for "TWS earphone manufacturer 
 - [electronics supplier matching](https://china-sourcing-agents.com/services/sourcing/)
 - [TWS earphones](https://china-sourcing-agents.com/products/electronics/tws-earphones-oem/)
 - [Bluetooth speakers](https://china-sourcing-agents.com/products/electronics/bluetooth-speaker-oem/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [USB-C charging accessories](https://china-sourcing-agents.com/products/electronics/usb-c-hub/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/industries/consumer-electronics/)
 

@@ -1,3 +1,9 @@
+---
+title: "GPS / 4G Vehicle Tracker (LTE Cat-1 / Cat-4 OEM)"
+description: "GPS 4G vehicle tracker OEM from China. LTE Cat-1/Cat-4, OBD-II and hardwired. FCC, CE RED, PTCRB, E-mark. MOQ 100 units for fleet and telematics OEM."
+canonical_url: "https://china-sourcing-agents.com/products/gps-4g-vehicle-tracker/"
+---
+
 # GPS / 4G Vehicle Tracker (LTE Cat-1 / Cat-4 OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/gps-4g-vehicle-tracker/](https://china-sourcing-agents.com/products/gps-4g-vehicle-tracker/)
@@ -28,5 +34,6 @@ Cellular category determines data throughput, module cost, power draw, and which
 - [IoT modules industry expertise](https://china-sourcing-agents.com/industries/iot-modules/)
 - [sourcing process](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/gps-4g-vehicle-tracker/)
+- [automotive electronics sourcing expertise](https://china-sourcing-agents.com/industries/automotive-electronics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/gps-4g-vehicle-tracker/)
 

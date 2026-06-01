@@ -1,3 +1,9 @@
+---
+title: "Pool Cleaning Robot OEM Manufacturer China"
+description: "OEM pool cleaning robot private label from China. CE/FCC/IPX8 certified, floor-wall-waterline variants, 50-unit MOQ, factory-direct $80–$350."
+canonical_url: "https://china-sourcing-agents.com/products/pool-cleaning-robot/"
+---
+
 # Pool Cleaning Robot OEM Manufacturer China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/pool-cleaning-robot/](https://china-sourcing-agents.com/products/pool-cleaning-robot/)
@@ -27,5 +33,5 @@ Pool cleaning robots sold from Chinese factories divide into three mechanical pl
 - [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit engagement](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/pool-cleaning-robot/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/pool-cleaning-robot/)
 

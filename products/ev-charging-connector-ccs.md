@@ -1,3 +1,9 @@
+---
+title: "EV Charging Connector — CCS, CHAdeMO, Type 2"
+description: "CCS1, CCS2, CHAdeMO, and Type 2 AC EV charging connectors from China. IEC 62196 and UL 2251 certified. DC fast charge up to 500A. OEM from 100 pieces."
+canonical_url: "https://china-sourcing-agents.com/products/ev-charging-connector-ccs/"
+---
+
 # EV Charging Connector — CCS, CHAdeMO, Type 2
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/ev-charging-connector-ccs/](https://china-sourcing-agents.com/products/ev-charging-connector-ccs/)
@@ -27,5 +33,5 @@ North America, Europe, and China each mandate a different fast-charge connector 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [audit service](https://china-sourcing-agents.com/services/audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/ev-charging-connector-ccs/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/ev-charging-connector-ccs/)
 

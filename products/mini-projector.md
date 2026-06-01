@@ -1,3 +1,9 @@
+---
+title: "Mini Projector (DLP / LCD, 200–500 ANSI Lumens)"
+description: "OEM mini projector: DLP or LCD, 200–500 ANSI lumens, HDMI and WiFi. Custom branding from 200 units for consumer electronics and portable entertainment."
+canonical_url: "https://china-sourcing-agents.com/products/mini-projector/"
+---
+
 # Mini Projector (DLP / LCD, 200–500 ANSI Lumens)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/mini-projector/](https://china-sourcing-agents.com/products/mini-projector/)
@@ -28,5 +34,6 @@ When sourcing mini projectors, always request ANSI lumen measurement from an acc
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [sourcing mini projectors](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/mini-projector/)
+- [electronics quality control guide](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/mini-projector/)
 

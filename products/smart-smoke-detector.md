@@ -1,3 +1,9 @@
+---
+title: "Smart Smoke & Carbon Monoxide Detector"
+description: "OEM smart smoke detector sourcing from China. Photoelectric + CO combo, Zigbee 3.0 / WiFi, UL 217 8th ed. and EN 14604 certified. MOQ 500 units."
+canonical_url: "https://china-sourcing-agents.com/products/smart-smoke-detector/"
+---
+
 # Smart Smoke & Carbon Monoxide Detector
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/smart-smoke-detector/](https://china-sourcing-agents.com/products/smart-smoke-detector/)
@@ -28,5 +34,5 @@ UL 217 8th edition (effective January 2021) added TF (Thistle Fire) sensitivity 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/smart-smoke-detector/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/smart-smoke-detector/)
 

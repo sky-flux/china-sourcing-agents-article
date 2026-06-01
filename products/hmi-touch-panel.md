@@ -1,3 +1,9 @@
+---
+title: "Industrial HMI Touch Panel (7″ / 10″ TFT)"
+description: "Industrial HMI touch panel: 7/10-inch TFT, IP65 front, RS-232/485, Ethernet, wide temperature. Siemens, Mitsubishi, Omron PLC."
+canonical_url: "https://china-sourcing-agents.com/products/hmi-touch-panel/"
+---
+
 # Industrial HMI Touch Panel (7″ / 10″ TFT)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/hmi-touch-panel/](https://china-sourcing-agents.com/products/hmi-touch-panel/)
@@ -23,5 +29,5 @@ Touch technology selection is often driven by the operator environment, not aest
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/products/hmi-touch-panel/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/products/hmi-touch-panel/)
 

@@ -1,3 +1,9 @@
+---
+title: "China Electronics Market Cities: Where to Source What"
+description: "A practical guide to China's electronics manufacturing cities — Shenzhen, Dongguan, Yiwu, and Suzhou — and when to source from each."
+canonical_url: "https://china-sourcing-agents.com/guides/china-electronics-market-cities/"
+---
+
 # China Electronics Market Cities: Where to Source What
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/china-electronics-market-cities/](https://china-sourcing-agents.com/guides/china-electronics-market-cities/)
@@ -22,6 +28,8 @@ This guide covers five cities and regions that matter for electronics sourcing, 
 - Yiwu (义乌) — the world's largest small commodities market
 - Suzhou and Wuxi (苏州 / 无锡) — precision and industrial electronics
 - Guangzhou (广州) — trading hub and Canton Fair
+- Planning a multi-city sourcing trip
+- Why city specialization matters for your supplier negotiation
 
 ---
 
@@ -30,5 +38,6 @@ This guide covers five cities and regions that matter for electronics sourcing, 
 - [Shenzhen electronics market guide](https://china-sourcing-agents.com/guides/shenzhen-electronics-market-guide/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/china-electronics-market-cities/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-electronics-market-cities/)
 

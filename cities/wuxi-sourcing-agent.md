@@ -1,3 +1,9 @@
+---
+title: "Wuxi Sourcing Agent — E-Bikes, Semiconductors & ICs"
+description: "China sourcing agent in Wuxi: e-bikes and scooters (Yadea network), ICs, power electronics, and industrial IoT hardware. 9,000+ manufacturers."
+canonical_url: "https://china-sourcing-agents.com/cities/wuxi-sourcing-agent/"
+---
+
 # Wuxi Sourcing Agent — E-Bikes, Semiconductors & ICs
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/wuxi-sourcing-agent/](https://china-sourcing-agents.com/cities/wuxi-sourcing-agent/)
@@ -29,5 +35,6 @@ For product buyers, this means a city where the quality baseline for electronics
 - [Power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [Industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/wuxi-sourcing-agent/)
+- [quality inspection](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/wuxi-sourcing-agent/)
 

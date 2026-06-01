@@ -1,3 +1,9 @@
+---
+title: "IIoT Gateway from China: EU Integrator Saves 22% vs HK"
+description: "EU industrial automation integrator sources IEC 61850 gateways direct from China, bypassing Hong Kong middlemen — 22% cost saving, IEC-certified hardware."
+canonical_url: "https://china-sourcing-agents.com/cases/eu-industrial-iot-gateway/"
+---
+
 # IIoT Gateway from China: EU Integrator Saves 22% vs HK
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cases/eu-industrial-iot-gateway/](https://china-sourcing-agents.com/cases/eu-industrial-iot-gateway/)
@@ -36,5 +42,6 @@ The problem was verifying it. They couldn't tell if the Alibaba seller was the a
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [sourcing process](https://china-sourcing-agents.com/services/sourcing/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cases/eu-industrial-iot-gateway/)
+- [industrial IoT hardware sourcing guide](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cases/eu-industrial-iot-gateway/)
 

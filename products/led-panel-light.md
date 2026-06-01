@@ -1,3 +1,9 @@
+---
+title: "LED Panel Light (60×60cm)"
+description: "Commercial 36W LED panel for office, retail, and warehouse ceilings. 130 lm/W efficacy, uniform illumination, CE/RoHS/LM79 certified."
+canonical_url: "https://china-sourcing-agents.com/products/led-panel-light/"
+---
+
 # LED Panel Light (60×60cm)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/led-panel-light/](https://china-sourcing-agents.com/products/led-panel-light/)
@@ -26,5 +32,6 @@ The LED panel light market is saturated with products that hit their lumen spec 
 - [sourcing commercial LED lighting](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit for lighting products](https://china-sourcing-agents.com/services/audit/)
 - [electronics quality control](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/led-panel-light/)
+- [power electronics and lighting](https://china-sourcing-agents.com/industries/power-electronics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/led-panel-light/)
 

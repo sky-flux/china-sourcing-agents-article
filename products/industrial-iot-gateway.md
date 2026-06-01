@@ -1,3 +1,9 @@
+---
+title: "Industrial IoT Gateway (Modbus / MQTT / OPC-UA)"
+description: "Industrial IoT gateway: Modbus RTU/TCP, MQTT, OPC-UA bridging. -40°C to 75°C, DIN rail, CE and IEC 61000-4 EMC certified."
+canonical_url: "https://china-sourcing-agents.com/products/industrial-iot-gateway/"
+---
+
 # Industrial IoT Gateway (Modbus / MQTT / OPC-UA)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/industrial-iot-gateway/](https://china-sourcing-agents.com/products/industrial-iot-gateway/)
@@ -23,5 +29,5 @@ The primary value of an industrial IoT gateway is translating legacy serial prot
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/products/industrial-iot-gateway/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/products/industrial-iot-gateway/)
 

@@ -1,3 +1,9 @@
+---
+title: "Thermal POS Printer (OEM / White Label)"
+description: "OEM 80mm thermal receipt printer, ESC/POS, USB/Serial/Ethernet/Bluetooth, auto-cutter. CE and FCC certified. Private label from 100 units."
+canonical_url: "https://china-sourcing-agents.com/products/thermal-pos-printer/"
+---
+
 # Thermal POS Printer (OEM / White Label)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/thermal-pos-printer/](https://china-sourcing-agents.com/products/thermal-pos-printer/)
@@ -27,5 +33,5 @@ STAR mode compatibility is a separate consideration. POS software built on STAR'
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [factory sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [private label setup](https://china-sourcing-agents.com/services/private-label/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/thermal-pos-printer/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/thermal-pos-printer/)
 

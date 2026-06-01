@@ -1,3 +1,9 @@
+---
+title: "Nylon Cable Ties (PA66, UV-Resistant, 100–1,000mm)"
+description: "PA66 nylon cable ties, UV-stabilized, UL 94V-2 rated. Wholesale pricing for electrical, construction, and industrial distribution buyers."
+canonical_url: "https://china-sourcing-agents.com/products/cable-ties-nylon/"
+---
+
 # Nylon Cable Ties (PA66, UV-Resistant, 100–1,000mm)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/cable-ties-nylon/](https://china-sourcing-agents.com/products/cable-ties-nylon/)
@@ -26,5 +32,5 @@ UL 94V-2 means the material self-extinguishes within 30 seconds after removal of
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [audit service](https://china-sourcing-agents.com/services/audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/cable-ties-nylon/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/cable-ties-nylon/)
 

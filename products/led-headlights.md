@@ -1,3 +1,9 @@
+---
+title: "LED Headlight Conversion Kit (H4 / H7 / H11)"
+description: "Plug-and-play LED headlight bulb kit. 6000K white, 10,000lm per pair, CanBus decoder included. CE/EMC certified. Fits most passenger vehicles."
+canonical_url: "https://china-sourcing-agents.com/products/led-headlights/"
+---
+
 # LED Headlight Conversion Kit (H4 / H7 / H11)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/led-headlights/](https://china-sourcing-agents.com/products/led-headlights/)
@@ -26,5 +32,6 @@ LED headlight conversions are one of the highest-volume automotive aftermarket c
 - [sourcing automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [FCC and CE EMC compliance issues](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/led-headlights/)
+- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/led-headlights/)
 

@@ -1,3 +1,9 @@
+---
+title: "CNC Router Machine (3-Axis, 1325 / 2030 mm)"
+description: "3-axis CNC router, 1325/2030mm work area, servo or stepper drive, DSP/SYNTEC controller. CE and ISO 9001 certified, from single unit orders."
+canonical_url: "https://china-sourcing-agents.com/products/cnc-router-machine/"
+---
+
 # CNC Router Machine (3-Axis, 1325 / 2030 mm)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/cnc-router-machine/](https://china-sourcing-agents.com/products/cnc-router-machine/)
@@ -28,5 +34,6 @@ The drive system is the most significant performance and cost variable in a CNC 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/cnc-router-machine/)
+- [industrial IoT page](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/cnc-router-machine/)
 

@@ -1,3 +1,9 @@
+---
+title: "Body Fat Scale OEM (BIA Bioimpedance, Bluetooth/WiFi)"
+description: "OEM body fat scale sourcing from China. BIA bioimpedance, 0.1kg resolution, Bluetooth LE, WiFi, white-label app. FDA/CE positioning guide included."
+canonical_url: "https://china-sourcing-agents.com/products/body-fat-scale-oem/"
+---
+
 # Body Fat Scale OEM (BIA Bioimpedance, Bluetooth/WiFi)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/body-fat-scale-oem/](https://china-sourcing-agents.com/products/body-fat-scale-oem/)
@@ -28,5 +34,6 @@ Body fat scales sold by Chinese OEM factories use bioelectrical impedance analys
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/body-fat-scale-oem/)
+- [wearables](https://china-sourcing-agents.com/industries/wearables/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/body-fat-scale-oem/)
 

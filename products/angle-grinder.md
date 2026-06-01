@@ -1,3 +1,9 @@
+---
+title: "Angle Grinder (115mm / 125mm, 850W–1,400W)"
+description: "OEM angle grinders for EU and global wholesale. GS mark compliance, vibration emission verification, spindle durability checks for professional tools."
+canonical_url: "https://china-sourcing-agents.com/products/angle-grinder/"
+---
+
 # Angle Grinder (115mm / 125mm, 850W–1,400W)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/angle-grinder/](https://china-sourcing-agents.com/products/angle-grinder/)
@@ -26,5 +32,5 @@ EU Directive 2002/44/EC (Physical Agents — Vibration) requires employers to mo
 - [audit and verification service](https://china-sourcing-agents.com/services/audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/angle-grinder/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/angle-grinder/)
 

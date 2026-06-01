@@ -1,3 +1,9 @@
+---
+title: "Wearable Device Manufacturer China: A Sourcing Guide"
+description: "How to manufacture wearables in China — factory selection, FPC sourcing, battery certification (UN 38.3, IEC 62133-2), and FCC/CE/UKCA compliance."
+canonical_url: "https://china-sourcing-agents.com/guides/wearable-manufacturing-china/"
+---
+
 # Wearable Device Manufacturer China: A Sourcing Guide
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/wearable-manufacturing-china/](https://china-sourcing-agents.com/guides/wearable-manufacturing-china/)
@@ -29,5 +35,6 @@ Flexible printed circuits (FPC) are the wiring harness inside every modern weara
 - [sourcing wearables from China](https://china-sourcing-agents.com/industries/wearables/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [lithium cell](https://china-sourcing-agents.com/wiki/lipo-battery-cells/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/wearable-manufacturing-china/)
+- [UN 38.3](https://china-sourcing-agents.com/wiki/un38-3-battery/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/wearable-manufacturing-china/)
 

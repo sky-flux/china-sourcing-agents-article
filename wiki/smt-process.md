@@ -1,3 +1,9 @@
+---
+title: "SMT PCB Assembly: Technical Reference for Buyers"
+description: "SMT assembly for China-sourced PCBAs: solder paste printing, pick-and-place, reflow, and inspection stages — essential before auditing a Chinese factory."
+canonical_url: "https://china-sourcing-agents.com/wiki/smt-process/"
+---
+
 # SMT PCB Assembly: Technical Reference for Buyers
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/smt-process/](https://china-sourcing-agents.com/wiki/smt-process/)
@@ -30,5 +36,6 @@ A metal stencil (laser-cut, 0.12–0.15 mm thick for standard components) is ali
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [Reflow Soldering](https://china-sourcing-agents.com/wiki/reflow-soldering/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/smt-process/)
+- [X-Ray Inspection](https://china-sourcing-agents.com/wiki/x-ray-inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/smt-process/)
 

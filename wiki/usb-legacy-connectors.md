@@ -1,3 +1,9 @@
+---
+title: "USB-A, Micro-B & Mini-B Connectors: China Sourcing Reference"
+description: "USB-A, Micro-B and Mini-B connectors from China: mating cycles, counterfeit USB 3.0 detection, Micro-B retention force testing, and key Chinese suppliers."
+canonical_url: "https://china-sourcing-agents.com/wiki/usb-legacy-connectors/"
+---
+
 # USB-A, Micro-B & Mini-B Connectors: China Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/usb-legacy-connectors/](https://china-sourcing-agents.com/wiki/usb-legacy-connectors/)
@@ -29,5 +35,6 @@ The USB 2.0 specification (480 Mb/s) uses 4 pins: VBUS, D−, D+, GND. USB 3.x a
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [USB-C Connectors Sourcing Reference](https://china-sourcing-agents.com/wiki/usb-c-connectors/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/usb-legacy-connectors/)
+- [IPC-A-610 Workmanship Standards Reference](https://china-sourcing-agents.com/wiki/ipc-a-610/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/usb-legacy-connectors/)
 

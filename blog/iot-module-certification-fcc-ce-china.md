@@ -1,3 +1,9 @@
+---
+title: "IoT Module Certification: FCC, CE, SRRC Explained"
+description: "How FCC, CE RED, and SRRC certification actually work for IoT modules made in China — costs, timelines, and the module shortcut that saves months."
+canonical_url: "https://china-sourcing-agents.com/blog/iot-module-certification-fcc-ce-china/"
+---
+
 # IoT Module Certification: FCC, CE, SRRC Explained
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/iot-module-certification-fcc-ce-china/](https://china-sourcing-agents.com/blog/iot-module-certification-fcc-ce-china/)
@@ -22,6 +28,7 @@ The complexity compounds if you're building the module into a host device — no
 - CE RED — the EU Radio Equipment Directive
 - TELEC and KC — brief coverage for completeness
 - Pre-certified module suppliers vs. custom modules
+- Who actually manages the certification process
 
 ---
 
@@ -30,5 +37,6 @@ The complexity compounds if you're building the module into a host device — no
 - [Japanese distributor was sourcing LoRa gateways](https://china-sourcing-agents.com/cases/jp-distributor-lora-gateway/)
 - [IoT module](https://china-sourcing-agents.com/industries/iot-modules/)
 - [Sourcing & Supplier Matching](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/iot-module-certification-fcc-ce-china/)
+- [Amazon seller IoT sensor case](https://china-sourcing-agents.com/cases/amazon-seller-iot-sensor/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/iot-module-certification-fcc-ce-china/)
 

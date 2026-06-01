@@ -1,3 +1,9 @@
+---
+title: "Kunming Sourcing Agent — Flower Capital & ASEAN Gateway"
+description: "Sourcing agent in Kunming: cut flowers (70% of China's supply), ASEAN trade via China-Laos Railway, non-ferrous metals, and Yunnan health products."
+canonical_url: "https://china-sourcing-agents.com/cities/kunming-sourcing-agent/"
+---
+
 # Kunming Sourcing Agent — Flower Capital & ASEAN Gateway
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/kunming-sourcing-agent/](https://china-sourcing-agents.com/cities/kunming-sourcing-agent/)
@@ -22,6 +28,7 @@ Yunnan's flower dominance is geographic and climatic. The province sits at eleva
 - Yunnan Health Products and TCM
 - Electronics and New Energy Manufacturing
 - Kunming as Southwest China Gateway
+- Practical Notes
 
 ---
 
@@ -29,5 +36,5 @@ Yunnan's flower dominance is geographic and climatic. The province sits at eleva
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/kunming-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/kunming-sourcing-agent/)
 

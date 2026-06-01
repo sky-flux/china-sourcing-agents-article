@@ -1,3 +1,9 @@
+---
+title: "150cc Petrol Motorcycle (OEM / White Label)"
+description: "150cc air-cooled petrol motorcycle: CDI ignition, drum or disc brakes, 5-speed gearbox. OEM from 50 units for Africa, Latin America, Southeast Asia."
+canonical_url: "https://china-sourcing-agents.com/products/petrol-motorcycle-oem/"
+---
+
 # 150cc Petrol Motorcycle (OEM / White Label)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/petrol-motorcycle-oem/](https://china-sourcing-agents.com/products/petrol-motorcycle-oem/)
@@ -27,5 +33,6 @@ Emission certification requirements differ substantially by destination market, 
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [automotive electronics and vehicle components](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/petrol-motorcycle-oem/)
+- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/petrol-motorcycle-oem/)
 

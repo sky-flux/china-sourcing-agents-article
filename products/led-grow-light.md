@@ -1,3 +1,9 @@
+---
+title: "Full-Spectrum LED Grow Light"
+description: "LED grow lights from China. 200–1000W, 2.7–3.1 μmol/J efficacy, Samsung LM301H/Osram SSL80 top-bin LEDs. IP65, 0–10V dimming. Greenhouse & vertical farm."
+canonical_url: "https://china-sourcing-agents.com/products/led-grow-light/"
+---
+
 # Full-Spectrum LED Grow Light
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/led-grow-light/](https://china-sourcing-agents.com/products/led-grow-light/)
@@ -26,5 +32,5 @@ Light quantity for plant growth is measured in photosynthetically active radiati
 ## Further reading
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/led-grow-light/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/led-grow-light/)
 

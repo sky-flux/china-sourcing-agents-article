@@ -1,3 +1,9 @@
+---
+title: "Electric Motorcycle / E-Moped (OEM / ODM)"
+description: "3–10kW mid-drive or hub-motor e-motorcycle with 60V/72V Li pack, CAN-bus dash, and L1e/L3e type approval. OEM from 100 units for EU/US distributors."
+canonical_url: "https://china-sourcing-agents.com/products/electric-motorcycle-oem/"
+---
+
 # Electric Motorcycle / E-Moped (OEM / ODM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/electric-motorcycle-oem/](https://china-sourcing-agents.com/products/electric-motorcycle-oem/)
@@ -27,5 +33,6 @@ European vehicle type approval is mandatory for road-legal electric motorcycles 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [automotive electronics industry page](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [power electronics page](https://china-sourcing-agents.com/industries/power-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/electric-motorcycle-oem/)
+- [audit service](https://china-sourcing-agents.com/services/audit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/electric-motorcycle-oem/)
 

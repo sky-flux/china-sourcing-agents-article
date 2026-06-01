@@ -1,3 +1,9 @@
+---
+title: "China Quality Inspection — Pre-Production & Pre-Shipment QC"
+description: "Pre-production, during-production, and pre-shipment QC in China. Three checkpoints that catch defects before they ship."
+canonical_url: "https://china-sourcing-agents.com/services/inspection/"
+---
+
 # China Quality Inspection — Pre-Production & Pre-Shipment QC
 
 > **Read the full guide**: [https://china-sourcing-agents.com/services/inspection/](https://china-sourcing-agents.com/services/inspection/)
@@ -30,5 +36,6 @@ At 20–30% production completion. We pull samples from the line, run functional
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [smart home devices](https://china-sourcing-agents.com/industries/smart-home/)
 - [Bluetooth speaker project](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/services/inspection/)
+- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/services/inspection/)
 

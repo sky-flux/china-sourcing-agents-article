@@ -1,3 +1,9 @@
+---
+title: "RC Off-Road Car (1:10 Scale, Brushless, 4WD)"
+description: "OEM 1:10 brushless RC off-road cars, EN 71 toy safety and FCC 2.4GHz certified. Verified LiPo battery safety for EU and US wholesale buyers."
+canonical_url: "https://china-sourcing-agents.com/products/rc-car-wholesale/"
+---
+
 # RC Off-Road Car (1:10 Scale, Brushless, 4WD)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/rc-car-wholesale/](https://china-sourcing-agents.com/products/rc-car-wholesale/)
@@ -26,5 +32,6 @@ The 2.4GHz radio transmitter in every RC car requires FCC ID authorization for s
 - [sourcing RC cars](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [CE and FCC certification guide](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/rc-car-wholesale/)
+- [quality inspection](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/rc-car-wholesale/)
 

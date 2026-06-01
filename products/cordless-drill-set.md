@@ -1,3 +1,9 @@
+---
+title: "Cordless Drill / Driver Set (18V / 20V Max)"
+description: "OEM cordless drill sets with 18V/20V Li-ion batteries. Engineer-verified torque, CE/UL compliance, and battery cell quality checks for wholesale buyers."
+canonical_url: "https://china-sourcing-agents.com/products/cordless-drill-set/"
+---
+
 # Cordless Drill / Driver Set (18V / 20V Max)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/cordless-drill-set/](https://china-sourcing-agents.com/products/cordless-drill-set/)
@@ -26,5 +32,5 @@ No-load RPM figures are easy to hit. Torque under actual load is where cheap dri
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [audit service](https://china-sourcing-agents.com/services/audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/cordless-drill-set/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/cordless-drill-set/)
 

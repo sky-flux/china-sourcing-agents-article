@@ -1,3 +1,9 @@
+---
+title: "Electric Scooter (350W–500W, 48V, Foldable)"
+description: "OEM electric scooters, EN 17128 PLEV compliant for EU. UN 38.3 battery certification, IP54 weatherproofing, and solid vs pneumatic tire guidance."
+canonical_url: "https://china-sourcing-agents.com/products/electric-scooter/"
+---
+
 # Electric Scooter (350W–500W, 48V, Foldable)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/electric-scooter/](https://china-sourcing-agents.com/products/electric-scooter/)
@@ -26,5 +32,5 @@ UN 38.3 certification is the mandatory test for lithium batteries transported by
 - [audit service](https://china-sourcing-agents.com/services/audit/)
 - [automotive electronics industry page](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/electric-scooter/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/electric-scooter/)
 

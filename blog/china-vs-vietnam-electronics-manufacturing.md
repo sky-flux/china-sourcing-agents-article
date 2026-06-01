@@ -1,3 +1,9 @@
+---
+title: "China vs Vietnam Electronics: Tariffs and Luxshare Effect"
+description: "Luxshare, German buyer distress, and the EU tariff gap: three forces reshaping the China vs Vietnam manufacturing decision in 2026."
+canonical_url: "https://china-sourcing-agents.com/blog/china-vs-vietnam-electronics-manufacturing/"
+---
+
 # China vs Vietnam Electronics: Tariffs and Luxshare Effect
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/china-vs-vietnam-electronics-manufacturing/](https://china-sourcing-agents.com/blog/china-vs-vietnam-electronics-manufacturing/)
@@ -29,5 +35,6 @@ Luxshare is a $15B+ company with roughly 250,000 employees. Its Vietnam faciliti
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [consumer electronics industry page](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [EU electronics import guide](https://china-sourcing-agents.com/guides/import-electronics-china-eu/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/china-vs-vietnam-electronics-manufacturing/)
+- [real case study of Bluetooth speaker production](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/china-vs-vietnam-electronics-manufacturing/)
 

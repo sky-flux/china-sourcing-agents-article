@@ -1,3 +1,9 @@
+---
+title: "Prismatic LFP Cell (50Ah–304Ah, CATL / EVE / CALB Grade A)"
+description: "Prismatic LiFePO4 cells sourced direct from CATL, EVE, and CALB. Grade A verified, 3,000–6,000 cycle life, UN 38.3 certified. 50Ah–304Ah capacity range."
+canonical_url: "https://china-sourcing-agents.com/products/prismatic-lfp-cell/"
+---
+
 # Prismatic LFP Cell (50Ah–304Ah, CATL / EVE / CALB Grade A)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/prismatic-lfp-cell/](https://china-sourcing-agents.com/products/prismatic-lfp-cell/)
@@ -28,5 +34,5 @@ The prismatic LFP cell market in China operates across three distinct quality ti
 - [quality inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [cell sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit and verification service](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/prismatic-lfp-cell/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/prismatic-lfp-cell/)
 

@@ -1,3 +1,9 @@
+---
+title: "12V LiFePO4 Battery OEM Manufacturer China"
+description: "12V LiFePO4 lithium battery OEM china, drop-in lead-acid replacement, built-in BMS, UN38.3, IEC 62133, CE. 20-unit MOQ from verified factories."
+canonical_url: "https://china-sourcing-agents.com/products/12v-lifepo4-battery/"
+---
+
 # 12V LiFePO4 Battery OEM Manufacturer China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/12v-lifepo4-battery/](https://china-sourcing-agents.com/products/12v-lifepo4-battery/)
@@ -26,5 +32,5 @@ The single largest quality variable in Chinese 12V LiFePO4 packs is **cell grade
 
 - [sourcing and supplier matching](https://china-sourcing-agents.com/services/sourcing/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/12v-lifepo4-battery/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/12v-lifepo4-battery/)
 

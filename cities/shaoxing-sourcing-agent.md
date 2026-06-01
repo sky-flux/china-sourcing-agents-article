@@ -1,3 +1,9 @@
+---
+title: "Shaoxing Sourcing Agent — Textile Market & Fabric Hub"
+description: "China sourcing agent in Shaoxing. Keqiao: world's largest fabric market. Apparel fabrics, home textiles, curtains, and OEKO-TEX certified materials."
+canonical_url: "https://china-sourcing-agents.com/cities/shaoxing-sourcing-agent/"
+---
+
 # Shaoxing Sourcing Agent — Textile Market & Fabric Hub
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/shaoxing-sourcing-agent/](https://china-sourcing-agents.com/cities/shaoxing-sourcing-agent/)
@@ -25,5 +31,5 @@ The core sourcing categories in Shaoxing are textiles in their various forms. Th
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/shaoxing-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/shaoxing-sourcing-agent/)
 

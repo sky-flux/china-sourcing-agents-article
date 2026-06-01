@@ -1,3 +1,9 @@
+---
+title: "Guangzhou Sourcing Agent — Canton Fair & Electronics Hub"
+description: "Engineer-led China sourcing in Guangzhou: Canton Fair, apparel, beauty OEM, automotive electronics, and Nansha Port logistics for US/EU buyers."
+canonical_url: "https://china-sourcing-agents.com/cities/guangzhou-sourcing-agent/"
+---
+
 # Guangzhou Sourcing Agent — Canton Fair & Electronics Hub
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/guangzhou-sourcing-agent/](https://china-sourcing-agents.com/cities/guangzhou-sourcing-agent/)
@@ -22,6 +28,8 @@ Guangzhou's electronics profile is distinct from Shenzhen and Dongguan. The city
 - Beauty and Personal Care: Baiyun Beauty Bay
 - Watches, Toys, and Gifts
 - Food and Health Products
+- Home Decor and Garden Supplies
+- Canton Fair Sourcing: How to Use It Effectively
 
 ---
 
@@ -30,5 +38,6 @@ Guangzhou's electronics profile is distinct from Shenzhen and Dongguan. The city
 - [Automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [Consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/guangzhou-sourcing-agent/)
+- [Industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/guangzhou-sourcing-agent/)
 

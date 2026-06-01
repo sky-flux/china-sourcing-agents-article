@@ -1,3 +1,9 @@
+---
+title: "Industrial Ethernet Switches: Sourcing Reference"
+description: "Industrial Ethernet switches from China: managed vs unmanaged, DIN rail, IEC 61850-3, IEEE 1588v2 PTP, EMC levels, and evaluating Chinese vendors."
+canonical_url: "https://china-sourcing-agents.com/wiki/industrial-ethernet-switches/"
+---
+
 # Industrial Ethernet Switches: Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/industrial-ethernet-switches/](https://china-sourcing-agents.com/wiki/industrial-ethernet-switches/)
@@ -22,6 +28,7 @@ Beyond environmental hardening, industrial switches add network features relevan
 - Chinese and International Manufacturers
 - Sourcing from China: What to Look For
 - Common Issues
+- Certifications Required
 
 ---
 
@@ -30,5 +37,6 @@ Beyond environmental hardening, industrial switches add network features relevan
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/industrial-ethernet-switches/)
+- [Industrial IoT Hardware Sourcing Guide](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/industrial-ethernet-switches/)
 

@@ -1,3 +1,9 @@
+---
+title: "China Electronics Market Websites"
+description: "A comparison of China electronics sourcing platforms — what each is for, who uses them, and how to avoid the common mistakes on each."
+canonical_url: "https://china-sourcing-agents.com/guides/china-electronics-market-websites/"
+---
+
 # China Electronics Market Websites
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/china-electronics-market-websites/](https://china-sourcing-agents.com/guides/china-electronics-market-websites/)
@@ -22,6 +28,8 @@ The table above is the answer most buyers need. The rest of this article explain
 - Global Sources: trade show quality, online
 - Made-in-China.com: industrial and components focus
 - DHgate and AliExpress: retail platforms, not B2B
+- Direct factory websites: found last, not first
+- How to use these platforms in sequence
 
 ---
 
@@ -30,5 +38,6 @@ The table above is the answer most buyers need. The rest of this article explain
 - [Alibaba vs 1688 comparison](https://china-sourcing-agents.com/guides/alibaba-vs-1688/)
 - [IoT module and component sourcing](https://china-sourcing-agents.com/industries/iot-modules/)
 - [sourcing agent](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/china-electronics-market-websites/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-electronics-market-websites/)
 

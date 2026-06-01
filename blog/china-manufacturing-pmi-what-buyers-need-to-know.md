@@ -1,3 +1,9 @@
+---
+title: "China Mfg PMI: What Electronics Buyers Need to Know"
+description: "China's PMI data moves markets and headlines. Here is what it means in practice for hardware buyers placing orders — and what it doesn't."
+canonical_url: "https://china-sourcing-agents.com/blog/china-manufacturing-pmi-what-buyers-need-to-know/"
+---
+
 # China Mfg PMI: What Electronics Buyers Need to Know
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/china-manufacturing-pmi-what-buyers-need-to-know/](https://china-sourcing-agents.com/blog/china-manufacturing-pmi-what-buyers-need-to-know/)
@@ -28,5 +34,5 @@ The scale is zero-anchored at 50. Above 50 means more survey respondents reporte
 
 - [China electronics industry overview](https://china-sourcing-agents.com/guides/china-electronics-industry-overview/)
 - [2026 tariff guide](https://china-sourcing-agents.com/blog/china-electronics-tariff-2026-guide/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/china-manufacturing-pmi-what-buyers-need-to-know/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/china-manufacturing-pmi-what-buyers-need-to-know/)
 

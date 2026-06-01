@@ -1,3 +1,9 @@
+---
+title: "Rotary Tiller / Cultivator (OEM, Cat I / Cat II, 540 PTO)"
+description: "Rotary tiller and cultivator from China. 1.0–2.0m width, Cat I/II 3-point hitch, 540 PTO. L-blade and C-blade options. For 18–80HP tractors."
+canonical_url: "https://china-sourcing-agents.com/products/rotary-tiller-cultivator/"
+---
+
 # Rotary Tiller / Cultivator (OEM, Cat I / Cat II, 540 PTO)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/rotary-tiller-cultivator/](https://china-sourcing-agents.com/products/rotary-tiller-cultivator/)
@@ -26,5 +32,5 @@ The power take-off (PTO) shaft and 3-point hitch category are the two mechanical
 ## Further reading
 
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/rotary-tiller-cultivator/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/rotary-tiller-cultivator/)
 

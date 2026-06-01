@@ -1,3 +1,9 @@
+---
+title: "Harbin Sourcing Agent — Power Machinery & Northeast Industry"
+description: "Engineer-led sourcing in Harbin: power generation equipment, steam turbines, large generators, and cold-climate industrial hardware from northern China."
+canonical_url: "https://china-sourcing-agents.com/cities/harbin-sourcing-agent/"
+---
+
 # Harbin Sourcing Agent — Power Machinery & Northeast Industry
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/harbin-sourcing-agent/](https://china-sourcing-agents.com/cities/harbin-sourcing-agent/)
@@ -29,5 +35,5 @@ Within the large machinery category, commercially accessible products from Harbi
 - [Factory audits](https://china-sourcing-agents.com/services/audit/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/harbin-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/harbin-sourcing-agent/)
 

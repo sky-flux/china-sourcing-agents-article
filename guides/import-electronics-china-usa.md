@@ -1,3 +1,9 @@
+---
+title: "Import Electronics from China to USA: 2026 Tariff Guide"
+description: "A practical guide to importing electronics from China to the US — Section 301 tariffs, FCC requirements, customs clearance, and landed cost calculation."
+canonical_url: "https://china-sourcing-agents.com/guides/import-electronics-china-usa/"
+---
+
 # Import Electronics from China to USA: 2026 Tariff Guide
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/import-electronics-china-usa/](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
@@ -22,6 +28,8 @@ This guide covers each layer in plain terms, with actual numbers. For the upstre
 - Shipping options and transit time
 - Multi-market certification: FCC is not the only requirement
 - Common mistakes first-time US importers make
+- What to do before your first shipment
+- The cost case in 2026: why China sourcing holds despite Section 301 tariffs
 
 ---
 
@@ -30,5 +38,6 @@ This guide covers each layer in plain terms, with actual numbers. For the upstre
 - [full sourcing guide](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [China electronics tariff guide](https://china-sourcing-agents.com/blog/china-electronics-tariff-2026-guide/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
+- [logistics coordination](https://china-sourcing-agents.com/services/logistics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
 

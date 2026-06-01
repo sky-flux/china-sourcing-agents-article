@@ -1,3 +1,9 @@
+---
+title: "Lead-Free Brass Faucet / Mixer Tap"
+description: "Brass faucet/mixer tap OEM from China. Lead-free alloy, NSF/ANSI 61, EN 817, WRAS. PVD chrome and matte black finish available."
+canonical_url: "https://china-sourcing-agents.com/products/brass-faucet-mixer-tap/"
+---
+
 # Lead-Free Brass Faucet / Mixer Tap
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/brass-faucet-mixer-tap/](https://china-sourcing-agents.com/products/brass-faucet-mixer-tap/)
@@ -23,5 +29,5 @@ The standard alloy for most Chinese faucets is CW617N (CuZn40Pb2, approximately 
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/products/brass-faucet-mixer-tap/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/products/brass-faucet-mixer-tap/)
 

@@ -1,3 +1,9 @@
+---
+title: "GaN Charger ICs for Power Electronics OEM"
+description: "GaN charger ICs for OEM manufacturing in China: Navitas, Innoscience, Power Integrations topologies, USB PD 3.1 EPR, BOM cost, and UL 62368-1 compliance."
+canonical_url: "https://china-sourcing-agents.com/wiki/gan-charger-ic/"
+---
+
 # GaN Charger ICs for Power Electronics OEM
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/gan-charger-ic/](https://china-sourcing-agents.com/wiki/gan-charger-ic/)
@@ -22,6 +28,7 @@ GaN FETs are typically integrated with gate drivers and control logic in a singl
 - BOM Cost Breakdown (65W Single-Port GaN Charger)
 - Sourcing from China: What to Look For
 - Common Issues
+- Certifications Required
 
 ---
 
@@ -30,5 +37,6 @@ GaN FETs are typically integrated with gate drivers and control logic in a singl
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/gan-charger-ic/)
+- [GaN Charger OEM in China: Complete Guide](https://china-sourcing-agents.com/guides/gan-charger-oem-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/gan-charger-ic/)
 

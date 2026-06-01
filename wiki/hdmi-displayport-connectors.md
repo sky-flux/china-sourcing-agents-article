@@ -1,3 +1,9 @@
+---
+title: "HDMI & DisplayPort Connectors: China Sourcing Reference"
+description: "HDMI and DisplayPort connectors from China: HDMI licensing, version bandwidth, royalty-free DP advantage, impedance specs, and high-speed failure modes."
+canonical_url: "https://china-sourcing-agents.com/wiki/hdmi-displayport-connectors/"
+---
+
 # HDMI & DisplayPort Connectors: China Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/hdmi-displayport-connectors/](https://china-sourcing-agents.com/wiki/hdmi-displayport-connectors/)
@@ -29,5 +35,6 @@ HDMI and DisplayPort are the two dominant video interfaces in consumer and profe
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/hdmi-displayport-connectors/)
+- [ESD Protection Components Sourcing Reference](https://china-sourcing-agents.com/wiki/esd-protection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/hdmi-displayport-connectors/)
 

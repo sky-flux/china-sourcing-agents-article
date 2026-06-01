@@ -1,3 +1,9 @@
+---
+title: "Custom Canvas / Non-Woven Tote Bag (Logo Print)"
+description: "OEM custom tote bags in canvas, non-woven PP, and RPET with screen print or embroidery. OEKO-TEX, GRS, and REACH certified for wholesale buyers."
+canonical_url: "https://china-sourcing-agents.com/products/custom-tote-bag/"
+---
+
 # Custom Canvas / Non-Woven Tote Bag (Logo Print)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/custom-tote-bag/](https://china-sourcing-agents.com/products/custom-tote-bag/)
@@ -26,5 +32,5 @@ RPET (recycled PET from plastic bottles) is increasingly demanded by ESG-conscio
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [audit service](https://china-sourcing-agents.com/services/audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/custom-tote-bag/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/custom-tote-bag/)
 

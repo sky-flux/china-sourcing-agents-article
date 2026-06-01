@@ -1,3 +1,9 @@
+---
+title: "UN 38.3 Battery Testing: 8 Tests, Labs & Doc Requirements"
+description: "UN 38.3 for lithium batteries shipped by air from China: 8 mandatory tests, report ownership, accredited Chinese labs, costs, and documentation failures."
+canonical_url: "https://china-sourcing-agents.com/wiki/un38-3-battery/"
+---
+
 # UN 38.3 Battery Testing: 8 Tests, Labs & Doc Requirements
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/un38-3-battery/](https://china-sourcing-agents.com/wiki/un38-3-battery/)
@@ -30,5 +36,6 @@ The requirement enters regulation through:
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [wearable](https://china-sourcing-agents.com/industries/wearables/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/un38-3-battery/)
+- [IEC 62133 Battery Safety Certification](https://china-sourcing-agents.com/wiki/iec-62133/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/un38-3-battery/)
 

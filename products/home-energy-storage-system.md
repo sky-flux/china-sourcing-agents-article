@@ -1,3 +1,9 @@
+---
+title: "Home Energy Storage System (5kWh–20kWh LFP, OEM)"
+description: "LFP residential battery storage sourcing from China. 5–20kWh wall-mount or floor-stand, OEM branding, IEC 62619 and UL 9540 certification support."
+canonical_url: "https://china-sourcing-agents.com/products/home-energy-storage-system/"
+---
+
 # Home Energy Storage System (5kWh–20kWh LFP, OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/home-energy-storage-system/](https://china-sourcing-agents.com/products/home-energy-storage-system/)
@@ -28,5 +34,6 @@ This is the most common compliance mistake Western buyers make when sourcing res
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/home-energy-storage-system/)
+- [18650/21700 battery cell sourcing page](https://china-sourcing-agents.com/products/en/18650-21700-battery-cell/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/home-energy-storage-system/)
 

@@ -1,3 +1,9 @@
+---
+title: "Top LED & Solar Imports from China: Summer 2026"
+description: "Seven LED and solar categories to import from China in summer 2026 — MOQ ranges, factory prices, CE/FCC certification costs, and US tariff impact."
+canonical_url: "https://china-sourcing-agents.com/blog/led-solar-products-import-china-summer-2026/"
+---
+
 # Top LED & Solar Imports from China: Summer 2026
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/led-solar-products-import-china-summer-2026/](https://china-sourcing-agents.com/blog/led-solar-products-import-china-summer-2026/)
@@ -22,8 +28,10 @@ One context note before the products: US importers face stacked tariffs on most 
 - 4. Portable Foldable Solar Panels (10W–100W)
 - 5. Outdoor LED String Lights (G40/G50 Edison and Smart RGBW)
 - 6. Solar-Powered Portable Power Stations (&lt;500Wh)
+- 7. LED Camping Lanterns (Rechargeable, Solar Top-Up)
+- General Sourcing Framework for This Category
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/blog/led-solar-products-import-china-summer-2026/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/blog/led-solar-products-import-china-summer-2026/)
 

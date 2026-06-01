@@ -1,3 +1,9 @@
+---
+title: "Agricultural Drone Sprayer"
+description: "Agricultural drone sprayer from China. 10–30L tank, RTK GPS ±2cm, centrifugal or hydraulic nozzles, 4-direction avoidance. CAAC RPAS certified."
+canonical_url: "https://china-sourcing-agents.com/products/agricultural-drone-sprayer/"
+---
+
 # Agricultural Drone Sprayer
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/agricultural-drone-sprayer/](https://china-sourcing-agents.com/products/agricultural-drone-sprayer/)
@@ -26,5 +32,5 @@ Agricultural drone sprayers occupy a distinct regulatory category from consumer 
 ## Further reading
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/agricultural-drone-sprayer/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/agricultural-drone-sprayer/)
 

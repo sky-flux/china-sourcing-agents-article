@@ -1,3 +1,9 @@
+---
+title: "LoRa Module (SX1262, 868 MHz / 915 MHz)"
+description: "LoRa module SX1262 for EU 868 MHz and US 915 MHz bands. CE/RED and FCC certified. OEM from 500 units for IoT networks and LPWAN gateways."
+canonical_url: "https://china-sourcing-agents.com/products/lora-module-sx1262/"
+---
+
 # LoRa Module (SX1262, 868 MHz / 915 MHz)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/lora-module-sx1262/](https://china-sourcing-agents.com/products/lora-module-sx1262/)
@@ -28,5 +34,6 @@ LoRa deployments use different frequency bands depending on region, and each ban
 - [sourcing IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [CE and FCC certification for Chinese electronics](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/lora-module-sx1262/)
+- [industrial IoT hardware sourcing](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/lora-module-sx1262/)
 

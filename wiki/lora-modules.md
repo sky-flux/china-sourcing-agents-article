@@ -1,3 +1,9 @@
+---
+title: "LoRa & LoRaWAN Modules: China Sourcing Reference"
+description: "LoRa and LoRaWAN modules from China: SX1276 vs SX1262 chipsets, regional frequency bands, FCC/CE/TELEC certification, and supplier evaluation."
+canonical_url: "https://china-sourcing-agents.com/wiki/lora-modules/"
+---
+
 # LoRa & LoRaWAN Modules: China Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/lora-modules/](https://china-sourcing-agents.com/wiki/lora-modules/)
@@ -30,5 +36,6 @@ Typical link budget: 154–157 dB with SX1262. Maximum range in open terrain: 10
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/lora-modules/)
+- [Industrial IoT Hardware Sourcing Guide](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/lora-modules/)
 

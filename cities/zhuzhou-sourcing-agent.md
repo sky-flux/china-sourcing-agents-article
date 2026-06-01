@@ -1,3 +1,9 @@
+---
+title: "Zhuzhou Sourcing Agent — IGBT Chips & Rail Electronics"
+description: "China sourcing agent in Zhuzhou, Hunan: CRRC Times Electric IGBT modules, cemented carbide tools, Bi/In/Ge metals, and industrial power electronics."
+canonical_url: "https://china-sourcing-agents.com/cities/zhuzhou-sourcing-agent/"
+---
+
 # Zhuzhou Sourcing Agent — IGBT Chips & Rail Electronics
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/zhuzhou-sourcing-agent/](https://china-sourcing-agents.com/cities/zhuzhou-sourcing-agent/)
@@ -30,5 +36,5 @@ CRRC Times Electric (listed on the Hong Kong Stock Exchange as 3898.HK) manufact
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [industrial IoT hardware sourcing guide](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/zhuzhou-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/zhuzhou-sourcing-agent/)
 

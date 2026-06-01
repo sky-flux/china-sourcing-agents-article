@@ -1,3 +1,9 @@
+---
+title: "Dash Camera (4K Front + 1080P Rear)"
+description: "Dual-channel dash cam with 4K Sony sensor front camera, 1080P rear, built-in WiFi and GPS, parking mode, and wide dynamic range. CE/FCC certified."
+canonical_url: "https://china-sourcing-agents.com/products/dash-cam/"
+---
+
 # Dash Camera (4K Front + 1080P Rear)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/dash-cam/](https://china-sourcing-agents.com/products/dash-cam/)
@@ -26,5 +32,5 @@ Dash cameras are video evidence devices — image quality under adverse conditio
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/dash-cam/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/dash-cam/)
 

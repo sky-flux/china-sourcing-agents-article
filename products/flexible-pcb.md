@@ -1,3 +1,9 @@
+---
+title: "Flexible PCB (FPC) — Single & Double Layer"
+description: "Single and double layer FPC in polyimide, ZIF compatible, defined bend radius. IPC-6013. Prototype from 100, production from 1,000."
+canonical_url: "https://china-sourcing-agents.com/products/flexible-pcb/"
+---
+
 # Flexible PCB (FPC) — Single & Double Layer
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/flexible-pcb/](https://china-sourcing-agents.com/products/flexible-pcb/)
@@ -28,5 +34,6 @@ Practical calculation: a single-layer FPC with 25µm PI base + 35µm copper + 25
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [wearable device](https://china-sourcing-agents.com/industries/wearables/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/flexible-pcb/)
+- [PCB assembly guide](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/flexible-pcb/)
 

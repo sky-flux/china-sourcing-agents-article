@@ -1,3 +1,9 @@
+---
+title: "Manzhouli Sourcing Agent — Land Port & Railway Corridor"
+description: "Logistics guide for Manzhouli, Inner Mongolia. China's busiest China–Russia land crossing, Trans-Siberian Railway & China–Europe freight rail hub."
+canonical_url: "https://china-sourcing-agents.com/cities/manzhouli-sourcing-agent/"
+---
+
 # Manzhouli Sourcing Agent — Land Port & Railway Corridor
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/manzhouli-sourcing-agent/](https://china-sourcing-agents.com/cities/manzhouli-sourcing-agent/)
@@ -25,5 +31,5 @@ Goods carried on Manzhouli-routed CR Express trains include:
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/manzhouli-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/manzhouli-sourcing-agent/)
 

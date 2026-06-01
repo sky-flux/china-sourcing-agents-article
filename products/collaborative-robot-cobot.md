@@ -1,3 +1,9 @@
+---
+title: "Collaborative Robot / Cobot"
+description: "CE-certified collaborative robots from China. 3–20kg payload, ±0.02–0.05mm repeatability, ISO/TS 15066 compliant. OEM from AUBO, JAKA, Elite."
+canonical_url: "https://china-sourcing-agents.com/products/collaborative-robot-cobot/"
+---
+
 # Collaborative Robot / Cobot
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/collaborative-robot-cobot/](https://china-sourcing-agents.com/products/collaborative-robot-cobot/)
@@ -28,5 +34,6 @@ ISO/TS 15066 defines the power-and-force limits for collaborative robot operatio
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [audit service](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/collaborative-robot-cobot/)
+- [industrial IoT sourcing](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/collaborative-robot-cobot/)
 

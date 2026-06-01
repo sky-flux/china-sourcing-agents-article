@@ -1,3 +1,9 @@
+---
+title: "RJ45 Ethernet Connectors: China Sourcing Reference"
+description: "RJ45 connectors from China: Cat5e/Cat6/Cat6A jack specs, integrated magnetics quality, PoE contact ratings, industrial IP67 variants, and failure modes."
+canonical_url: "https://china-sourcing-agents.com/wiki/rj45-ethernet-connectors/"
+---
+
 # RJ45 Ethernet Connectors: China Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/rj45-ethernet-connectors/](https://china-sourcing-agents.com/wiki/rj45-ethernet-connectors/)
@@ -29,5 +35,6 @@ PCB-mount variants cover vertical (upright), horizontal, and right-angle orienta
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/rj45-ethernet-connectors/)
+- [Industrial Ethernet Switches Sourcing Reference](https://china-sourcing-agents.com/wiki/industrial-ethernet-switches/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/rj45-ethernet-connectors/)
 

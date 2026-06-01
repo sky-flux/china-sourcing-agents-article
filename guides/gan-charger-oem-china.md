@@ -1,3 +1,9 @@
+---
+title: "GaN Charger OEM China: Sourcing Guide"
+description: "How to source GaN chargers from China — UL 62368-1 certification, GaN IC authenticity, DOE Level VI efficiency, and multi-market CE/UKCA/PSE compliance."
+canonical_url: "https://china-sourcing-agents.com/guides/gan-charger-oem-china/"
+---
+
 # GaN Charger OEM China: Sourcing Guide
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/gan-charger-oem-china/](https://china-sourcing-agents.com/guides/gan-charger-oem-china/)
@@ -22,6 +28,7 @@ A GaN charger sold in five markets — US, EU, UK, Japan, Korea — requires fiv
 - 4. USB Power Delivery compliance
 - 5. Multi-market certification timeline planning
 - 6. Private label considerations
+- Getting the compliance process right from day one
 
 ---
 
@@ -30,5 +37,6 @@ A GaN charger sold in five markets — US, EU, UK, Japan, Korea — requires fiv
 - [GaN IC](https://china-sourcing-agents.com/wiki/gan-charger-ic/)
 - [China Sourcing & Supplier Matching](https://china-sourcing-agents.com/services/sourcing/)
 - [power electronics sourcing](https://china-sourcing-agents.com/industries/power-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/gan-charger-oem-china/)
+- [how an EU startup took a Bluetooth speaker from crowdfunding to 5,000-unit production](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/gan-charger-oem-china/)
 

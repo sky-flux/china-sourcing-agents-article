@@ -1,3 +1,9 @@
+---
+title: "ESP32 Module Variants: Sourcing Guide for Hardware Engineers"
+description: "ESP32 module families compared for China sourcing: ESP32 vs S3 vs C3 vs H2, WROOM vs WROVER, certified suppliers, and clone module failure modes to avoid."
+canonical_url: "https://china-sourcing-agents.com/wiki/esp32-modules/"
+---
+
 # ESP32 Module Variants: Sourcing Guide for Hardware Engineers
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/esp32-modules/](https://china-sourcing-agents.com/wiki/esp32-modules/)
@@ -22,6 +28,7 @@ Espressif's total shipped volume exceeds 1 billion chips as of 2024. This scale 
 - Certified Suppliers
 - Sourcing from China: What to Look For
 - Common Issues
+- Certifications Required
 
 ---
 
@@ -30,5 +37,6 @@ Espressif's total shipped volume exceeds 1 billion chips as of 2024. This scale 
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/esp32-modules/)
+- [How to Source Electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/esp32-modules/)
 

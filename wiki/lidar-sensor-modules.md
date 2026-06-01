@@ -1,3 +1,9 @@
+---
+title: "LiDAR Sensor Modules: Spinning, Solid-State & MEMS"
+description: "LiDAR modules from Chinese manufacturers: Hesai, Livox, Robosense specs, 905nm vs 1550nm, ToF vs FMCW, export control risks, and ROS integration."
+canonical_url: "https://china-sourcing-agents.com/wiki/lidar-sensor-modules/"
+---
+
 # LiDAR Sensor Modules: Spinning, Solid-State & MEMS
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/lidar-sensor-modules/](https://china-sourcing-agents.com/wiki/lidar-sensor-modules/)
@@ -30,5 +36,6 @@ LiDAR (Light Detection and Ranging) sensors measure distance by timing the round
 - [77GHz FMCW radar](https://china-sourcing-agents.com/wiki/adas-77ghz-radar/)
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/lidar-sensor-modules/)
+- [sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/lidar-sensor-modules/)
 

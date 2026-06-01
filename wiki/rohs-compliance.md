@@ -1,3 +1,9 @@
+---
+title: "RoHS 2 Compliance: Restricted Substances for Electronics"
+description: "RoHS 2 compliance for electronics from China: 10 restricted substances, concentration limits, exemptions, valid declarations, and testing options."
+canonical_url: "https://china-sourcing-agents.com/wiki/rohs-compliance/"
+---
+
 # RoHS 2 Compliance: Restricted Substances for Electronics
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/rohs-compliance/](https://china-sourcing-agents.com/wiki/rohs-compliance/)
@@ -30,5 +36,6 @@ RoHS applies to any manufacturer, importer, or distributor placing EEE on the EU
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/rohs-compliance/)
+- [REACH SVHC Compliance](https://china-sourcing-agents.com/wiki/reach-compliance/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/rohs-compliance/)
 

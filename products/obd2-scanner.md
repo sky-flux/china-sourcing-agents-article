@@ -1,3 +1,9 @@
+---
+title: "OBD2 Bluetooth Diagnostic Scanner"
+description: "Bluetooth 4.0 OBD2 scanner: CAN, ISO 9141-2, SAE J1850 protocols. iOS/Android, live data streaming, DTC read/clear. CE/FCC certified from China."
+canonical_url: "https://china-sourcing-agents.com/products/obd2-scanner/"
+---
+
 # OBD2 Bluetooth Diagnostic Scanner
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/obd2-scanner/](https://china-sourcing-agents.com/products/obd2-scanner/)
@@ -26,5 +32,6 @@ OBD2 scanners are software-as-much-as-hardware products. When sourcing automotiv
 - [sourcing automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [private-label](https://china-sourcing-agents.com/services/private-label/)
 - [FCC and CE certification](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/obd2-scanner/)
+- [sourcing evaluation](https://china-sourcing-agents.com/services/sourcing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/obd2-scanner/)
 

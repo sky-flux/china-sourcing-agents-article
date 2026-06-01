@@ -1,3 +1,9 @@
+---
+title: "Wireless Charger Pad (Qi2 / MagSafe-Compatible OEM)"
+description: "Qi2 and Qi 1.x wireless charger pad OEM from China. 15W max, MPP coil alignment, FCC/CE/RoHS certified. MOQ 500, custom casing & coil available."
+canonical_url: "https://china-sourcing-agents.com/products/wireless-charger-pad/"
+---
+
 # Wireless Charger Pad (Qi2 / MagSafe-Compatible OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/wireless-charger-pad/](https://china-sourcing-agents.com/products/wireless-charger-pad/)
@@ -28,5 +34,6 @@ For Android-only or mixed-market products, Qi 1.x EPP at 10W covers most of the 
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/wireless-charger-pad/)
+- [guide on sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/wireless-charger-pad/)
 

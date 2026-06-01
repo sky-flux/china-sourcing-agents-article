@@ -1,3 +1,9 @@
+---
+title: "Nanchang Sourcing Agent — Copper, LED Chips & Electronics"
+description: "Engineer-led sourcing in Nanchang and Jiangxi. Copper components, LED chips, consumer electronics, and PCB materials for EU and US buyers."
+canonical_url: "https://china-sourcing-agents.com/cities/nanchang-sourcing-agent/"
+---
+
 # Nanchang Sourcing Agent — Copper, LED Chips & Electronics
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/nanchang-sourcing-agent/](https://china-sourcing-agents.com/cities/nanchang-sourcing-agent/)
@@ -22,6 +28,7 @@ Jiangxi Copper (江西铜业) is China's largest copper producer by output and o
 - Aviation Component Manufacturing
 - Pharmaceutical Manufacturing Context
 - Jiujiang Port and Yangtze River Logistics
+- Practical Notes
 
 ---
 
@@ -30,5 +37,5 @@ Jiangxi Copper (江西铜业) is China's largest copper producer by output and o
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/nanchang-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/nanchang-sourcing-agent/)
 

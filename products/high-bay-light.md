@@ -1,3 +1,9 @@
+---
+title: "LED High Bay Light (100W–200W)"
+description: "Industrial LED high bay for warehouses, factories, and sports halls. IP65-rated, 150 lm/W efficacy, DLC Premium listed for US market rebates."
+canonical_url: "https://china-sourcing-agents.com/products/high-bay-light/"
+---
+
 # LED High Bay Light (100W–200W)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/high-bay-light/](https://china-sourcing-agents.com/products/high-bay-light/)
@@ -21,5 +27,5 @@ High bay lights run continuously in harsh environments — temperature cycling, 
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/products/high-bay-light/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/products/high-bay-light/)
 

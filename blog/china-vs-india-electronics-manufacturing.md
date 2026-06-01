@@ -1,3 +1,9 @@
+---
+title: "China vs India Electronics: What the Search Surge Means"
+description: "India's electronics ambitions are real and well-funded. The manufacturing ecosystem accessible to Western hardware buyers is a different story."
+canonical_url: "https://china-sourcing-agents.com/blog/china-vs-india-electronics-manufacturing/"
+---
+
 # China vs India Electronics: What the Search Surge Means
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/china-vs-india-electronics-manufacturing/](https://china-sourcing-agents.com/blog/china-vs-india-electronics-manufacturing/)
@@ -22,6 +28,7 @@ The arithmetic is correct. The problem is the next question: what can you actual
 - Infrastructure: the honest assessment
 - Where India does make sense
 - The threshold questions
+- What the search data actually means for sourcing decisions
 
 ---
 
@@ -29,5 +36,5 @@ The arithmetic is correct. The problem is the next question: what can you actual
 
 - [importing electronics from China to the US](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
 - [the China tariff guide](https://china-sourcing-agents.com/blog/china-electronics-tariff-2026-guide/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/china-vs-india-electronics-manufacturing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/china-vs-india-electronics-manufacturing/)
 

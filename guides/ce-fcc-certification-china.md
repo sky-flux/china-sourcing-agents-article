@@ -1,3 +1,9 @@
+---
+title: "FCC and CE Certification for Electronics from China"
+description: "Verify FCC and CE certificates from Chinese suppliers, find accredited labs in Shenzhen, and write purchase orders that ensure you own the certification."
+canonical_url: "https://china-sourcing-agents.com/guides/ce-fcc-certification-china/"
+---
+
 # FCC and CE Certification for Electronics from China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/ce-fcc-certification-china/](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
@@ -22,6 +28,8 @@ Before anything else, get this straight: FCC and CE certification applies to a s
 - 4. How to verify CE compliance
 - 5. Labs in China that can do the actual testing
 - 6. The module shortcut and where it stops
+- 7. Realistic costs and timelines from China
+- 8. What your purchase order needs to say
 
 ---
 
@@ -29,5 +37,5 @@ Before anything else, get this straight: FCC and CE certification applies to a s
 
 - [electronics quality control in China](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
 - [multi-market certification guide](https://china-sourcing-agents.com/guides/multi-market-certification-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
 

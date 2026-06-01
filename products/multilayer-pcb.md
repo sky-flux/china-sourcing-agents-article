@@ -1,3 +1,9 @@
+---
+title: "Multilayer PCB (4–12 Layer, FR4)"
+description: "4–12 layer FR4 PCB manufacturing: ENIG, HASL, or OSP surface finish. IPC-A-600 Class 2 and 3. Prototype from 50 panels, production from 500 panels."
+canonical_url: "https://china-sourcing-agents.com/products/multilayer-pcb/"
+---
+
 # Multilayer PCB (4–12 Layer, FR4)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/multilayer-pcb/](https://china-sourcing-agents.com/products/multilayer-pcb/)
@@ -28,5 +34,6 @@ IPC-A-600 defines acceptability criteria for PCB manufacturing. Choosing the cor
 - [PCB manufacturing](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [PCB assembly in China](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/multilayer-pcb/)
+- [industrial IoT hardware](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/multilayer-pcb/)
 

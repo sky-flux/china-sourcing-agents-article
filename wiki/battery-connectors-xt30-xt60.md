@@ -1,3 +1,9 @@
+---
+title: "High-Current Battery Connectors: XT30, XT60, Anderson, EC"
+description: "XT30/XT60/XT90, Anderson Powerpole, and EC3/EC5/EC8 battery connectors from China: current ratings, contact resistance specs, Amass vs clone detection."
+canonical_url: "https://china-sourcing-agents.com/wiki/battery-connectors-xt30-xt60/"
+---
+
 # High-Current Battery Connectors: XT30, XT60, Anderson, EC
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/battery-connectors-xt30-xt60/](https://china-sourcing-agents.com/wiki/battery-connectors-xt30-xt60/)
@@ -29,5 +35,6 @@ Current ratings for Anderson Powerpole reflect the connector terminal spec at 25
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [wearable](https://china-sourcing-agents.com/industries/wearables/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/battery-connectors-xt30-xt60/)
+- [LiPo & Li-ion Battery Cells Sourcing Reference](https://china-sourcing-agents.com/wiki/lipo-battery-cells/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/battery-connectors-xt30-xt60/)
 

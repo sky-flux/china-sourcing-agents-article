@@ -1,3 +1,9 @@
+---
+title: "Panel Radiator OEM Manufacturer China"
+description: "Steel panel radiator & aluminium radiator China OEM factory. CE EN 442, 600×1000mm, mixed-size 200-unit MOQ, UK/EU central heating supply."
+canonical_url: "https://china-sourcing-agents.com/products/panel-radiator/"
+---
+
 # Panel Radiator OEM Manufacturer China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/panel-radiator/](https://china-sourcing-agents.com/products/panel-radiator/)
@@ -26,5 +32,5 @@ The corrosion constraint with steel is significant and often underspecified on c
 
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/panel-radiator/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/panel-radiator/)
 

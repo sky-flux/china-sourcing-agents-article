@@ -1,3 +1,9 @@
+---
+title: "Bluetooth 5.x Modules: Technical Sourcing Reference"
+description: "BLE 5.x modules from China: nRF52840 vs nRF52832 vs EFR32BG22 compared, certified Chinese suppliers, version differences, and FCC/CE grant verification."
+canonical_url: "https://china-sourcing-agents.com/wiki/ble-5-modules/"
+---
+
 # Bluetooth 5.x Modules: Technical Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/ble-5-modules/](https://china-sourcing-agents.com/wiki/ble-5-modules/)
@@ -22,6 +28,7 @@ BLE 5.x improvements over BLE 4.x are not marketing — Coded PHY (LE Coded) at 
 - Certified Chinese Module Suppliers
 - Sourcing from China: What to Look For
 - Common Issues
+- Certifications Required
 
 ---
 
@@ -30,5 +37,6 @@ BLE 5.x improvements over BLE 4.x are not marketing — Coded PHY (LE Coded) at 
 - [wearables](https://china-sourcing-agents.com/industries/wearables/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/ble-5-modules/)
+- [Wearable Manufacturing in China Guide](https://china-sourcing-agents.com/guides/wearable-manufacturing-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/ble-5-modules/)
 

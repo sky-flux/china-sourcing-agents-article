@@ -1,3 +1,9 @@
+---
+title: "All-in-One Solar Street Light (30W–100W)"
+description: "Integrated solar panel, lithium battery, LED fixture, and motion sensor in one housing. IP65, 10-hour daily runtime, CE certified. No cabling required."
+canonical_url: "https://china-sourcing-agents.com/products/all-in-one-solar-light/"
+---
+
 # All-in-One Solar Street Light (30W–100W)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/all-in-one-solar-light/](https://china-sourcing-agents.com/products/all-in-one-solar-light/)
@@ -26,5 +32,5 @@ All-in-one solar lights look identical across price points; the difference is in
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [power electronics expertise](https://china-sourcing-agents.com/industries/power-electronics/)
 - [quality inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/all-in-one-solar-light/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/all-in-one-solar-light/)
 

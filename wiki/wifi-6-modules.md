@@ -1,3 +1,9 @@
+---
+title: "Wi-Fi 6 (802.11ax) Modules: China Sourcing Reference"
+description: "Wi-Fi 6 and Wi-Fi 6E modules from China: Qualcomm QCN9074, MediaTek MT7921, ESP32-C5 for IoT, TWT savings, and FCC/CE 6 GHz certification."
+canonical_url: "https://china-sourcing-agents.com/wiki/wifi-6-modules/"
+---
+
 # Wi-Fi 6 (802.11ax) Modules: China Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/wifi-6-modules/](https://china-sourcing-agents.com/wiki/wifi-6-modules/)
@@ -30,5 +36,6 @@ Wi-Fi 6E extends the band to 6 GHz (5.925–7.125 GHz in the US; 5.945–6.425 G
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/wifi-6-modules/)
+- [How to Source Electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/wifi-6-modules/)
 

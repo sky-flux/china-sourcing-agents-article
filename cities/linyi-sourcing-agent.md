@@ -1,3 +1,9 @@
+---
+title: "Linyi Sourcing Agent — Northern Wholesale Hub, Daily Goods"
+description: "Engineer-led sourcing in Linyi. Household goods, kitchen & tableware, timber and panels — northern China's largest wholesale distribution hub by volume."
+canonical_url: "https://china-sourcing-agents.com/cities/linyi-sourcing-agent/"
+---
+
 # Linyi Sourcing Agent — Northern Wholesale Hub, Daily Goods
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/linyi-sourcing-agent/](https://china-sourcing-agents.com/cities/linyi-sourcing-agent/)
@@ -22,5 +28,5 @@ Linyi's sourcing strength clusters around three categories: daily household item
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/linyi-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/linyi-sourcing-agent/)
 

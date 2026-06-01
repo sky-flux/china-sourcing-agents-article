@@ -1,3 +1,9 @@
+---
+title: "Qingdao Sourcing Agent — Home Appliances & Industrial Base"
+description: "Engineer-led sourcing in Qingdao. Haier & Hisense supply chain for appliances, smart-home electronics, and industrial mfg. Top-10 container port."
+canonical_url: "https://china-sourcing-agents.com/cities/qingdao-sourcing-agent/"
+---
+
 # Qingdao Sourcing Agent — Home Appliances & Industrial Base
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/qingdao-sourcing-agent/](https://china-sourcing-agents.com/cities/qingdao-sourcing-agent/)
@@ -28,5 +34,5 @@ Qingdao is Shandong Province's economic capital and the headquarters of Haier �
 
 - [China payment terms explained](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
 - [factory audit process](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/qingdao-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/qingdao-sourcing-agent/)
 

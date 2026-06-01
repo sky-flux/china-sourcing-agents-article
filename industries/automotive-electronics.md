@@ -1,3 +1,9 @@
+---
+title: "Automotive Electronics Sourcing China — ADAS, EVSE & EV"
+description: "Source ADAS sensors, EV charging equipment, and automotive-grade electronics from China with IATF 16949 verification and IEC 61851 EVSE compliance."
+canonical_url: "https://china-sourcing-agents.com/industries/automotive-electronics/"
+---
+
 # Automotive Electronics Sourcing China — ADAS, EVSE & EV
 
 > **Read the full guide**: [https://china-sourcing-agents.com/industries/automotive-electronics/](https://china-sourcing-agents.com/industries/automotive-electronics/)
@@ -27,5 +33,6 @@ We source the accessory/aftermarket layer only — tier-1 safety systems (engine
 - [automotive supplier matching](https://china-sourcing-agents.com/services/sourcing/)
 - [77GHz millimeter-wave radar modules](https://china-sourcing-agents.com/wiki/adas-77ghz-radar/)
 - [TPMS sensors](https://china-sourcing-agents.com/products/automotive/tpms/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/industries/automotive-electronics/)
+- [OBD2 scanners](https://china-sourcing-agents.com/products/automotive/obd2-scanner/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/industries/automotive-electronics/)
 

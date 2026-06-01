@@ -1,3 +1,9 @@
+---
+title: "PCB Assembly in China: Buyer's Guide"
+description: "How to source PCB assembly from China — choosing factories, reading Gerbers, understanding IPC standards, and running quality inspection."
+canonical_url: "https://china-sourcing-agents.com/guides/pcb-assembly-china/"
+---
+
 # PCB Assembly in China: Buyer's Guide
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/pcb-assembly-china/](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
@@ -22,6 +28,8 @@ This confusion wastes weeks. **PCB fabrication** (often just called "PCB fab") i
 - How to read a factory quote
 - How to qualify a Chinese PCBA factory
 - IPC-A-610 Class 2 vs. Class 3 — what it means in practice
+- PCB materials: when FR4 isn't enough
+- DFM review before you order
 
 ---
 
@@ -30,5 +38,6 @@ This confusion wastes weeks. **PCB fabrication** (often just called "PCB fab") i
 - [Gerber files](https://china-sourcing-agents.com/wiki/gerber-files/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [SMT process](https://china-sourcing-agents.com/wiki/smt-process/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
+- [reflow oven](https://china-sourcing-agents.com/wiki/reflow-soldering/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
 

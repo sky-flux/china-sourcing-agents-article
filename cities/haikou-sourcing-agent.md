@@ -1,3 +1,9 @@
+---
+title: "Haikou Sourcing Agent — Hainan FTP, Agriculture & Seafood"
+description: "Sourcing agent for Haikou and the Hainan Free Trade Port: tropical agriculture, seafood processing, and FTP policy guidance for international buyers."
+canonical_url: "https://china-sourcing-agents.com/cities/haikou-sourcing-agent/"
+---
+
 # Haikou Sourcing Agent — Hainan FTP, Agriculture & Seafood
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/haikou-sourcing-agent/](https://china-sourcing-agents.com/cities/haikou-sourcing-agent/)
@@ -22,6 +28,7 @@ The Hainan Free Trade Port is China's most ambitious free trade experiment since
 - Tourism Supply Chain and Duty-Free Retail
 - Honest Manufacturing Assessment
 - Logistics Realities
+- Practical Notes for Buyers
 
 ---
 
@@ -29,5 +36,5 @@ The Hainan Free Trade Port is China's most ambitious free trade experiment since
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/haikou-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/haikou-sourcing-agent/)
 

@@ -1,3 +1,9 @@
+---
+title: "Robotic Lawn Mower OEM China: Wire-Free, CE, Factories"
+description: "Robot mower shipments grew 63.8% YoY. Chinese factories now produce wire-free RTK models. What European and US buyers need to know before sourcing."
+canonical_url: "https://china-sourcing-agents.com/blog/robotic-lawn-mower-oem-china/"
+---
+
 # Robotic Lawn Mower OEM China: Wire-Free, CE, Factories
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/robotic-lawn-mower-oem-china/](https://china-sourcing-agents.com/blog/robotic-lawn-mower-oem-china/)
@@ -28,5 +34,5 @@ The perimeter-wire model has been around since Husqvarna's Automower launched in
 ## Further reading
 
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/robotic-lawn-mower-oem-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/robotic-lawn-mower-oem-china/)
 

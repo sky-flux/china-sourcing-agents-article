@@ -1,3 +1,9 @@
+---
+title: "How to Source Smart Home Devices: Zigbee, Matter & Thread"
+description: "A buyer's guide to sourcing Zigbee, Matter, and Thread smart home hardware from China: CSA certification, multi-protocol testing, and factory selection."
+canonical_url: "https://china-sourcing-agents.com/guides/smart-home-device-sourcing/"
+---
+
 # How to Source Smart Home Devices: Zigbee, Matter & Thread
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/smart-home-device-sourcing/](https://china-sourcing-agents.com/guides/smart-home-device-sourcing/)
@@ -22,6 +28,8 @@ The category is broader than it looks. Products that qualify include:
 - Factory selection criteria for smart home
 - CE/FCC/UKCA simultaneous certification strategy
 - What to check in a factory audit
+- Common mistakes and how to avoid them
+- Action recommendation
 
 ---
 
@@ -30,5 +38,6 @@ The category is broader than it looks. Products that qualify include:
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [Sourcing & Supplier Matching](https://china-sourcing-agents.com/services/sourcing/)
 - [Quality Inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/smart-home-device-sourcing/)
+- [smart home industry page](https://china-sourcing-agents.com/industries/smart-home/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/smart-home-device-sourcing/)
 

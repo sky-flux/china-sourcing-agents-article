@@ -1,3 +1,9 @@
+---
+title: "Shantou Sourcing Agent — Toy Capital & Chenghai Mfg"
+description: "China sourcing agent in Shantou. Chenghai: 70% of global plastic toys. Sourcing for toys, festive supplies, home decor, and plastic products."
+canonical_url: "https://china-sourcing-agents.com/cities/shantou-sourcing-agent/"
+---
+
 # Shantou Sourcing Agent — Toy Capital & Chenghai Mfg
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/shantou-sourcing-agent/](https://china-sourcing-agents.com/cities/shantou-sourcing-agent/)
@@ -25,5 +31,5 @@ Shantou is eastern Guangdong's primary coastal industrial city, located 470 km e
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/shantou-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/shantou-sourcing-agent/)
 

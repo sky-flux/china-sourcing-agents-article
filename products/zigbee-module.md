@@ -1,3 +1,9 @@
+---
+title: "Zigbee 3.0 Module (CC2652 / EFR32)"
+description: "Zigbee 3.0 module on TI CC2652 or Silicon Labs EFR32. Matter-over-Thread path. OEM from 1,000 units for smart home, building automation, and IoT."
+canonical_url: "https://china-sourcing-agents.com/products/zigbee-module/"
+---
+
 # Zigbee 3.0 Module (CC2652 / EFR32)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/zigbee-module/](https://china-sourcing-agents.com/products/zigbee-module/)
@@ -28,5 +34,6 @@ If your product uses Zigbee for its connectivity but does not market it using th
 - [sourcing Zigbee modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/zigbee-module/)
+- [Matter certification overview](https://china-sourcing-agents.com/wiki/matter-certification/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/zigbee-module/)
 

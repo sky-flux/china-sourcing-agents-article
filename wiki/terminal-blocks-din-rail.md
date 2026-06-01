@@ -1,3 +1,9 @@
+---
+title: "Terminal Blocks & DIN Rail Connectors"
+description: "DIN rail terminal blocks from China: screw, cage clamp, and spring clamp types, IEC 60947-7-1 and UL 508 compliance, pitch variants, and how to verify."
+canonical_url: "https://china-sourcing-agents.com/wiki/terminal-blocks-din-rail/"
+---
+
 # Terminal Blocks & DIN Rail Connectors
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/terminal-blocks-din-rail/](https://china-sourcing-agents.com/wiki/terminal-blocks-din-rail/)
@@ -29,5 +35,6 @@ PCB-mount blocks are specified by pitch (distance between poles), current rating
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/terminal-blocks-din-rail/)
+- [CE Marking](https://china-sourcing-agents.com/wiki/ce-marking/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/terminal-blocks-din-rail/)
 

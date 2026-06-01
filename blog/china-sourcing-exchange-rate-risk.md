@@ -1,3 +1,9 @@
+---
+title: "Exchange Rate Risk in China Sourcing: Protect Your Budget"
+description: "When your currency weakens against USD or RMB, your landed cost from China rises fast. How electronics buyers manage FX risk without a treasury team."
+canonical_url: "https://china-sourcing-agents.com/blog/china-sourcing-exchange-rate-risk/"
+---
+
 # Exchange Rate Risk in China Sourcing: Protect Your Budget
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/china-sourcing-exchange-rate-risk/](https://china-sourcing-agents.com/blog/china-sourcing-exchange-rate-risk/)
@@ -26,5 +32,5 @@ For EUR, GBP, AUD, or JPY buyers, the exposure is more direct. You quote your cu
 ## Further reading
 
 - [China Payment Terms Explained](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/china-sourcing-exchange-rate-risk/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/china-sourcing-exchange-rate-risk/)
 

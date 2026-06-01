@@ -1,3 +1,9 @@
+---
+title: "Aluminum Window Profile OEM Manufacturer China"
+description: "Source aluminium window profiles from China OEM factories: 6063-T5/6061-T6, PA66 GF25 thermal break, CE EN14351, custom extrusion, 1,000 kg MOQ."
+canonical_url: "https://china-sourcing-agents.com/products/aluminum-window-profile/"
+---
+
 # Aluminum Window Profile OEM Manufacturer China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/aluminum-window-profile/](https://china-sourcing-agents.com/products/aluminum-window-profile/)
@@ -26,5 +32,5 @@ The vast majority of aluminium window profiles manufactured in China use **6063-
 
 - [supplier sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/aluminum-window-profile/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/aluminum-window-profile/)
 

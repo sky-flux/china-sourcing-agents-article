@@ -1,3 +1,9 @@
+---
+title: "BOM Management for Electronics Sourcing"
+description: "BOM management for China-sourced electronics: required columns, MPN vs generic specs, lifecycle status, AVL strategy, Chinese distributor verification."
+canonical_url: "https://china-sourcing-agents.com/wiki/bom-management/"
+---
+
 # BOM Management for Electronics Sourcing
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/bom-management/](https://china-sourcing-agents.com/wiki/bom-management/)
@@ -22,6 +28,8 @@ For China sourcing specifically, the BOM also determines whether your product wi
 - Lifecycle Management
 - Approved Vendor List (AVL) Strategy
 - Chinese Distribution Ecosystem
+- BOM Cost Analysis
+- What to Specify When Ordering from China
 
 ---
 
@@ -30,5 +38,6 @@ For China sourcing specifically, the BOM also determines whether your product wi
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/bom-management/)
+- [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/bom-management/)
 

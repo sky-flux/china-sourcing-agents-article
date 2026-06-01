@@ -1,3 +1,9 @@
+---
+title: "Silicone Sealant"
+description: "Silicone sealant OEM from China. Neutral and acetoxy cure grades, ISO 11600 / ASTM C920 compliant. Sanitary, structural, and weather-seal formulations."
+canonical_url: "https://china-sourcing-agents.com/products/silicone-sealant/"
+---
+
 # Silicone Sealant
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/silicone-sealant/](https://china-sourcing-agents.com/products/silicone-sealant/)
@@ -26,5 +32,5 @@ The two dominant silicone sealant cure systems release different byproducts duri
 ## Further reading
 
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/silicone-sealant/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/silicone-sealant/)
 

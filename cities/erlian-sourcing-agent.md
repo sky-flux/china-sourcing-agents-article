@@ -1,3 +1,9 @@
+---
+title: "Erlian Sourcing Agent — China-Mongolia Land Port & Rail Hub"
+description: "Logistics guide for Erlian (Erenhot), Inner Mongolia. China's largest China–Mongolia border crossing, rail gauge change, transit to Russia and Europe."
+canonical_url: "https://china-sourcing-agents.com/cities/erlian-sourcing-agent/"
+---
+
 # Erlian Sourcing Agent — China-Mongolia Land Port & Rail Hub
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/erlian-sourcing-agent/](https://china-sourcing-agents.com/cities/erlian-sourcing-agent/)
@@ -25,5 +31,5 @@ Erlian (二连浩特, also romanized as Erenhot) is China's largest land port on
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/erlian-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/erlian-sourcing-agent/)
 

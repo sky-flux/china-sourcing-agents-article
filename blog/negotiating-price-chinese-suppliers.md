@@ -1,3 +1,9 @@
+---
+title: "How to Negotiate with Chinese Factories: Tactics That Work"
+description: "Tactics for negotiating with Chinese factories: what's actually movable, when to push, and what 'give me a better price' signals to suppliers."
+canonical_url: "https://china-sourcing-agents.com/blog/negotiating-price-chinese-suppliers/"
+---
+
 # How to Negotiate with Chinese Factories: Tactics That Work
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/negotiating-price-chinese-suppliers/](https://china-sourcing-agents.com/blog/negotiating-price-chinese-suppliers/)
@@ -22,6 +28,7 @@ What the question actually signals is that you don't understand their cost struc
 - Timing: before the PO, not after
 - Giving them a face-saving exit
 - The long game: accept a fair first-order price
+- What not to do
 
 ---
 
@@ -30,5 +37,5 @@ What the question actually signals is that you don't understand their cost struc
 - [Sourcing & Supplier Matching](https://china-sourcing-agents.com/services/sourcing/)
 - [EU startup Bluetooth speaker case](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/negotiating-price-chinese-suppliers/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/negotiating-price-chinese-suppliers/)
 

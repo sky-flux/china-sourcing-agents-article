@@ -1,3 +1,9 @@
+---
+title: "Silicone Wire OEM Manufacturer China"
+description: "Silicone hook-up wire & cable from China factory. AWG 10–30, 200°C rated, UL 3132/RoHS, tinned copper, from 500m spool. OEM wholesale direct."
+canonical_url: "https://china-sourcing-agents.com/products/silicone-wire/"
+---
+
 # Silicone Wire OEM Manufacturer China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/silicone-wire/](https://china-sourcing-agents.com/products/silicone-wire/)
@@ -27,5 +33,6 @@ Silicone wire is specified by two independent variables that buyers frequently c
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing for rail or aviation customers](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/silicone-wire/)
+- [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/silicone-wire/)
 

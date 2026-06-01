@@ -1,3 +1,9 @@
+---
+title: "Shijiazhuang Sourcing Agent — LED Components & Electronics"
+description: "Engineer-led China sourcing agent in Shijiazhuang. LED components, industrial IoT hardware, ISO 13485 medical electronics, and Tianjin port access."
+canonical_url: "https://china-sourcing-agents.com/cities/shijiazhuang-sourcing-agent/"
+---
+
 # Shijiazhuang Sourcing Agent — LED Components & Electronics
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/shijiazhuang-sourcing-agent/](https://china-sourcing-agents.com/cities/shijiazhuang-sourcing-agent/)
@@ -22,5 +28,5 @@ For electronics sourcing specifically, Shijiazhuang is not a destination in the 
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/shijiazhuang-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/shijiazhuang-sourcing-agent/)
 

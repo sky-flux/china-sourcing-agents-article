@@ -1,3 +1,9 @@
+---
+title: "DC-DC Converter Module (Isolated & Non-Isolated, OEM)"
+description: "DC-DC converter module sourcing from China. Isolated and non-isolated topologies, buck/boost/flyback. OEM from 500 units. CE, UL, RoHS certified."
+canonical_url: "https://china-sourcing-agents.com/products/dc-dc-converter-module/"
+---
+
 # DC-DC Converter Module (Isolated & Non-Isolated, OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/dc-dc-converter-module/](https://china-sourcing-agents.com/products/dc-dc-converter-module/)
@@ -28,5 +34,6 @@ Synchronous buck converters from Chinese manufacturers operating at 300–600kHz
 - [industrial IoT applications](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [inspection process](https://china-sourcing-agents.com/services/inspection/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/dc-dc-converter-module/)
+- [sourcing team](https://china-sourcing-agents.com/services/sourcing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/dc-dc-converter-module/)
 

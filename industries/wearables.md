@@ -1,3 +1,9 @@
+---
+title: "Wearable Device Manufacturer China — Health Tech"
+description: "Source smart watches, fitness trackers, and TWS earbuds from China with UN 38.3 battery certification, FPC expertise, and FCC/CE dual certification."
+canonical_url: "https://china-sourcing-agents.com/industries/wearables/"
+---
+
 # Wearable Device Manufacturer China — Health Tech
 
 > **Read the full guide**: [https://china-sourcing-agents.com/industries/wearables/](https://china-sourcing-agents.com/industries/wearables/)
@@ -29,5 +35,6 @@ Wellness-category devices only — clinical/medical claims (FDA 510(k), MDR) are
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [Smart watches](https://china-sourcing-agents.com/products/wearables/smartwatch-oem/)
 - [Fitness trackers and health monitoring bands](https://china-sourcing-agents.com/products/wearables/fitness-band-oem/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/industries/wearables/)
+- [TWS earbuds with heart rate and SpO2 sensors](https://china-sourcing-agents.com/products/electronics/tws-earphones-oem/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/industries/wearables/)
 

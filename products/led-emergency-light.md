@@ -1,3 +1,9 @@
+---
+title: "LED Emergency Light / Exit Sign"
+description: "LED emergency light OEM from China. 1h–8h duration, NiMH or LiFePO4, UL 924 and EN 60598-2-22. IEC 62034 self-test, DALI-2 addressable, IP20–IP65."
+canonical_url: "https://china-sourcing-agents.com/products/led-emergency-light/"
+---
+
 # LED Emergency Light / Exit Sign
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/led-emergency-light/](https://china-sourcing-agents.com/products/led-emergency-light/)
@@ -28,5 +34,5 @@ EN 1838 (Lighting applications — Emergency lighting) defines the minimum illum
 - [sourcing process](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [inspection team](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/led-emergency-light/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/led-emergency-light/)
 

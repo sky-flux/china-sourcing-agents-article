@@ -1,3 +1,9 @@
+---
+title: "Mianyang Sourcing Agent — Changhong Electronics & LED Mfg"
+description: "Engineer-led sourcing in Mianyang. Changhong OEM ecosystem, industrial LED makers, and smart-home/IoT suppliers from Sichuan's national science city."
+canonical_url: "https://china-sourcing-agents.com/cities/mianyang-sourcing-agent/"
+---
+
 # Mianyang Sourcing Agent — Changhong Electronics & LED Mfg
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/mianyang-sourcing-agent/](https://china-sourcing-agents.com/cities/mianyang-sourcing-agent/)
@@ -29,5 +35,5 @@ For international buyers, Changhong's relevance comes in two forms. The first is
 
 - [China electronics industry overview](https://china-sourcing-agents.com/guides/china-electronics-industry-overview/)
 - [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/mianyang-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/mianyang-sourcing-agent/)
 

@@ -1,3 +1,9 @@
+---
+title: "Qinzhou Sourcing Agent — Beibu Gulf Port & ASEAN Gateway"
+description: "Sourcing agent in Qinzhou. Beibu Gulf main container port, Sinopec, China-Malaysia Industrial Park, direct sea routes to Ho Chi Minh and Singapore."
+canonical_url: "https://china-sourcing-agents.com/cities/qinzhou-sourcing-agent/"
+---
+
 # Qinzhou Sourcing Agent — Beibu Gulf Port & ASEAN Gateway
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/qinzhou-sourcing-agent/](https://china-sourcing-agents.com/cities/qinzhou-sourcing-agent/)
@@ -22,8 +28,9 @@ Among the three Beibu Gulf ports — Qinzhou, Fangchenggang, and Beihai — Qinz
 - Sugar Refining and Cold Chain Food Logistics
 - ASEAN Maritime Connections
 - Qinzhou Within the Beibu Gulf Port Cluster
+- Practical Notes
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/qinzhou-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/qinzhou-sourcing-agent/)
 

@@ -1,3 +1,9 @@
+---
+title: "Power Transformer Manufacturers in China"
+description: "How to source power transformers from China — top manufacturers, IEC 60076 standards, factory qualification, pricing, and lead times."
+canonical_url: "https://china-sourcing-agents.com/guides/power-transformer-manufacturer-china/"
+---
+
 # Power Transformer Manufacturers in China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/power-transformer-manufacturer-china/](https://china-sourcing-agents.com/guides/power-transformer-manufacturer-china/)
@@ -22,8 +28,9 @@ Before contacting any manufacturer, define your specification precisely. Chinese
 - How to qualify a Chinese transformer manufacturer
 - Certifications for major export markets
 - Pricing and lead times in 2026
+- How China Sourcing Agent approaches transformer sourcing
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/guides/power-transformer-manufacturer-china/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/guides/power-transformer-manufacturer-china/)
 

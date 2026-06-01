@@ -1,3 +1,9 @@
+---
+title: "BLE Module Sourcing: nRF52840 vs ESP32 Compared"
+description: "nRF52840 vs ESP32 BLE modules from China: certification costs, supply chain risks, and what to verify when auditing a BLE module factory."
+canonical_url: "https://china-sourcing-agents.com/blog/ble-module-china-sourcing/"
+---
+
 # BLE Module Sourcing: nRF52840 vs ESP32 Compared
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/ble-module-china-sourcing/](https://china-sourcing-agents.com/blog/ble-module-china-sourcing/)
@@ -27,5 +33,5 @@ Both chips are manufactured in volume in China. The differences that matter for 
 
 - [IoT module sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [IoT modules industry page](https://china-sourcing-agents.com/industries/iot-modules/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/ble-module-china-sourcing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/ble-module-china-sourcing/)
 

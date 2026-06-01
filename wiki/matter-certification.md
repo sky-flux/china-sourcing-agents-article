@@ -1,3 +1,9 @@
+---
+title: "Matter Smart Home Protocol: Certification & Requirements"
+description: "Matter smart home certification for China-sourced devices: CSA process, costs, DAC/PAI/CD components, and engineering decisions that affect your timeline."
+canonical_url: "https://china-sourcing-agents.com/wiki/matter-certification/"
+---
+
 # Matter Smart Home Protocol: Certification & Requirements
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/matter-certification/](https://china-sourcing-agents.com/wiki/matter-certification/)
@@ -30,5 +36,5 @@ Matter uses a layered trust model built on Public Key Infrastructure (PKI):
 - [FCC Certification](https://china-sourcing-agents.com/wiki/fcc-certification/)
 - [CE Marking for Electronics](https://china-sourcing-agents.com/wiki/ce-marking/)
 - [How to Source Electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/matter-certification/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/matter-certification/)
 

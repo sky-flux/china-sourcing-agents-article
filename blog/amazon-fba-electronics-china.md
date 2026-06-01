@@ -1,3 +1,9 @@
+---
+title: "Amazon FBA Electronics from China: What Sourcing Agents Do"
+description: "How sourcing agents help Amazon FBA electronics sellers: certifications, MOQ negotiation, inspection, and avoiding the most common mistakes."
+canonical_url: "https://china-sourcing-agents.com/blog/amazon-fba-electronics-china/"
+---
+
 # Amazon FBA Electronics from China: What Sourcing Agents Do
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/amazon-fba-electronics-china/](https://china-sourcing-agents.com/blog/amazon-fba-electronics-china/)
@@ -30,5 +36,6 @@ Most China sourcing content for Amazon sellers is written with home goods, fashi
 - [quality inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [CE marking wiki page](https://china-sourcing-agents.com/wiki/ce-marking/)
 - [supplier qualification through shipment](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/amazon-fba-electronics-china/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/amazon-fba-electronics-china/)
 

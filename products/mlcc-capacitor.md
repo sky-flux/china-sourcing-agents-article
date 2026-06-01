@@ -1,3 +1,9 @@
+---
+title: "MLCC Capacitor (Multilayer Ceramic Capacitor, OEM/Wholesale)"
+description: "Source MLCC capacitors from China: X5R, X7R, C0G/NP0 dielectrics. AEC-Q200 and RoHS grades. CCTC, Walsin, Samsung SEMCO, Murata-equivalent supply."
+canonical_url: "https://china-sourcing-agents.com/products/mlcc-capacitor/"
+---
+
 # MLCC Capacitor (Multilayer Ceramic Capacitor, OEM/Wholesale)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/mlcc-capacitor/](https://china-sourcing-agents.com/products/mlcc-capacitor/)
@@ -28,5 +34,6 @@ The dielectric class is the single most consequential specification on an MLCC. 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [PCB assembly in China](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [PCB assembly guide](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/mlcc-capacitor/)
+- [inspection service](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/mlcc-capacitor/)
 

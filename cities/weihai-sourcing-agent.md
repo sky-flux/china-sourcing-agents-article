@@ -1,3 +1,9 @@
+---
+title: "Weihai Sourcing Agent — Fishing Rods, Carbon Fiber & Medical"
+description: "China sourcing agent in Weihai, Shandong. 70%+ of world fishing rods, carbon fiber sports gear, and medical devices (Weigao). Korea ferry connection."
+canonical_url: "https://china-sourcing-agents.com/cities/weihai-sourcing-agent/"
+---
+
 # Weihai Sourcing Agent — Fishing Rods, Carbon Fiber & Medical
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/weihai-sourcing-agent/](https://china-sourcing-agents.com/cities/weihai-sourcing-agent/)
@@ -22,8 +28,9 @@ The product range covers the full spectrum of rod construction: carbon fiber bla
 - Seafood Processing: Cold-Water Coastal Production
 - The Korea Ferry Connection
 - Weihai as Part of the Shandong Sourcing Circuit
+- Practical Notes
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/weihai-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/weihai-sourcing-agent/)
 

@@ -1,3 +1,9 @@
+---
+title: "IP Security Camera (4MP / 8MP PoE)"
+description: "Fixed dome or bullet IP camera with H.265+ compression, PoE (802.3af), IP67-rated housing, and IR night vision up to 30m. CE/FCC certified."
+canonical_url: "https://china-sourcing-agents.com/products/ip-camera/"
+---
+
 # IP Security Camera (4MP / 8MP PoE)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/ip-camera/](https://china-sourcing-agents.com/products/ip-camera/)
@@ -26,5 +32,6 @@ The IP camera market is dominated by a few core ISP chipsets — HiSilicon (Hikv
 - [sourcing smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/ip-camera/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/ip-camera/)
 

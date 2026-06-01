@@ -1,3 +1,9 @@
+---
+title: "Sourcing Electronics from China: A Guide for African Buyers"
+description: "Payment friction, high import duties, long shipping routes — African buyers face real obstacles. Here is how to navigate them in 2026."
+canonical_url: "https://china-sourcing-agents.com/blog/source-electronics-china-africa-buyers/"
+---
+
 # Sourcing Electronics from China: A Guide for African Buyers
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/source-electronics-china-africa-buyers/](https://china-sourcing-agents.com/blog/source-electronics-china-africa-buyers/)
@@ -27,5 +33,5 @@ Most Chinese factories quote in USD and require T/T (telegraphic transfer / bank
 ## Further reading
 
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/source-electronics-china-africa-buyers/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/source-electronics-china-africa-buyers/)
 

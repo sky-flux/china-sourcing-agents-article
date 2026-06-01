@@ -1,3 +1,9 @@
+---
+title: "Conference Camera (4K USB / NDI OEM)"
+description: "OEM 4K PTZ conference camera, AI auto-tracking, 12x optical zoom, USB3/HDMI/NDI, PoE+. UVC class-compliant, CE and FCC certified."
+canonical_url: "https://china-sourcing-agents.com/products/conference-camera-usb/"
+---
+
 # Conference Camera (4K USB / NDI OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/conference-camera-usb/](https://china-sourcing-agents.com/products/conference-camera-usb/)
@@ -27,5 +33,5 @@ Cameras that rely on a proprietary SDK for USB output — common in some NDI-pri
 - [sourcing conference cameras](https://china-sourcing-agents.com/services/sourcing/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [consumer electronics sourcing](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/conference-camera-usb/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/conference-camera-usb/)
 

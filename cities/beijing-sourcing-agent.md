@@ -1,3 +1,9 @@
+---
+title: "Beijing Sourcing Agent — R&D, Medical Devices & Procurement"
+description: "Engineer-led China sourcing in Beijing. NMPA medical device registration, Zhongguancun tech hub, AI hardware R&D, sea freight via Tianjin Port."
+canonical_url: "https://china-sourcing-agents.com/cities/beijing-sourcing-agent/"
+---
+
 # Beijing Sourcing Agent — R&D, Medical Devices & Procurement
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/beijing-sourcing-agent/](https://china-sourcing-agents.com/cities/beijing-sourcing-agent/)
@@ -29,5 +35,6 @@ Medical devices are the category where Beijing's sourcing value is most concentr
 - [wearable health monitoring devices](https://china-sourcing-agents.com/industries/wearables/)
 - [China's major electronics market cities](https://china-sourcing-agents.com/guides/china-electronics-market-cities/)
 - [sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/beijing-sourcing-agent/)
+- [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/beijing-sourcing-agent/)
 

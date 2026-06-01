@@ -1,3 +1,9 @@
+---
+title: "Horgos Sourcing Agent — China-Kazakhstan FTZ & Land Port"
+description: "Engineer-led sourcing via Horgos. China–Kazakhstan FTZ, Central Asia's largest land port, and China–Europe rail gateway on the New Silk Road."
+canonical_url: "https://china-sourcing-agents.com/cities/horgos-sourcing-agent/"
+---
+
 # Horgos Sourcing Agent — China-Kazakhstan FTZ & Land Port
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/horgos-sourcing-agent/](https://china-sourcing-agents.com/cities/horgos-sourcing-agent/)
@@ -22,5 +28,5 @@ The city's defining feature for international trade is the Horgos–East Gate Sp
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/horgos-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/horgos-sourcing-agent/)
 

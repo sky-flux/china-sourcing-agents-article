@@ -1,3 +1,9 @@
+---
+title: "NVR Security System (8/16 Channel)"
+description: "Network video recorder for IP camera systems. Supports H.265+ compression, 2× SATA bays, HDMI 4K output, mobile app remote access. CE/FCC certified."
+canonical_url: "https://china-sourcing-agents.com/products/nvr-system/"
+---
+
 # NVR Security System (8/16 Channel)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/nvr-system/](https://china-sourcing-agents.com/products/nvr-system/)
@@ -26,5 +32,6 @@ NVRs are complex embedded systems where the software stack matters as much as th
 - [sourcing security systems](https://china-sourcing-agents.com/services/sourcing/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/nvr-system/)
+- [quality inspection](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/nvr-system/)
 

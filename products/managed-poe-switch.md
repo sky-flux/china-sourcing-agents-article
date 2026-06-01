@@ -1,3 +1,9 @@
+---
+title: "Managed PoE Switch (OEM / Private Label)"
+description: "OEM managed PoE+ gigabit switch, 8–24 ports, L2/L3, VLAN, RSTP, SNMP. CE, FCC, RoHS certified. DIN-rail and rack-mount from 100 units."
+canonical_url: "https://china-sourcing-agents.com/products/managed-poe-switch/"
+---
+
 # Managed PoE Switch (OEM / Private Label)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/managed-poe-switch/](https://china-sourcing-agents.com/products/managed-poe-switch/)
@@ -27,5 +33,5 @@ A 24-port switch rated at 400W PoE budget does not deliver 400W simultaneously a
 - [sourcing team](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [industrial IoT deployments](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/managed-poe-switch/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/managed-poe-switch/)
 

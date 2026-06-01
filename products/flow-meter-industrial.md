@@ -1,3 +1,9 @@
+---
+title: "Industrial Flow Meter — Electromagnetic & Ultrasonic"
+description: "Source electromagnetic, ultrasonic, Coriolis, and vortex flow meters from China. MID, OIML R49, ATEX/IECEx. HART 7, Modbus RTU, PROFIBUS. DN15–DN3000."
+canonical_url: "https://china-sourcing-agents.com/products/flow-meter-industrial/"
+---
+
 # Industrial Flow Meter — Electromagnetic & Ultrasonic
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/flow-meter-industrial/](https://china-sourcing-agents.com/products/flow-meter-industrial/)
@@ -28,5 +34,5 @@ Choosing the wrong meter type for the process medium is the most common specific
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/flow-meter-industrial/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/flow-meter-industrial/)
 

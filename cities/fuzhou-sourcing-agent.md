@@ -1,3 +1,9 @@
+---
+title: "Fuzhou Sourcing Agent — Electronics, Seafood & Port Gateway"
+description: "Engineer-led sourcing in Fuzhou. Lenovo/Dell suppliers, laptop and display components, seafood logistics, Jiangdao container port. 4,500+ factories."
+canonical_url: "https://china-sourcing-agents.com/cities/fuzhou-sourcing-agent/"
+---
+
 # Fuzhou Sourcing Agent — Electronics, Seafood & Port Gateway
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/fuzhou-sourcing-agent/](https://china-sourcing-agents.com/cities/fuzhou-sourcing-agent/)
@@ -29,5 +35,6 @@ Fuzhou's electronics manufacturing base is not self-organized around general-pur
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Factory audits](https://china-sourcing-agents.com/services/audit/)
 - [inspection services](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/fuzhou-sourcing-agent/)
+- [How to Source Electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/fuzhou-sourcing-agent/)
 

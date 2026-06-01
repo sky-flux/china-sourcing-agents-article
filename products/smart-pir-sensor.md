@@ -1,3 +1,9 @@
+---
+title: "Smart PIR Motion Sensor (Zigbee, Z-Wave, Matter)"
+description: "Smart PIR motion sensor from China. Zigbee 3.0, Z-Wave 700, or Matter/Thread. 120° FOV, 5–8m range, 1–3 yr battery life. FCC, CE, RoHS certified OEM."
+canonical_url: "https://china-sourcing-agents.com/products/smart-pir-sensor/"
+---
+
 # Smart PIR Motion Sensor (Zigbee, Z-Wave, Matter)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/smart-pir-sensor/](https://china-sourcing-agents.com/products/smart-pir-sensor/)
@@ -28,5 +34,6 @@ The passive infrared sensor comprises two subsystems: the pyroelectric element (
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [quality inspection services](https://china-sourcing-agents.com/services/inspection/)
 - [private-label programs](https://china-sourcing-agents.com/services/private-label/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/smart-pir-sensor/)
+- [smart home sourcing overview](https://china-sourcing-agents.com/industries/smart-home/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/smart-pir-sensor/)
 

@@ -1,3 +1,9 @@
+---
+title: "FPC & FFC Connectors: China Sourcing Reference"
+description: "FPC vs FFC connectors from China: 0.5–1.25mm pitch, ZIF vs LIF lock types, actuation cycle life, camera module connectors, and common failure modes."
+canonical_url: "https://china-sourcing-agents.com/wiki/fpc-ffc-connectors/"
+---
+
 # FPC & FFC Connectors: China Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/fpc-ffc-connectors/](https://china-sourcing-agents.com/wiki/fpc-ffc-connectors/)
@@ -29,5 +35,6 @@ The 20–30 cycle life of ZIF connectors is a design constraint, not a defect. I
 - [wearables](https://china-sourcing-agents.com/industries/wearables/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/fpc-ffc-connectors/)
+- [IPC-A-610 Acceptance Criteria](https://china-sourcing-agents.com/wiki/ipc-a-610/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/fpc-ffc-connectors/)
 

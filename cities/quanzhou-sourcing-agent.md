@@ -1,3 +1,9 @@
+---
+title: "Quanzhou Sourcing Agent — Footwear & Apparel Hub"
+description: "Engineer-led sourcing agent in Quanzhou. Jinjiang footwear, sports apparel, bathroom fittings & baby products. 5,000+ factories. Shoe Capital of China."
+canonical_url: "https://china-sourcing-agents.com/cities/quanzhou-sourcing-agent/"
+---
+
 # Quanzhou Sourcing Agent — Footwear & Apparel Hub
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/quanzhou-sourcing-agent/](https://china-sourcing-agents.com/cities/quanzhou-sourcing-agent/)
@@ -28,5 +34,5 @@ The district's international profile is anchored by Anta (安踏), Xtep (特步)
 ## Further reading
 
 - [Factory audits](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/quanzhou-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/quanzhou-sourcing-agent/)
 

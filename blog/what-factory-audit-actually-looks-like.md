@@ -1,3 +1,9 @@
+---
+title: "What a Factory Audit in China Actually Looks Like"
+description: "A walk-through of a real China factory audit: what you check, what you learn, what you miss, and when to pay someone else to do it."
+canonical_url: "https://china-sourcing-agents.com/blog/what-factory-audit-actually-looks-like/"
+---
+
 # What a Factory Audit in China Actually Looks Like
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/what-factory-audit-actually-looks-like/](https://china-sourcing-agents.com/blog/what-factory-audit-actually-looks-like/)
@@ -22,6 +28,8 @@ Before you walk in, it helps to know what questions you're trying to answer. The
 - QA department (30 minutes)
 - Engineering interview (30 minutes)
 - Closing (30 minutes)
+- What an audit can't tell you
+- Common red flags
 
 ---
 
@@ -30,5 +38,6 @@ Before you walk in, it helps to know what questions you're trying to answer. The
 - [pre-production and pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
 - [an EU startup sourcing BLE speakers for their first production run](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/what-factory-audit-actually-looks-like/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/what-factory-audit-actually-looks-like/)
 

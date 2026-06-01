@@ -1,3 +1,9 @@
+---
+title: "USB-C Hub & Docking Station (OEM)"
+description: "OEM USB-C hub and dock, HDMI 4K@60Hz, USB-A 3.0, Power Delivery passthrough. Custom branding from 300 units for consumer electronics brands."
+canonical_url: "https://china-sourcing-agents.com/products/usb-c-hub/"
+---
+
 # USB-C Hub & Docking Station (OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/usb-c-hub/](https://china-sourcing-agents.com/products/usb-c-hub/)
@@ -28,5 +34,6 @@ The chipset combination determines real-world performance ceilings for consumer 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [CE and FCC certification guide](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/usb-c-hub/)
+- [sourcing USB-C hubs](https://china-sourcing-agents.com/services/sourcing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/usb-c-hub/)
 

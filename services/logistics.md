@@ -1,3 +1,9 @@
+---
+title: "China Logistics & Customs Coordination — Door-to-Door"
+description: "Door-to-door logistics from China to your warehouse — freight coordination, export documentation, customs clearance, and last-mile delivery management."
+canonical_url: "https://china-sourcing-agents.com/services/logistics/"
+---
+
 # China Logistics & Customs Coordination — Door-to-Door
 
 > **Read the full guide**: [https://china-sourcing-agents.com/services/logistics/](https://china-sourcing-agents.com/services/logistics/)
@@ -29,5 +35,6 @@ We work with 3–4 vetted forwarders in Shenzhen and Dongguan. For most shipment
 - [EU startup logistics](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
 - [Japanese distributor shipment](https://china-sourcing-agents.com/cases/jp-distributor-lora-gateway/)
 - [consumer electronics shipments](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/services/logistics/)
+- [Flexport alternatives](https://china-sourcing-agents.com/alternatives/flexport-alternatives/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/services/logistics/)
 

@@ -1,3 +1,9 @@
+---
+title: "Industrial IoT Hardware Sourcing from China"
+description: "How to source IIoT hardware from China — industrial gateways, DIN rail devices, Modbus converters. Covers IEC compliance and -40°C component validation."
+canonical_url: "https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/"
+---
+
 # Industrial IoT Hardware Sourcing from China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
@@ -22,6 +28,8 @@ CE marking in the European Union is self-declaration for most product categories
 - 4. Long-term supply security strategies
 - 5. IP67/IP68 sealing — what to verify
 - 6. Industrial Ethernet infrastructure and switching
+- 7. PCB protection — conformal coating and potting
+- 8. Sensor sourcing — pressure, temperature, and flow
 
 ---
 
@@ -30,5 +38,6 @@ CE marking in the European Union is self-declaration for most product categories
 - [industrial IoT gateways, DIN rail controllers, or Modbus converters](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [IoT modules sourcing page](https://china-sourcing-agents.com/industries/iot-modules/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
+- [industrial Ethernet switches](https://china-sourcing-agents.com/wiki/industrial-ethernet-switches/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
 

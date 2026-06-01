@@ -1,3 +1,9 @@
+---
+title: "LoRa Gateway Sourcing China: Japan Distributor Saves 22%"
+description: "Japanese distributor sources LoRa gateways direct from China, bypassing Hong Kong middlemen — 22% cost saving, CE/RED certified."
+canonical_url: "https://china-sourcing-agents.com/cases/jp-distributor-lora-gateway/"
+---
+
 # LoRa Gateway Sourcing China: Japan Distributor Saves 22%
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cases/jp-distributor-lora-gateway/](https://china-sourcing-agents.com/cases/jp-distributor-lora-gateway/)
@@ -36,5 +42,6 @@ This engagement was primarily a direct manufacturer identification and verificat
 - [LoRa modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [supplier sourcing work](https://china-sourcing-agents.com/services/sourcing/)
 - [payment terms](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cases/jp-distributor-lora-gateway/)
+- [Factory audit](https://china-sourcing-agents.com/services/audit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cases/jp-distributor-lora-gateway/)
 

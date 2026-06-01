@@ -1,3 +1,9 @@
+---
+title: "China Factory Audit & Verification — On-Site Inspection"
+description: "On-site factory verification: real manufacturer, not trader. We check licenses, equipment, quality systems, and worker capacity before you wire a deposit."
+canonical_url: "https://china-sourcing-agents.com/services/audit/"
+---
+
 # China Factory Audit & Verification — On-Site Inspection
 
 > **Read the full guide**: [https://china-sourcing-agents.com/services/audit/](https://china-sourcing-agents.com/services/audit/)
@@ -29,5 +35,6 @@ The most expensive mistake in China sourcing is wiring a deposit to a trader who
 - [a LoRa gateway sourcing project for a Japanese distributor](https://china-sourcing-agents.com/cases/jp-distributor-lora-gateway/)
 - [what a factory audit actually looks like](https://china-sourcing-agents.com/blog/what-factory-audit-actually-looks-like/)
 - [47-point factory audit checklist guide](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/services/audit/)
+- [explainer on Chinese factory tiers](https://china-sourcing-agents.com/blog/chinese-factory-tiers-explained/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/services/audit/)
 

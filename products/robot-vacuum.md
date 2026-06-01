@@ -1,3 +1,9 @@
+---
+title: "Robot Vacuum Cleaner (LiDAR Navigation, 3,000–5,000 Pa)"
+description: "OEM robot vacuum cleaners with LiDAR navigation and high-suction motors. CE/FCC-compliant units for European and North American wholesale buyers."
+canonical_url: "https://china-sourcing-agents.com/products/robot-vacuum/"
+---
+
 # Robot Vacuum Cleaner (LiDAR Navigation, 3,000–5,000 Pa)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/robot-vacuum/](https://china-sourcing-agents.com/products/robot-vacuum/)
@@ -26,5 +32,6 @@ Suction pressure in Pa is measured at the suction inlet with no airflow (blocked
 - [smart home device sourcing](https://china-sourcing-agents.com/industries/smart-home/)
 - [sourcing robot vacuums](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audits](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/robot-vacuum/)
+- [electronics quality control](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/robot-vacuum/)
 

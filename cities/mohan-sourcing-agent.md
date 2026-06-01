@@ -1,3 +1,9 @@
+---
+title: "Mohan Sourcing Agent — China-Laos Railway & ASEAN Gateway"
+description: "Engineer-led China sourcing agent in Mohan. China-Laos Railway freight, ASEAN logistics corridor, Laos border crossing for Southeast Asia supply chains."
+canonical_url: "https://china-sourcing-agents.com/cities/mohan-sourcing-agent/"
+---
+
 # Mohan Sourcing Agent — China-Laos Railway & ASEAN Gateway
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/mohan-sourcing-agent/](https://china-sourcing-agents.com/cities/mohan-sourcing-agent/)
@@ -24,5 +30,5 @@ The China-Laos Railway (中老铁路) runs 1,035 kilometers from Kunming south t
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/mohan-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/mohan-sourcing-agent/)
 

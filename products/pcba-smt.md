@@ -1,3 +1,9 @@
+---
+title: "PCBA — SMT + Through-Hole Assembly"
+description: "SMT and through-hole PCBA: AOI, X-ray BGA, IPC-A-610 Class 2/3. Prototype from 20 boards, production from 200. Full turnkey and consignment options."
+canonical_url: "https://china-sourcing-agents.com/products/pcba-smt/"
+---
+
 # PCBA — SMT + Through-Hole Assembly
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/pcba-smt/](https://china-sourcing-agents.com/products/pcba-smt/)
@@ -28,5 +34,6 @@ IPC-A-610 defines workmanship standards for PCB assembly. The class determines w
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/pcba-smt/)
+- [quality inspection](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/pcba-smt/)
 

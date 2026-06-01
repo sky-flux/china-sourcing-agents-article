@@ -1,3 +1,9 @@
+---
+title: "4-Season Camping Tent (2–4 Person, Ripstop Nylon)"
+description: "OEM 4-season camping tents, ripstop nylon, aluminum poles. Waterproofing, seam sealing, REACH/RoHS verified for outdoor wholesale buyers."
+canonical_url: "https://china-sourcing-agents.com/products/camping-tent-wholesale/"
+---
+
 # 4-Season Camping Tent (2–4 Person, Ripstop Nylon)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/camping-tent-wholesale/](https://china-sourcing-agents.com/products/camping-tent-wholesale/)
@@ -26,5 +32,5 @@ The flysheet-to-inner tent gap (vestibule and vent design) is critical for conde
 - [quality inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/camping-tent-wholesale/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/camping-tent-wholesale/)
 

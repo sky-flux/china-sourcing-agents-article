@@ -1,3 +1,9 @@
+---
+title: "Smart Drip Irrigation Controller (WiFi / Bluetooth)"
+description: "6–12 zone WiFi irrigation controller with soil moisture input, weather API, app scheduling, and IP65 enclosure. OEM from 500 units. CE/FCC certified."
+canonical_url: "https://china-sourcing-agents.com/products/drip-irrigation-controller/"
+---
+
 # Smart Drip Irrigation Controller (WiFi / Bluetooth)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/drip-irrigation-controller/](https://china-sourcing-agents.com/products/drip-irrigation-controller/)
@@ -27,5 +33,6 @@ European markets are more heterogeneous. 24VAC systems exist but 9V and 12V DC b
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [IoT module](https://china-sourcing-agents.com/industries/iot-modules/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/drip-irrigation-controller/)
+- [private label service](https://china-sourcing-agents.com/services/private-label/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/drip-irrigation-controller/)
 

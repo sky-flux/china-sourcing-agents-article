@@ -1,3 +1,9 @@
+---
+title: "RFID Access Control Panel"
+description: "Standalone or networked RFID access controller supporting Mifare 13.56MHz and EM4100 125kHz cards. Wiegand 26/34 output, IP65, CE/FCC certified."
+canonical_url: "https://china-sourcing-agents.com/products/access-control/"
+---
+
 # RFID Access Control Panel
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/access-control/](https://china-sourcing-agents.com/products/access-control/)
@@ -26,5 +32,6 @@ Access control is a long-lived, safety-critical system — a failure that locks 
 - [smart building or security infrastructure](https://china-sourcing-agents.com/industries/smart-home/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [industrial IoT sourcing guide](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/access-control/)
+- [quality inspection service](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/access-control/)
 

@@ -1,3 +1,9 @@
+---
+title: "Automotive Connectors: USCAR-2, Deutsch & TE Alternatives"
+description: "USCAR-2 automotive connectors sourced from China: Deutsch DT/DTM, TE AMP Superseal, Molex MX150, LV-214 specs, fake connector detection, and PPAP."
+canonical_url: "https://china-sourcing-agents.com/wiki/automotive-connectors/"
+---
+
 # Automotive Connectors: USCAR-2, Deutsch & TE Alternatives
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/automotive-connectors/](https://china-sourcing-agents.com/wiki/automotive-connectors/)
@@ -30,5 +36,6 @@ USCAR-2 is the foundational performance document in North America. LV-214 plays 
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/automotive-connectors/)
+- [IATF 16949 Certification](https://china-sourcing-agents.com/wiki/iatf-16949/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/automotive-connectors/)
 

@@ -1,3 +1,9 @@
+---
+title: "Waterproofing Membrane OEM Manufacturer China"
+description: "Bituminous / TPO waterproofing membrane china factory OEM. CE EN13967/EN13969, 1,000 m² MOQ, SBS/APP modified bitumen and TPO single-ply."
+canonical_url: "https://china-sourcing-agents.com/products/waterproofing-membrane/"
+---
+
 # Waterproofing Membrane OEM Manufacturer China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/waterproofing-membrane/](https://china-sourcing-agents.com/products/waterproofing-membrane/)
@@ -26,5 +32,5 @@ The four mainstream membrane types available from Chinese factories serve differ
 
 - [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/waterproofing-membrane/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/waterproofing-membrane/)
 

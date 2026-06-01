@@ -1,3 +1,9 @@
+---
+title: "Aluminum Extrusion Profile"
+description: "Aluminum extrusion profile OEM from China. 6063-T5 and 6061-T6 alloys, anodized or powder-coated. Custom die in 15–30 days. RoHS/REACH."
+canonical_url: "https://china-sourcing-agents.com/products/aluminum-extrusion-profile/"
+---
+
 # Aluminum Extrusion Profile
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/aluminum-extrusion-profile/](https://china-sourcing-agents.com/products/aluminum-extrusion-profile/)
@@ -26,5 +32,5 @@ Aluminum extrusion alloy selection determines mechanical strength, surface finis
 ## Further reading
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/aluminum-extrusion-profile/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/aluminum-extrusion-profile/)
 

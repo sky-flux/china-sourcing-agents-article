@@ -1,3 +1,9 @@
+---
+title: "Putian Sourcing Agent — Footwear OEM & Medical Supplies"
+description: "Engineer-led sourcing in Putian, Fujian. Private-label sport shoes, medical consumables, and granite from one of China's largest footwear clusters."
+canonical_url: "https://china-sourcing-agents.com/cities/putian-sourcing-agent/"
+---
+
 # Putian Sourcing Agent — Footwear OEM & Medical Supplies
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/putian-sourcing-agent/](https://china-sourcing-agents.com/cities/putian-sourcing-agent/)
@@ -28,5 +34,5 @@ The Hanjiang District (含江区) shoe city (鞋城) is the core of Putian's foo
 ## Further reading
 
 - [factory audits](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/putian-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/putian-sourcing-agent/)
 

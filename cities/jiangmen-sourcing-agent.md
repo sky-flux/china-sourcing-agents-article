@@ -1,3 +1,9 @@
+---
+title: "Jiangmen Sourcing Agent — Motorcycle & Small Engine Hub"
+description: "China sourcing agent in Jiangmen: motorcycles, small engines, motor components, and hardware in western Guangdong's manufacturing hub."
+canonical_url: "https://china-sourcing-agents.com/cities/jiangmen-sourcing-agent/"
+---
+
 # Jiangmen Sourcing Agent — Motorcycle & Small Engine Hub
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/jiangmen-sourcing-agent/](https://china-sourcing-agents.com/cities/jiangmen-sourcing-agent/)
@@ -25,5 +31,5 @@ This vertical integration is what makes Jiangmen genuinely competitive for motor
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/jiangmen-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/jiangmen-sourcing-agent/)
 

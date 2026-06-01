@@ -1,3 +1,9 @@
+---
+title: "Electric Kettle (Temperature Control OEM / Private Label)"
+description: "OEM variable-temp kettle, 1.0–1.8L, 1500–3000W, 40–100°C control, BPA-free stainless/borosilicate, CE/ETL/SAA certified. Private label from 500 units."
+canonical_url: "https://china-sourcing-agents.com/products/electric-kettle-oem/"
+---
+
 # Electric Kettle (Temperature Control OEM / Private Label)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/electric-kettle-oem/](https://china-sourcing-agents.com/products/electric-kettle-oem/)
@@ -27,5 +33,5 @@ Variable-temperature kettles are sold on the premise that different beverages re
 - [quality inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [private label management service](https://china-sourcing-agents.com/services/private-label/)
 - [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/electric-kettle-oem/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/electric-kettle-oem/)
 

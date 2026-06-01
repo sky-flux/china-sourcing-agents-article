@@ -1,3 +1,9 @@
+---
+title: "TELEC/MIC Type Approval: Japan Radio Law Certification"
+description: "TELEC/MIC type approval for electronics from China sold in Japan: Radio Law scope, ARIB standards, module-level approval paths, costs, and bodies."
+canonical_url: "https://china-sourcing-agents.com/wiki/telec-japan/"
+---
+
 # TELEC/MIC Type Approval: Japan Radio Law Certification
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/telec-japan/](https://china-sourcing-agents.com/wiki/telec-japan/)
@@ -30,5 +36,6 @@ Japan's Radio Law (電波法, Denpahou) prohibits the operation of radio frequen
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/telec-japan/)
+- [FCC Certification](https://china-sourcing-agents.com/wiki/fcc-certification/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/telec-japan/)
 

@@ -1,3 +1,9 @@
+---
+title: "Upper-Arm Blood Pressure Monitor (OEM / CE/FDA)"
+description: "Validated upper-arm BP monitor, ±3 mmHg, 2-user 60-memory, irregular heartbeat detection. CE MDR and FDA 510(k) compliant. OEM from 500 units."
+canonical_url: "https://china-sourcing-agents.com/products/blood-pressure-monitor-oem/"
+---
+
 # Upper-Arm Blood Pressure Monitor (OEM / CE/FDA)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/blood-pressure-monitor-oem/](https://china-sourcing-agents.com/products/blood-pressure-monitor-oem/)
@@ -27,5 +33,5 @@ The British Hypertension Society (BHS) protocol uses a similar paired measuremen
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
 - [wearables industry page](https://china-sourcing-agents.com/industries/wearables/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/blood-pressure-monitor-oem/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/blood-pressure-monitor-oem/)
 

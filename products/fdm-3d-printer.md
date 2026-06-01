@@ -1,3 +1,9 @@
+---
+title: "FDM 3D Printer (OEM / White Label)"
+description: "OEM FDM 3D printer: CoreXY or bed-slinger, 250×250×250 mm, multi-material, Klipper/Marlin firmware. CE and FCC from 10 units."
+canonical_url: "https://china-sourcing-agents.com/products/fdm-3d-printer/"
+---
+
 # FDM 3D Printer (OEM / White Label)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/fdm-3d-printer/](https://china-sourcing-agents.com/products/fdm-3d-printer/)
@@ -27,5 +33,5 @@ The kinematic architecture defines the performance ceiling of the machine and ca
 - [factory audit](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/fdm-3d-printer/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/fdm-3d-printer/)
 

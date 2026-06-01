@@ -1,3 +1,9 @@
+---
+title: "Fangchenggang Sourcing Agent — Iron Ore & Vietnam Trade"
+description: "Sourcing guide for Fangchenggang, Guangxi: bulk cargo port (iron ore, manganese), Vietnam border trade via Dongxing, steel and mineral products."
+canonical_url: "https://china-sourcing-agents.com/cities/fangchenggang-sourcing-agent/"
+---
+
 # Fangchenggang Sourcing Agent — Iron Ore & Vietnam Trade
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/fangchenggang-sourcing-agent/](https://china-sourcing-agents.com/cities/fangchenggang-sourcing-agent/)
@@ -25,5 +31,5 @@ Fangchenggang Port is classified as one of China's national key ports, and its c
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/fangchenggang-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/fangchenggang-sourcing-agent/)
 

@@ -1,3 +1,9 @@
+---
+title: "Flexport Alternatives for Small Batch Electronics Sourcing"
+description: "Flexport handles freight, not factory sourcing. Need supplier discovery, audits, and quality inspection? Here's what to use instead of Flexport."
+canonical_url: "https://china-sourcing-agents.com/alternatives/flexport-alternatives/"
+---
+
 # Flexport Alternatives for Small Batch Electronics Sourcing
 
 > **Read the full guide**: [https://china-sourcing-agents.com/alternatives/flexport-alternatives/](https://china-sourcing-agents.com/alternatives/flexport-alternatives/)
@@ -14,5 +20,5 @@ p style="font-size: 0.9375rem; color: var(--color-fg); margin: 0; line-height: 1
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/alternatives/flexport-alternatives/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/alternatives/flexport-alternatives/)
 

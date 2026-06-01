@@ -1,3 +1,9 @@
+---
+title: "Pressure Sensors for Industrial & IoT Applications"
+description: "Pressure sensors from China: MEMS piezoresistive vs capacitive, key specs, Chinese and international manufacturers, IP ratings, and IEC 61298 accuracy."
+canonical_url: "https://china-sourcing-agents.com/wiki/pressure-sensors/"
+---
+
 # Pressure Sensors for Industrial & IoT Applications
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/pressure-sensors/](https://china-sourcing-agents.com/wiki/pressure-sensors/)
@@ -22,6 +28,7 @@ From a sourcing standpoint, there are two distinct supply chains: discrete MEMS 
 - Main Variants
 - Sourcing from China: What to Look For
 - Common Issues
+- Certifications Required
 
 ---
 
@@ -30,5 +37,6 @@ From a sourcing standpoint, there are two distinct supply chains: discrete MEMS 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/pressure-sensors/)
+- [Industrial IoT Hardware Sourcing Guide](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/pressure-sensors/)
 

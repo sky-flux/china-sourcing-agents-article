@@ -1,3 +1,9 @@
+---
+title: "Fitness Band / Activity Tracker (OEM)"
+description: "OEM fitness band: OLED or TFT, heart rate, SpO2, sleep tracking. Custom branding and app. CE, FCC, UN 38.3. From 500 units."
+canonical_url: "https://china-sourcing-agents.com/products/fitness-band-oem/"
+---
+
 # Fitness Band / Activity Tracker (OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/fitness-band-oem/](https://china-sourcing-agents.com/products/fitness-band-oem/)
@@ -28,5 +34,6 @@ Optical wrist PPG is the standard technology in fitness bands. Accuracy is accep
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [wearable devices](https://china-sourcing-agents.com/industries/wearables/)
 - [wearable manufacturing guide](https://china-sourcing-agents.com/guides/wearable-manufacturing-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/fitness-band-oem/)
+- [audit service](https://china-sourcing-agents.com/services/audit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/fitness-band-oem/)
 

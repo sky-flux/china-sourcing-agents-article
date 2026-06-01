@@ -1,3 +1,9 @@
+---
+title: "LiFePO4 Battery Pack (100Ah–200Ah)"
+description: "LiFePO4 deep-cycle battery for solar storage and marine use. Built-in BMS, 4000+ cycle life, Bluetooth monitoring, UN 38.3 certified."
+canonical_url: "https://china-sourcing-agents.com/products/lifepo4-battery/"
+---
+
 # LiFePO4 Battery Pack (100Ah–200Ah)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/lifepo4-battery/](https://china-sourcing-agents.com/products/lifepo4-battery/)
@@ -26,5 +32,6 @@ LiFePO4 cells have been the dominant chemistry for solar storage since roughly 2
 - [sourcing power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [factory audits](https://china-sourcing-agents.com/services/audit/)
 - [UN 38.3](https://china-sourcing-agents.com/wiki/un-38-3/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/lifepo4-battery/)
+- [IEC 62133](https://china-sourcing-agents.com/wiki/iec-62133/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/lifepo4-battery/)
 

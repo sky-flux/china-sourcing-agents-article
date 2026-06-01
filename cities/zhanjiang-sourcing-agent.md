@@ -1,3 +1,9 @@
+---
+title: "Zhanjiang Sourcing Agent — Seafood, Petrochemicals & Port"
+description: "China sourcing agent in Zhanjiang: seafood (shrimp capital), BASF petrochemical base, Bao-Wu steel, and South China's major western deepwater port."
+canonical_url: "https://china-sourcing-agents.com/cities/zhanjiang-sourcing-agent/"
+---
+
 # Zhanjiang Sourcing Agent — Seafood, Petrochemicals & Port
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/zhanjiang-sourcing-agent/](https://china-sourcing-agents.com/cities/zhanjiang-sourcing-agent/)
@@ -22,8 +28,9 @@ The processing industry is structured around large integrated facilities that ha
 - Bao-Wu Steel: The Donghai Island Mill
 - Zhanjiang Port in South China Logistics
 - Scope Assessment: When to Visit Zhanjiang
+- Practical Notes
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/zhanjiang-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/zhanjiang-sourcing-agent/)
 

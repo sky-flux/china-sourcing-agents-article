@@ -1,3 +1,9 @@
+---
+title: "Shipping from China: Air vs Sea Freight Cost Comparison"
+description: "Real cost ranges for express, air freight, LCL, and FCL shipping from China — plus the hidden charges most first-time importers don't account for."
+canonical_url: "https://china-sourcing-agents.com/blog/china-shipping-air-vs-sea-cost/"
+---
+
 # Shipping from China: Air vs Sea Freight Cost Comparison
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/china-shipping-air-vs-sea-cost/](https://china-sourcing-agents.com/blog/china-shipping-air-vs-sea-cost/)
@@ -30,5 +36,5 @@ There are effectively four options when shipping from China, not two:
 - [China payment terms guide](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
 - [Logistics & Customs Coordination](https://china-sourcing-agents.com/services/logistics/)
 - [EU startup Bluetooth speaker case](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/china-shipping-air-vs-sea-cost/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/china-shipping-air-vs-sea-cost/)
 

@@ -1,3 +1,9 @@
+---
+title: "How to Read a Chinese Factory Quote: Line by Line"
+description: "What the line items on a Chinese supplier quotation actually mean, the red flags that signal a bad quote, and how to compare multiple quotes fairly."
+canonical_url: "https://china-sourcing-agents.com/blog/how-to-read-chinese-factory-quote/"
+---
+
 # How to Read a Chinese Factory Quote: Line by Line
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/how-to-read-chinese-factory-quote/](https://china-sourcing-agents.com/blog/how-to-read-chinese-factory-quote/)
@@ -30,5 +36,6 @@ The other factor is that many quotes are produced by salespeople, not engineers.
 - [Sourcing & Supplier Matching](https://china-sourcing-agents.com/services/sourcing/)
 - [Factory Audit Checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [EU startup Bluetooth speaker case](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/how-to-read-chinese-factory-quote/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/how-to-read-chinese-factory-quote/)
 

@@ -1,3 +1,9 @@
+---
+title: "Air Fryer (OEM / Private Label)"
+description: "OEM air fryer: rapid-air heating, digital touchscreen, app control. 3.5–12L, 1500–2000W, CE/ETL/SAA certified. Private label from 500 units."
+canonical_url: "https://china-sourcing-agents.com/products/air-fryer-oem/"
+---
+
 # Air Fryer (OEM / Private Label)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/air-fryer-oem/](https://china-sourcing-agents.com/products/air-fryer-oem/)
@@ -27,5 +33,5 @@ Air fryer factories concentrate in Guangdong (Shenzhen, Foshan, Zhongshan) and Z
 - [private label and OEM management service](https://china-sourcing-agents.com/services/private-label/)
 - [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [quality inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/air-fryer-oem/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/air-fryer-oem/)
 

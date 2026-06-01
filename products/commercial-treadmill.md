@@ -1,3 +1,9 @@
+---
+title: "Commercial Treadmill (3–5 HP DC Motor, 0–20 km/h)"
+description: "OEM commercial treadmills, EN 957-6 certified for EU gym wholesale buyers. Verified continuous HP, belt lifespan, and deck cushioning specs."
+canonical_url: "https://china-sourcing-agents.com/products/commercial-treadmill/"
+---
+
 # Commercial Treadmill (3–5 HP DC Motor, 0–20 km/h)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/commercial-treadmill/](https://china-sourcing-agents.com/products/commercial-treadmill/)
@@ -26,5 +32,5 @@ Motor HP ratings on Chinese treadmills are almost universally quoted at peak (in
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/commercial-treadmill/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/commercial-treadmill/)
 

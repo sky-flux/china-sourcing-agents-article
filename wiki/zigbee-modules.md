@@ -1,3 +1,9 @@
+---
+title: "Zigbee Modules: Sourcing Reference for Smart Home & IIoT"
+description: "Zigbee modules from China: CC2652R vs EFR32MG24, Matter over Thread certification, TLSR8258 Tuya compatibility, CSA Zigbee 3.0 costs and interoperability."
+canonical_url: "https://china-sourcing-agents.com/wiki/zigbee-modules/"
+---
+
 # Zigbee Modules: Sourcing Reference for Smart Home & IIoT
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/zigbee-modules/](https://china-sourcing-agents.com/wiki/zigbee-modules/)
@@ -30,5 +36,6 @@ Thread is a competing 802.15.4 mesh protocol that forms the network layer for Ma
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/zigbee-modules/)
+- [How to Source Electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/zigbee-modules/)
 

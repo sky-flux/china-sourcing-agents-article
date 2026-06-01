@@ -1,3 +1,9 @@
+---
+title: "UKCA Marking: Post-Brexit UK Product Certification"
+description: "UKCA marking for Great Britain electronics: post-Brexit CE phase-out, UK Approved Bodies, RER 2017, and practical compliance steps for Chinese exporters."
+canonical_url: "https://china-sourcing-agents.com/wiki/ukca-marking/"
+---
+
 # UKCA Marking: Post-Brexit UK Product Certification
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/ukca-marking/](https://china-sourcing-agents.com/wiki/ukca-marking/)
@@ -30,5 +36,6 @@ UKCA applies to Great Britain only — England, Wales, Scotland. Northern Irelan
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [wearable](https://china-sourcing-agents.com/industries/wearables/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/ukca-marking/)
+- [CE Marking for Electronics](https://china-sourcing-agents.com/wiki/ce-marking/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/ukca-marking/)
 

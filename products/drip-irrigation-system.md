@@ -1,3 +1,9 @@
+---
+title: "Drip Irrigation System / Kit (OEM, PC Emitter, 16mm Lateral)"
+description: "China-sourced drip irrigation systems with pressure-compensating emitters 1–4 L/h, PE 16mm lateral pipe, disc filtration, and fertigation compatibility."
+canonical_url: "https://china-sourcing-agents.com/products/drip-irrigation-system/"
+---
+
 # Drip Irrigation System / Kit (OEM, PC Emitter, 16mm Lateral)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/drip-irrigation-system/](https://china-sourcing-agents.com/products/drip-irrigation-system/)
@@ -26,5 +32,5 @@ The emitter is the flow-control element that delivers water directly to the root
 ## Further reading
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/drip-irrigation-system/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/drip-irrigation-system/)
 

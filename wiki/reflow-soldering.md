@@ -1,3 +1,9 @@
+---
+title: "Reflow Soldering Profiles: SAC305, Lead-Free & Leaded"
+description: "Reflow soldering profiles for China PCB assembly: SAC305 lead-free and Sn63Pb37 leaded zone temperatures, ramp rates, and J-STD-020 moisture sensitivity."
+canonical_url: "https://china-sourcing-agents.com/wiki/reflow-soldering/"
+---
+
 # Reflow Soldering Profiles: SAC305, Lead-Free & Leaded
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/reflow-soldering/](https://china-sourcing-agents.com/wiki/reflow-soldering/)
@@ -22,6 +28,8 @@ Two dominant solder systems in China production:
 - Low-Temperature Alternatives
 - J-STD-020 Moisture Sensitivity Levels (MSL)
 - Nitrogen Atmosphere Reflow
+- What to Specify When Ordering from China
+- Quality Checks
 
 ---
 
@@ -30,5 +38,6 @@ Two dominant solder systems in China production:
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [SMT Assembly Process](https://china-sourcing-agents.com/wiki/smt-process/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/reflow-soldering/)
+- [IPC-A-610 Acceptance Criteria](https://china-sourcing-agents.com/wiki/ipc-a-610/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/reflow-soldering/)
 

@@ -1,3 +1,9 @@
+---
+title: "Bluetooth Speaker from China: EU Startup, 5,000 Units"
+description: "EU startup sources 5,000-unit Bluetooth speaker from China. Factory audit, 3-stage inspection, FCC/CE certification — 0.4% defect rate, 18% margin gain."
+canonical_url: "https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/"
+---
+
 # Bluetooth Speaker from China: EU Startup, 5,000 Units
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
@@ -36,5 +42,6 @@ The product: a TWS-capable BLE 5.2 stereo speaker with USB-C PD charging, passiv
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [sourcing process](https://china-sourcing-agents.com/services/sourcing/)
 - [On-site factory audits](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
+- [quality inspection](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
 

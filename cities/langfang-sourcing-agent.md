@@ -1,3 +1,9 @@
+---
+title: "Langfang Sourcing Agent — BJ-TJ Corridor Electronics"
+description: "Engineer-led China sourcing agent in Langfang. Foxconn campus, Samsung SDI batteries, data center hardware, and dual airport access to PKX and PEK."
+canonical_url: "https://china-sourcing-agents.com/cities/langfang-sourcing-agent/"
+---
+
 # Langfang Sourcing Agent — BJ-TJ Corridor Electronics
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/langfang-sourcing-agent/](https://china-sourcing-agents.com/cities/langfang-sourcing-agent/)
@@ -22,5 +28,5 @@ The city's industrial profile has been shaped decisively by the anchor investmen
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/langfang-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/langfang-sourcing-agent/)
 

@@ -1,3 +1,9 @@
+---
+title: "Video Doorbell (2K WiFi)"
+description: "Wireless video doorbell with 2K HDR camera, two-way audio, motion detection, cloud/local storage, and hardwired or battery power. CE/FCC certified."
+canonical_url: "https://china-sourcing-agents.com/products/video-doorbell/"
+---
+
 # Video Doorbell (2K WiFi)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/video-doorbell/](https://china-sourcing-agents.com/products/video-doorbell/)
@@ -26,5 +32,6 @@ Video doorbells are high-visibility smart home and consumer electronics products
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [private-label](https://china-sourcing-agents.com/services/private-label/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/video-doorbell/)
+- [quality inspection](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/video-doorbell/)
 

@@ -1,3 +1,9 @@
+---
+title: "Xiamen Sourcing Agent — Fitness Equipment & Wearables"
+description: "Sourcing agent in Xiamen: China's #1 fitness equipment export base (treadmills), wearables, consumer electronics, and Taiwan supply chain access via SEZ."
+canonical_url: "https://china-sourcing-agents.com/cities/xiamen-sourcing-agent/"
+---
+
 # Xiamen Sourcing Agent — Fitness Equipment & Wearables
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/xiamen-sourcing-agent/](https://china-sourcing-agents.com/cities/xiamen-sourcing-agent/)
@@ -29,5 +35,6 @@ Xiamen is not merely a large fitness equipment city — it is the dominant globa
 - [Wearables](https://china-sourcing-agents.com/industries/wearables/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/xiamen-sourcing-agent/)
+- [wearable manufacturing guide](https://china-sourcing-agents.com/guides/wearable-manufacturing-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/xiamen-sourcing-agent/)
 

@@ -1,3 +1,9 @@
+---
+title: "Smartwatch (AMOLED, OEM / Private Label)"
+description: "OEM AMOLED smartwatch with heart rate, SpO2, BLE 5.x. Custom firmware, app SDK, branding from 500 units. CE, FCC, and UN 38.3 certified."
+canonical_url: "https://china-sourcing-agents.com/products/smartwatch-oem/"
+---
+
 # Smartwatch (AMOLED, OEM / Private Label)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/smartwatch-oem/](https://china-sourcing-agents.com/products/smartwatch-oem/)
@@ -28,5 +34,6 @@ AMOLED panels for wearables are sourced from a small number of manufacturers, an
 - [wearables](https://china-sourcing-agents.com/industries/wearables/)
 - [sourcing smartwatches](https://china-sourcing-agents.com/services/sourcing/)
 - [US Startup Smart Watch case study](https://china-sourcing-agents.com/cases/us-startup-smart-watch/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/smartwatch-oem/)
+- [UN 38.3 certification](https://china-sourcing-agents.com/wiki/un-38-3/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/smartwatch-oem/)
 

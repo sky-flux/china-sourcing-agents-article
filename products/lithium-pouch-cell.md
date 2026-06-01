@@ -1,3 +1,9 @@
+---
+title: "Lithium Polymer Pouch Cell (NMC & LFP)"
+description: "Custom lithium polymer pouch cell from China OEM. NMC and LFP chemistry, 100mAh–10,000mAh, UN 38.3 compliant. Wearables, drones, consumer electronics."
+canonical_url: "https://china-sourcing-agents.com/products/lithium-pouch-cell/"
+---
+
 # Lithium Polymer Pouch Cell (NMC & LFP)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/lithium-pouch-cell/](https://china-sourcing-agents.com/products/lithium-pouch-cell/)
@@ -28,5 +34,6 @@ Pouch cells offer the most flexibility of any lithium-ion format — you specify
 - [wearables](https://china-sourcing-agents.com/industries/wearables/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/lithium-pouch-cell/)
+- [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/lithium-pouch-cell/)
 

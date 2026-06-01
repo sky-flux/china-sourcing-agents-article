@@ -1,3 +1,9 @@
+---
+title: "Xi'an Sourcing Agent — Samsung NAND, Aerospace & Rail"
+description: "China sourcing agent in Xi'an: Samsung NAND supply chain, aerospace precision electronics, Shaanxi agricultural products, and China-Europe rail freight."
+canonical_url: "https://china-sourcing-agents.com/cities/xian-sourcing-agent/"
+---
+
 # Xi'an Sourcing Agent — Samsung NAND, Aerospace & Rail
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/xian-sourcing-agent/](https://china-sourcing-agents.com/cities/xian-sourcing-agent/)
@@ -22,6 +28,7 @@ Samsung Semiconductor Xi'an operates two NAND flash wafer fabrication plants in 
 - China-Europe Rail Logistics from Xi'an
 - Shaanxi Agricultural Products and Food Supply Chain
 - Xi'an vs. Chengdu for Western China Sourcing
+- Practical Notes
 
 ---
 
@@ -30,5 +37,5 @@ Samsung Semiconductor Xi'an operates two NAND flash wafer fabrication plants in 
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [factory audit process](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/xian-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/xian-sourcing-agent/)
 

@@ -1,3 +1,9 @@
+---
+title: "Pin Headers & Dupont Connectors: China Sourcing Reference"
+description: "Pin headers and Dupont connectors from China: 2.54/2.0/1.27mm pitch, brass vs gold plating, current ratings, through-hole vs SMD, SIL/DIL types."
+canonical_url: "https://china-sourcing-agents.com/wiki/pin-headers-dupont/"
+---
+
 # Pin Headers & Dupont Connectors: China Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/pin-headers-dupont/](https://china-sourcing-agents.com/wiki/pin-headers-dupont/)
@@ -29,5 +35,6 @@ The market splits into through-hole (THT) headers for hand assembly and prototyp
 - [source from China](https://china-sourcing-agents.com/services/sourcing/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [BOM Management](https://china-sourcing-agents.com/wiki/bom-management/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/pin-headers-dupont/)
+- [IPC-A-610 Acceptance Criteria](https://china-sourcing-agents.com/wiki/ipc-a-610/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/pin-headers-dupont/)
 

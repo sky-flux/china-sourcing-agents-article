@@ -1,3 +1,9 @@
+---
+title: "Digital Clamp Meter (OEM / White Label)"
+description: "OEM True RMS digital clamp meter, 1000A AC/DC, CAT III 1000V / CAT IV 600V, 6000-count display, and Bluetooth data logging. CE and UL 61010-1 certified."
+canonical_url: "https://china-sourcing-agents.com/products/digital-clamp-meter/"
+---
+
 # Digital Clamp Meter (OEM / White Label)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/digital-clamp-meter/](https://china-sourcing-agents.com/products/digital-clamp-meter/)
@@ -27,5 +33,5 @@ For industrial IoT and industrial electrical applications, True RMS is the corre
 - [industrial IoT and industrial electrical applications](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [sourcing via a qualified agent](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection and specification stage](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/digital-clamp-meter/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/digital-clamp-meter/)
 

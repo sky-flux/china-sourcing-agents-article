@@ -1,3 +1,9 @@
+---
+title: "Conformal Coating for Electronics: Types & Sourcing"
+description: "Conformal coating for China-manufactured PCBAs: material selection, application methods, thickness specs, and IPC-CC-830B quality inspection criteria."
+canonical_url: "https://china-sourcing-agents.com/wiki/conformal-coating/"
+---
+
 # Conformal Coating for Electronics: Types & Sourcing
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/conformal-coating/](https://china-sourcing-agents.com/wiki/conformal-coating/)
@@ -22,6 +28,8 @@ Conformal coating is standard for: automotive electronics (AEC-Q200 qualified su
 - Application Methods
 - Masking for Conformal Coating
 - Quality Inspection
+- Cost Impact
+- What to Specify When Ordering from China
 
 ---
 
@@ -30,5 +38,6 @@ Conformal coating is standard for: automotive electronics (AEC-Q200 qualified su
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/conformal-coating/)
+- [SMT Assembly Process](https://china-sourcing-agents.com/wiki/smt-process/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/conformal-coating/)
 

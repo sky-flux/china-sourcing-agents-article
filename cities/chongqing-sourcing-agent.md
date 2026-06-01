@@ -1,3 +1,9 @@
+---
+title: "Chongqing Sourcing Agent — Motorcycles, Vehicles & Rail"
+description: "Engineer-led China sourcing in Chongqing. Motorcycle capital (7.8M+/year), Changan Auto base, Yangtze port and China-Europe railway (13 days to Duisburg)."
+canonical_url: "https://china-sourcing-agents.com/cities/chongqing-sourcing-agent/"
+---
+
 # Chongqing Sourcing Agent — Motorcycles, Vehicles & Rail
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/chongqing-sourcing-agent/](https://china-sourcing-agents.com/cities/chongqing-sourcing-agent/)
@@ -29,5 +35,5 @@ Beyond motorcycles, Chongqing is also a major four-wheel vehicle manufacturing c
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [Factory audits](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/chongqing-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/chongqing-sourcing-agent/)
 

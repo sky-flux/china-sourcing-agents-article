@@ -1,3 +1,9 @@
+---
+title: "Electronics Supply Chain Risk: 5 Hidden Dangers for Buyers"
+description: "Supply chain risk management for electronics buyers: five specific failure modes that account for most costly surprises in China sourcing."
+canonical_url: "https://china-sourcing-agents.com/blog/supply-chain-risk-management-china-sourcing/"
+---
+
 # Electronics Supply Chain Risk: 5 Hidden Dangers for Buyers
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/supply-chain-risk-management-china-sourcing/](https://china-sourcing-agents.com/blog/supply-chain-risk-management-china-sourcing/)
@@ -22,6 +28,7 @@ Most electronics sourcing disasters are not surprises. They are known risk scena
 - Scenario 4: Tariff reclassification
 - Scenario 5: Unauthorized component substitution
 - Turning this into a plan: the one-page risk register
+- Where a sourcing agent changes the risk profile
 
 ---
 
@@ -29,5 +36,5 @@ Most electronics sourcing disasters are not surprises. They are known risk scena
 
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [quality inspection guide](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/supply-chain-risk-management-china-sourcing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/supply-chain-risk-management-china-sourcing/)
 

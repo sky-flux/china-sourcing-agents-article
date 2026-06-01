@@ -1,3 +1,9 @@
+---
+title: "Sonic Electric Toothbrush (OEM / White Label)"
+description: "High-frequency sonic toothbrush with IPX7 waterproofing, timer, 3–5 cleaning modes, and USB-C inductive charging. OEM from 1,000 units. CE/RoHS certified."
+canonical_url: "https://china-sourcing-agents.com/products/electric-toothbrush-oem/"
+---
+
 # Sonic Electric Toothbrush (OEM / White Label)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/electric-toothbrush-oem/](https://china-sourcing-agents.com/products/electric-toothbrush-oem/)
@@ -27,5 +33,6 @@ Magnetic levitation (maglev) designs, used in premium handles, use opposing magn
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [private label service](https://china-sourcing-agents.com/services/private-label/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/electric-toothbrush-oem/)
+- [audit service](https://china-sourcing-agents.com/services/audit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/electric-toothbrush-oem/)
 

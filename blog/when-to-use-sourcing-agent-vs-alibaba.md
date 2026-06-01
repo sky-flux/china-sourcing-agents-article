@@ -1,3 +1,9 @@
+---
+title: "When to Use a Sourcing Agent Instead of Alibaba"
+description: "Alibaba works for repeat orders with proven suppliers — where it breaks down: new factories, custom electronics, FCC/CE certs, and orders above $10,000."
+canonical_url: "https://china-sourcing-agents.com/blog/when-to-use-sourcing-agent-vs-alibaba/"
+---
+
 # When to Use a Sourcing Agent Instead of Alibaba
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/when-to-use-sourcing-agent-vs-alibaba/](https://china-sourcing-agents.com/blog/when-to-use-sourcing-agent-vs-alibaba/)
@@ -27,5 +33,5 @@ Direct Alibaba sourcing works well in a specific set of conditions. All of these
 - [EU startup Bluetooth speaker case study](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
 - [complete guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [Alibaba vs 1688 comparison](https://china-sourcing-agents.com/guides/alibaba-vs-1688/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/when-to-use-sourcing-agent-vs-alibaba/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/when-to-use-sourcing-agent-vs-alibaba/)
 

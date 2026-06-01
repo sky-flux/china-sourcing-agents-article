@@ -1,3 +1,9 @@
+---
+title: "Air Purifier (HEPA H13 + Activated Carbon, 300–500 m³/h)"
+description: "OEM air purifiers with verified HEPA H13 filtration and CADR ratings. CARB, Energy Star, and CE compliance for US, EU, and global wholesale buyers."
+canonical_url: "https://china-sourcing-agents.com/products/air-purifier/"
+---
+
 # Air Purifier (HEPA H13 + Activated Carbon, 300–500 m³/h)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/air-purifier/](https://china-sourcing-agents.com/products/air-purifier/)
@@ -26,5 +32,5 @@ CADR (Clean Air Delivery Rate) is measured per AHAM AC-1 test method, conducted 
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [quality inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/air-purifier/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/air-purifier/)
 

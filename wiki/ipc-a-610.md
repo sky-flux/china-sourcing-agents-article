@@ -1,3 +1,9 @@
+---
+title: "IPC-A-610: Acceptability of Electronic Assemblies Reference"
+description: "IPC-A-610H for electronics from China: Class 1/2/3 quality levels, BGA void limits, common SMT defect categories, and how to specify class in POs."
+canonical_url: "https://china-sourcing-agents.com/wiki/ipc-a-610/"
+---
+
 # IPC-A-610: Acceptability of Electronic Assemblies Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/ipc-a-610/](https://china-sourcing-agents.com/wiki/ipc-a-610/)
@@ -30,5 +36,6 @@ IPC-A-610H is updated every three years. IPC also maintains related standards th
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Factory Audit Checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/ipc-a-610/)
+- [How to Source Electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/ipc-a-610/)
 

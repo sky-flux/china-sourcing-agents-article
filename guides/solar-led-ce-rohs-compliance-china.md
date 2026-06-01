@@ -1,3 +1,9 @@
+---
+title: "Sourcing Solar & Smart LED from China: CE & RoHS"
+description: "CE and RoHS compliance for EU buyers sourcing solar panels, LED fixtures, and smart LED products from China. Directives, standards, costs, red flags."
+canonical_url: "https://china-sourcing-agents.com/guides/solar-led-ce-rohs-compliance-china/"
+---
+
 # Sourcing Solar & Smart LED from China: CE & RoHS
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/solar-led-ce-rohs-compliance-china/](https://china-sourcing-agents.com/guides/solar-led-ce-rohs-compliance-china/)
@@ -22,6 +28,8 @@ If you're at the earlier stage of evaluating suppliers, read our complete electr
 - RoHS 2 compliance: the 10 restricted substances
 - EN standards that matter for LED and solar products
 - How to verify compliance before production
+- How our sourcing process handles compliance
+- Common failure patterns
 
 ---
 
@@ -29,5 +37,5 @@ If you're at the earlier stage of evaluating suppliers, read our complete electr
 
 - [complete electronics sourcing guide](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/solar-led-ce-rohs-compliance-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/solar-led-ce-rohs-compliance-china/)
 

@@ -1,3 +1,9 @@
+---
+title: "Level 2 EV Charger / EVSE (7kW–22kW OEM)"
+description: "Level 2 EV charger from China: 7–22 kW, Type 2/J1772/GB/T, OCPP 1.6/2.0, CE and UL 2594. OEM for residential and commercial use."
+canonical_url: "https://china-sourcing-agents.com/products/ev-charger-level2-evse/"
+---
+
 # Level 2 EV Charger / EVSE (7kW–22kW OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/ev-charger-level2-evse/](https://china-sourcing-agents.com/products/ev-charger-level2-evse/)
@@ -28,5 +34,5 @@ The connector standard is not a styling choice — it determines which vehicles 
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [audit service](https://china-sourcing-agents.com/services/audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/ev-charger-level2-evse/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/ev-charger-level2-evse/)
 

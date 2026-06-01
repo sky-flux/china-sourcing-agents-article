@@ -1,3 +1,9 @@
+---
+title: "Hefei Sourcing Agent — EV Supply Chain & Home Appliance Mfg"
+description: "Engineer-led China sourcing in Hefei: top NEV output city, JAC/NIO/BYD/VW Anhui EV ecosystem, CATL battery supply chain, and home appliance manufacturing."
+canonical_url: "https://china-sourcing-agents.com/cities/hefei-sourcing-agent/"
+---
+
 # Hefei Sourcing Agent — EV Supply Chain & Home Appliance Mfg
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/hefei-sourcing-agent/](https://china-sourcing-agents.com/cities/hefei-sourcing-agent/)
@@ -29,5 +35,5 @@ The NEV production base in Hefei is anchored by four OEM manufacturing operation
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [Industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [Factory audits](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/hefei-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/hefei-sourcing-agent/)
 

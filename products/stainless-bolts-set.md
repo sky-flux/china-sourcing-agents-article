@@ -1,3 +1,9 @@
+---
+title: "Stainless Steel Hex Bolts & Nuts Set (A2-70 / A4-80)"
+description: "ISO 3506 stainless steel hex bolts and nuts, A2-304 and A4-316 grades. Mill test reports, dimensional inspection, bulk or kit packaging for wholesale."
+canonical_url: "https://china-sourcing-agents.com/products/stainless-bolts-set/"
+---
+
 # Stainless Steel Hex Bolts & Nuts Set (A2-70 / A4-80)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/stainless-bolts-set/](https://china-sourcing-agents.com/products/stainless-bolts-set/)
@@ -26,5 +32,6 @@ ISO 4017 tolerance class 6g/6H is the standard commercial tolerance for hex bolt
 - [sourcing stainless fasteners](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/stainless-bolts-set/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/stainless-bolts-set/)
 

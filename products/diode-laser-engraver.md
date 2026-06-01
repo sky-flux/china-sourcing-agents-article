@@ -1,3 +1,9 @@
+---
+title: "Diode Laser Engraver / Cutter (OEM / White Label)"
+description: "OEM diode laser engraver, 5–20W optical output, 400×400mm work area, GRBL/LightBurn compatible, enclosure option. CE and FDA-compliant from 50 units."
+canonical_url: "https://china-sourcing-agents.com/products/diode-laser-engraver/"
+---
+
 # Diode Laser Engraver / Cutter (OEM / White Label)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/diode-laser-engraver/](https://china-sourcing-agents.com/products/diode-laser-engraver/)
@@ -27,5 +33,5 @@ Top-tier Chinese diode laser modules use NUBM44 or equivalent Nichia or Osram ch
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [private label service](https://china-sourcing-agents.com/services/private-label/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/diode-laser-engraver/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/diode-laser-engraver/)
 

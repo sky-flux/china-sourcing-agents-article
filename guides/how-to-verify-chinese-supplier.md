@@ -1,3 +1,9 @@
+---
+title: "How to Verify a Chinese Factory Before Wiring Any Money"
+description: "Five verification levels that separate real factories from trading companies and scams — with specific checks you can do before spending a dollar."
+canonical_url: "https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/"
+---
+
 # How to Verify a Chinese Factory Before Wiring Any Money
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
@@ -22,6 +28,8 @@ Factory verification has five levels. Most buyers stop at level one. This guide 
 - Level 3: Technical capability check
 - Level 4: Sample validation
 - Level 5: On-site audit
+- Five red flags that should disqualify a factory immediately
+- When you're ready to pay
 
 ---
 
@@ -29,5 +37,5 @@ Factory verification has five levels. Most buyers stop at level one. This guide 
 
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [our sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
 

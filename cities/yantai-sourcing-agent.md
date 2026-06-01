@@ -1,3 +1,9 @@
+---
+title: "Yantai Sourcing Agent — Food Processing & Seafood Export"
+description: "China sourcing agent in Yantai: seafood, Yantai apples, wine (Changyu, Great Wall), and health supplements for Western grocery and health markets."
+canonical_url: "https://china-sourcing-agents.com/cities/yantai-sourcing-agent/"
+---
+
 # Yantai Sourcing Agent — Food Processing & Seafood Export
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/yantai-sourcing-agent/](https://china-sourcing-agents.com/cities/yantai-sourcing-agent/)
@@ -29,5 +35,5 @@ Yantai's food industry identity rests on three pillars: fruit processing, seafoo
 
 - [factory audit process](https://china-sourcing-agents.com/services/audit/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/yantai-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/yantai-sourcing-agent/)
 

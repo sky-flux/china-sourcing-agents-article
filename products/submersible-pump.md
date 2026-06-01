@@ -1,3 +1,9 @@
+---
+title: "Submersible Pump OEM Manufacturer China"
+description: "Submersible pump china factory OEM wholesale — 4-inch/6-inch borehole, stainless impeller, CE RoHS IP68, NSF/ANSI 61 optional, 50-unit MOQ."
+canonical_url: "https://china-sourcing-agents.com/products/submersible-pump/"
+---
+
 # Submersible Pump OEM Manufacturer China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/submersible-pump/](https://china-sourcing-agents.com/products/submersible-pump/)
@@ -26,5 +32,5 @@ The first decision is selecting the correct pump family. The three main types se
 
 - [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection engagement](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/submersible-pump/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/submersible-pump/)
 

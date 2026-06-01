@@ -1,3 +1,9 @@
+---
+title: "Industrial PLC OEM Manufacturer China"
+description: "Industrial PLC china factory OEM sourcing agent — IEC 61131-3 compliant, Modbus/PROFINET, DIN rail mount, 5-unit MOQ, CE RoHS UL 508A."
+canonical_url: "https://china-sourcing-agents.com/products/industrial-plc/"
+---
+
 # Industrial PLC OEM Manufacturer China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/industrial-plc/](https://china-sourcing-agents.com/products/industrial-plc/)
@@ -28,5 +34,5 @@ The catch is that "IEC 61131-3 compliant" is a claim factories make freely, but 
 - [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [industrial IoT sourcing engagement](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/industrial-plc/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/industrial-plc/)
 

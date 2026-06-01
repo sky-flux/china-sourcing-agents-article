@@ -1,3 +1,9 @@
+---
+title: "Shenyang Sourcing Agent — Heavy Machinery & BMW Auto Parts"
+description: "Engineer-led sourcing in Shenyang. Heavy industrial machinery, CNC machine tools, and automotive parts — Northeast China's largest manufacturing city."
+canonical_url: "https://china-sourcing-agents.com/cities/shenyang-sourcing-agent/"
+---
+
 # Shenyang Sourcing Agent — Heavy Machinery & BMW Auto Parts
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/shenyang-sourcing-agent/](https://china-sourcing-agents.com/cities/shenyang-sourcing-agent/)
@@ -23,5 +29,5 @@ Shenyang is the capital of Liaoning Province and Northeast China's largest city.
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/shenyang-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/shenyang-sourcing-agent/)
 

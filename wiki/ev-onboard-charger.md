@@ -1,3 +1,9 @@
+---
+title: "EV Onboard Charger (OBC) Modules: 3.3kW to 22kW"
+description: "EV onboard charger modules from China: 3.3–22kW AC/DC, bidirectional V2G OBC, UL 2202/IEC 62477 compliance, and Chinese OEM qualification risks."
+canonical_url: "https://china-sourcing-agents.com/wiki/ev-onboard-charger/"
+---
+
 # EV Onboard Charger (OBC) Modules: 3.3kW to 22kW
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/ev-onboard-charger/](https://china-sourcing-agents.com/wiki/ev-onboard-charger/)
@@ -30,5 +36,6 @@ The onboard charger (OBC) is the module installed in an electric vehicle that co
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/ev-onboard-charger/)
+- [IATF 16949 Quality Management Reference](https://china-sourcing-agents.com/wiki/iatf-16949/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/ev-onboard-charger/)
 

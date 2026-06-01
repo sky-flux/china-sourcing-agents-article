@@ -1,3 +1,9 @@
+---
+title: "How to Source Electronics from China"
+description: "Factory discovery to production management: the engineer-written guide to sourcing electronics from China for hardware startups and buyers."
+canonical_url: "https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/"
+---
+
 # How to Source Electronics from China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
@@ -22,6 +28,8 @@ Alibaba is a marketplace where both manufacturers and traders list products. You
 - Step 3: Qualify before you RFQ
 - Step 4: Send a standardized RFQ — and write it properly
 - Alibaba vs 1688 vs direct factory: which platform for what
+- Step 5: Audit before you order
+- Quality control: three stages, not one
 
 ---
 
@@ -30,5 +38,6 @@ Alibaba is a marketplace where both manufacturers and traders list products. You
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [FCC](https://china-sourcing-agents.com/wiki/fcc-certification/)
 - [CE](https://china-sourcing-agents.com/wiki/ce-marking/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [RoHS](https://china-sourcing-agents.com/wiki/rohs-compliance/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 

@@ -1,3 +1,9 @@
+---
+title: "Photoelectric Sensor (Through-beam / Retro / Diffuse OEM)"
+description: "Industrial photoelectric sensors from China: through-beam 30m, retro-reflective 8m, diffuse 300mm. PNP/NPN, IP67, 10–30V DC. CE and UL certified."
+canonical_url: "https://china-sourcing-agents.com/products/photoelectric-sensor/"
+---
+
 # Photoelectric Sensor (Through-beam / Retro / Diffuse OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/photoelectric-sensor/](https://china-sourcing-agents.com/products/photoelectric-sensor/)
@@ -28,5 +34,6 @@ The three detection modes have fundamentally different operating principles and 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [VFDs](https://china-sourcing-agents.com/products/vfd-frequency-inverter/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/photoelectric-sensor/)
+- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/photoelectric-sensor/)
 

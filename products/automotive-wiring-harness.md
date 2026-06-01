@@ -1,3 +1,9 @@
+---
+title: "Custom Automotive Wiring Harness"
+description: "Custom automotive wiring harness from China. FLRY-B, GXL, and XLPE HV wire. Delphi, Molex, TE connectors. IATF 16949 factories. EV and ICE applications."
+canonical_url: "https://china-sourcing-agents.com/products/automotive-wiring-harness/"
+---
+
 # Custom Automotive Wiring Harness
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/automotive-wiring-harness/](https://china-sourcing-agents.com/products/automotive-wiring-harness/)
@@ -28,5 +34,6 @@ Wire standard selection is the first decision in any harness design, and it cann
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/automotive-wiring-harness/)
+- [automotive electronics sourcing](https://china-sourcing-agents.com/industries/automotive-electronics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/automotive-wiring-harness/)
 

@@ -1,3 +1,9 @@
+---
+title: "Compact Tractor OEM Manufacturer China"
+description: "Compact tractor 18–55HP China OEM manufacturer. Diesel or EV, CE Machinery Directive, 5-unit MOQ, EU/US distributor import. Gear drive or HST."
+canonical_url: "https://china-sourcing-agents.com/products/compact-tractor-oem/"
+---
+
 # Compact Tractor OEM Manufacturer China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/compact-tractor-oem/](https://china-sourcing-agents.com/products/compact-tractor-oem/)
@@ -27,5 +33,5 @@ Chinese compact tractor factories source engines from three distinct supply tier
 - [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [logistics coordination service](https://china-sourcing-agents.com/services/logistics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/compact-tractor-oem/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/compact-tractor-oem/)
 

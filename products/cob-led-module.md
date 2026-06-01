@@ -1,3 +1,9 @@
+---
+title: "COB LED Module"
+description: "COB LED module sourcing from China. 10–200W, Ra≥80 to Ra≥95, CRI R9≥50. Citizen, Bridgelux, and domestic San'an/Nationstar/Refond. LM-80 data available."
+canonical_url: "https://china-sourcing-agents.com/products/cob-led-module/"
+---
+
 # COB LED Module
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/cob-led-module/](https://china-sourcing-agents.com/products/cob-led-module/)
@@ -27,5 +33,5 @@ This matters in practice for retail display lighting, hospitality, museum cases,
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/cob-led-module/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/cob-led-module/)
 

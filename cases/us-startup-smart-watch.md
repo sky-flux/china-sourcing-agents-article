@@ -1,3 +1,9 @@
+---
+title: "Smartwatch Sourcing China: US Startup, FCC + CE"
+description: "US fitness startup sources 3,000-unit smartwatch from China with FCC + CE dual certification. 0.6% defect rate. Investor milestone delivered on schedule."
+canonical_url: "https://china-sourcing-agents.com/cases/us-startup-smart-watch/"
+---
+
 # Smartwatch Sourcing China: US Startup, FCC + CE
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cases/us-startup-smart-watch/](https://china-sourcing-agents.com/cases/us-startup-smart-watch/)
@@ -36,5 +42,6 @@ Certifications required: FCC (United States) and CE (European Union). The founde
 - [wearables](https://china-sourcing-agents.com/industries/wearables/)
 - [audits](https://china-sourcing-agents.com/services/audit/)
 - [power electronics sourcing](https://china-sourcing-agents.com/industries/power-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cases/us-startup-smart-watch/)
+- [Private label](https://china-sourcing-agents.com/services/private-label/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cases/us-startup-smart-watch/)
 

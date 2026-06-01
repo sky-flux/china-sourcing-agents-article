@@ -1,3 +1,9 @@
+---
+title: "Basin Mixer Tap (Single Lever, Ceramic Cartridge)"
+description: "OEM basin mixer taps with ceramic cartridges. WRAS, ACS, DVGW, lead-free brass for European and North American wholesale buyers."
+canonical_url: "https://china-sourcing-agents.com/products/basin-mixer-tap/"
+---
+
 # Basin Mixer Tap (Single Lever, Ceramic Cartridge)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/basin-mixer-tap/](https://china-sourcing-agents.com/products/basin-mixer-tap/)
@@ -26,5 +32,5 @@ EN 817 specifies the endurance test for single-lever mixing taps: the cartridge 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [audit service](https://china-sourcing-agents.com/services/audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/basin-mixer-tap/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/basin-mixer-tap/)
 

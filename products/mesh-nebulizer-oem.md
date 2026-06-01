@@ -1,3 +1,9 @@
+---
+title: "Portable Mesh Nebulizer (OEM / Private Label)"
+description: "OEM vibrating-mesh nebulizer with 3–5µm MMAD, silent piezo, USB-C charging, ISO 27427-compliant. CE marked, ISO 13485 factory. From 500 units."
+canonical_url: "https://china-sourcing-agents.com/products/mesh-nebulizer-oem/"
+---
+
 # Portable Mesh Nebulizer (OEM / Private Label)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/mesh-nebulizer-oem/](https://china-sourcing-agents.com/products/mesh-nebulizer-oem/)
@@ -27,5 +33,5 @@ Three nebulizer technologies are available for OEM respiratory product developme
 - [wearable and health device sourcing expertise](https://china-sourcing-agents.com/industries/wearables/)
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/mesh-nebulizer-oem/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/mesh-nebulizer-oem/)
 

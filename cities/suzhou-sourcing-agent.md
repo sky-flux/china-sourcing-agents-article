@@ -1,3 +1,9 @@
+---
+title: "Suzhou Sourcing Agent — Electronics, Textiles & Medical"
+description: "Engineer-led sourcing in Suzhou. SIP bonded zone, Samsung/Bosch supply chain, silk home textiles, and medical device manufacturing. 15,000+ factories."
+canonical_url: "https://china-sourcing-agents.com/cities/suzhou-sourcing-agent/"
+---
+
 # Suzhou Sourcing Agent — Electronics, Textiles & Medical
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/suzhou-sourcing-agent/](https://china-sourcing-agents.com/cities/suzhou-sourcing-agent/)
@@ -27,5 +33,5 @@ The anchor tenants — Samsung SDI (batteries), Samsung SDIM (displays), Bosch (
 ## Further reading
 
 - [guide to PCB assembly in China](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/suzhou-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/suzhou-sourcing-agent/)
 

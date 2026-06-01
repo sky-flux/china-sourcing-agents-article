@@ -1,3 +1,9 @@
+---
+title: "Zhongshan Sourcing Agent — Lighting & Small Appliances"
+description: "China sourcing agent in Zhongshan: Guzhen lighting capital — 7,000+ companies, 70% of China's market. Also shower enclosures, baby products, appliances."
+canonical_url: "https://china-sourcing-agents.com/cities/zhongshan-sourcing-agent/"
+---
+
 # Zhongshan Sourcing Agent — Lighting & Small Appliances
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/zhongshan-sourcing-agent/](https://china-sourcing-agents.com/cities/zhongshan-sourcing-agent/)
@@ -30,5 +36,6 @@ Zhongshan is China's undisputed lighting capital. Guzhen Town (古镇), one of Z
 - [Smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [Power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/zhongshan-sourcing-agent/)
+- [electronics wholesaling guide](https://china-sourcing-agents.com/guides/china-electronics-wholesale-guide/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/zhongshan-sourcing-agent/)
 

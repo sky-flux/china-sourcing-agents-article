@@ -1,3 +1,9 @@
+---
+title: "Car Air Purifier / Ionizer (12V)"
+description: "In-car air purifier, HEPA + carbon filter + ionizer, 12V DC, covers 15m³ cabin. CE/FCC certified. OEM sourcing from China."
+canonical_url: "https://china-sourcing-agents.com/products/car-air-purifier/"
+---
+
 # Car Air Purifier / Ionizer (12V)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/car-air-purifier/](https://china-sourcing-agents.com/products/car-air-purifier/)
@@ -26,5 +32,5 @@ Car air purifiers are a high-competition, marketing-heavy category. The cabin vo
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [private label service](https://china-sourcing-agents.com/services/private-label/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/car-air-purifier/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/car-air-purifier/)
 

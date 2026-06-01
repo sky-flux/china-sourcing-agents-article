@@ -1,3 +1,9 @@
+---
+title: "China Factory Audit Checklist"
+description: "A practical checklist for auditing Chinese electronics factories. What to check, why it matters, and what disqualifying failures look like."
+canonical_url: "https://china-sourcing-agents.com/guides/factory-audit-checklist/"
+---
+
 # China Factory Audit Checklist
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/factory-audit-checklist/](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
@@ -22,6 +28,8 @@ A UK consumer electronics seller ordered 3,000 units of a Bluetooth speaker from
 - Section 2: Facility (10 items)
 - Section 3: Equipment (9 items)
 - Section 4: Quality Systems (11 items)
+- Section 5: Product-Specific (for electronics, 9 items)
+- Red flags that should stop an order
 
 ---
 
@@ -30,5 +38,6 @@ A UK consumer electronics seller ordered 3,000 units of a Bluetooth speaker from
 - [complete sourcing guide](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [how to verify a Chinese supplier](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
 - [consumer electronics sourcing](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [PCB assembly factories](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 

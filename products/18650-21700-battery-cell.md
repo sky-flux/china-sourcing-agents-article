@@ -1,3 +1,9 @@
+---
+title: "18650 / 21700 Cylindrical Battery Cell (Li-ion OEM)"
+description: "18650 and 21700 cell sourcing from China. INR, LFP, NMC chemistry. Samsung SDI, LG Chem, CATL, EVE options. UN 38.3 and IEC 62133 certified."
+canonical_url: "https://china-sourcing-agents.com/products/18650-21700-battery-cell/"
+---
+
 # 18650 / 21700 Cylindrical Battery Cell (Li-ion OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/18650-21700-battery-cell/](https://china-sourcing-agents.com/products/18650-21700-battery-cell/)
@@ -28,5 +34,6 @@ The cylindrical cell market in China has a well-documented counterfeit problem. 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [logistics coordination service](https://china-sourcing-agents.com/services/logistics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/18650-21700-battery-cell/)
+- [LiFePO4 battery pack](https://china-sourcing-agents.com/products/lifepo4-battery/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/18650-21700-battery-cell/)
 

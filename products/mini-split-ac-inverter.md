@@ -1,3 +1,9 @@
+---
+title: "Inverter Mini-Split Air Conditioner (OEM / Private Label)"
+description: "OEM inverter mini-split AC, 9,000–24,000 BTU, SEER2 20–22, R32, WiFi, CE and ETL certified. OEM branding from 50 units for global markets."
+canonical_url: "https://china-sourcing-agents.com/products/mini-split-ac-inverter/"
+---
+
 # Inverter Mini-Split Air Conditioner (OEM / Private Label)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/mini-split-ac-inverter/](https://china-sourcing-agents.com/products/mini-split-ac-inverter/)
@@ -27,5 +33,5 @@ Tier 1 Chinese mini-split OEM factories — Gree, Midea, Haier, Aux, and their O
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit process](https://china-sourcing-agents.com/services/audit/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/mini-split-ac-inverter/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/mini-split-ac-inverter/)
 

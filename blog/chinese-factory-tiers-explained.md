@@ -1,3 +1,9 @@
+---
+title: "Chinese Factory Quality Levels: What You're Paying For"
+description: "How to evaluate Chinese factory quality tiers — what separates export-grade OEM factories from domestic suppliers and trading companies."
+canonical_url: "https://china-sourcing-agents.com/blog/chinese-factory-tiers-explained/"
+---
+
 # Chinese Factory Quality Levels: What You're Paying For
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/chinese-factory-tiers-explained/](https://china-sourcing-agents.com/blog/chinese-factory-tiers-explained/)
@@ -27,5 +33,6 @@ The price premium over the next tier is typically 15–25% on assembly cost. For
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [factory audit checklist guide](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [what a factory audit actually looks like](https://china-sourcing-agents.com/blog/what-factory-audit-actually-looks-like/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/chinese-factory-tiers-explained/)
+- [EU startup Bluetooth speaker case](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/chinese-factory-tiers-explained/)
 

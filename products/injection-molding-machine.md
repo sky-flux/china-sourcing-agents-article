@@ -1,3 +1,9 @@
+---
+title: "Injection Molding Machine (80T–650T Clamping Force)"
+description: "Injection molding machine 80–650 ton clamping force. Hydraulic, servo-hydraulic, all-electric options. CE/ISO 9001 certified. FAT included."
+canonical_url: "https://china-sourcing-agents.com/products/injection-molding-machine/"
+---
+
 # Injection Molding Machine (80T–650T Clamping Force)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/injection-molding-machine/](https://china-sourcing-agents.com/products/injection-molding-machine/)
@@ -23,5 +29,5 @@ Machine type selection has a significant impact on energy cost over the machine'
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/products/injection-molding-machine/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/products/injection-molding-machine/)
 

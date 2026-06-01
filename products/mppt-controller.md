@@ -1,3 +1,9 @@
+---
+title: "MPPT Solar Charge Controller (40A–80A)"
+description: "MPPT solar charge controller for 12V/24V/48V battery banks. Bluetooth monitoring, LCD display, temperature compensation. CE certified from China."
+canonical_url: "https://china-sourcing-agents.com/products/mppt-controller/"
+---
+
 # MPPT Solar Charge Controller (40A–80A)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/mppt-controller/](https://china-sourcing-agents.com/products/mppt-controller/)
@@ -26,5 +32,6 @@ MPPT efficiency claims (typically "98% MPPT efficiency") are almost universally 
 - [sourcing power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [factory audit and verification](https://china-sourcing-agents.com/services/audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/mppt-controller/)
+- [GaN charger OEM guide](https://china-sourcing-agents.com/guides/gan-charger-oem-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/mppt-controller/)
 

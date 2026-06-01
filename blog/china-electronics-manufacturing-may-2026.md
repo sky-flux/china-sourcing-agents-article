@@ -1,3 +1,9 @@
+---
+title: "China Electronics Manufacturing: May 2026 Update"
+description: "PMI at 49.0: buyer's market on factory capacity in May 2026, but US tariffs remain at 35–45% and NAND flash prices are rising. What it means for orders."
+canonical_url: "https://china-sourcing-agents.com/blog/china-electronics-manufacturing-may-2026/"
+---
+
 # China Electronics Manufacturing: May 2026 Update
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/china-electronics-manufacturing-may-2026/](https://china-sourcing-agents.com/blog/china-electronics-manufacturing-may-2026/)
@@ -29,5 +35,5 @@ China's official National Bureau of Statistics manufacturing PMI for April 2026 
 - [full tariff analysis for 2026](https://china-sourcing-agents.com/blog/china-electronics-tariff-2026-guide/)
 - [China electronics industry overview](https://china-sourcing-agents.com/guides/china-electronics-industry-overview/)
 - [import electronics from China to the US guide](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/china-electronics-manufacturing-may-2026/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/china-electronics-manufacturing-may-2026/)
 

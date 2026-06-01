@@ -1,3 +1,9 @@
+---
+title: "VFD / Frequency Inverter (0.75kW–315kW OEM)"
+description: "VFD sourcing from China: 0.75–315kW, 3-phase 380–480V AC. CE, UL 61800-5-1, RoHS certified. OEM from 50 units for automation, HVAC, and pump applications."
+canonical_url: "https://china-sourcing-agents.com/products/vfd-frequency-inverter/"
+---
+
 # VFD / Frequency Inverter (0.75kW–315kW OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/vfd-frequency-inverter/](https://china-sourcing-agents.com/products/vfd-frequency-inverter/)
@@ -28,5 +34,6 @@ The three control modes shipped by Chinese VFD manufacturers serve fundamentally
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/vfd-frequency-inverter/)
+- [EU industrial IoT gateway case study](https://china-sourcing-agents.com/cases/eu-industrial-iot-gateway/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/vfd-frequency-inverter/)
 

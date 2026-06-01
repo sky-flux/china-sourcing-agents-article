@@ -1,3 +1,9 @@
+---
+title: "Quartz Dress Watch (OEM / Custom Dial)"
+description: "Custom quartz dress watch, Miyota or domestic movement, sapphire or mineral crystal, 30M–50M water resistance, SS case. OEM from 300 units."
+canonical_url: "https://china-sourcing-agents.com/products/quartz-watch-oem/"
+---
+
 # Quartz Dress Watch (OEM / Custom Dial)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/quartz-watch-oem/](https://china-sourcing-agents.com/products/quartz-watch-oem/)
@@ -27,5 +33,6 @@ Seagull ST16 is a Chinese-made movement from Tianjin Sea-Gull Watch Group, a sta
 - [consumer electronics sourcing](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [sourcing at 300–1,000 units](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/quartz-watch-oem/)
+- [private-label watch programmes](https://china-sourcing-agents.com/services/private-label/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/quartz-watch-oem/)
 

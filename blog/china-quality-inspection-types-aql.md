@@ -1,3 +1,9 @@
+---
+title: "China Quality Inspection: IPC, DUPRO, PSI and AQL Explained"
+description: "The three stages of China quality inspection: what each catches, how AQL sampling works, when to use full inspection, and common mistakes."
+canonical_url: "https://china-sourcing-agents.com/blog/china-quality-inspection-types-aql/"
+---
+
 # China Quality Inspection: IPC, DUPRO, PSI and AQL Explained
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/china-quality-inspection-types-aql/](https://china-sourcing-agents.com/blog/china-quality-inspection-types-aql/)
@@ -30,5 +36,6 @@ IPC is where engineering background matters most. An inspector who can't read a 
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [0.4% end-defect rate and on-time delivery](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
 - [Quality Inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/china-quality-inspection-types-aql/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/china-quality-inspection-types-aql/)
 

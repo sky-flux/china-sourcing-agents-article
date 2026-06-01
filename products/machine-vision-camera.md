@@ -1,3 +1,9 @@
+---
+title: "Machine Vision Camera OEM Manufacturer China"
+description: "Machine vision camera China factory OEM — area scan / line scan, GigE Vision / USB3 Vision, Sony global shutter, 5–20 unit MOQ, CE RoHS certified."
+canonical_url: "https://china-sourcing-agents.com/products/machine-vision-camera/"
+---
+
 # Machine Vision Camera OEM Manufacturer China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/machine-vision-camera/](https://china-sourcing-agents.com/products/machine-vision-camera/)
@@ -27,5 +33,6 @@ The dominant global shutter sensor family for Chinese industrial camera OEMs is 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [sourcing agreement](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/machine-vision-camera/)
+- [quality inspection](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/machine-vision-camera/)
 

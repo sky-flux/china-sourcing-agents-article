@@ -1,3 +1,9 @@
+---
+title: "CE Marking for Electronics: Requirements and Process"
+description: "CE marking for electronics from China: RED, LVD, and EMC Directive scope, self-declaration process, technical file requirements, and Chinese lab options."
+canonical_url: "https://china-sourcing-agents.com/wiki/ce-marking/"
+---
+
 # CE Marking for Electronics: Requirements and Process
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/ce-marking/](https://china-sourcing-agents.com/wiki/ce-marking/)
@@ -30,5 +36,6 @@ Enforcement is via EU member-state market surveillance authorities (e.g., German
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/ce-marking/)
+- [UKCA Marking](https://china-sourcing-agents.com/wiki/ukca-marking/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/ce-marking/)
 

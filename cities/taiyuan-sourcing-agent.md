@@ -1,3 +1,9 @@
+---
+title: "Taiyuan Sourcing Agent — Mining Machinery & Stainless Steel"
+description: "Engineer-led sourcing in Taiyuan. Mining machinery, explosion-proof equipment, Taigang stainless steel, and TYHI heavy industry via Tianjin Port."
+canonical_url: "https://china-sourcing-agents.com/cities/taiyuan-sourcing-agent/"
+---
+
 # Taiyuan Sourcing Agent — Mining Machinery & Stainless Steel
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/taiyuan-sourcing-agent/](https://china-sourcing-agents.com/cities/taiyuan-sourcing-agent/)
@@ -22,6 +28,7 @@ Shanxi's coal mining industry creates sustained, technically demanding procureme
 - Taiyuan Heavy Industry (TYHI): Beyond Mining Equipment
 - Shanxi's Energy Transition and Emerging Opportunities
 - Logistics via Tianjin Port
+- Practical Notes for Factory Visits
 
 ---
 
@@ -30,5 +37,6 @@ Shanxi's coal mining industry creates sustained, technically demanding procureme
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [factory audit process](https://china-sourcing-agents.com/services/audit/)
 - [industrial IoT hardware sourcing](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/taiyuan-sourcing-agent/)
+- [factory audit checklists](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/taiyuan-sourcing-agent/)
 

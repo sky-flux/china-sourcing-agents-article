@@ -1,3 +1,9 @@
+---
+title: "TWS Earphones (OEM, BT 5.3 + ANC)"
+description: "OEM TWS earphones, BT 5.3, active noise cancellation, Qualcomm or Airoha chipset. BQB, CE, FCC, and RoHS certified. Custom branding from 500 units."
+canonical_url: "https://china-sourcing-agents.com/products/tws-earphones-oem/"
+---
+
 # TWS Earphones (OEM, BT 5.3 + ANC)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/tws-earphones-oem/](https://china-sourcing-agents.com/products/tws-earphones-oem/)
@@ -28,5 +34,6 @@ The chipset choice defines the SDK environment, reference design availability, a
 - [sourcing wearable audio devices](https://china-sourcing-agents.com/industries/wearables/)
 - [consumer electronics certification](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/tws-earphones-oem/)
+- [wearable device manufacturing](https://china-sourcing-agents.com/guides/wearable-manufacturing-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/tws-earphones-oem/)
 

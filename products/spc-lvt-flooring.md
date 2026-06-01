@@ -1,3 +1,9 @@
+---
+title: "SPC / LVT Vinyl Plank Flooring (OEM, AC3–AC5)"
+description: "SPC and LVT vinyl plank flooring OEM from China. 0.3–0.5mm wear layer, CARB2 and E1 certified, AC3–AC5 rating. CE marked for EU, UK, and US markets."
+canonical_url: "https://china-sourcing-agents.com/products/spc-lvt-flooring/"
+---
+
 # SPC / LVT Vinyl Plank Flooring (OEM, AC3–AC5)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/spc-lvt-flooring/](https://china-sourcing-agents.com/products/spc-lvt-flooring/)
@@ -26,5 +32,5 @@ The wear layer is the only structurally load-bearing surface of a vinyl plank fl
 ## Further reading
 
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/spc-lvt-flooring/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/spc-lvt-flooring/)
 

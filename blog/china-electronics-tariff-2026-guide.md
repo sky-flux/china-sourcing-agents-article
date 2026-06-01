@@ -1,3 +1,9 @@
+---
+title: "China Electronics Tariffs 2026: Landed Cost for Importers"
+description: "China tariffs hit electronics at 25-35%. HTS lookup by product category, legal ways to reduce duty exposure, and landed cost calculation for US importers."
+canonical_url: "https://china-sourcing-agents.com/blog/china-electronics-tariff-2026-guide/"
+---
+
 # China Electronics Tariffs 2026: Landed Cost for Importers
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/china-electronics-tariff-2026-guide/](https://china-sourcing-agents.com/blog/china-electronics-tariff-2026-guide/)
@@ -30,5 +36,6 @@ The word "some" matters here: rates are product-specific at the HTS 8-digit or 1
 - [IoT module](https://china-sourcing-agents.com/industries/iot-modules/)
 - [disciplined sourcing process](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [China vs Vietnam for electronics manufacturing](https://china-sourcing-agents.com/blog/china-vs-vietnam-electronics-manufacturing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/china-electronics-tariff-2026-guide/)
+- [China vs India for electronics manufacturing](https://china-sourcing-agents.com/blog/china-vs-india-electronics-manufacturing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/china-electronics-tariff-2026-guide/)
 

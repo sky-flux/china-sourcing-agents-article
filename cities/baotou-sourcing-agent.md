@@ -1,3 +1,9 @@
+---
+title: "Baotou Sourcing Agent — Rare Earth Magnets & Electronics"
+description: "Engineer-led China sourcing in Baotou. Rare earth capital: NdFeB magnets, phosphors, and polishing compounds for electronics and EV supply chains."
+canonical_url: "https://china-sourcing-agents.com/cities/baotou-sourcing-agent/"
+---
+
 # Baotou Sourcing Agent — Rare Earth Magnets & Electronics
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/baotou-sourcing-agent/](https://china-sourcing-agents.com/cities/baotou-sourcing-agent/)
@@ -22,5 +28,5 @@ Inner Mongolia Rare Earth Hi-Tech (内蒙古北方稀土高科技股份有限公
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/baotou-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/baotou-sourcing-agent/)
 

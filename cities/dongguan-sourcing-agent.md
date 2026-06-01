@@ -1,3 +1,9 @@
+---
+title: "Dongguan Sourcing Agent — Electronics, Toys & Furniture Mfg"
+description: "China sourcing in Dongguan. Electronics contract manufacturing, world-leading toy export hub, and premium furniture — 15–25% lower cost than Shenzhen."
+canonical_url: "https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/"
+---
+
 # Dongguan Sourcing Agent — Electronics, Toys & Furniture Mfg
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/](https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/)
@@ -28,5 +34,5 @@ For electronics buyers specifically, Dongguan delivers comparable consumer elect
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Dongguan's manufacturing base](https://china-sourcing-agents.com/industries/power-electronics/)
 - [factory audits](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/)
 

@@ -1,3 +1,9 @@
+---
+title: "Hair Straightener & Curling Wand (OEM)"
+description: "PTC ceramic-titanium flat iron: 130–230 °C digital, auto shut-off, 100–240 V dual voltage. CE/UL/RoHS. OEM from 500 units."
+canonical_url: "https://china-sourcing-agents.com/products/hair-styling-tool-oem/"
+---
+
 # Hair Straightener & Curling Wand (OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/hair-styling-tool-oem/](https://china-sourcing-agents.com/products/hair-styling-tool-oem/)
@@ -27,5 +33,5 @@ For mass-market straighteners at the $15–30 retail price point, PTC is the cor
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [private label service](https://china-sourcing-agents.com/services/private-label/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/hair-styling-tool-oem/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/hair-styling-tool-oem/)
 

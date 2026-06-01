@@ -1,3 +1,9 @@
+---
+title: "Hangzhou Sourcing Agent — E-Com, Digital Health & Smart Home"
+description: "Engineer-led sourcing in Hangzhou: Alibaba-ecosystem apparel (Yuhang), digital health devices, smart home IoT, and bonded logistics. 9,000+ factories."
+canonical_url: "https://china-sourcing-agents.com/cities/hangzhou-sourcing-agent/"
+---
+
 # Hangzhou Sourcing Agent — E-Com, Digital Health & Smart Home
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/hangzhou-sourcing-agent/](https://china-sourcing-agents.com/cities/hangzhou-sourcing-agent/)
@@ -29,5 +35,6 @@ For buyers, this means Hangzhou is one of the few apparel sourcing locations in 
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [wearables](https://china-sourcing-agents.com/industries/wearables/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/hangzhou-sourcing-agent/)
+- [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/hangzhou-sourcing-agent/)
 

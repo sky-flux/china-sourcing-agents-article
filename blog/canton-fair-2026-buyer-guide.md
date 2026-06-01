@@ -1,3 +1,9 @@
+---
+title: "Canton Fair 2026: A Buyer's Guide for Electronics"
+description: "Canton Fair 2026: which phase covers electronics, how to register, and how to use the fair to find real suppliers — not just walk booths."
+canonical_url: "https://china-sourcing-agents.com/blog/canton-fair-2026-buyer-guide/"
+---
+
 # Canton Fair 2026: A Buyer's Guide for Electronics
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/canton-fair-2026-buyer-guide/](https://china-sourcing-agents.com/blog/canton-fair-2026-buyer-guide/)
@@ -30,5 +36,5 @@ The official name is the China Import and Export Fair. It is held at the Pazhou 
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [Sourcing from China without this verification step](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [Q4 production window](https://china-sourcing-agents.com/blog/q4-holiday-electronics-sourcing-timeline/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/canton-fair-2026-buyer-guide/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/canton-fair-2026-buyer-guide/)
 

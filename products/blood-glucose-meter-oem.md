@@ -1,3 +1,9 @@
+---
+title: "Blood Glucose Meter (OEM / Private Label)"
+description: "OEM blood glucose meter with Bluetooth data sync, ISO 15197-compliant strips, and companion app. CE-IVD and FDA 510(k)-cleared platform from 500 units."
+canonical_url: "https://china-sourcing-agents.com/products/blood-glucose-meter-oem/"
+---
+
 # Blood Glucose Meter (OEM / Private Label)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/blood-glucose-meter-oem/](https://china-sourcing-agents.com/products/blood-glucose-meter-oem/)
@@ -27,5 +33,5 @@ Strip lot-to-lot consistency is, in practice, the harder manufacturing challenge
 - [sourcing diagnostic medical devices](https://china-sourcing-agents.com/industries/wearables/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/blood-glucose-meter-oem/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/blood-glucose-meter-oem/)
 

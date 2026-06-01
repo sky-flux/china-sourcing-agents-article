@@ -1,3 +1,9 @@
+---
+title: "ESP32 OEM in China: Variants, Modules, and Certification"
+description: "ESP32 vs ESP32-S3 vs ESP32-C3 — which to specify and why. Sourcing OEM modules, avoiding certification traps, and the BOM mistake that costs a PCB respin."
+canonical_url: "https://china-sourcing-agents.com/blog/esp32-sourcing-china/"
+---
+
 # ESP32 OEM in China: Variants, Modules, and Certification
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/esp32-sourcing-china/](https://china-sourcing-agents.com/blog/esp32-sourcing-china/)
@@ -27,5 +33,5 @@ Specifying "ESP32" on a BOM and expecting consistent delivery is one of the most
 
 - [IoT module sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [IoT modules page](https://china-sourcing-agents.com/industries/iot-modules/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/esp32-sourcing-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/esp32-sourcing-china/)
 

@@ -1,3 +1,9 @@
+---
+title: "M8 & M16/M23 Circular Connectors: China Sourcing Reference"
+description: "M8, M16, and M23 circular connectors from China: IEC 61076-2-104 specs, servo motor and encoder wiring, contact resistance, and counterfeit detection."
+canonical_url: "https://china-sourcing-agents.com/wiki/m8-m16-circular-connectors/"
+---
+
 # M8 & M16/M23 Circular Connectors: China Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/m8-m16-circular-connectors/](https://china-sourcing-agents.com/wiki/m8-m16-circular-connectors/)
@@ -29,5 +35,6 @@ The M8 standard is defined by IEC 61076-2-104. M16 has no single governing IEC s
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [sourced](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/m8-m16-circular-connectors/)
+- [M12 Industrial Connectors](https://china-sourcing-agents.com/wiki/m12-industrial-connectors/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/m8-m16-circular-connectors/)
 

@@ -1,3 +1,9 @@
+---
+title: "JST Connectors: PH, XH, GH, SH Series"
+description: "JST PH, XH, GH, and SH connectors from China: pitch and current ratings, genuine vs clone tolerances, wire gauge compatibility, and failure modes."
+canonical_url: "https://china-sourcing-agents.com/wiki/jst-connectors/"
+---
+
 # JST Connectors: PH, XH, GH, SH Series
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/jst-connectors/](https://china-sourcing-agents.com/wiki/jst-connectors/)
@@ -29,5 +35,6 @@ Each series consists of two mating halves: a housing (the connector body with re
 - [wearables](https://china-sourcing-agents.com/industries/wearables/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [inspect 100% of incoming battery assemblies](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/jst-connectors/)
+- [LiPo & Li-ion Battery Cells Sourcing Reference](https://china-sourcing-agents.com/wiki/lipo-battery-cells/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/jst-connectors/)
 

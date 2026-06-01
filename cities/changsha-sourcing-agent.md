@@ -1,3 +1,9 @@
+---
+title: "Changsha Sourcing Agent — Machinery & Electronics Hub"
+description: "Engineer-led China sourcing agent in Changsha. SANY and Zoomlion supply chain, industrial electronics, and Hunan-Europe rail freight for global buyers."
+canonical_url: "https://china-sourcing-agents.com/cities/changsha-sourcing-agent/"
+---
+
 # Changsha Sourcing Agent — Machinery & Electronics Hub
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/changsha-sourcing-agent/](https://china-sourcing-agents.com/cities/changsha-sourcing-agent/)
@@ -27,5 +33,5 @@ The Yangtze River Delta and Pearl River Delta manufacturing clusters draw most o
 
 - [Industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/changsha-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/changsha-sourcing-agent/)
 

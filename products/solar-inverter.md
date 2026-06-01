@@ -1,3 +1,9 @@
+---
+title: "Off-Grid Solar Inverter / Charger (3000W)"
+description: "Pure sine wave inverter-charger for off-grid and backup power. 3000W continuous, 24V/48V DC input, built-in MPPT or PWM charger. CE/IEC certified."
+canonical_url: "https://china-sourcing-agents.com/products/solar-inverter/"
+---
+
 # Off-Grid Solar Inverter / Charger (3000W)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/solar-inverter/](https://china-sourcing-agents.com/products/solar-inverter/)
@@ -26,5 +32,6 @@ Off-grid inverters carry safety-critical loads — medical equipment, refrigerat
 - [sourcing power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/solar-inverter/)
+- [sourcing inverters](https://china-sourcing-agents.com/services/sourcing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/solar-inverter/)
 

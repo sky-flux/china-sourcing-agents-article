@@ -1,3 +1,9 @@
+---
+title: "Chaozhou Sourcing Agent — Ceramic Ware & Kitchenware Hub"
+description: "Engineer-led China sourcing in Chaozhou. Ceramic sanitary ware, porcelain tableware, stainless steel cookware — China's ceramics and steelware capital."
+canonical_url: "https://china-sourcing-agents.com/cities/chaozhou-sourcing-agent/"
+---
+
 # Chaozhou Sourcing Agent — Ceramic Ware & Kitchenware Hub
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/chaozhou-sourcing-agent/](https://china-sourcing-agents.com/cities/chaozhou-sourcing-agent/)
@@ -27,5 +33,5 @@ The city sits in eastern Guangdong, part of the Chaozhou–Shantou–Jieyang met
 ## Further reading
 
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/chaozhou-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/chaozhou-sourcing-agent/)
 

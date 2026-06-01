@@ -1,3 +1,9 @@
+---
+title: "Import Electronics from China to UK: UKCA & Customs 2026"
+description: "A practical guide to importing electronics from China to the UK — UKCA marking, UK Global Tariff rates, import VAT, and customs clearance post-Brexit."
+canonical_url: "https://china-sourcing-agents.com/guides/import-electronics-china-uk/"
+---
+
 # Import Electronics from China to UK: UKCA & Customs 2026
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/import-electronics-china-uk/](https://china-sourcing-agents.com/guides/import-electronics-china-uk/)
@@ -22,6 +28,7 @@ UKCA (UK Conformity Assessed) replaced CE marking as the mandatory conformity ma
 - UK RoHS
 - UK customs clearance process
 - Shipping routes from China to the UK
+- The 2026 cost case: why UK operating costs make China sourcing more compelling
 
 ---
 
@@ -30,5 +37,6 @@ UKCA (UK Conformity Assessed) replaced CE marking as the mandatory conformity ma
 - [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [UKCA marking overview](https://china-sourcing-agents.com/wiki/ukca-marking/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/import-electronics-china-uk/)
+- [RoHS compliance guide](https://china-sourcing-agents.com/wiki/rohs-compliance/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/import-electronics-china-uk/)
 

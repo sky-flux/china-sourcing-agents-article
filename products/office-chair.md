@@ -1,3 +1,9 @@
+---
+title: "Ergonomic Office Chair (Mesh Back, Lumbar Support)"
+description: "OEM ergonomic office chairs, BIFMA X5.1 certified. Verified gas cylinder class, foam density, and adjustable lumbar support for wholesale buyers."
+canonical_url: "https://china-sourcing-agents.com/products/office-chair/"
+---
+
 # Ergonomic Office Chair (Mesh Back, Lumbar Support)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/office-chair/](https://china-sourcing-agents.com/products/office-chair/)
@@ -26,5 +32,6 @@ Seat foam density is the most commonly misrepresented spec in office chair manuf
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [sourcing and supplier matching](https://china-sourcing-agents.com/services/sourcing/)
 - [pre-shipment quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/office-chair/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/office-chair/)
 

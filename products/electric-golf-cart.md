@@ -1,3 +1,9 @@
+---
+title: "Electric Golf Cart (4-Seater, 48V / 72V Lithium)"
+description: "OEM electric golf carts with LiFePO4 or lead-acid battery options. CE and DOT-compliant units for golf courses, resorts, and warehouse wholesale buyers."
+canonical_url: "https://china-sourcing-agents.com/products/electric-golf-cart/"
+---
+
 # Electric Golf Cart (4-Seater, 48V / 72V Lithium)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/electric-golf-cart/](https://china-sourcing-agents.com/products/electric-golf-cart/)
@@ -26,5 +32,5 @@ For road-legal operation on public roads in the US (including resort paths that 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [automotive electronics industry page](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/electric-golf-cart/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/electric-golf-cart/)
 

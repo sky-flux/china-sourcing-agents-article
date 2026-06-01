@@ -1,3 +1,9 @@
+---
+title: "Q4 Electronics Sourcing: Holiday Order Deadlines"
+description: "Work backwards from Black Friday and Christmas to find the exact weeks you need to place orders, approve samples, and book freight from China."
+canonical_url: "https://china-sourcing-agents.com/blog/q4-holiday-electronics-sourcing-timeline/"
+---
+
 # Q4 Electronics Sourcing: Holiday Order Deadlines
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/q4-holiday-electronics-sourcing-timeline/](https://china-sourcing-agents.com/blog/q4-holiday-electronics-sourcing-timeline/)
@@ -29,5 +35,6 @@ For a standard consumer electronics product (Bluetooth speaker, smart home devic
 - [supplier sourcing and factory shortlisting](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/q4-holiday-electronics-sourcing-timeline/)
+- [payment terms](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/q4-holiday-electronics-sourcing-timeline/)
 

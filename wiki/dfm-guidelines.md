@@ -1,3 +1,9 @@
+---
+title: "DFM for PCB: Design for Manufacturability Reference"
+description: "PCB DFM rules for China manufacturing: trace spacing, via sizing, component clearances, stencil aperture ratios, fiducials, and test point layout."
+canonical_url: "https://china-sourcing-agents.com/wiki/dfm-guidelines/"
+---
+
 # DFM for PCB: Design for Manufacturability Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/dfm-guidelines/](https://china-sourcing-agents.com/wiki/dfm-guidelines/)
@@ -10,6 +16,8 @@ Design for Manufacturability (DFM) is the practice of designing PCBs so they can
 
 DFM covers three domains: PCB fabrication (what the board shop can make), SMT assembly (what the pick-and-place and reflow process can handle reliably), and test (what the test fixtures can reach). A board that passes fabrication DFM can still fail SMT DFM if pad geometries are wrong, and a board that passes both can fail test DFM if there are no accessible test points. The rules below focus on the most common violations seen in China PCBA production.
 
+Standard trace/space 0.10/0.10 mm is achievable at almost every Chinese PCB factory. Below 0.10 mm, the pool of capable factories shrinks, yield drops, and per-board cost rises. For inner layers on impedance-controlled boards, trace width controls impedance — get the factory to calculate final trace width from their actual Dk and prepreg thickness before you finalize the design.
+
 ---
 
 ## What this covers
@@ -20,6 +28,8 @@ DFM covers three domains: PCB fabrication (what the board shop can make), SMT as
 - SMT Assembly DFM
 - Test Point DFM
 - Panelization DFM
+- What to Specify When Ordering from China
+- Common Issues
 
 ---
 
@@ -28,5 +38,6 @@ DFM covers three domains: PCB fabrication (what the board shop can make), SMT as
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/dfm-guidelines/)
+- [SMT Assembly Process](https://china-sourcing-agents.com/wiki/smt-process/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/dfm-guidelines/)
 

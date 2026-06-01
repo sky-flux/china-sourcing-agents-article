@@ -1,3 +1,9 @@
+---
+title: "Android TV Box OEM Manufacturer China"
+description: "OEM Android TV box / smart TV stick private label from China. Amlogic/Rockchip, 4K HDR, 100-unit MOQ, CE/FCC certified. AOSP or ATV options."
+canonical_url: "https://china-sourcing-agents.com/products/android-tv-box-oem/"
+---
+
 # Android TV Box OEM Manufacturer China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/android-tv-box-oem/](https://china-sourcing-agents.com/products/android-tv-box-oem/)
@@ -27,5 +33,6 @@ Three chipset families cover the vast majority of Android TV box OEM production 
 - [private-label engagement](https://china-sourcing-agents.com/services/private-label/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/android-tv-box-oem/)
+- [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/android-tv-box-oem/)
 

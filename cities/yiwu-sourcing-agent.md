@@ -1,3 +1,9 @@
+---
+title: "Yiwu Sourcing Agent — World's Largest Commodities Market"
+description: "China sourcing agent in Yiwu. Electronics accessories, USB cables, private label OEM, cross-border e-commerce fulfillment. 75,000 wholesale stalls."
+canonical_url: "https://china-sourcing-agents.com/cities/yiwu-sourcing-agent/"
+---
+
 # Yiwu Sourcing Agent — World's Largest Commodities Market
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/yiwu-sourcing-agent/](https://china-sourcing-agents.com/cities/yiwu-sourcing-agent/)
@@ -28,5 +34,6 @@ Yiwu International Trade Market (义乌国际商贸城) is the world's largest w
 - [Consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/yiwu-sourcing-agent/)
+- [wholesale electronics guide](https://china-sourcing-agents.com/guides/china-electronics-wholesale-guide/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/yiwu-sourcing-agent/)
 

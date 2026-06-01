@@ -1,3 +1,9 @@
+---
+title: "Ruili Sourcing Agent — Myanmar Border Trade & FTZ"
+description: "Engineer-led China sourcing agent in Ruili. China-Myanmar border crossing, jade and gem trade, timber and frontier trade zone logistics for ASEAN buyers."
+canonical_url: "https://china-sourcing-agents.com/cities/ruili-sourcing-agent/"
+---
+
 # Ruili Sourcing Agent — Myanmar Border Trade & FTZ
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/ruili-sourcing-agent/](https://china-sourcing-agents.com/cities/ruili-sourcing-agent/)
@@ -24,5 +30,5 @@ Jade and rough gemstones dominate Ruili's inbound trade in value terms. Myanmar'
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/ruili-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/ruili-sourcing-agent/)
 

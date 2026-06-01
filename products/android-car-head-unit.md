@@ -1,3 +1,9 @@
+---
+title: "Android Car Head Unit with CarPlay & Android Auto"
+description: "Android car head unit sourcing from China. Qualcomm SA8155P, Snapdragon 665, Unisoc T618. Wireless CarPlay, Android Auto, 32-band DSP, CAN bus. E-mark/CE."
+canonical_url: "https://china-sourcing-agents.com/products/android-car-head-unit/"
+---
+
 # Android Car Head Unit with CarPlay & Android Auto
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/android-car-head-unit/](https://china-sourcing-agents.com/products/android-car-head-unit/)
@@ -28,5 +34,5 @@ The terms "wireless CarPlay" and "Android Auto" appear on nearly every Chinese a
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/android-car-head-unit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/android-car-head-unit/)
 

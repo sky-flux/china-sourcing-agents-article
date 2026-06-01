@@ -1,3 +1,9 @@
+---
+title: "Ningde Sourcing Agent — CATL Battery & Lithium Supply Chain"
+description: "Engineer-led sourcing in Ningde, Fujian. CATL HQ city. Lithium cells, BMS, cathode materials, energy storage, CATL Tier-1/2 suppliers. Sandu'ao port."
+canonical_url: "https://china-sourcing-agents.com/cities/ningde-sourcing-agent/"
+---
+
 # Ningde Sourcing Agent — CATL Battery & Lithium Supply Chain
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/ningde-sourcing-agent/](https://china-sourcing-agents.com/cities/ningde-sourcing-agent/)
@@ -28,5 +34,5 @@ CATL's Ningde campus employs over 30,000 people and produces lithium iron phosph
 ## Further reading
 
 - [Factory audits](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/ningde-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/ningde-sourcing-agent/)
 

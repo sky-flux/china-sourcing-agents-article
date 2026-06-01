@@ -1,3 +1,9 @@
+---
+title: "EV Battery Management System"
+description: "EV BMS modules from China: 16S–96S, LFP/NMC/NCA/LTO, active/passive balancing, CAN 2.0B/J1939, 1500V isolation. IATF 16949 suppliers available."
+canonical_url: "https://china-sourcing-agents.com/products/ev-bms-module/"
+---
+
 # EV Battery Management System
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/ev-bms-module/](https://china-sourcing-agents.com/products/ev-bms-module/)
@@ -28,5 +34,6 @@ The deeper limitation is convergence speed. With cells that have significant cap
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [Pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/ev-bms-module/)
+- [power electronics sourcing](https://china-sourcing-agents.com/industries/power-electronics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/ev-bms-module/)
 

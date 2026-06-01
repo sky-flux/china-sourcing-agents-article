@@ -1,3 +1,9 @@
+---
+title: "Aluminum Composite Panel / ACP (OEM, PE / FR / A2 Core)"
+description: "Aluminum composite panel from China. 3–6mm, PVDF or PE coating, FR and A2 mineral-core options. CE marked, EN 13501-1 fire classified."
+canonical_url: "https://china-sourcing-agents.com/products/aluminum-composite-panel/"
+---
+
 # Aluminum Composite Panel / ACP (OEM, PE / FR / A2 Core)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/aluminum-composite-panel/](https://china-sourcing-agents.com/products/aluminum-composite-panel/)
@@ -27,5 +33,5 @@ Aluminum composite panel is three-layer product: two aluminum skins bonded to a 
 
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/aluminum-composite-panel/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/aluminum-composite-panel/)
 

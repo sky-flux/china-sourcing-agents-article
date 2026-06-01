@@ -1,3 +1,9 @@
+---
+title: "LED PAR Stage Light OEM Manufacturer China"
+description: "LED PAR can stage light OEM china factory, RGBWA+UV, DMX512, 20-unit MOQ, CE/RoHS, DJ/event/theatre applications."
+canonical_url: "https://china-sourcing-agents.com/products/led-par-stage-light/"
+---
+
 # LED PAR Stage Light OEM Manufacturer China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/led-par-stage-light/](https://china-sourcing-agents.com/products/led-par-stage-light/)
@@ -27,5 +33,6 @@ The two dominant LED configurations in Chinese-manufactured PAR cans are **RGBWA
 - [private label programme](https://china-sourcing-agents.com/services/private-label/)
 - [initial quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/led-par-stage-light/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/led-par-stage-light/)
 

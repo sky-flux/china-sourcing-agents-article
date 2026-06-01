@@ -1,3 +1,9 @@
+---
+title: "Ningbo Sourcing Agent — Stationery, Tools, Molds & Port Hub"
+description: "Engineer-led sourcing in Ningbo. Stationery (Deli/Beifa), precision tools, PCB assembly, baby products, Ningbo-Zhoushan port. 12,000+ manufacturers."
+canonical_url: "https://china-sourcing-agents.com/cities/ningbo-sourcing-agent/"
+---
+
 # Ningbo Sourcing Agent — Stationery, Tools, Molds & Port Hub
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/ningbo-sourcing-agent/](https://china-sourcing-agents.com/cities/ningbo-sourcing-agent/)
@@ -26,5 +32,5 @@ For buyers attending the Canton Fair or sourcing across multiple product categor
 ## Further reading
 
 - [factory audits](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/ningbo-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/ningbo-sourcing-agent/)
 

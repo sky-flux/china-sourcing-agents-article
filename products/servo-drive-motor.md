@@ -1,3 +1,9 @@
+---
+title: "AC Servo Drive + Motor System (100W–7.5kW OEM)"
+description: "AC servo drive and motor sourcing from China. 100W–7.5kW, 17/20/23-bit absolute encoder, EtherCAT/CANopen/Pulse+Dir. CE, UL 508, RoHS. OEM from 5 units."
+canonical_url: "https://china-sourcing-agents.com/products/servo-drive-motor/"
+---
+
 # AC Servo Drive + Motor System (100W–7.5kW OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/servo-drive-motor/](https://china-sourcing-agents.com/products/servo-drive-motor/)
@@ -28,5 +34,6 @@ Chinese AC servo manufacturers now ship three encoder tiers across most product 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [sourcing from China](https://china-sourcing-agents.com/services/sourcing/)
 - [factory inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/servo-drive-motor/)
+- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/servo-drive-motor/)
 

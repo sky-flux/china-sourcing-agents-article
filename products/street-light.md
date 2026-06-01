@@ -1,3 +1,9 @@
+---
+title: "LED Street Light (60W–200W)"
+description: "Municipal and commercial LED street lighting. IP66-rated, IK08 impact resistance, photocell-compatible, CE/ENEC certified for European roads."
+canonical_url: "https://china-sourcing-agents.com/products/street-light/"
+---
+
 # LED Street Light (60W–200W)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/street-light/](https://china-sourcing-agents.com/products/street-light/)
@@ -26,5 +32,6 @@ Street lights face the harshest operating conditions of any luminaire: temperatu
 - [sourcing municipal lighting](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/street-light/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/street-light/)
 

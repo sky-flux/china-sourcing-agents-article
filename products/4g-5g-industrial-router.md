@@ -1,3 +1,9 @@
+---
+title: "4G/5G Industrial Cellular Router"
+description: "Source 4G/5G industrial cellular routers from China OEMs. DIN rail, dual SIM, RS485/Modbus-to-MQTT gateway. CE RED, FCC, PTCRB certified. MOQ 10 units."
+canonical_url: "https://china-sourcing-agents.com/products/4g-5g-industrial-router/"
+---
+
 # 4G/5G Industrial Cellular Router
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/4g-5g-industrial-router/](https://china-sourcing-agents.com/products/4g-5g-industrial-router/)
@@ -28,5 +34,6 @@ The throughput and latency specifications of each cellular tier look impressive 
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [EU industrial IoT gateway case study](https://china-sourcing-agents.com/cases/eu-industrial-iot-gateway/)
 - [industrial IoT hardware sourcing guide](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/4g-5g-industrial-router/)
+- [industrial IoT industry page](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/4g-5g-industrial-router/)
 

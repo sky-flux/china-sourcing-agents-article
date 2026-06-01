@@ -1,3 +1,9 @@
+---
+title: "Branded Power Bank (5,000–10,000 mAh, Wireless + PD)"
+description: "Custom logo power banks, A-grade cells, Qi wireless, UN 38.3 certified. CE/FCC/RoHS compliant for corporate gifts and wholesale buyers."
+canonical_url: "https://china-sourcing-agents.com/products/branded-power-bank/"
+---
+
 # Branded Power Bank (5,000–10,000 mAh, Wireless + PD)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/branded-power-bank/](https://china-sourcing-agents.com/products/branded-power-bank/)
@@ -26,5 +32,5 @@ UN 38.3 certification is the international standard for lithium battery transpor
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [private label service](https://china-sourcing-agents.com/services/private-label/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/branded-power-bank/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/branded-power-bank/)
 

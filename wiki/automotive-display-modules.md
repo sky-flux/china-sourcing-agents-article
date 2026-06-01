@@ -1,3 +1,9 @@
+---
+title: "Automotive Display Modules: TFT, IPS & Cluster Displays"
+description: "Automotive TFT/IPS/AMOLED display modules from China: −40°C to 85°C range, CISPR 25 compliance, MIPI DSI/LVDS interfaces, and Chinese OEM panel suppliers."
+canonical_url: "https://china-sourcing-agents.com/wiki/automotive-display-modules/"
+---
+
 # Automotive Display Modules: TFT, IPS & Cluster Displays
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/automotive-display-modules/](https://china-sourcing-agents.com/wiki/automotive-display-modules/)
@@ -30,5 +36,6 @@ The automotive environment imposes requirements far beyond consumer electronics:
 - [77GHz radar](https://china-sourcing-agents.com/wiki/adas-77ghz-radar/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/automotive-display-modules/)
+- [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/automotive-display-modules/)
 

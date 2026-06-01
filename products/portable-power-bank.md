@@ -1,3 +1,9 @@
+---
+title: "Portable Power Bank (OEM, 10,000–30,000 mAh)"
+description: "OEM power bank with 18650 or 21700 cells, USB-C PD and QC 3.0. Custom branding from 500 units. UN 38.3 certified for air freight. Real capacity verified."
+canonical_url: "https://china-sourcing-agents.com/products/portable-power-bank/"
+---
+
 # Portable Power Bank (OEM, 10,000–30,000 mAh)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/portable-power-bank/](https://china-sourcing-agents.com/products/portable-power-bank/)
@@ -28,5 +34,6 @@ The single most impactful quality variable in sourcing consumer electronics like
 - [sourcing consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [UN 38.3](https://china-sourcing-agents.com/wiki/un-38-3/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/portable-power-bank/)
+- [power electronics sourcing](https://china-sourcing-agents.com/industries/power-electronics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/portable-power-bank/)
 

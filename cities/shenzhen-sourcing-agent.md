@@ -1,3 +1,9 @@
+---
+title: "Shenzhen Sourcing Agent — World's Electronics Capital"
+description: "Engineer-led China sourcing agent in Shenzhen. Access 45,000+ factories for consumer electronics, PCB assembly, IoT hardware, and wearables."
+canonical_url: "https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/"
+---
+
 # Shenzhen Sourcing Agent — World's Electronics Capital
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
@@ -24,5 +30,5 @@ For buyers sourcing consumer electronics, IoT hardware, PCB assemblies, or weara
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 

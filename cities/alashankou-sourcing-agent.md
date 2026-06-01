@@ -1,3 +1,9 @@
+---
+title: "Alashankou Sourcing Agent — Rail Gateway to Central Asia"
+description: "Engineer-led sourcing via Alashankou. China's largest rail border to Kazakhstan & primary China–Europe Railway Express gateway."
+canonical_url: "https://china-sourcing-agents.com/cities/alashankou-sourcing-agent/"
+---
+
 # Alashankou Sourcing Agent — Rail Gateway to Central Asia
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/alashankou-sourcing-agent/](https://china-sourcing-agents.com/cities/alashankou-sourcing-agent/)
@@ -26,5 +32,5 @@ The crossing has been operational since 1992 and has processed the full history 
 
 - [logistics management](https://china-sourcing-agents.com/services/logistics/)
 - [sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/alashankou-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/alashankou-sourcing-agent/)
 

@@ -1,3 +1,9 @@
+---
+title: "Aluminum PCB / MCPCB for LED & Power Electronics"
+description: "Aluminum PCB and MCPCB from China. 1–3W/m·K dielectric, 6061/5052 base, ENIG/HASL finish. IPC-6012 Class 2/3. LED and power applications."
+canonical_url: "https://china-sourcing-agents.com/products/aluminum-pcb-mcpcb/"
+---
+
 # Aluminum PCB / MCPCB for LED & Power Electronics
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/aluminum-pcb-mcpcb/](https://china-sourcing-agents.com/products/aluminum-pcb-mcpcb/)
@@ -28,5 +34,6 @@ The limiting thermal resistance is the dielectric layer bonded between the coppe
 - [PCB sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [PCB assembly industry page](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/aluminum-pcb-mcpcb/)
+- [factory audit service](https://china-sourcing-agents.com/services/audit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/aluminum-pcb-mcpcb/)
 

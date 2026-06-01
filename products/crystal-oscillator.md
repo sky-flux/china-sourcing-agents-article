@@ -1,3 +1,9 @@
+---
+title: "Crystal Oscillator — TCXO, OCXO, SMD Resonators"
+description: "Source SMD crystal oscillators from China — AT-cut resonators, TCXO, OCXO. 32.768kHz to 1GHz, 2016 to 7050 packages. AEC-Q200 options available."
+canonical_url: "https://china-sourcing-agents.com/products/crystal-oscillator/"
+---
+
 # Crystal Oscillator — TCXO, OCXO, SMD Resonators
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/crystal-oscillator/](https://china-sourcing-agents.com/products/crystal-oscillator/)
@@ -28,5 +34,6 @@ This is the most common misunderstanding among engineers specifying crystals for
 - [quality inspection services](https://china-sourcing-agents.com/services/inspection/)
 - [component sourcing strategy](https://china-sourcing-agents.com/services/sourcing/)
 - [automotive electronics sourcing](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/crystal-oscillator/)
+- [industrial IoT hardware](https://china-sourcing-agents.com/industries/iot-modules/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/crystal-oscillator/)
 

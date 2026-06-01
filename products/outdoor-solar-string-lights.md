@@ -1,3 +1,9 @@
+---
+title: "Solar String Lights (Outdoor / Waterproof OEM)"
+description: "IP65 solar-powered LED string lights with 10–100 bulb options, 8 lighting modes, dusk-to-dawn automation, and custom bulb/wire color. OEM from 500 units."
+canonical_url: "https://china-sourcing-agents.com/products/outdoor-solar-string-lights/"
+---
+
 # Solar String Lights (Outdoor / Waterproof OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/outdoor-solar-string-lights/](https://china-sourcing-agents.com/products/outdoor-solar-string-lights/)
@@ -27,5 +33,6 @@ The critical weakness of NiMH in outdoor solar applications is cold weather perf
 - [sourcing solar lighting products](https://china-sourcing-agents.com/services/sourcing/)
 - [UN 38.3 certification](https://china-sourcing-agents.com/wiki/un-38-3/)
 - [private-label brands](https://china-sourcing-agents.com/services/private-label/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/outdoor-solar-string-lights/)
+- [CE and FCC certification guide](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/outdoor-solar-string-lights/)
 

@@ -1,3 +1,9 @@
+---
+title: "Alibaba vs 1688 for Electronics: Which Source to Use"
+description: "The real differences between Alibaba, 1688, and going direct to factory — pricing, trust, negotiation tactics, and when to use each."
+canonical_url: "https://china-sourcing-agents.com/guides/alibaba-vs-1688/"
+---
+
 # Alibaba vs 1688 for Electronics: Which Source to Use
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/alibaba-vs-1688/](https://china-sourcing-agents.com/guides/alibaba-vs-1688/)
@@ -22,6 +28,8 @@ Alibaba.com is a B2B marketplace — not a manufacturer. This distinction matter
 - The price difference in practice
 - Direct factory: what it actually means
 - Verifying supplier legitimacy
+- Payment and risk by channel
+- Which channel for which buyer type
 
 ---
 
@@ -30,5 +38,6 @@ Alibaba.com is a B2B marketplace — not a manufacturer. This distinction matter
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [IoT module sourcing](https://china-sourcing-agents.com/industries/iot-modules/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/alibaba-vs-1688/)
+- [Factory Audit service](https://china-sourcing-agents.com/services/audit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/alibaba-vs-1688/)
 

@@ -1,3 +1,9 @@
+---
+title: "Electric Bicycle (250W / 500W, 36V / 48V Li-ion)"
+description: "OEM e-bikes with EN 15194 EPAC compliance and UN 38.3 battery certification. Hub and mid-drive options for wholesale buyers in Europe and North America."
+canonical_url: "https://china-sourcing-agents.com/products/electric-bicycle/"
+---
+
 # Electric Bicycle (250W / 500W, 36V / 48V Li-ion)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/electric-bicycle/](https://china-sourcing-agents.com/products/electric-bicycle/)
@@ -26,5 +32,5 @@ The battery pack is the highest-risk component for e-bikes. Samsung 21700 50E or
 - [audit service](https://china-sourcing-agents.com/services/audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [automotive electronics industry page](https://china-sourcing-agents.com/industries/automotive-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/electric-bicycle/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/electric-bicycle/)
 

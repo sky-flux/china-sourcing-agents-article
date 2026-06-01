@@ -1,3 +1,9 @@
+---
+title: "M12 Industrial Connectors: China Sourcing Reference"
+description: "M12 connectors from China: A–X/T coding variants, IP67/IP68/IP69K ratings, Ethernet D/X-coding, locking types, and IP rating validation on Chinese parts."
+canonical_url: "https://china-sourcing-agents.com/wiki/m12-industrial-connectors/"
+---
+
 # M12 Industrial Connectors: China Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/m12-industrial-connectors/](https://china-sourcing-agents.com/wiki/m12-industrial-connectors/)
@@ -10,7 +16,7 @@ M12 connectors are the de facto standard for sensor, fieldbus, and industrial Et
 
 M12 is defined by IEC 61076-2-101 (current edition: 2012 + amendments). The standard specifies shell dimensions, contact arrangements, keying geometry, and test requirements including IP67 immersion. Chinese manufacturers produce the full range of coding variants; availability is good and lead times are short. The primary sourcing risks are self-declared IP ratings without test evidence, contact plating below specification, and incorrect coding labeling on generic catalog connectors.
 
-Screw-lock is standard for industrial automation. Push-pull variants (IEC 61076-2-010) are common in food/beverage applications where workers disconnect sensors frequently.
+A-coding is the most common. D-coding (4-pin, 100 Mbps) and X-coding (8-pin, Gigabit/10G) are both used for industrial Ethernet but are physically incompatible — a D-coded male plug will not seat into an X-coded female receptacle. Industrial Ethernet switches and IP cameras often specify D-coding for Fast Ethernet ports; newer 1G/10G infrastructure requires X-coding. Verify the coding in your BOM against actual port specifications before ordering in volume.
 
 ---
 
@@ -29,5 +35,6 @@ Screw-lock is standard for industrial automation. Push-pull variants (IEC 61076-
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/m12-industrial-connectors/)
+- [Industrial Ethernet Switches](https://china-sourcing-agents.com/wiki/industrial-ethernet-switches/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/m12-industrial-connectors/)
 

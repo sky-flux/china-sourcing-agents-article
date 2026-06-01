@@ -1,3 +1,9 @@
+---
+title: "Laminate Flooring OEM Manufacturer China"
+description: "Laminate flooring China factory OEM: AC3–AC5 wear grade, E0/E1 formaldehyde, CARB Phase 2, 500 m² MOQ, CE EN 13329 certified."
+canonical_url: "https://china-sourcing-agents.com/products/laminate-flooring-oem/"
+---
+
 # Laminate Flooring OEM Manufacturer China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/laminate-flooring-oem/](https://china-sourcing-agents.com/products/laminate-flooring-oem/)
@@ -26,5 +32,5 @@ The **click joint system** matters for installation performance and for your lia
 
 - [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/laminate-flooring-oem/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/laminate-flooring-oem/)
 

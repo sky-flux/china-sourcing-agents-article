@@ -1,3 +1,9 @@
+---
+title: "TPMS — Tire Pressure Monitoring System (4-Sensor)"
+description: "External valve-cap TPMS with 4 wireless sensors, 433MHz RF, solar-powered receiver display, and thresholds for pressure and temperature. CE/FCC certified."
+canonical_url: "https://china-sourcing-agents.com/products/tpms/"
+---
+
 # TPMS — Tire Pressure Monitoring System (4-Sensor)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/tpms/](https://china-sourcing-agents.com/products/tpms/)
@@ -26,5 +32,6 @@ TPMS is a safety-critical product — a failure to alert on a low-pressure tire 
 - [sourcing automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [CE and FCC certification guide](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
 - [sourcing TPMS systems](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/tpms/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/tpms/)
 

@@ -1,3 +1,9 @@
+---
+title: "China Electronics MOQ: What's Real and What's Negotiable"
+description: "Why Chinese electronics factories quote high MOQs, which costs actually drive them, and what tactics genuinely work for getting lower quantities."
+canonical_url: "https://china-sourcing-agents.com/blog/china-electronics-moq-negotiation/"
+---
+
 # China Electronics MOQ: What's Real and What's Negotiable
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/china-electronics-moq-negotiation/](https://china-sourcing-agents.com/blog/china-electronics-moq-negotiation/)
@@ -22,6 +28,8 @@ A cable assembly or simple injection-molded enclosure has far lower setup costs 
 - How to ask the right question
 - When lower MOQ is actually a bad deal
 - MOQ negotiation scripts that actually work
+- MOQ by factory tier
+- MOQ vs. MQL — the metric that matters more
 
 ---
 
@@ -30,5 +38,6 @@ A cable assembly or simple injection-molded enclosure has far lower setup costs 
 - [Sourcing & Supplier Matching](https://china-sourcing-agents.com/services/sourcing/)
 - [EU startup Bluetooth speaker case](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
 - [complete electronics sourcing guide](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/china-electronics-moq-negotiation/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/china-electronics-moq-negotiation/)
 

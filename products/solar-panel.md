@@ -1,3 +1,9 @@
+---
+title: "Monocrystalline Solar Panel (400W)"
+description: "Half-cut monocrystalline PERC solar panel, 400W peak, 21.5% module efficiency. IEC 61215/61730 certified, 25-year linear power warranty available."
+canonical_url: "https://china-sourcing-agents.com/products/solar-panel/"
+---
+
 # Monocrystalline Solar Panel (400W)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/solar-panel/](https://china-sourcing-agents.com/products/solar-panel/)
@@ -26,5 +32,6 @@ Solar panels are a 25-year investment. The price-per-watt you see on Alibaba rar
 - [sourcing power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [factory audits](https://china-sourcing-agents.com/services/audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/solar-panel/)
+- [sourcing solar panels](https://china-sourcing-agents.com/services/sourcing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/solar-panel/)
 

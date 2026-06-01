@@ -1,3 +1,9 @@
+---
+title: "RS485-to-Ethernet Converter / Modbus TCP Gateway"
+description: "Source RS485 Ethernet converters and Modbus TCP gateways from China OEMs. DIN-rail, 2500V isolated, -40°C to +70°C. MOQ 10 units."
+canonical_url: "https://china-sourcing-agents.com/products/rs485-ethernet-converter/"
+---
+
 # RS485-to-Ethernet Converter / Modbus TCP Gateway
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/rs485-ethernet-converter/](https://china-sourcing-agents.com/products/rs485-ethernet-converter/)
@@ -28,5 +34,6 @@ The gateway bridges the two. Mechanically: a Modbus TCP client (your SCADA softw
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [industrial IoT sourcing service](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/rs485-ethernet-converter/)
+- [IoT modules industry page](https://china-sourcing-agents.com/industries/iot-modules/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/rs485-ethernet-converter/)
 

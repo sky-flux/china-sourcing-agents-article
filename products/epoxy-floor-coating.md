@@ -1,3 +1,9 @@
+---
+title: "Epoxy Floor Coating OEM Manufacturer China"
+description: "Epoxy floor coating / epoxy floor paint from China factory OEM — 2-component, VOC-compliant, 1,000 L MOQ, CE / REACH SVHC declaration."
+canonical_url: "https://china-sourcing-agents.com/products/epoxy-floor-coating/"
+---
+
 # Epoxy Floor Coating OEM Manufacturer China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/epoxy-floor-coating/](https://china-sourcing-agents.com/products/epoxy-floor-coating/)
@@ -26,5 +32,5 @@ Chinese epoxy floor coating factories produce across all three system types, and
 
 - [inspection engagement](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing process](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/epoxy-floor-coating/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/epoxy-floor-coating/)
 

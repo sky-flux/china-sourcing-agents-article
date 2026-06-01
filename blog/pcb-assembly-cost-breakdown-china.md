@@ -1,3 +1,9 @@
+---
+title: "PCBA Cost Breakdown: Why Quotes Differ by 3×"
+description: "The actual cost components behind PCBA quotes in China — PCB substrate, component margin, SMT setup, testing — and how to normalize supplier quotes."
+canonical_url: "https://china-sourcing-agents.com/blog/pcb-assembly-cost-breakdown-china/"
+---
+
 # PCBA Cost Breakdown: Why Quotes Differ by 3×
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/pcb-assembly-cost-breakdown-china/](https://china-sourcing-agents.com/blog/pcb-assembly-cost-breakdown-china/)
@@ -28,5 +34,6 @@ Before you can compare quotes, you need to know what's actually in each one.
 - [PCB assembly sourcing guide](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
 - [PCB Manufacturing & SMT](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [IPC-A-610 wiki page](https://china-sourcing-agents.com/wiki/ipc-a-610/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/blog/pcb-assembly-cost-breakdown-china/)
+- [Sourcing & Supplier Matching](https://china-sourcing-agents.com/services/sourcing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/pcb-assembly-cost-breakdown-china/)
 

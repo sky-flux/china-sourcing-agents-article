@@ -1,3 +1,9 @@
+---
+title: "Huizhou Sourcing Agent — Electronics, Batteries & PCB Mfg"
+description: "China sourcing agent in Huizhou: Samsung, BYD, and TCL supply chain for consumer electronics assembly, lithium battery packs, BMS, and PCB manufacturing."
+canonical_url: "https://china-sourcing-agents.com/cities/huizhou-sourcing-agent/"
+---
+
 # Huizhou Sourcing Agent — Electronics, Batteries & PCB Mfg
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/huizhou-sourcing-agent/](https://china-sourcing-agents.com/cities/huizhou-sourcing-agent/)
@@ -30,5 +36,6 @@ Huizhou's consumer electronics sector is anchored by three anchor manufacturers 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [audits](https://china-sourcing-agents.com/services/audit/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/huizhou-sourcing-agent/)
+- [Canton Fair](https://china-sourcing-agents.com/guides/china-electronics-industry-overview/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/huizhou-sourcing-agent/)
 

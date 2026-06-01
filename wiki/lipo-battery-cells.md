@@ -1,3 +1,9 @@
+---
+title: "LiPo & Li-ion Battery Cells: China Sourcing Reference"
+description: "LiPo and Li-ion cells from China: energy density, C-rate, cycle life, Chinese manufacturers, Grade A vs B distinction, and UN 38.3 transport compliance."
+canonical_url: "https://china-sourcing-agents.com/wiki/lipo-battery-cells/"
+---
+
 # LiPo & Li-ion Battery Cells: China Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/lipo-battery-cells/](https://china-sourcing-agents.com/wiki/lipo-battery-cells/)
@@ -22,6 +28,8 @@ The cathode chemistry determines the energy density ceiling, cycle life, and the
 - Chinese Cell Manufacturers
 - Cell Grade Classification
 - Sourcing from China: What to Look For
+- Common Issues
+- Certifications Required
 
 ---
 
@@ -30,5 +38,6 @@ The cathode chemistry determines the energy density ceiling, cycle life, and the
 - [wearables](https://china-sourcing-agents.com/industries/wearables/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/lipo-battery-cells/)
+- [Lithium BMS Sourcing Reference](https://china-sourcing-agents.com/wiki/bms-lithium/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/lipo-battery-cells/)
 

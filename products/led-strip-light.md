@@ -1,3 +1,9 @@
+---
+title: "LED Strip Light (12V / 24V)"
+description: "Flexible LED strip for architectural, retail, and residential accent lighting. SMD2835 / SMD5050 chips, IP20 to IP68, CE/RoHS compliant."
+canonical_url: "https://china-sourcing-agents.com/products/led-strip-light/"
+---
+
 # LED Strip Light (12V / 24V)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/led-strip-light/](https://china-sourcing-agents.com/products/led-strip-light/)
@@ -26,5 +32,6 @@ LED strip lights are one of the most counterfeited and spec-inflated product cat
 - [sourcing LED strips for smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [electronics quality control](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/led-strip-light/)
+- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/led-strip-light/)
 

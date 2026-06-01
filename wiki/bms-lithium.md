@@ -1,3 +1,9 @@
+---
+title: "Lithium Battery Management Systems (BMS): Sourcing Reference"
+description: "Lithium BMS sourced from China: cell balancing topologies, protection parameters, TI and Chinese ICs, IEC 62133 testing, and UN 38.3 transport compliance."
+canonical_url: "https://china-sourcing-agents.com/wiki/bms-lithium/"
+---
+
 # Lithium Battery Management Systems (BMS): Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/bms-lithium/](https://china-sourcing-agents.com/wiki/bms-lithium/)
@@ -30,5 +36,6 @@ The BMS does not make a poor-quality cell safe. If the cell's self-discharge rat
 - [wearable](https://china-sourcing-agents.com/industries/wearables/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/bms-lithium/)
+- [LiPo & Li-ion Battery Cells Sourcing Reference](https://china-sourcing-agents.com/wiki/lipo-battery-cells/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/bms-lithium/)
 

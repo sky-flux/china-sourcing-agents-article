@@ -1,3 +1,9 @@
+---
+title: "Baby Stroller / Pram (Reversible Seat, Aluminum Frame)"
+description: "OEM baby strollers with EN 1888-1:2018 and 5-point harness. Aluminum frame, brake retention testing, export carton specs for wholesale buyers."
+canonical_url: "https://china-sourcing-agents.com/products/baby-stroller/"
+---
+
 # Baby Stroller / Pram (Reversible Seat, Aluminum Frame)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/baby-stroller/](https://china-sourcing-agents.com/products/baby-stroller/)
@@ -26,5 +32,5 @@ Aluminum frame welds on strollers are the primary structural concern. TIG welds 
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [quality inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/baby-stroller/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/baby-stroller/)
 

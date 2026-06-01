@@ -1,3 +1,9 @@
+---
+title: "Building Blocks Set (ABS Plastic, 500–1,000 pcs)"
+description: "OEM ABS building blocks, EN 71 (EU) and ASTM F963 (US) certified. Choking hazard and phthalate compliant, CA Prop 65 for wholesale buyers."
+canonical_url: "https://china-sourcing-agents.com/products/building-blocks-set/"
+---
+
 # Building Blocks Set (ABS Plastic, 500–1,000 pcs)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/building-blocks-set/](https://china-sourcing-agents.com/products/building-blocks-set/)
@@ -26,5 +32,5 @@ EN 71-3 chemical safety covers migration of 19 elements from toy materials. For 
 - [audit service](https://china-sourcing-agents.com/services/audit/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/building-blocks-set/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/building-blocks-set/)
 

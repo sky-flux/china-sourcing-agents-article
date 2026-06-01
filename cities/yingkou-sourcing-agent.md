@@ -1,3 +1,9 @@
+---
+title: "Yingkou Sourcing Agent — Magnesite, Port & Chemicals"
+description: "Sourcing agent in Yingkou, Liaoning: world's largest magnesite (MgO) reserves, refractory materials, chemical manufacturing, and aluminum profiles."
+canonical_url: "https://china-sourcing-agents.com/cities/yingkou-sourcing-agent/"
+---
+
 # Yingkou Sourcing Agent — Magnesite, Port & Chemicals
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/yingkou-sourcing-agent/](https://china-sourcing-agents.com/cities/yingkou-sourcing-agent/)
@@ -22,8 +28,9 @@ The processing chain starts with raw magnesite ore (magnesium carbonate, MgCO3) 
 - Aluminum Profile Manufacturing
 - Yingkou Port vs. Dalian: An Honest Comparison
 - Yingkou in the Shenyang–Dalian Corridor
+- Practical Notes for Buyers
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/yingkou-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/yingkou-sourcing-agent/)
 

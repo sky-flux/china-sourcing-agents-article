@@ -1,3 +1,9 @@
+---
+title: "Foshan Sourcing Agent — Furniture, Ceramics & Appliances"
+description: "Engineer-led China sourcing in Foshan. World largest furniture cluster, ceramic tile capital, and Midea/Galanz appliance chains from one verified partner."
+canonical_url: "https://china-sourcing-agents.com/cities/foshan-sourcing-agent/"
+---
+
 # Foshan Sourcing Agent — Furniture, Ceramics & Appliances
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/foshan-sourcing-agent/](https://china-sourcing-agents.com/cities/foshan-sourcing-agent/)
@@ -28,5 +34,5 @@ Foshan is one of China's most productive manufacturing cities — and one of the
 
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [factory audits](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/foshan-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/foshan-sourcing-agent/)
 

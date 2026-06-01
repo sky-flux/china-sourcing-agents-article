@@ -1,3 +1,9 @@
+---
+title: "Industrial Gas Detector / Transmitter"
+description: "OEM gas detector transmitter sourcing from China. 4–20mA / Modbus RTU / HART output. ATEX/IECEx certified. CO, H2S, CH4, VOC, CO2 detection. IP65/IP66."
+canonical_url: "https://china-sourcing-agents.com/products/gas-detector-transmitter/"
+---
+
 # Industrial Gas Detector / Transmitter
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/gas-detector-transmitter/](https://china-sourcing-agents.com/products/gas-detector-transmitter/)
@@ -28,5 +34,6 @@ The limiting factors are environmental sensitivity and finite sensor life. Elect
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/gas-detector-transmitter/)
+- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/gas-detector-transmitter/)
 

@@ -1,3 +1,9 @@
+---
+title: "AC-DC Power Module"
+description: "OEM AC-DC power modules from China: 5W–250W, IEC 62368-1/UL certified, universal input 85–264VAC. Factory audit and inspection included."
+canonical_url: "https://china-sourcing-agents.com/products/ac-dc-power-module/"
+---
+
 # AC-DC Power Module
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/ac-dc-power-module/](https://china-sourcing-agents.com/products/ac-dc-power-module/)
@@ -28,5 +34,6 @@ The practical difference for power module buyers: **a CB test report citing IEC 
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [power electronics sourcing overview](https://china-sourcing-agents.com/industries/power-electronics/)
 - [sourcing power modules](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/ac-dc-power-module/)
+- [pre-production inspection](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/ac-dc-power-module/)
 

@@ -1,3 +1,9 @@
+---
+title: "Zhaoqing Sourcing Agent — NEV Parts, Ceramics & PRD Mfg"
+description: "China sourcing agent in Zhaoqing: BAIC and Great Wall NEV supply chain, ceramics and porcelain tiles, aluminum fabrication, and electronic components."
+canonical_url: "https://china-sourcing-agents.com/cities/zhaoqing-sourcing-agent/"
+---
+
 # Zhaoqing Sourcing Agent — NEV Parts, Ceramics & PRD Mfg
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/zhaoqing-sourcing-agent/](https://china-sourcing-agents.com/cities/zhaoqing-sourcing-agent/)
@@ -25,5 +31,5 @@ For foreign buyers, the commercially accessible layer is the tier-2 and tier-3 s
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/cities/zhaoqing-sourcing-agent/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/zhaoqing-sourcing-agent/)
 

@@ -1,3 +1,9 @@
+---
+title: "Chengdu Sourcing Agent — Electronics & Automotive Hub"
+description: "Engineer-led sourcing in Chengdu. Intel, Foxconn and BOE supply chain access, Chengdu–Europe rail freight advantage, gateway to Southwest China."
+canonical_url: "https://china-sourcing-agents.com/cities/chengdu-sourcing-agent/"
+---
+
 # Chengdu Sourcing Agent — Electronics & Automotive Hub
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/chengdu-sourcing-agent/](https://china-sourcing-agents.com/cities/chengdu-sourcing-agent/)
@@ -22,6 +28,7 @@ These facilities are not directly accessible to independent international buyers
 - Sichuan Food and Condiment Sourcing
 - Medical Devices: Growing Cluster in the High-Tech Zone
 - Chengdu as Southwest China Gateway
+- Practical Notes
 
 ---
 
@@ -30,5 +37,6 @@ These facilities are not directly accessible to independent international buyers
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [Factory audits](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/chengdu-sourcing-agent/)
+- [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/chengdu-sourcing-agent/)
 

@@ -1,3 +1,9 @@
+---
+title: "Nanning Sourcing Agent — ASEAN Gateway & Electronics Mfg"
+description: "Sourcing agent in Nanning, Guangxi — China's ASEAN trade hub. Electronics assembly, sugar machinery, cross-border Vietnam logistics via Friendship Pass."
+canonical_url: "https://china-sourcing-agents.com/cities/nanning-sourcing-agent/"
+---
+
 # Nanning Sourcing Agent — ASEAN Gateway & Electronics Mfg
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/nanning-sourcing-agent/](https://china-sourcing-agents.com/cities/nanning-sourcing-agent/)
@@ -30,5 +36,5 @@ The annual China-ASEAN Expo (CAEXPO), held in Nanning each September since 2004,
 - [Smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/cities/nanning-sourcing-agent/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/nanning-sourcing-agent/)
 

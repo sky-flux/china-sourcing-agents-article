@@ -1,3 +1,9 @@
+---
+title: "China Payment Terms: T/T, LC, Escrow"
+description: "A practical breakdown of the payment terms used in China sourcing — Telegraphic Transfer, Letters of Credit, escrow, and when each one protects you."
+canonical_url: "https://china-sourcing-agents.com/guides/china-payment-terms-explained/"
+---
+
 # China Payment Terms: T/T, LC, Escrow
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/china-payment-terms-explained/](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
@@ -22,6 +28,8 @@ Factories want money before they spend on materials and labor. Buyers want goods
 - Escrow
 - What to actually do at each stage
 - Currency risk
+- Payment methods compared
+- Summary: a decision tree
 
 ---
 
@@ -30,5 +38,6 @@ Factories want money before they spend on materials and labor. Buyers want goods
 - [full sourcing process](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
 

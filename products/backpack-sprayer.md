@@ -1,3 +1,9 @@
+---
+title: "Backpack Sprayer OEM Manufacturer China"
+description: "Backpack sprayer China OEM wholesale — manual / battery-powered, 16–20L, HDPE/PP tank, CE ISO16140, 100-unit MOQ. Factory direct sourcing."
+canonical_url: "https://china-sourcing-agents.com/products/backpack-sprayer/"
+---
+
 # Backpack Sprayer OEM Manufacturer China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/backpack-sprayer/](https://china-sourcing-agents.com/products/backpack-sprayer/)
@@ -26,5 +32,5 @@ The choice between a **manual piston pump** and a **battery-powered diaphragm pu
 
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/backpack-sprayer/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/backpack-sprayer/)
 

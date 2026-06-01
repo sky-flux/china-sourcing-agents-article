@@ -1,3 +1,9 @@
+---
+title: "DALI-2 LED Driver"
+description: "DALI-2 certified LED driver sourcing from China. IEC 62386 Part 202/207/209. 10–150W, 350mA–1400mA output. DiiA-registered. OEM/ODM."
+canonical_url: "https://china-sourcing-agents.com/products/dali-led-driver/"
+---
+
 # DALI-2 LED Driver
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/dali-led-driver/](https://china-sourcing-agents.com/products/dali-led-driver/)
@@ -27,5 +33,5 @@ The single most common sourcing mistake for DALI drivers is confusing "DALI comp
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [incoming inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/dali-led-driver/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/dali-led-driver/)
 

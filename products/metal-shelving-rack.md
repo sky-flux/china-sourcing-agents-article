@@ -1,3 +1,9 @@
+---
+title: "Heavy-Duty Metal Shelving Rack (Boltless, 5-Tier)"
+description: "OEM boltless metal shelving racks for warehouse and retail. SGS load-tested, powder-coated steel with verified UDL ratings. Wholesale from China."
+canonical_url: "https://china-sourcing-agents.com/products/metal-shelving-rack/"
+---
+
 # Heavy-Duty Metal Shelving Rack (Boltless, 5-Tier)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/metal-shelving-rack/](https://china-sourcing-agents.com/products/metal-shelving-rack/)
@@ -26,5 +32,6 @@ Powder coat thickness directly affects corrosion resistance. For warehouse envir
 - [sourcing and supplier evaluation](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/metal-shelving-rack/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/metal-shelving-rack/)
 

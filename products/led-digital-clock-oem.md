@@ -1,3 +1,9 @@
+---
+title: "LED Digital Clock (Retail / Promotional OEM)"
+description: "Large-digit LED alarm clock with USB-A charging, ambient light sensor, FM radio, and custom logo printing. OEM from 500 units for retail markets."
+canonical_url: "https://china-sourcing-agents.com/products/led-digital-clock-oem/"
+---
+
 # LED Digital Clock (Retail / Promotional OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/led-digital-clock-oem/](https://china-sourcing-agents.com/products/led-digital-clock-oem/)
@@ -22,5 +28,5 @@ Dial plate inserts — a printed card behind the display bezel — allow for ful
 
 ---
 
-[Read the full resource on china-sourcing-agents.com →](https://china-sourcing-agents.com/products/led-digital-clock-oem/)
+[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/products/led-digital-clock-oem/)
 

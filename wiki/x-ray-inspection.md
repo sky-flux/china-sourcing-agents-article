@@ -1,3 +1,9 @@
+---
+title: "X-Ray Inspection for Electronics: BGA & AXI Reference"
+description: "X-ray inspection for PCBAs from China: BGA void analysis per IPC-7095C, 2D vs 3D AXI, equipment types, sampling strategy, and specifying requirements."
+canonical_url: "https://china-sourcing-agents.com/wiki/x-ray-inspection/"
+---
+
 # X-Ray Inspection for Electronics: BGA & AXI Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/x-ray-inspection/](https://china-sourcing-agents.com/wiki/x-ray-inspection/)
@@ -22,6 +28,8 @@ X-ray inspection fits into the manufacturing flow after reflow soldering and bef
 - IPC-7095C BGA Reliability Standard
 - What to Inspect by X-Ray
 - Sampling Strategy
+- What to Specify When Ordering from China
+- Quality Checks
 
 ---
 
@@ -30,5 +38,6 @@ X-ray inspection fits into the manufacturing flow after reflow soldering and bef
 - [quality inspection services](https://china-sourcing-agents.com/services/inspection/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [SMT Assembly Process](https://china-sourcing-agents.com/wiki/smt-process/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/x-ray-inspection/)
+- [IPC-A-610 Acceptance Criteria](https://china-sourcing-agents.com/wiki/ipc-a-610/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/x-ray-inspection/)
 

@@ -1,3 +1,9 @@
+---
+title: "Folding Bicycle (20\\\" Wheels, Aluminium Frame)"
+description: "OEM folding bicycles with EN 14764 frame fatigue cert. Shimano drivetrain, hinge durability tested, export carton spec for wholesale."
+canonical_url: "https://china-sourcing-agents.com/products/folding-bicycle/"
+---
+
 # Folding Bicycle (20\" Wheels, Aluminium Frame)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/folding-bicycle/](https://china-sourcing-agents.com/products/folding-bicycle/)
@@ -26,5 +32,5 @@ Shimano Tourney (7-speed) is the entry point for branded wholesale — index shi
 - [audit service](https://china-sourcing-agents.com/services/audit/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/folding-bicycle/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/folding-bicycle/)
 

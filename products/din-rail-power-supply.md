@@ -1,3 +1,9 @@
+---
+title: "DIN Rail Power Supply (24V DC, 10A–40A)"
+description: "DIN rail PSU 24V DC, 10–40A output, 85–264V AC universal input, &gt;91% efficiency. UL 508 and CE certified for industrial panels and PLC applications."
+canonical_url: "https://china-sourcing-agents.com/products/din-rail-power-supply/"
+---
+
 # DIN Rail Power Supply (24V DC, 10A–40A)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/din-rail-power-supply/](https://china-sourcing-agents.com/products/din-rail-power-supply/)
@@ -28,5 +34,6 @@ Two UL marks appear on DIN rail power supplies, and they are not interchangeable
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/din-rail-power-supply/)
+- [inspection service](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/din-rail-power-supply/)
 

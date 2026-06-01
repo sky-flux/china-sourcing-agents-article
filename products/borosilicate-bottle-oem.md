@@ -1,3 +1,9 @@
+---
+title: "Borosilicate Glass Water Bottle (OEM / Custom Sleeve)"
+description: "500ml/750ml borosilicate glass bottle, silicone sleeve, leak-proof cap, custom logo. BPA-free, dishwasher-safe. OEM from 500 units."
+canonical_url: "https://china-sourcing-agents.com/products/borosilicate-bottle-oem/"
+---
+
 # Borosilicate Glass Water Bottle (OEM / Custom Sleeve)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/borosilicate-bottle-oem/](https://china-sourcing-agents.com/products/borosilicate-bottle-oem/)
@@ -27,5 +33,5 @@ Factories sometimes substitute soda-lime glass with a similar visual appearance 
 - [private label service](https://china-sourcing-agents.com/services/private-label/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/borosilicate-bottle-oem/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/borosilicate-bottle-oem/)
 

@@ -1,3 +1,9 @@
+---
+title: "REACH SVHC Compliance for EU Electronics"
+description: "REACH SVHC compliance for electronics from China: Article 33 obligations, SCIP database registration, valid supplier declarations, and chemical testing."
+canonical_url: "https://china-sourcing-agents.com/wiki/reach-compliance/"
+---
+
 # REACH SVHC Compliance for EU Electronics
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/reach-compliance/](https://china-sourcing-agents.com/wiki/reach-compliance/)
@@ -30,5 +36,6 @@ REACH covers Registration, Evaluation, Authorisation and Restriction of Chemical
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/reach-compliance/)
+- [RoHS 2 Compliance](https://china-sourcing-agents.com/wiki/rohs-compliance/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/reach-compliance/)
 

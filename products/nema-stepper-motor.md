@@ -1,3 +1,9 @@
+---
+title: "NEMA 17 / NEMA 23 Stepper Motor (OEM / Wholesale)"
+description: "NEMA 17 and NEMA 23 bipolar stepper motors, 1.8° step angle, 0.4–3.1 N·m torque, with matched TMC2209/DM542 drivers. RoHS from 100 units."
+canonical_url: "https://china-sourcing-agents.com/products/nema-stepper-motor/"
+---
+
 # NEMA 17 / NEMA 23 Stepper Motor (OEM / Wholesale)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/nema-stepper-motor/](https://china-sourcing-agents.com/products/nema-stepper-motor/)
@@ -27,5 +33,5 @@ Dynamic torque drops with increasing speed due to two electrical phenomena. Firs
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/nema-stepper-motor/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/nema-stepper-motor/)
 

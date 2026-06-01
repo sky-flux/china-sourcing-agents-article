@@ -1,3 +1,9 @@
+---
+title: "Fiber Laser Cutting Machine (1kW–6kW)"
+description: "Fiber laser cutting machine 1–6 kW, IPG/Raycus/Max source, CE and ISO 9001. Cuts steel and aluminum. Exchange table available."
+canonical_url: "https://china-sourcing-agents.com/products/fiber-laser-cutter/"
+---
+
 # Fiber Laser Cutting Machine (1kW–6kW)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/fiber-laser-cutter/](https://china-sourcing-agents.com/products/fiber-laser-cutter/)
@@ -28,5 +34,5 @@ The laser source is the highest-value component in a fiber laser cutter and the 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [industrial IoT hardware sourcing](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/products/fiber-laser-cutter/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/fiber-laser-cutter/)
 

@@ -1,3 +1,9 @@
+---
+title: "Board-to-Board Connectors: China Sourcing Reference"
+description: "Board-to-board connectors from China: mezzanine/stacking/coplanar, 0.4–1.27mm pitch, high-speed BTB for USB 3.x/PCIe/MIPI, Chinese vs OEM originals."
+canonical_url: "https://china-sourcing-agents.com/wiki/board-to-board-connectors/"
+---
+
 # Board-to-Board Connectors: China Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/board-to-board-connectors/](https://china-sourcing-agents.com/wiki/board-to-board-connectors/)
@@ -29,5 +35,6 @@ BTB connectors split into three functional categories:
 - [wearables](https://china-sourcing-agents.com/industries/wearables/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/board-to-board-connectors/)
+- [IPC-A-610 Acceptance Criteria](https://china-sourcing-agents.com/wiki/ipc-a-610/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/board-to-board-connectors/)
 

@@ -1,3 +1,9 @@
+---
+title: "D-Sub Connectors: DB9, DB15, DB25 — China Sourcing Reference"
+description: "D-Sub connectors sourced from China: DB9, DB15, DB25, HD-15 shell sizes, contact types, EMC backshell options, and quality issues in Chinese production."
+canonical_url: "https://china-sourcing-agents.com/wiki/dsub-connectors/"
+---
+
 # D-Sub Connectors: DB9, DB15, DB25 — China Sourcing Reference
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/dsub-connectors/](https://china-sourcing-agents.com/wiki/dsub-connectors/)
@@ -29,5 +35,6 @@ The industry consistently calls the 9-pin variant "DB9," but the technically cor
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Full resource on china-sourcing-agents.com](https://china-sourcing-agents.com/wiki/dsub-connectors/)
+- [CAN Bus Module Sourcing Reference](https://china-sourcing-agents.com/wiki/can-bus-modules/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/dsub-connectors/)
 

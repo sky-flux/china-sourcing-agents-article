@@ -24,6 +24,7 @@ LED strip lights are one of the most counterfeited and spec-inflated product cat
 
 - What to Check When Sourcing
 - Common Issues
+- Saudi / GCC market notes
 
 ---
 

@@ -24,6 +24,7 @@ Video doorbells are high-visibility smart home and consumer electronics products
 
 - What to Check When Sourcing
 - Common Issues
+- Saudi / GCC market notes
 
 ---
 

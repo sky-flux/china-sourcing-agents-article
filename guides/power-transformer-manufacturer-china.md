@@ -28,7 +28,7 @@ Before contacting any manufacturer, define your specification precisely. Chinese
 - How to qualify a Chinese transformer manufacturer
 - Certifications for major export markets
 - Pricing and lead times in 2026
-- How China Sourcing Agent approaches transformer sourcing
+- How China Sourcing Agents approaches transformer sourcing
 
 ---
 

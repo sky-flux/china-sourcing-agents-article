@@ -24,6 +24,7 @@ The LED panel light market is saturated with products that hit their lumen spec 
 
 - What to Check When Sourcing
 - Common Issues
+- Saudi / GCC market notes
 
 ---
 

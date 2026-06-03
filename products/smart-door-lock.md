@@ -24,6 +24,7 @@ Smart locks are both a security product and an IoT device — they have mechanic
 
 - What to Check When Sourcing
 - Common Issues
+- Saudi / GCC market notes
 
 ---
 

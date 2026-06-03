@@ -26,6 +26,7 @@ If your product uses Zigbee for its connectivity but does not market it using th
 - CC2652 vs. EFR32: Ecosystem Comparison
 - Matter / Thread Migration Path
 - Common Issues
+- Saudi / GCC market notes
 
 ---
 

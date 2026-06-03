@@ -25,6 +25,7 @@ ONVIF (Open Network Video Interface Forum) profiles define interoperability laye
 - ONVIF Profile S vs. T vs. G: What Integrators Actually Need
 - Sony Starvis vs. Generic Sensor: Low-Light Performance Tradeoff
 - PoE Budget Planning for PTZ Deployments
+- Saudi / GCC market notes
 
 ---
 

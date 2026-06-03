@@ -26,6 +26,7 @@ UL 217 8th edition (effective January 2021) added TF (Thistle Fire) sensitivity 
 - Photoelectric vs Ionization vs Dual-Sensor: OEM Configuration Trade-offs
 - Smart Interconnect and Protocol: Zigbee vs WiFi vs Matter
 - CE and UL Certification Paths for OEM Buyers
+- Saudi / GCC market notes
 
 ---
 
@@ -34,5 +35,6 @@ UL 217 8th edition (effective January 2021) added TF (Thistle Fire) sensitivity 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit service](https://china-sourcing-agents.com/services/audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
+- [CST](https://china-sourcing-agents.com/guides/saso-saber-certification-china-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/smart-smoke-detector/)
 

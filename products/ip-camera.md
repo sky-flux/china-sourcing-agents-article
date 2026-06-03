@@ -24,6 +24,7 @@ The IP camera market is dominated by a few core ISP chipsets — HiSilicon (Hikv
 
 - What to Check When Sourcing
 - Common Issues
+- Saudi / GCC market notes
 
 ---
 

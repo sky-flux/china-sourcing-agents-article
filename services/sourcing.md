@@ -12,7 +12,7 @@ Find verified Chinese suppliers for your product. We search 1688, Alibaba, and o
 
 ---
 
-China Sourcing Agent cuts the factory search from 3–6 months down to 2 weeks. Most hardware startups spend that time talking to traders on Alibaba who present themselves as manufacturers — by the time they realize the mistake, they've wasted samples, deposits, and a product launch window.
+China Sourcing Agents cuts the factory search from 3–6 months down to 2 weeks. Most hardware startups spend that time talking to traders on Alibaba who present themselves as manufacturers — by the time they realize the mistake, they've wasted samples, deposits, and a product launch window.
 
 Our sourcing process goes beyond Alibaba keyword searches. We cross-reference 1688 (the domestic wholesale platform), our direct factory relationships built over 7 years, and trade show contacts from Shenzhen and Dongguan. For each candidate we verify business registration, production capacity, existing client references, and whether they're a factory or a trader.
 

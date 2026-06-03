@@ -26,6 +26,7 @@ The passive infrared sensor comprises two subsystems: the pyroelectric element (
 - Zigbee vs Z-Wave vs Matter for Battery-Powered Sensors
 - Battery Life Claims Verification: The CR2450 Math
 - OEM Customization and Certification
+- Saudi / GCC market notes
 
 ---
 

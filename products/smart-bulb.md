@@ -24,6 +24,7 @@ The smart home lighting module ecosystem has consolidated around a few chipsets 
 
 - What to Check When Sourcing
 - Common Issues
+- Saudi / GCC market notes
 
 ---
 

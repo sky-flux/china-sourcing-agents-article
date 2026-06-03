@@ -31,7 +31,7 @@ The critical weakness of NiMH in outdoor solar applications is cold weather perf
 ## Further reading
 
 - [sourcing solar lighting products](https://china-sourcing-agents.com/services/sourcing/)
-- [UN 38.3 certification](https://china-sourcing-agents.com/wiki/un-38-3/)
+- [UN 38.3 certification](https://china-sourcing-agents.com/wiki/un38-3-battery/)
 - [private-label brands](https://china-sourcing-agents.com/services/private-label/)
 - [CE and FCC certification guide](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/outdoor-solar-string-lights/)

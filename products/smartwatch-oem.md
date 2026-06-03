@@ -34,6 +34,6 @@ AMOLED panels for wearables are sourced from a small number of manufacturers, an
 - [wearables](https://china-sourcing-agents.com/industries/wearables/)
 - [sourcing smartwatches](https://china-sourcing-agents.com/services/sourcing/)
 - [US Startup Smart Watch case study](https://china-sourcing-agents.com/cases/us-startup-smart-watch/)
-- [UN 38.3 certification](https://china-sourcing-agents.com/wiki/un-38-3/)
+- [UN 38.3 certification](https://china-sourcing-agents.com/wiki/un38-3-battery/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/smartwatch-oem/)
 

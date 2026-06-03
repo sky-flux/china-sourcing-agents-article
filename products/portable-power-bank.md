@@ -33,7 +33,7 @@ The single most impactful quality variable in sourcing consumer electronics like
 
 - [sourcing consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [factory audit](https://china-sourcing-agents.com/services/audit/)
-- [UN 38.3](https://china-sourcing-agents.com/wiki/un-38-3/)
+- [UN 38.3](https://china-sourcing-agents.com/wiki/un38-3-battery/)
 - [power electronics sourcing](https://china-sourcing-agents.com/industries/power-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/portable-power-bank/)
 

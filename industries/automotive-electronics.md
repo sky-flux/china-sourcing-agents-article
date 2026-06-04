@@ -32,7 +32,7 @@ We source the accessory/aftermarket layer only — tier-1 safety systems (engine
 
 - [automotive supplier matching](https://china-sourcing-agents.com/services/sourcing/)
 - [77GHz millimeter-wave radar modules](https://china-sourcing-agents.com/wiki/adas-77ghz-radar/)
+- [NXP TEF810X radar transceiver IC](https://china-sourcing-agents.com/wiki/tef810x-radar-transceiver/)
 - [TPMS sensors](https://china-sourcing-agents.com/products/automotive/tpms/)
-- [OBD2 scanners](https://china-sourcing-agents.com/products/automotive/obd2-scanner/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/industries/automotive-electronics/)
 

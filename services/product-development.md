@@ -1,14 +1,14 @@
 ---
-title: "Electronics Product Development in China"
-description: "Engineer-led electronics product development in China: schematic and DFM review, OEM/ODM tooling, and pilot runs — from concept to production."
+title: "Electronics Product Development & Design in China"
+description: "Engineer-led electronics product development and product design in China: schematic/DFM review, OEM/ODM tooling, and pilot runs from concept to production."
 canonical_url: "https://china-sourcing-agents.com/services/product-development/"
 ---
 
-# Electronics Product Development in China
+# Electronics Product Development & Design in China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/services/product-development/](https://china-sourcing-agents.com/services/product-development/)
 
-Engineer-led electronics product development in China: schematic and DFM review, OEM/ODM tooling, and pilot runs — from concept to production.
+Engineer-led electronics product development and product design in China: schematic/DFM review, OEM/ODM tooling, and pilot runs from concept to production.
 
 ---
 

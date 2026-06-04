@@ -34,7 +34,7 @@ A-coding is the most common. D-coding (4-pin, 100 Mbps) and X-coding (8-pin, Gig
 
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Industrial Ethernet Switches](https://china-sourcing-agents.com/wiki/industrial-ethernet-switches/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/m12-industrial-connectors/)
 

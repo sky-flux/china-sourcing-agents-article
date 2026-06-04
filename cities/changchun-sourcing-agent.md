@@ -35,6 +35,6 @@ For international buyers, the commercially accessible layer is FAW's tier-2 supp
 ## Further reading
 
 - [Automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
-- [Factory audits](https://china-sourcing-agents.com/services/audit/)
+- [Factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/changchun-sourcing-agent/)
 

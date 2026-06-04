@@ -34,7 +34,7 @@ The M8 standard is defined by IEC 61076-2-104. M16 has no single governing IEC s
 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [sourced](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [M12 Industrial Connectors](https://china-sourcing-agents.com/wiki/m12-industrial-connectors/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/m8-m16-circular-connectors/)
 

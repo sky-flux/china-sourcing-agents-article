@@ -36,7 +36,7 @@ These facilities are not directly accessible to independent international buyers
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [Factory audits](https://china-sourcing-agents.com/services/audit/)
+- [Factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/chengdu-sourcing-agent/)
 

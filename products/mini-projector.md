@@ -33,7 +33,7 @@ When sourcing mini projectors, always request ANSI lumen measurement from an acc
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [sourcing mini projectors](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [electronics quality control guide](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/mini-projector/)
 

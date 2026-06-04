@@ -32,7 +32,7 @@ The dominant global shutter sensor family for Chinese industrial camera OEMs is 
 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [sourcing agreement](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/machine-vision-camera/)
 

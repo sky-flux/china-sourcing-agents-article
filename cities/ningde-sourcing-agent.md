@@ -33,6 +33,6 @@ CATL's Ningde campus employs over 30,000 people and produces lithium iron phosph
 
 ## Further reading
 
-- [Factory audits](https://china-sourcing-agents.com/services/audit/)
+- [Factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/ningde-sourcing-agent/)
 

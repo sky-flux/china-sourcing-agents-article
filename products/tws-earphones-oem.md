@@ -33,7 +33,7 @@ The chipset choice defines the SDK environment, reference design availability, a
 
 - [sourcing wearable audio devices](https://china-sourcing-agents.com/industries/wearables/)
 - [consumer electronics certification](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [wearable device manufacturing](https://china-sourcing-agents.com/guides/wearable-manufacturing-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/tws-earphones-oem/)
 

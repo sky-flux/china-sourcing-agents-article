@@ -34,6 +34,6 @@ Chinese AC servo manufacturers now ship three encoder tiers across most product 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [sourcing from China](https://china-sourcing-agents.com/services/sourcing/)
 - [factory inspection](https://china-sourcing-agents.com/services/inspection/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/servo-drive-motor/)
 

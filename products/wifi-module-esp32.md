@@ -32,7 +32,7 @@ ESP32-based modules can be programmed via two primary frameworks, and your choic
 ## Further reading
 
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Amazon Seller IoT Sensor case study](https://china-sourcing-agents.com/cases/amazon-seller-iot-sensor/)
 - [CE and FCC certification](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/wifi-module-esp32/)

@@ -33,6 +33,6 @@ The fixture is used wherever a standard LED batten or panel would fail within mo
 - [sourcing tri-proof lights](https://china-sourcing-agents.com/services/sourcing/)
 - [industrial IoT and food processing](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/tri-proof-light/)
 

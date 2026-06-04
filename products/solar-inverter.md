@@ -30,7 +30,7 @@ Off-grid inverters carry safety-critical loads — medical equipment, refrigerat
 ## Further reading
 
 - [sourcing power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing inverters](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/solar-inverter/)

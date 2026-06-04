@@ -30,7 +30,7 @@ UL 94V-2 means the material self-extinguishes within 30 seconds after removal of
 ## Further reading
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [audit service](https://china-sourcing-agents.com/services/audit/)
+- [audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/cable-ties-nylon/)
 

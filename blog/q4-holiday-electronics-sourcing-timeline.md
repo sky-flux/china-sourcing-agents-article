@@ -33,7 +33,7 @@ For a standard consumer electronics product (Bluetooth speaker, smart home devic
 ## Further reading
 
 - [supplier sourcing and factory shortlisting](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [payment terms](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/q4-holiday-electronics-sourcing-timeline/)

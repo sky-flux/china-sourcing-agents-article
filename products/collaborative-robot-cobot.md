@@ -33,7 +33,7 @@ ISO/TS 15066 defines the power-and-force limits for collaborative robot operatio
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [audit service](https://china-sourcing-agents.com/services/audit/)
+- [audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [industrial IoT sourcing](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/collaborative-robot-cobot/)
 

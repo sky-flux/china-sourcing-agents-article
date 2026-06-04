@@ -30,7 +30,7 @@ Powder coat thickness directly affects corrosion resistance. For warehouse envir
 ## Further reading
 
 - [sourcing and supplier evaluation](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/metal-shelving-rack/)

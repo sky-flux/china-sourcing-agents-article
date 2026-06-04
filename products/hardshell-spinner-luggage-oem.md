@@ -31,7 +31,7 @@ Pure PC shells are at the other extreme. PC has notched impact strength roughly 
 ## Further reading
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [audit service](https://china-sourcing-agents.com/services/audit/)
+- [audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [private label service](https://china-sourcing-agents.com/services/private-label/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/hardshell-spinner-luggage-oem/)
 

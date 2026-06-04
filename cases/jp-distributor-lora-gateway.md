@@ -42,6 +42,6 @@ This engagement was primarily a direct manufacturer identification and verificat
 - [LoRa modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [supplier sourcing work](https://china-sourcing-agents.com/services/sourcing/)
 - [payment terms](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
-- [Factory audit](https://china-sourcing-agents.com/services/audit/)
+- [Factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cases/jp-distributor-lora-gateway/)
 

@@ -33,7 +33,7 @@ A metal stencil (laser-cut, 0.12–0.15 mm thick for standard components) is ali
 
 ## Further reading
 
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [Reflow Soldering](https://china-sourcing-agents.com/wiki/reflow-soldering/)
 - [X-Ray Inspection](https://china-sourcing-agents.com/wiki/x-ray-inspection/)

@@ -33,6 +33,6 @@ Choosing the wrong meter type for the process medium is the most common specific
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
-- [factory audit service](https://china-sourcing-agents.com/services/audit/)
+- [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/flow-meter-industrial/)
 

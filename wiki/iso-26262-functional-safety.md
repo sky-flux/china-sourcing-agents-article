@@ -35,7 +35,7 @@ The key distinction: **ISO 26262 is a process and development standard, not a pr
 
 - [77GHz FMCW radar modules](https://china-sourcing-agents.com/wiki/adas-77ghz-radar/)
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [IATF 16949 Certification](https://china-sourcing-agents.com/wiki/iatf-16949/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/iso-26262-functional-safety/)
 

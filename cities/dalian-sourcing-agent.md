@@ -34,7 +34,7 @@ The supplier ecosystem produces components in several categories accessible to i
 
 ## Further reading
 
-- [Factory audits](https://china-sourcing-agents.com/services/audit/)
+- [Factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/dalian-sourcing-agent/)

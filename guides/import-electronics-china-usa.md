@@ -37,7 +37,7 @@ This guide covers each layer in plain terms, with actual numbers. For the upstre
 
 - [full sourcing guide](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [China electronics tariff guide](https://china-sourcing-agents.com/blog/china-electronics-tariff-2026-guide/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [logistics coordination](https://china-sourcing-agents.com/services/logistics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
 

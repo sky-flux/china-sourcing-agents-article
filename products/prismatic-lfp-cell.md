@@ -33,6 +33,6 @@ The prismatic LFP cell market in China operates across three distinct quality ti
 
 - [quality inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [cell sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit and verification service](https://china-sourcing-agents.com/services/audit/)
+- [factory audit and verification service](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/prismatic-lfp-cell/)
 

@@ -33,7 +33,7 @@ Yantai's food industry identity rests on three pillars: fruit processing, seafoo
 
 ## Further reading
 
-- [factory audit process](https://china-sourcing-agents.com/services/audit/)
+- [factory audit process](https://china-sourcing-agents.com/services/factory-audit/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/yantai-sourcing-agent/)
 

@@ -34,7 +34,7 @@ Huizhou's consumer electronics sector is anchored by three anchor manufacturers 
 ## Further reading
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [audits](https://china-sourcing-agents.com/services/audit/)
+- [audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [Canton Fair](https://china-sourcing-agents.com/guides/china-electronics-industry-overview/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/huizhou-sourcing-agent/)

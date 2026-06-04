@@ -32,7 +32,7 @@ The catch is that "IEC 61131-3 compliant" is a claim factories make freely, but 
 ## Further reading
 
 - [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [industrial IoT sourcing engagement](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/industrial-plc/)
 

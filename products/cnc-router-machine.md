@@ -32,7 +32,7 @@ The drive system is the most significant performance and cost variable in a CNC 
 ## Further reading
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit service](https://china-sourcing-agents.com/services/audit/)
+- [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [industrial IoT page](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/cnc-router-machine/)

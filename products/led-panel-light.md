@@ -31,7 +31,7 @@ The LED panel light market is saturated with products that hit their lumen spec 
 ## Further reading
 
 - [sourcing commercial LED lighting](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit for lighting products](https://china-sourcing-agents.com/services/audit/)
+- [factory audit for lighting products](https://china-sourcing-agents.com/services/factory-audit/)
 - [electronics quality control](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
 - [power electronics and lighting](https://china-sourcing-agents.com/industries/power-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/led-panel-light/)

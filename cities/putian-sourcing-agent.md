@@ -33,6 +33,6 @@ The Hanjiang District (含江区) shoe city (鞋城) is the core of Putian's foo
 
 ## Further reading
 
-- [factory audits](https://china-sourcing-agents.com/services/audit/)
+- [factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/putian-sourcing-agent/)
 

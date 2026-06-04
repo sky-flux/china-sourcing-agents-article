@@ -31,7 +31,7 @@ The Unique Device Identification (UDI) requirement under MDR is also new: every 
 ## Further reading
 
 - [sourcing medical wearable devices](https://china-sourcing-agents.com/industries/wearables/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing OEM oximeters](https://china-sourcing-agents.com/services/sourcing/)
 - [CE and FCC certification guide](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/pulse-oximeter-oem/)

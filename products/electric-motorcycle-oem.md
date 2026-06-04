@@ -33,6 +33,6 @@ European vehicle type approval is mandatory for road-legal electric motorcycles 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [automotive electronics industry page](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [power electronics page](https://china-sourcing-agents.com/industries/power-electronics/)
-- [audit service](https://china-sourcing-agents.com/services/audit/)
+- [audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/electric-motorcycle-oem/)
 

@@ -29,7 +29,7 @@ Motor HP ratings on Chinese treadmills are almost universally quoted at peak (in
 
 ## Further reading
 
-- [factory audit service](https://china-sourcing-agents.com/services/audit/)
+- [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/commercial-treadmill/)

@@ -37,7 +37,7 @@ AQL (Acceptable Quality Level) is defined in ANSI/ASQ Z1.4 (attribute sampling, 
 
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [IPC-A-610 Acceptance Criteria](https://china-sourcing-agents.com/wiki/ipc-a-610/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/aql-sampling/)
 

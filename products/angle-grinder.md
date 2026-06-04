@@ -29,7 +29,7 @@ EU Directive 2002/44/EC (Physical Agents — Vibration) requires employers to mo
 
 ## Further reading
 
-- [audit and verification service](https://china-sourcing-agents.com/services/audit/)
+- [audit and verification service](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/angle-grinder/)

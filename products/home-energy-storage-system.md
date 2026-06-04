@@ -31,7 +31,7 @@ This is the most common compliance mistake Western buyers make when sourcing res
 
 ## Further reading
 
-- [factory audit service](https://china-sourcing-agents.com/services/audit/)
+- [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [18650/21700 battery cell sourcing page](https://china-sourcing-agents.com/products/en/18650-21700-battery-cell/)

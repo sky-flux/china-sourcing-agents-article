@@ -32,7 +32,7 @@ The chipset combination determines real-world performance ceilings for consumer 
 ## Further reading
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [CE and FCC certification guide](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
 - [sourcing USB-C hubs](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/usb-c-hub/)

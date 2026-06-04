@@ -32,7 +32,7 @@ These ranges reflect variation across sensor designs — coil geometry, oscillat
 ## Further reading
 
 - [sourcing inductive sensors](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/inductive-proximity-sensor/)

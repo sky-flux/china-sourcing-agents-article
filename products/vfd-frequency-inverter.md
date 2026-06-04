@@ -33,7 +33,7 @@ The three control modes shipped by Chinese VFD manufacturers serve fundamentally
 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [factory audit service](https://china-sourcing-agents.com/services/audit/)
+- [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [EU industrial IoT gateway case study](https://china-sourcing-agents.com/cases/eu-industrial-iot-gateway/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/vfd-frequency-inverter/)
 

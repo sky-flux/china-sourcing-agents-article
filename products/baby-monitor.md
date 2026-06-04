@@ -31,6 +31,6 @@ US and European consumers are increasingly aware of this distinction. For wholes
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [factory audit service](https://china-sourcing-agents.com/services/audit/)
+- [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/baby-monitor/)
 

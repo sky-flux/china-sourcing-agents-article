@@ -31,7 +31,7 @@ Smart locks are both a security product and an IoT device — they have mechanic
 ## Further reading
 
 - [sourcing smart home devices](https://china-sourcing-agents.com/industries/smart-home/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [private-label](https://china-sourcing-agents.com/services/private-label/)
 - [sourcing smart locks](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/smart-door-lock/)

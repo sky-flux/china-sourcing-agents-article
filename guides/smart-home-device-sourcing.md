@@ -35,7 +35,7 @@ The category is broader than it looks. Products that qualify include:
 
 ## Further reading
 
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Sourcing & Supplier Matching](https://china-sourcing-agents.com/services/sourcing/)
 - [Quality Inspection](https://china-sourcing-agents.com/services/inspection/)
 - [smart home industry page](https://china-sourcing-agents.com/industries/smart-home/)

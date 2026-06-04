@@ -36,7 +36,7 @@ Standard trace/space 0.10/0.10 mm is achievable at almost every Chinese PCB fact
 ## Further reading
 
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [SMT Assembly Process](https://china-sourcing-agents.com/wiki/smt-process/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/dfm-guidelines/)

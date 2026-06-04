@@ -30,7 +30,7 @@ Desktop off-gassing (formaldehyde and VOCs from MDF core and adhesives) is regul
 ## Further reading
 
 - [sourcing standing desks](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/standing-desk/)

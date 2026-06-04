@@ -36,6 +36,6 @@ The work spans the full life of the relationship, not just one purchase order:
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [guide to verifying a Chinese supplier](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/services/supplier-management/)
 

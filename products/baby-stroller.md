@@ -29,7 +29,7 @@ Aluminum frame welds on strollers are the primary structural concern. TIG welds 
 
 ## Further reading
 
-- [factory audit service](https://china-sourcing-agents.com/services/audit/)
+- [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [quality inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/baby-stroller/)

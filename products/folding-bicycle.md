@@ -29,7 +29,7 @@ Shimano Tourney (7-speed) is the entry point for branded wholesale — index shi
 
 ## Further reading
 
-- [audit service](https://china-sourcing-agents.com/services/audit/)
+- [audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/folding-bicycle/)

@@ -33,7 +33,7 @@ UL 217 8th edition (effective January 2021) added TF (Thistle Fire) sensitivity 
 ## Further reading
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit service](https://china-sourcing-agents.com/services/audit/)
+- [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [CST](https://china-sourcing-agents.com/guides/saso-saber-certification-china-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/smart-smoke-detector/)

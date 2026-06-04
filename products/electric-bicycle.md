@@ -29,7 +29,7 @@ The battery pack is the highest-risk component for e-bikes. Samsung 21700 50E or
 
 ## Further reading
 
-- [audit service](https://china-sourcing-agents.com/services/audit/)
+- [audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [automotive electronics industry page](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/electric-bicycle/)

@@ -32,7 +32,7 @@ EN 1838 (Lighting applications — Emergency lighting) defines the minimum illum
 ## Further reading
 
 - [sourcing process](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection team](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/led-emergency-light/)
 

@@ -33,7 +33,7 @@ ONVIF (Open Network Video Interface Forum) profiles define interoperability laye
 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/ptz-ip-camera-oem/)
 

@@ -32,7 +32,7 @@ There are three reasons China's electronic-component ecosystem is the primary fi
 
 ## Further reading
 
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Huaqiangbei guide](https://china-sourcing-agents.com/blog/shenzhen-electronics-market-guide/)
 - [BLE 5 modules](https://china-sourcing-agents.com/wiki/ble-5-modules/)
 - [ESP32 modules](https://china-sourcing-agents.com/wiki/esp32-modules/)

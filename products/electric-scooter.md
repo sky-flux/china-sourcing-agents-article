@@ -29,7 +29,7 @@ UN 38.3 certification is the mandatory test for lithium batteries transported by
 
 ## Further reading
 
-- [audit service](https://china-sourcing-agents.com/services/audit/)
+- [audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [automotive electronics industry page](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/electric-scooter/)

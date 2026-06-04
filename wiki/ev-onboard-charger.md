@@ -34,7 +34,7 @@ The onboard charger (OBC) is the module installed in an electric vehicle that co
 ## Further reading
 
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [IATF 16949 Quality Management Reference](https://china-sourcing-agents.com/wiki/iatf-16949/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/ev-onboard-charger/)

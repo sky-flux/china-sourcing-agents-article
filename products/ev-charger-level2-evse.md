@@ -32,7 +32,7 @@ The connector standard is not a styling choice — it determines which vehicles 
 ## Further reading
 
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
-- [audit service](https://china-sourcing-agents.com/services/audit/)
+- [audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/ev-charger-level2-evse/)
 

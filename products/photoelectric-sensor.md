@@ -34,6 +34,6 @@ The three detection modes have fundamentally different operating principles and 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [VFDs](https://china-sourcing-agents.com/products/vfd-frequency-inverter/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/photoelectric-sensor/)
 

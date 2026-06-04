@@ -31,7 +31,7 @@ The throughput and latency specifications of each cellular tier look impressive 
 
 ## Further reading
 
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [EU industrial IoT gateway case study](https://china-sourcing-agents.com/cases/eu-industrial-iot-gateway/)
 - [industrial IoT hardware sourcing guide](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
 - [industrial IoT industry page](https://china-sourcing-agents.com/industries/industrial-iot/)

@@ -30,7 +30,7 @@ The price premium over the next tier is typically 15–25% on assembly cost. For
 
 ## Further reading
 
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [factory audit checklist guide](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [what a factory audit actually looks like](https://china-sourcing-agents.com/blog/what-factory-audit-actually-looks-like/)
 - [EU startup Bluetooth speaker case](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)

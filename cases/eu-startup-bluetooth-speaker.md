@@ -41,7 +41,7 @@ The product: a TWS-capable BLE 5.2 stereo speaker with USB-C PD charging, passiv
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [sourcing process](https://china-sourcing-agents.com/services/sourcing/)
-- [On-site factory audits](https://china-sourcing-agents.com/services/audit/)
+- [On-site factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
 

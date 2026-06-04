@@ -33,6 +33,6 @@ Three SoC families dominate Chinese WiFi 6 AP manufacturing. Each involves real 
 - [supplier sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/wifi6-access-point/)
 

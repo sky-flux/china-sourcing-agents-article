@@ -30,7 +30,7 @@ RPET (recycled PET from plastic bottles) is increasingly demanded by ESG-conscio
 ## Further reading
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [audit service](https://china-sourcing-agents.com/services/audit/)
+- [audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/custom-tote-bag/)
 

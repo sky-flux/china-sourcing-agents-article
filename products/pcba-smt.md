@@ -33,7 +33,7 @@ IPC-A-610 defines workmanship standards for PCB assembly. The class determines w
 
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/pcba-smt/)
 

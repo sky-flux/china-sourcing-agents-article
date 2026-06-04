@@ -33,7 +33,7 @@ Wire standard selection is the first decision in any harness design, and it cann
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [factory audit service](https://china-sourcing-agents.com/services/audit/)
+- [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [automotive electronics sourcing](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/automotive-wiring-harness/)
 

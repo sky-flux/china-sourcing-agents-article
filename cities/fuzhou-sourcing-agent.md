@@ -33,7 +33,7 @@ Fuzhou's electronics manufacturing base is not self-organized around general-pur
 ## Further reading
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [Factory audits](https://china-sourcing-agents.com/services/audit/)
+- [Factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection services](https://china-sourcing-agents.com/services/inspection/)
 - [How to Source Electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/fuzhou-sourcing-agent/)

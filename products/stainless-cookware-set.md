@@ -30,7 +30,7 @@ LFGB (Germany's food contact law, aligned with EU Regulation 1935/2004) requires
 ## Further reading
 
 - [sourcing stainless cookware](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/stainless-cookware-set/)

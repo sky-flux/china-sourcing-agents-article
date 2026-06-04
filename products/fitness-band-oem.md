@@ -34,6 +34,6 @@ Optical wrist PPG is the standard technology in fitness bands. Accuracy is accep
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [wearable devices](https://china-sourcing-agents.com/industries/wearables/)
 - [wearable manufacturing guide](https://china-sourcing-agents.com/guides/wearable-manufacturing-china/)
-- [audit service](https://china-sourcing-agents.com/services/audit/)
+- [audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/fitness-band-oem/)
 

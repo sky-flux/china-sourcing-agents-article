@@ -32,6 +32,6 @@ LED headlight conversions are one of the highest-volume automotive aftermarket c
 - [sourcing automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [FCC and CE EMC compliance issues](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/led-headlights/)
 

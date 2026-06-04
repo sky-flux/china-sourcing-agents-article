@@ -40,7 +40,7 @@ Certifications required: FCC (United States) and CE (European Union). The founde
 ## Further reading
 
 - [wearables](https://china-sourcing-agents.com/industries/wearables/)
-- [audits](https://china-sourcing-agents.com/services/audit/)
+- [audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [power electronics sourcing](https://china-sourcing-agents.com/industries/power-electronics/)
 - [Private label](https://china-sourcing-agents.com/services/private-label/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cases/us-startup-smart-watch/)

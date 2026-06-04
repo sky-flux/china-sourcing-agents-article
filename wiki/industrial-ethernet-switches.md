@@ -35,7 +35,7 @@ Beyond environmental hardening, industrial switches add network features relevan
 ## Further reading
 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [Industrial IoT Hardware Sourcing Guide](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/industrial-ethernet-switches/)

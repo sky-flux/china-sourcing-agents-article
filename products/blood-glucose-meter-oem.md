@@ -31,7 +31,7 @@ Strip lot-to-lot consistency is, in practice, the harder manufacturing challenge
 ## Further reading
 
 - [sourcing diagnostic medical devices](https://china-sourcing-agents.com/industries/wearables/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/blood-glucose-meter-oem/)
 

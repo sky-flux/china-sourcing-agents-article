@@ -33,6 +33,6 @@ Foshan is one of China's most productive manufacturing cities — and one of the
 ## Further reading
 
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
-- [factory audits](https://china-sourcing-agents.com/services/audit/)
+- [factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/foshan-sourcing-agent/)
 

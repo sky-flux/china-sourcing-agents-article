@@ -34,6 +34,6 @@ The NEV production base in Hefei is anchored by four OEM manufacturing operation
 
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [Industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [Factory audits](https://china-sourcing-agents.com/services/audit/)
+- [Factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/hefei-sourcing-agent/)
 

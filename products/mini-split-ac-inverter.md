@@ -31,7 +31,7 @@ Tier 1 Chinese mini-split OEM factories — Gree, Midea, Haier, Aux, and their O
 ## Further reading
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit process](https://china-sourcing-agents.com/services/audit/)
+- [factory audit process](https://china-sourcing-agents.com/services/factory-audit/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/mini-split-ac-inverter/)
 

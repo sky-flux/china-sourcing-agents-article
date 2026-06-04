@@ -37,7 +37,7 @@ For China sourcing specifically, the BOM also determines whether your product wi
 
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/bom-management/)
 

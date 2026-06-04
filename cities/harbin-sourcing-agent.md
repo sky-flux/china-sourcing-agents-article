@@ -32,7 +32,7 @@ Within the large machinery category, commercially accessible products from Harbi
 
 ## Further reading
 
-- [Factory audits](https://china-sourcing-agents.com/services/audit/)
+- [Factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/harbin-sourcing-agent/)

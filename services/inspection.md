@@ -36,6 +36,6 @@ At 20–30% production completion. We pull samples from the line, run functional
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [smart home devices](https://china-sourcing-agents.com/industries/smart-home/)
 - [Bluetooth speaker project](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/services/inspection/)
 

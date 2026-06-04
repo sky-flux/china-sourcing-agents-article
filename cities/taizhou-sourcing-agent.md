@@ -35,7 +35,7 @@ Wenling has been officially designated "China Capital of Small Air Compressors" 
 
 - [Automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [factory audit process](https://china-sourcing-agents.com/services/audit/)
+- [factory audit process](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing guide](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/taizhou-sourcing-agent/)
 

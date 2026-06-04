@@ -30,7 +30,7 @@ The 2.4GHz radio transmitter in every RC car requires FCC ID authorization for s
 ## Further reading
 
 - [sourcing RC cars](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [CE and FCC certification guide](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/rc-car-wholesale/)

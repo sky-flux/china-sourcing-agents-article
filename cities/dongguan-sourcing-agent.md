@@ -33,6 +33,6 @@ For electronics buyers specifically, Dongguan delivers comparable consumer elect
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Dongguan's manufacturing base](https://china-sourcing-agents.com/industries/power-electronics/)
-- [factory audits](https://china-sourcing-agents.com/services/audit/)
+- [factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/)
 

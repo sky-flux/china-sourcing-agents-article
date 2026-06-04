@@ -33,6 +33,6 @@ LED strip lights are one of the most counterfeited and spec-inflated product cat
 - [sourcing LED strips for smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [electronics quality control](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/led-strip-light/)
 

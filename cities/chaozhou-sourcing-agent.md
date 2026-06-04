@@ -32,6 +32,6 @@ The city sits in eastern Guangdong, part of the Chaozhou–Shantou–Jieyang met
 
 ## Further reading
 
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/chaozhou-sourcing-agent/)
 

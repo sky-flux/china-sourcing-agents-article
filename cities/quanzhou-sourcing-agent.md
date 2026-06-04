@@ -33,6 +33,6 @@ The district's international profile is anchored by Anta (安踏), Xtep (特步)
 
 ## Further reading
 
-- [Factory audits](https://china-sourcing-agents.com/services/audit/)
+- [Factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/quanzhou-sourcing-agent/)
 

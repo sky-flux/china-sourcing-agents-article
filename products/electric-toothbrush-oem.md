@@ -33,6 +33,6 @@ Magnetic levitation (maglev) designs, used in premium handles, use opposing magn
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [private label service](https://china-sourcing-agents.com/services/private-label/)
-- [audit service](https://china-sourcing-agents.com/services/audit/)
+- [audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/electric-toothbrush-oem/)
 

@@ -29,7 +29,7 @@ Seat foam density is the most commonly misrepresented spec in office chair manuf
 
 ## Further reading
 
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing and supplier matching](https://china-sourcing-agents.com/services/sourcing/)
 - [pre-shipment quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)

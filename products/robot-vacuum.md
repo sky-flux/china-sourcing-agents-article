@@ -32,7 +32,7 @@ Suction pressure in Pa is measured at the suction inlet with no airflow (blocked
 
 - [smart home device sourcing](https://china-sourcing-agents.com/industries/smart-home/)
 - [sourcing robot vacuums](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audits](https://china-sourcing-agents.com/services/audit/)
+- [factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [electronics quality control](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/robot-vacuum/)
 

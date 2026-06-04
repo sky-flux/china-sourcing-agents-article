@@ -33,7 +33,7 @@ LoRa deployments use different frequency bands depending on region, and each ban
 
 - [sourcing IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [CE and FCC certification for Chinese electronics](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [industrial IoT hardware sourcing](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/lora-module-sx1262/)
 

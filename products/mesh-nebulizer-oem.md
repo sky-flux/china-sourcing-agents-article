@@ -31,7 +31,7 @@ Three nebulizer technologies are available for OEM respiratory product developme
 ## Further reading
 
 - [wearable and health device sourcing expertise](https://china-sourcing-agents.com/industries/wearables/)
-- [factory audit service](https://china-sourcing-agents.com/services/audit/)
+- [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/mesh-nebulizer-oem/)
 

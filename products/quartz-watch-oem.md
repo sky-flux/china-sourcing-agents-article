@@ -31,7 +31,7 @@ Seagull ST16 is a Chinese-made movement from Tianjin Sea-Gull Watch Group, a sta
 ## Further reading
 
 - [consumer electronics sourcing](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing at 300–1,000 units](https://china-sourcing-agents.com/services/sourcing/)
 - [private-label watch programmes](https://china-sourcing-agents.com/services/private-label/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/quartz-watch-oem/)

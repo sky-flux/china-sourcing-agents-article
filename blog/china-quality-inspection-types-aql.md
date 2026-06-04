@@ -33,7 +33,7 @@ IPC is where engineering background matters most. An inspector who can't read a 
 
 ## Further reading
 
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [0.4% end-defect rate and on-time delivery](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
 - [Quality Inspection](https://china-sourcing-agents.com/services/inspection/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)

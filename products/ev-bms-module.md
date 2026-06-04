@@ -32,7 +32,7 @@ The deeper limitation is convergence speed. With cells that have significant cap
 ## Further reading
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [power electronics sourcing](https://china-sourcing-agents.com/industries/power-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/ev-bms-module/)

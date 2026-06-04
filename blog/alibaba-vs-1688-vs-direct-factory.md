@@ -35,7 +35,7 @@ Alibaba (alibaba.com) is a B2B marketplace where Chinese suppliers list products
 
 - [Alibaba vs 1688 vs Direct Factory: A Buyer's Complete Guide](https://china-sourcing-agents.com/guides/alibaba-vs-1688/)
 - [Sourcing & Supplier Matching](https://china-sourcing-agents.com/services/sourcing/)
-- [verify any supplier](https://china-sourcing-agents.com/services/audit/)
+- [verify any supplier](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing Bluetooth speakers for a European startup](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/alibaba-vs-1688-vs-direct-factory/)
 

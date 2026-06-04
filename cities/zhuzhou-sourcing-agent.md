@@ -34,7 +34,7 @@ CRRC Times Electric (listed on the Hong Kong Stock Exchange as 3898.HK) manufact
 ## Further reading
 
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [industrial IoT hardware sourcing guide](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/zhuzhou-sourcing-agent/)
 

@@ -33,7 +33,7 @@ USCAR-2 is the foundational performance document in North America. LV-214 plays 
 
 ## Further reading
 
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [IATF 16949 Certification](https://china-sourcing-agents.com/wiki/iatf-16949/)

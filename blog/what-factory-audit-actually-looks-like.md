@@ -36,7 +36,7 @@ Before you walk in, it helps to know what questions you're trying to answer. The
 ## Further reading
 
 - [pre-production and pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
-- [factory audit service](https://china-sourcing-agents.com/services/audit/)
+- [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [an EU startup sourcing BLE speakers for their first production run](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/what-factory-audit-actually-looks-like/)

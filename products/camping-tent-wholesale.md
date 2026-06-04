@@ -31,6 +31,6 @@ The flysheet-to-inner tent gap (vestibule and vent design) is critical for conde
 
 - [quality inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit service](https://china-sourcing-agents.com/services/audit/)
+- [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/camping-tent-wholesale/)
 

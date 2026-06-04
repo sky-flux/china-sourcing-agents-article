@@ -30,7 +30,7 @@ Solar panels are a 25-year investment. The price-per-watt you see on Alibaba rar
 ## Further reading
 
 - [sourcing power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [factory audits](https://china-sourcing-agents.com/services/audit/)
+- [factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing solar panels](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/solar-panel/)

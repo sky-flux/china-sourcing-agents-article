@@ -31,7 +31,7 @@ The practical difference for power module buyers: **a CB test report citing IEC 
 
 ## Further reading
 
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [power electronics sourcing overview](https://china-sourcing-agents.com/industries/power-electronics/)
 - [sourcing power modules](https://china-sourcing-agents.com/services/sourcing/)
 - [pre-production inspection](https://china-sourcing-agents.com/services/inspection/)

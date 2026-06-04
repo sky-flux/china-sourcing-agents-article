@@ -34,7 +34,7 @@ Millimeter-wave radar sensors operating in the 76–81 GHz band (ITU-R RA.769 al
 ## Further reading
 
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [LiDAR Sensor Modules Reference](https://china-sourcing-agents.com/wiki/lidar-sensor-modules/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/adas-77ghz-radar/)

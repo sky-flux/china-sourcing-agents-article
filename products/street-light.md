@@ -30,7 +30,7 @@ Street lights face the harshest operating conditions of any luminaire: temperatu
 ## Further reading
 
 - [sourcing municipal lighting](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit](https://china-sourcing-agents.com/services/audit/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/street-light/)

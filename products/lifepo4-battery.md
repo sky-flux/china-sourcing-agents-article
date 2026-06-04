@@ -30,7 +30,7 @@ LiFePO4 cells have been the dominant chemistry for solar storage since roughly 2
 ## Further reading
 
 - [sourcing power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [factory audits](https://china-sourcing-agents.com/services/audit/)
+- [factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [UN 38.3](https://china-sourcing-agents.com/wiki/un38-3-battery/)
 - [IEC 62133](https://china-sourcing-agents.com/wiki/iec-62133/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/lifepo4-battery/)

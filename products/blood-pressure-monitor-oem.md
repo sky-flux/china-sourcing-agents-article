@@ -31,7 +31,7 @@ The British Hypertension Society (BHS) protocol uses a similar paired measuremen
 ## Further reading
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit service](https://china-sourcing-agents.com/services/audit/)
+- [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [wearables industry page](https://china-sourcing-agents.com/industries/wearables/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/blood-pressure-monitor-oem/)
 

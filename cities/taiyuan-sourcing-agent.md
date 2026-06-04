@@ -35,7 +35,7 @@ Shanxi's coal mining industry creates sustained, technically demanding procureme
 ## Further reading
 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [factory audit process](https://china-sourcing-agents.com/services/audit/)
+- [factory audit process](https://china-sourcing-agents.com/services/factory-audit/)
 - [industrial IoT hardware sourcing](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
 - [factory audit checklists](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/taiyuan-sourcing-agent/)

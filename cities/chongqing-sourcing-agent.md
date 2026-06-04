@@ -34,6 +34,6 @@ Beyond motorcycles, Chongqing is also a major four-wheel vehicle manufacturing c
 
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [Factory audits](https://china-sourcing-agents.com/services/audit/)
+- [Factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/chongqing-sourcing-agent/)
 

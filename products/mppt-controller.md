@@ -30,7 +30,7 @@ MPPT efficiency claims (typically "98% MPPT efficiency") are almost universally 
 ## Further reading
 
 - [sourcing power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [factory audit and verification](https://china-sourcing-agents.com/services/audit/)
+- [factory audit and verification](https://china-sourcing-agents.com/services/factory-audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [GaN charger OEM guide](https://china-sourcing-agents.com/guides/gan-charger-oem-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/mppt-controller/)

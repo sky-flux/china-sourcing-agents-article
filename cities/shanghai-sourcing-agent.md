@@ -35,6 +35,6 @@ Automotive and electric vehicle production is Shanghai's highest-value manufactu
 
 ## Further reading
 
-- [Factory audits](https://china-sourcing-agents.com/services/audit/)
+- [Factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/shanghai-sourcing-agent/)
 

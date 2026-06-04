@@ -34,7 +34,7 @@ The cluster's anchor is Ninestar Group (纳思达 / Apex Technology), headquarte
 
 ## Further reading
 
-- [factory audit process](https://china-sourcing-agents.com/services/audit/)
+- [factory audit process](https://china-sourcing-agents.com/services/factory-audit/)
 - [payment terms guide](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
 - [sourcing process](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/zhuhai-sourcing-agent/)

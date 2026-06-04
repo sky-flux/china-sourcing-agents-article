@@ -31,7 +31,7 @@ Standard factory thermal performance test: fill with boiling water (96°C), cap,
 ## Further reading
 
 - [sourcing vacuum insulated bottles](https://china-sourcing-agents.com/services/sourcing/)
-- [auditing factories](https://china-sourcing-agents.com/services/audit/)
+- [auditing factories](https://china-sourcing-agents.com/services/factory-audit/)
 - [private-label](https://china-sourcing-agents.com/services/private-label/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/vacuum-insulated-bottle-oem/)

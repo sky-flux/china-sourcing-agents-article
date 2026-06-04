@@ -41,7 +41,7 @@ We started with a technical spec definition session. The client knew what they w
 
 - [IoT sensor](https://china-sourcing-agents.com/industries/iot-modules/)
 - [Supplier sourcing](https://china-sourcing-agents.com/services/sourcing/)
-- [Factory audit](https://china-sourcing-agents.com/services/audit/)
+- [Factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Private label](https://china-sourcing-agents.com/services/private-label/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cases/amazon-seller-iot-sensor/)
 

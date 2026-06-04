@@ -31,6 +31,6 @@ The threshing system determines crop compatibility, grain loss rate, and mainten
 
 ## Further reading
 
-- [factory audit service](https://china-sourcing-agents.com/services/audit/)
+- [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/mini-combine-harvester/)
 

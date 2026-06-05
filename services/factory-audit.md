@@ -36,7 +36,7 @@ The most expensive mistake in China sourcing is wiring a deposit to a trader who
 
 - [a LoRa gateway sourcing project for a Japanese distributor](https://china-sourcing-agents.com/cases/jp-distributor-lora-gateway/)
 - [what a factory audit actually looks like](https://china-sourcing-agents.com/blog/what-factory-audit-actually-looks-like/)
+- [EU integrator's IIoT gateway project](https://china-sourcing-agents.com/cases/eu-industrial-iot-gateway/)
 - [47-point factory audit checklist guide](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [explainer on Chinese factory tiers](https://china-sourcing-agents.com/blog/chinese-factory-tiers-explained/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/services/factory-audit/)
 

@@ -35,6 +35,6 @@ Hardware product development in China moves through four stages. We stay involve
 - [wearables](https://china-sourcing-agents.com/industries/wearables/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [pilot run](https://china-sourcing-agents.com/services/inspection/)
+- [Bluetooth speaker we built for an EU startup](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/services/product-development/)
 

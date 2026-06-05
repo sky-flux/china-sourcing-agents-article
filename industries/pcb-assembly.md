@@ -12,7 +12,7 @@ PCB assembly in China — Gerber to assembled boards. PCBA factories for prototy
 
 ---
 
-PCB assembly (PCBA) is the process of fabricating a printed circuit board and populating it with components — SMT placement, through-hole insertion, reflow soldering, and electrical test — turning a Gerber file and bill of materials into a working, tested board. It is where the technical gap between sourcing agents and engineers is most visible: a non-technical agent quotes SMT cost per board, while we evaluate your stackup, DFM compliance, component sourcing risk, and test coverage before your design goes into production. Our PCB factory sourcing process shortlists factories by process capability — not just price per board.
+PCB assembly (PCBA) is the process of fabricating a printed circuit board and populating it with components — SMT placement, through-hole insertion, reflow soldering, and electrical test — turning a Gerber file and bill of materials into a working, tested board. It is where the technical gap between sourcing agents and engineers is most visible: a non-technical agent quotes SMT cost per board, while we evaluate your stackup, DFM compliance, component sourcing risk, and test coverage before your design goes into production. Our PCB factory sourcing process shortlists factories by process capability — not just price per board. While the densest PCBA supply base sits in the Pearl River Delta, we also place work with inland clusters in Changsha, Nanchang, and Xi'an where labor cost is lower for volume runs.
 
 Real examples of PCBA work in production: a 5,000-unit Bluetooth speaker project where PCBA was the critical path for CE/FCC certification, and an EU industrial IoT gateway project where IEC 61850-compliant board assembly required EN 55032 EMC validation at every production batch.
 
@@ -31,8 +31,8 @@ IPC-A-610 Class 2 is the minimum standard on all orders; Class 3 (high-reliabili
 ## Further reading
 
 - [PCB factory sourcing](https://china-sourcing-agents.com/services/sourcing/)
-- [5,000-unit Bluetooth speaker project](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
-- [EU industrial IoT gateway project](https://china-sourcing-agents.com/cases/eu-industrial-iot-gateway/)
-- [Multilayer PCB](https://china-sourcing-agents.com/products/pcb-assembly/multilayer-pcb/)
+- [Changsha](https://china-sourcing-agents.com/cities/changsha-sourcing-agent/)
+- [Nanchang](https://china-sourcing-agents.com/cities/nanchang-sourcing-agent/)
+- [Xi'an](https://china-sourcing-agents.com/cities/xian-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/industries/pcb-assembly/)
 

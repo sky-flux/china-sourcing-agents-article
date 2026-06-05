@@ -41,7 +41,7 @@ The problem was verifying it. They couldn't tell if the Alibaba seller was the a
 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [sourcing process](https://china-sourcing-agents.com/services/sourcing/)
+- [on-site factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
-- [industrial IoT hardware sourcing guide](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cases/eu-industrial-iot-gateway/)
 

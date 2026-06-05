@@ -12,7 +12,7 @@ Source Bluetooth speakers, TWS earphones, smart watches, and portable chargers f
 
 ---
 
-Consumer electronics covers battery-powered personal devices with wireless connectivity — Bluetooth speakers, TWS earphones, smart watches, USB-C chargers, and portable projectors — sourced from China for Western and Asian markets. It is the most demanding sourcing category: certifications (FCC, CE, RoHS, REACH) are non-negotiable for market access, production quality must hold across thousands of units, and IP protection during prototyping is a real risk if your factory also builds for competitors. Our electronics supplier matching service covers the full process from factory shortlist to verified quote.
+Consumer electronics covers battery-powered personal devices with wireless connectivity — Bluetooth speakers, TWS earphones, smart watches, USB-C chargers, and portable projectors — sourced from China for Western and Asian markets. It is the most demanding sourcing category: certifications (FCC, CE, RoHS, REACH) are non-negotiable for market access, production quality must hold across thousands of units, and IP protection during prototyping is a real risk if your factory also builds for competitors. Most audio and charger assembly clusters in the Pearl River Delta, but we also run projects with factories in Shantou, the Shandong cluster around Yantai, Linyi and Rizhao, inland Chengdu, and Fuzhou in Fujian. For overland export to Central Asia and Russia, we coordinate through the border rail ports at Alashankou and Kashgar. Our electronics supplier matching service covers the full process from factory shortlist to verified quote.
 
 Consumer electronics covers a wide range of hardware, but the sourcing complexity varies significantly by product type. Specific products we source regularly:
 
@@ -29,9 +29,9 @@ The point of this specificity: a buyer searching for "TWS earphone manufacturer 
 
 ## Further reading
 
-- [electronics supplier matching](https://china-sourcing-agents.com/services/sourcing/)
-- [TWS earphones](https://china-sourcing-agents.com/products/electronics/tws-earphones-oem/)
-- [Bluetooth speakers](https://china-sourcing-agents.com/products/electronics/bluetooth-speaker-oem/)
-- [USB-C charging accessories](https://china-sourcing-agents.com/products/electronics/usb-c-hub/)
+- [Shantou](https://china-sourcing-agents.com/cities/shantou-sourcing-agent/)
+- [Yantai](https://china-sourcing-agents.com/cities/yantai-sourcing-agent/)
+- [Linyi](https://china-sourcing-agents.com/cities/linyi-sourcing-agent/)
+- [Rizhao](https://china-sourcing-agents.com/cities/rizhao-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/industries/consumer-electronics/)
 

@@ -16,7 +16,7 @@ Wearables are harder to manufacture than generic consumer electronics. Not margi
 
 This guide covers all three, plus design-for-assembly considerations that separate a 0.4% defect rate from a 6% one. If you're considering sourcing wearables from China, read this before you contact a single factory.
 
-Flexible printed circuits (FPC) are the wiring harness inside every modern wearable. The strap connects to the body unit. The body unit connects the display, sensor array, and battery. In a smartwatch with a 40mm case, there may be three or four FPCs, each with tolerances measured in tenths of a millimeter.
+Flexible printed circuits (FPC) are the wiring harness inside every modern wearable. The strap connects to the body unit. The body unit connects the display, sensor array, and battery. In a smartwatch with a 40mm case, there may be three or four FPCs, each with tolerances measured in tenths of a millimeter; even smaller formats like fitness band OEM production depend on the same precision flex assembly.
 
 ---
 
@@ -33,8 +33,8 @@ Flexible printed circuits (FPC) are the wiring harness inside every modern weara
 ## Further reading
 
 - [sourcing wearables from China](https://china-sourcing-agents.com/industries/wearables/)
+- [fitness band OEM production](https://china-sourcing-agents.com/products/fitness-band-oem/)
+- [smartwatch OEM manufacturing](https://china-sourcing-agents.com/products/smartwatch-oem/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [lithium cell](https://china-sourcing-agents.com/wiki/lipo-battery-cells/)
-- [UN 38.3](https://china-sourcing-agents.com/wiki/un38-3-battery/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/wearable-manufacturing-china/)
 

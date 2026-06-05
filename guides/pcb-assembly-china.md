@@ -35,9 +35,9 @@ This confusion wastes weeks. **PCB fabrication** (often just called "PCB fab") i
 
 ## Further reading
 
-- [Gerber files](https://china-sourcing-agents.com/wiki/gerber-files/)
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [SMT process](https://china-sourcing-agents.com/wiki/smt-process/)
-- [reflow oven](https://china-sourcing-agents.com/wiki/reflow-soldering/)
+- [PCBA / SMT assembly sourcing](https://china-sourcing-agents.com/products/pcba-smt/)
+- [multilayer PCB fabrication](https://china-sourcing-agents.com/products/multilayer-pcb/)
+- [Flexible PCB (FPC) sourcing](https://china-sourcing-agents.com/products/flexible-pcb/)
+- [aluminum MCPCB for LED boards](https://china-sourcing-agents.com/products/aluminum-pcb-mcpcb/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
 

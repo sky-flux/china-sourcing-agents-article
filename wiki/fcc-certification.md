@@ -12,7 +12,7 @@ FCC certification for US-market electronics from China: Part 15 SDoC vs TCB, mod
 
 ---
 
-FCC certification is required for any electronic device sold or marketed in the United States that generates or uses radio frequency (RF) energy above 9 kHz. It applies to intentional radiators (WiFi, Bluetooth, LoRa, cellular), unintentional radiators (microprocessors, switching power supplies, oscillators), and equipment connected to the public switched telephone network. If your product ships to the US, this is not optional.
+FCC certification is required for any electronic device sold or marketed in the United States that generates or uses radio frequency (RF) energy above 9 kHz. It applies to intentional radiators (WiFi, Bluetooth, LoRa, cellular), unintentional radiators (microprocessors, switching power supplies, oscillators), and equipment connected to the public switched telephone network. Finished RF products like FCC-ready smart door locks need Part 15 authorization before they can clear US import. If your product ships to the US, this is not optional.
 
 The Federal Communications Commission (FCC) regulates RF devices under the Communications Act of 1934, as amended. The relevant rules are codified in Title 47 of the Code of Federal Regulations (47 CFR). Enforcement includes market surveillance, recall authority, and fines up to $100,000 per violation per day.
 
@@ -35,9 +35,9 @@ The FCC's Equipment Authorization System (EAS) maintains a public database at ap
 
 ## Further reading
 
+- [FCC-ready smart door locks](https://china-sourcing-agents.com/products/smart-door-lock/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [wireless IP cameras requiring FCC grants](https://china-sourcing-agents.com/products/ip-camera/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [CE Marking for Electronics](https://china-sourcing-agents.com/wiki/ce-marking/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/fcc-certification/)
 

@@ -38,6 +38,6 @@ This guide covers five cities and regions that matter for electronics sourcing, 
 - [Shenzhen electronics market guide](https://china-sourcing-agents.com/guides/shenzhen-electronics-market-guide/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [sourcing from Dongguan](https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-electronics-market-cities/)
 

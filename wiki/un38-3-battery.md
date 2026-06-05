@@ -33,9 +33,9 @@ The requirement enters regulation through:
 
 ## Further reading
 
+- [LiFePO4 battery packs requiring UN 38.3](https://china-sourcing-agents.com/products/lifepo4-battery/)
+- [18650 / 21700 lithium cells](https://china-sourcing-agents.com/products/18650-21700-battery-cell/)
+- [lithium pouch cells](https://china-sourcing-agents.com/products/lithium-pouch-cell/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [wearable](https://china-sourcing-agents.com/industries/wearables/)
-- [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [IEC 62133 Battery Safety Certification](https://china-sourcing-agents.com/wiki/iec-62133/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/un38-3-battery/)
 

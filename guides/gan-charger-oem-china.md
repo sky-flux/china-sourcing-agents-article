@@ -16,7 +16,7 @@ GaN chargers are the most compliance-intensive consumer electronics category on 
 
 The core problem: most Chinese GaN charger factories are competent at manufacturing but routinely produce documentation that does not meet the requirements of the US, EU, or Japanese markets. The gap is not malice — it is a mismatch between what their domestic customers require and what your market requires. Bridging that gap is the job of a technically informed buyer.
 
-A GaN charger sold in five markets — US, EU, UK, Japan, Korea — requires five separate certifications. They share a common technical base (IEC 62368-1) but diverge in lab accreditation requirements, efficiency standards, and administrative procedures.
+A GaN charger sold in five markets — US, EU, UK, Japan, Korea — requires five separate certifications. They share a common technical base (IEC 62368-1) but diverge in lab accreditation requirements, efficiency standards, and administrative procedures. The same multi-market CE/UKCA/PSE matrix applies to adjacent power products like portable power banks with PD output, which carry their own UN 38.3 battery-transport layer on top.
 
 ---
 
@@ -34,9 +34,9 @@ A GaN charger sold in five markets — US, EU, UK, Japan, Korea — requires fiv
 
 ## Further reading
 
+- [portable power banks with PD output](https://china-sourcing-agents.com/products/portable-power-bank/)
 - [GaN IC](https://china-sourcing-agents.com/wiki/gan-charger-ic/)
-- [China Sourcing & Supplier Matching](https://china-sourcing-agents.com/services/sourcing/)
-- [power electronics sourcing](https://china-sourcing-agents.com/industries/power-electronics/)
-- [how an EU startup took a Bluetooth speaker from crowdfunding to 5,000-unit production](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
+- [AC-DC power modules](https://china-sourcing-agents.com/products/ac-dc-power-module/)
+- [branded power banks](https://china-sourcing-agents.com/products/branded-power-bank/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/gan-charger-oem-china/)
 

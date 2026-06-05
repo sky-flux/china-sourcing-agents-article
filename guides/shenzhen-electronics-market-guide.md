@@ -37,6 +37,6 @@ If you're at the pre-trip stage — figuring out which factories to visit before
 - [sourcing guide](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [a Shenzhen sourcing agent](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/shenzhen-electronics-market-guide/)
 

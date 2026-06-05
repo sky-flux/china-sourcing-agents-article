@@ -31,6 +31,9 @@ For buyers attending the Canton Fair or sourcing across multiple product categor
 
 ## Further reading
 
-- [factory audits](https://china-sourcing-agents.com/services/factory-audit/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
+- [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/ningbo-sourcing-agent/)
 

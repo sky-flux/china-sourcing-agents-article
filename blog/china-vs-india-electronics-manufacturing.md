@@ -36,5 +36,6 @@ The arithmetic is correct. The problem is the next question: what can you actual
 
 - [importing electronics from China to the US](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
 - [the China tariff guide](https://china-sourcing-agents.com/blog/china-electronics-tariff-2026-guide/)
+- [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/china-vs-india-electronics-manufacturing/)
 

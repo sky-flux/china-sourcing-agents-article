@@ -33,6 +33,7 @@ The multi-function combos — 6-in-1 or 8-in-1 units with a flip-lid design, dua
 
 ## Further reading
 
+- [product development service](https://china-sourcing-agents.com/services/product-development/)
 - [how to source electronics from China guide](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/air-fryer-private-label-china/)
 

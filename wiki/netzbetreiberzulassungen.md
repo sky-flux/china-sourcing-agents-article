@@ -31,5 +31,11 @@ Products that typically require grid operator approval:
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/wiki/netzbetreiberzulassungen/)
+## Further reading
+
+- [CE marking](https://china-sourcing-agents.com/wiki/ce-marking/)
+- [battery storage](https://china-sourcing-agents.com/products/home-energy-storage-system/)
+- [EV onboard charger](https://china-sourcing-agents.com/wiki/ev-onboard-charger/)
+- [multi-market certification guide](https://china-sourcing-agents.com/guides/multi-market-certification-electronics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/netzbetreiberzulassungen/)
 

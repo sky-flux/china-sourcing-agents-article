@@ -12,7 +12,7 @@ China sourcing agent in Weihai, Shandong. 70%+ of world fishing rods, carbon fib
 
 ---
 
-Weihai sits at the eastern tip of the Shandong Peninsula, extending into the Yellow Sea toward South Korea. With a population of about 2.9 million, it is one of the smaller Shandong cities — but it punches far above its size in one specific global manufacturing role: Weihai produces more than 70% of the world's fishing rods. That single statistic defines the city's industrial character more than any other. The fishing tackle cluster here is not a loose collection of factories but a mature, vertically integrated manufacturing ecosystem in which carbon fiber and glass fiber composite processing, precision mechanical components, coating and finishing, and final assembly all happen within 50 kilometers of each other. That same composite manufacturing infrastructure extends outward into carbon fiber golf club shafts, bicycle frames, and archery equipment, giving Weihai a distinctive position in outdoor and sports goods sourcing that few Chinese cities can replicate.
+Weihai sits at the eastern tip of the Shandong Peninsula, extending into the Yellow Sea toward South Korea. With a population of about 2.9 million, it is one of the smaller Shandong cities — but it punches far above its size in one specific global manufacturing role: Weihai produces more than 70% of the world's fishing rods. That single statistic defines the city's industrial character more than any other. The fishing tackle cluster here is not a loose collection of factories but a mature, vertically integrated manufacturing ecosystem in which carbon fiber and glass fiber composite processing, precision mechanical components, coating and finishing, and final assembly all happen within 50 kilometers of each other. That same composite manufacturing infrastructure extends outward into carbon fiber golf club shafts, bicycle frames, and archery equipment, giving Weihai a distinctive position in outdoor and sports goods sourcing that few Chinese cities can replicate. Our sourcing services help buyers verify Weihai suppliers for fishing tackle, carbon fiber sports equipment, and medical device components.
 
 The fishing rod manufacturing cluster is concentrated in and around Rongcheng, a county-level city at the peninsula tip administered by Weihai, approximately 50 kilometers east of the city center. Guangwei Group — listed on the Shenzhen Stock Exchange and China's largest fishing rod manufacturer — anchors the cluster. Daiwa's China manufacturing operations and Tica (Taiwan-affiliated) have significant production here. Shakespeare, Abu Garcia, and dozens of mid-market and private-label brands source OEM production from Weihai factories.
 
@@ -32,5 +32,11 @@ The product range covers the full spectrum of rod construction: carbon fiber bla
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/weihai-sourcing-agent/)
+## Further reading
+
+- [sourcing services](https://china-sourcing-agents.com/services/sourcing/)
+- [wearables](https://china-sourcing-agents.com/industries/wearables/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/weihai-sourcing-agent/)
 

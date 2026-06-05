@@ -12,7 +12,7 @@ Industrial HMI touch panel: 7/10-inch TFT, IP65 front, RS-232/485, Ethernet, wid
 
 ---
 
-Touch technology selection is often driven by the operator environment, not aesthetics:
+When sourcing an industrial HMI panel for an industrial IoT project, touch technology selection is often driven by the operator environment, not aesthetics:
 
 **Resistive touch (5-wire).** Operates by physical pressure — any stylus, gloved finger, or rigid object can trigger the touch. Required in environments where operators wear thick work gloves, where liquid contamination is present on the screen, or where the touch surface may be pressed with a pen or tool. Disadvantages: lower optical clarity (dual-layer construction), susceptible to scratching, single-touch only.
 
@@ -29,5 +29,10 @@ Touch technology selection is often driven by the operator environment, not aest
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/products/hmi-touch-panel/)
+## Further reading
+
+- [sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/hmi-touch-panel/)
 

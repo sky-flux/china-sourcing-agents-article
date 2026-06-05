@@ -31,6 +31,8 @@ The single largest quality variable in Chinese 12V LiFePO4 packs is **cell grade
 ## Further reading
 
 - [sourcing and supplier matching](https://china-sourcing-agents.com/services/sourcing/)
+- [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/12v-lifepo4-battery/)
 

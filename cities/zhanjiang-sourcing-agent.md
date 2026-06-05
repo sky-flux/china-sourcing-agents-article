@@ -12,7 +12,7 @@ China sourcing agent in Zhanjiang: seafood (shrimp capital), BASF petrochemical 
 
 ---
 
-Zhanjiang sits at the southern tip of Guangdong province on the Leizhou Peninsula, where the South China Sea meets the Beibu Gulf. It is not a consumer electronics city — the Pearl River Delta fills that role 400 km to the northeast. What Zhanjiang is, specifically, is China's seafood capital, its largest sugarcane-processing base, the site of the country's biggest foreign-invested chemical project, and the location of one of Bao-Wu Steel's most ambitious coastal mills. For buyers in food, bulk chemicals, or structural materials, it represents a sourcing destination with genuine scale. For everyone else, this page exists to save you the trip.
+Zhanjiang sits at the southern tip of Guangdong province on the Leizhou Peninsula, where the South China Sea meets the Beibu Gulf. It is not a consumer electronics city — the Pearl River Delta fills that role 400 km to the northeast. What Zhanjiang is, specifically, is China's seafood capital, its largest sugarcane-processing base, the site of the country's biggest foreign-invested chemical project, and the location of one of Bao-Wu Steel's most ambitious coastal mills. For buyers in food, bulk chemicals, or structural materials, it represents a sourcing destination with genuine scale. For everyone else, this page exists to save you the trip. Our sourcing services help buyers verify seafood processors, chemical suppliers, and steel fabricators in Zhanjiang and the Leizhou Peninsula.
 
 Zhanjiang accounts for roughly 40% of China's total farmed shrimp output — a concentration that gives the city outsized global significance in the seafood supply chain. The primary species are black tiger prawns (*Penaeus monodon*) and Pacific white shrimp (*Litopenaeus vannamei*), the latter known internationally as "Chinese white shrimp" or informally as "Zhanjiang shrimp" in trade circles. Beyond shrimp, the city's aquaculture and wild-catch operations cover grouper, oysters, scallops, abalone, and a range of demersal fish species from the South China Sea.
 
@@ -32,5 +32,11 @@ The processing industry is structured around large integrated facilities that ha
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/zhanjiang-sourcing-agent/)
+## Further reading
+
+- [sourcing services](https://china-sourcing-agents.com/services/sourcing/)
+- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/zhanjiang-sourcing-agent/)
 

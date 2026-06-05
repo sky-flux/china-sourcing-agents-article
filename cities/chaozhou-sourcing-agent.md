@@ -32,6 +32,9 @@ The city sits in eastern Guangdong, part of the Chaozhou–Shantou–Jieyang met
 
 ## Further reading
 
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/chaozhou-sourcing-agent/)
 

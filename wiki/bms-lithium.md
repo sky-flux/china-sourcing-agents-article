@@ -12,7 +12,7 @@ Lithium BMS sourced from China: cell balancing topologies, protection parameters
 
 ---
 
-Battery management systems are the most safety-critical component in most consumer and wearable electronics. A BMS failure mode is not "device doesn't work" — it is thermal runaway, fire, or venting with flame. Chinese BMS suppliers range from Tier 1 players with full IEC 62133 test reports to commodity boards with no protection verification whatsoever. This sourcing decision directly determines whether your product clears customs and whether it is safe in the field.
+Battery management systems are the most safety-critical component in most consumer and wearable electronics, as well as in home energy storage systems and EV chargers. A BMS failure mode is not "device doesn't work" — it is thermal runaway, fire, or venting with flame. Chinese BMS suppliers range from Tier 1 players with full IEC 62133 test reports to commodity boards with no protection verification whatsoever. This sourcing decision directly determines whether your product clears customs and whether it is safe in the field.
 
 A BMS performs three core functions: cell protection (preventing overvoltage, undervoltage, overcurrent, and overtemperature conditions), cell balancing (equalizing voltage across series-connected cells), and state estimation (state-of-charge and state-of-health calculation). In simple 1S consumer designs, a single protection IC handles all protection. In multi-cell packs, a dedicated fuel gauge IC (BQ27xxx series from Texas Instruments) provides Coulomb counting and SoC estimation alongside a separate protection IC.
 
@@ -34,8 +34,8 @@ The BMS does not make a poor-quality cell safe. If the cell's self-discharge rat
 ## Further reading
 
 - [wearable](https://china-sourcing-agents.com/industries/wearables/)
+- [home energy storage systems](https://china-sourcing-agents.com/products/home-energy-storage-system/)
+- [EV chargers](https://china-sourcing-agents.com/products/ev-charger-level2-evse/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [LiPo & Li-ion Battery Cells Sourcing Reference](https://china-sourcing-agents.com/wiki/lipo-battery-cells/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/bms-lithium/)
 

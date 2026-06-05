@@ -35,6 +35,8 @@ Before anything else, get this straight: FCC and CE certification applies to a s
 
 ## Further reading
 
+- [FCC](https://china-sourcing-agents.com/wiki/fcc-certification/)
+- [CE marking](https://china-sourcing-agents.com/wiki/ce-marking/)
 - [electronics quality control in China](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
 - [multi-market certification guide](https://china-sourcing-agents.com/guides/multi-market-certification-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)

@@ -33,6 +33,7 @@ The perimeter-wire model has been around since Husqvarna's Automower launched in
 
 ## Further reading
 
+- [OEM product development cycle](https://china-sourcing-agents.com/services/product-development/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/robotic-lawn-mower-oem-china/)
 

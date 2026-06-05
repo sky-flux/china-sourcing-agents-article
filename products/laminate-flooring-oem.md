@@ -30,6 +30,7 @@ The **click joint system** matters for installation performance and for your lia
 
 ## Further reading
 
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/laminate-flooring-oem/)

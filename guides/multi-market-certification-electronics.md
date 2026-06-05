@@ -34,9 +34,9 @@ FCC and CE share significant underlying test infrastructure. A properly structur
 
 ## Further reading
 
+- [FCC](https://china-sourcing-agents.com/wiki/fcc-certification/)
 - [quality inspection process](https://china-sourcing-agents.com/services/inspection/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [how a US startup took a smartwatch through dual FCC/CE certification](https://china-sourcing-agents.com/cases/us-startup-smart-watch/)
-- [electronics quality control in China](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/multi-market-certification-electronics/)
 

@@ -31,6 +31,7 @@ The vast majority of aluminium window profiles manufactured in China use **6063-
 ## Further reading
 
 - [supplier sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/aluminum-window-profile/)
 

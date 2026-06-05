@@ -12,7 +12,7 @@ Industrial LED high bay for warehouses, factories, and sports halls. IP65-rated,
 
 ---
 
-High bay lights run continuously in harsh environments — temperature cycling, dust, vibration. The specs that matter most:
+When sourcing LED high bay lights, check these specs — they run continuously in harsh environments with temperature cycling, dust, and vibration:
 
 **Heatsink surface area and fin spacing.** A 200W LED running at 150 lm/W still generates significant heat. Measure the heatsink fin spacing — fins closer than 6mm trap dust and reduce airflow in still-air environments. Die-cast aluminum is better than stamped sheet for thermal mass.
 
@@ -27,5 +27,9 @@ High bay lights run continuously in harsh environments — temperature cycling, 
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/products/high-bay-light/)
+## Further reading
+
+- [sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/high-bay-light/)
 

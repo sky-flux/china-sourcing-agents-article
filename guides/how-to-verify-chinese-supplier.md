@@ -35,7 +35,9 @@ Factory verification has five levels. Most buyers stop at level one. This guide 
 
 ## Further reading
 
+- [SMT](https://china-sourcing-agents.com/wiki/smt-process/)
+- [FCC](https://china-sourcing-agents.com/wiki/fcc-certification/)
+- [CE](https://china-sourcing-agents.com/wiki/ce-marking/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [our sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
 

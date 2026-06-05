@@ -36,6 +36,7 @@ What the question actually signals is that you don't understand their cost struc
 
 - [Sourcing & Supplier Matching](https://china-sourcing-agents.com/services/sourcing/)
 - [EU startup Bluetooth speaker case](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
+- [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/negotiating-price-chinese-suppliers/)
 

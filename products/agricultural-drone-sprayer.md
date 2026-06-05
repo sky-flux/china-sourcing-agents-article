@@ -31,6 +31,8 @@ Agricultural drone sprayers occupy a distinct regulatory category from consumer 
 
 ## Further reading
 
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
+- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/agricultural-drone-sprayer/)
 

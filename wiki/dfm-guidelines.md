@@ -12,7 +12,7 @@ PCB DFM rules for China manufacturing: trace spacing, via sizing, component clea
 
 ---
 
-Design for Manufacturability (DFM) is the practice of designing PCBs so they can be assembled with high yield, low defect rates, and at the lowest possible cost. DFM problems caught before Gerber release cost nothing to fix. The same problems caught after tooling is made cost $500–5,000. Problems discovered during production cost the equivalent of the defective units plus rework time plus schedule delay. Most Chinese PCB assembly factories will run a free DFM check — but their check is for machine capability, not design quality. Your engineer must run DFM before sending files. A pre-production factory audit is also an opportunity to validate that the factory's equipment and process capability match your DFM rules, and proper sourcing ensures you only shortlist factories whose process specs align with your design requirements.
+Design for Manufacturability (DFM) is the practice of designing PCBs so they can be assembled with high yield, low defect rates, and at the lowest possible cost. DFM problems caught before Gerber release cost nothing to fix. The same problems caught after tooling is made cost $500–5,000. Problems discovered during production cost the equivalent of the defective units plus rework time plus schedule delay. Most Chinese PCB assembly factories will run a free DFM check — but their check is for machine capability, not design quality. Your engineer must run DFM before sending files for multilayer PCBs or complex assemblies. Your engineer must run DFM before sending files. A pre-production factory audit is also an opportunity to validate that the factory's equipment and process capability match your DFM rules, and proper sourcing ensures you only shortlist factories whose process specs align with your design requirements.
 
 DFM covers three domains: PCB fabrication (what the board shop can make), SMT assembly (what the pick-and-place and reflow process can handle reliably), and test (what the test fixtures can reach). A board that passes fabrication DFM can still fail SMT DFM if pad geometries are wrong, and a board that passes both can fail test DFM if there are no accessible test points. The rules below focus on the most common violations seen in China PCBA production.
 
@@ -36,8 +36,8 @@ Standard trace/space 0.10/0.10 mm is achievable at almost every Chinese PCB fact
 ## Further reading
 
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [multilayer PCBs](https://china-sourcing-agents.com/products/multilayer-pcb/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
-- [SMT Assembly Process](https://china-sourcing-agents.com/wiki/smt-process/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/dfm-guidelines/)
 

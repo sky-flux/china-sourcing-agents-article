@@ -34,9 +34,9 @@ These three names get used interchangeably and they should not be:
 
 ## Further reading
 
+- [SABER](https://china-sourcing-agents.com/wiki/saber-certification/)
+- [SASO](https://china-sourcing-agents.com/wiki/saso-certification/)
 - [Saudi smart home sourcing guide](https://china-sourcing-agents.com/guides/sourcing-smart-home-devices-saudi-arabia/)
 - [multi-market certification](https://china-sourcing-agents.com/guides/multi-market-certification-electronics/)
-- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
-- [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/saso-saber-certification-china-electronics/)
 

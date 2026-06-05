@@ -12,7 +12,7 @@ SMT assembly for China-sourced PCBAs: solder paste printing, pick-and-place, ref
 
 ---
 
-SMT (Surface Mount Technology) assembly is the dominant process for attaching components to PCBs in modern electronics manufacturing. Understanding the full SMT flow lets you ask the right factory audit questions, catch process failures early, and set realistic yield expectations before committing to a PCB assembly supplier.
+SMT (Surface Mount Technology) assembly is the dominant process for attaching components to PCBs in modern electronics manufacturing. Understanding the full SMT flow lets you ask the right factory audit questions, catch process failures early, and set realistic yield expectations before committing to a PCB assembly supplier — whether you're building simple consumer boards or complex industrial IoT gateways.
 
 SMT places and solders surface-mount components directly onto the PCB surface — no through-holes drilled per component. A complete SMT line runs: solder paste printing → SPI (solder paste inspection) → pick-and-place → reflow oven → AOI (automated optical inspection) → X-ray (for hidden joints) → functional test. Each stage has measurable process controls; a factory that can't show you data from each is running on hope, not process discipline.
 
@@ -35,7 +35,7 @@ A metal stencil (laser-cut, 0.12–0.15 mm thick for standard components) is ali
 
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [industrial IoT gateways](https://china-sourcing-agents.com/products/industrial-iot-gateway/)
 - [Reflow Soldering](https://china-sourcing-agents.com/wiki/reflow-soldering/)
-- [X-Ray Inspection](https://china-sourcing-agents.com/wiki/x-ray-inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/smt-process/)
 

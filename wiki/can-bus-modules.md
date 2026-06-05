@@ -12,7 +12,7 @@ CAN bus modules from China: ISO 11898, CAN FD at 5 Mbps, AEC-Q100 transceivers, 
 
 ---
 
-CAN (Controller Area Network) bus is the backbone of modern automotive electronics — every production vehicle built after 2008 in the US (OBD-II mandate) and after 2004 in the EU uses it as the primary diagnostic network, and most use it for body, chassis, and powertrain communication as well. Sourcing CAN bus transceiver modules and interface boards from China is practical for aftermarket diagnostics, industrial automation, fleet telematics, and gateway development, but requires close attention to IC authenticity, AEC-Q100 grade, and PCB layout quality.
+CAN (Controller Area Network) bus is the backbone of modern automotive electronics — every production vehicle built after 2008 in the US (OBD-II mandate) and after 2004 in the EU uses it as the primary diagnostic network, and most use it for body, chassis, and powertrain communication as well. Sourcing CAN bus transceiver modules and interface boards from China is practical for aftermarket diagnostics (including OBD2 scanners), industrial automation, fleet telematics, and gateway development, but requires close attention to IC authenticity, AEC-Q100 grade, and PCB layout quality.
 
 A CAN bus transceiver sits between a microcontroller's CAN controller (which outputs digital CANH/CANL logic) and the physical two-wire differential bus. It handles the differential voltage drive (dominant: CANH ~3.5V, CANL ~1.5V; recessive: both ~2.5V), bus fault protection, and line termination interface. The transceiver does not interpret protocol — that is handled by the CAN controller inside the MCU or a separate CAN controller IC such as the Microchip MCP2515 (SPI-attached) or NXP TJA1050.
 
@@ -33,9 +33,9 @@ ISO 11898-2 defines the physical layer for high-speed CAN (up to 1 Mbps). ISO 11
 
 ## Further reading
 
+- [OBD2 scanners](https://china-sourcing-agents.com/products/obd2-scanner/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
-- [OBD-II Modules: ELM327 Clones and J2534 Interfaces](https://china-sourcing-agents.com/wiki/obd2-modules/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/can-bus-modules/)
 

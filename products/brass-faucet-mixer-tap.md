@@ -29,5 +29,9 @@ The standard alloy for most Chinese faucets is CW617N (CuZn40Pb2, approximately 
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/products/brass-faucet-mixer-tap/)
+## Further reading
+
+- [faucet sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/brass-faucet-mixer-tap/)
 

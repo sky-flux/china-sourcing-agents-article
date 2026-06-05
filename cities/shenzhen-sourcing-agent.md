@@ -14,7 +14,7 @@ Engineer-led China sourcing agent in Shenzhen. Access 45,000+ factories for cons
 
 Shenzhen is the world's most concentrated electronics manufacturing ecosystem. Within a 50 km radius of Shenzhen's city center, you have access to 45,000+ factories covering the full electronics supply chain — from bare PCB fabrication and component distribution through EMS assembly, firmware development, and compliance testing. No other city on earth compresses this much electronics manufacturing capability into this small a geography.
 
-For buyers sourcing consumer electronics, IoT hardware, PCB assemblies, or wearables, Shenzhen is not just a first choice — it is often the only choice that can deliver the full stack of supply chain services within a manageable travel or logistics radius.
+For buyers sourcing consumer electronics, IoT hardware, PCB assemblies, or wearables, Shenzhen is not just a first choice — it is often the only choice that can deliver the full stack of supply chain services within a manageable travel or logistics radius. Our sourcing services provide verified supplier shortlists, factory audits, and production monitoring across Shenzhen's full electronics ecosystem.
 
 **Consumer electronics** cover the broadest range. Shenzhen's consumer electronics factories produce everything from Bluetooth audio products and TWS earbuds to smart displays, USB-C accessories, portable power, and connected home devices. The city's factories range from Tier 1 OEM suppliers (shipping to global brands with 100,000+ unit runs) down to agile 50-person workshops handling 1,000-unit prototype-to-production transitions for startups.
 
@@ -30,5 +30,11 @@ For buyers sourcing consumer electronics, IoT hardware, PCB assemblies, or weara
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
+## Further reading
+
+- [sourcing services](https://china-sourcing-agents.com/services/sourcing/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 

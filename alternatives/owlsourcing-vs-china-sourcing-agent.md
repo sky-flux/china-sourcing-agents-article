@@ -20,5 +20,11 @@ note: 'Engineering review matters most when your product has custom specs, RF co
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/alternatives/owlsourcing-vs-china-sourcing-agent/)
+## Further reading
+
+- [electronics sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [product development](https://china-sourcing-agents.com/services/product-development/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
+- [three-stage quality inspection](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/alternatives/owlsourcing-vs-china-sourcing-agent/)
 

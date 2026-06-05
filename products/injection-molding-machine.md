@@ -12,7 +12,7 @@ Injection molding machine 80–650 ton clamping force. Hydraulic, servo-hydrauli
 
 ---
 
-Machine type selection has a significant impact on energy cost over the machine's operating life:
+When sourcing an injection molding machine, machine type selection has a significant impact on energy cost over the machine's operating life:
 
 **Hydraulic (fixed-displacement pump).** Lowest purchase price. The hydraulic pump runs continuously at full speed regardless of machine cycle state, generating heat even during the idle (mold open) phase. Energy consumption: 100% baseline reference. Cooling water demand is high. Suitable for low-cycle-count applications (<200,000 shots/year) where energy cost is secondary to capital cost.
 
@@ -29,5 +29,9 @@ Machine type selection has a significant impact on energy cost over the machine'
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/products/injection-molding-machine/)
+## Further reading
+
+- [sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/injection-molding-machine/)
 

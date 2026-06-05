@@ -31,6 +31,9 @@ Light quantity for plant growth is measured in photosynthetically active radiati
 
 ## Further reading
 
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
+- [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
+- [Pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/led-grow-light/)
 

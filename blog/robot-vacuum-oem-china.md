@@ -33,6 +33,7 @@ The factories with genuine self-emptying capability are concentrated in Shenzhen
 
 ## Further reading
 
+- [product development cycle](https://china-sourcing-agents.com/services/product-development/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/robot-vacuum-oem-china/)
 

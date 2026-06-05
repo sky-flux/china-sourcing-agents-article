@@ -33,5 +33,11 @@ The phrase is used two ways. One meaning: a foreign company entering China as a 
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/guides/china-market-entry/)
+## Further reading
+
+- [Shenzhen electronics market guide](https://china-sourcing-agents.com/guides/shenzhen-electronics-market-guide/)
+- [FCC](https://china-sourcing-agents.com/wiki/fcc-certification/)
+- [CE](https://china-sourcing-agents.com/wiki/ce-marking/)
+- [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-market-entry/)
 

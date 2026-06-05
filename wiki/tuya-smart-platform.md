@@ -12,7 +12,7 @@ Tuya powers most white-label smart home devices from China: the OEM app model, A
 
 ---
 
-Tuya is the IoT platform behind a large share of China's white-label smart home hardware. It provides the cloud, the mobile app framework, and pre-integrated modules (Wi-Fi, BLE, Zigbee) that let a factory ship a connected product without building software from scratch. For a buyer sourcing OEM smart home devices — especially for markets like Saudi Arabia and the GCC where Tuya-based products dominate the white-label channel — understanding the platform's strengths and trade-offs is part of choosing a factory.
+Tuya is the IoT platform behind a large share of China's white-label smart home hardware. It provides the cloud, the mobile app framework, and pre-integrated modules (Wi-Fi, BLE, Zigbee) that let a factory ship a connected product without building software from scratch. For a buyer sourcing OEM smart home devices — such as smart bulbs or smart plugs — especially for markets like Saudi Arabia and the GCC where Tuya-based products dominate the white-label channel, understanding the platform's strengths and trade-offs is part of choosing a factory.
 
 For Saudi and GCC buyers, three Tuya characteristics matter:
 
@@ -31,9 +31,9 @@ For how Tuya fits a full Saudi sourcing project, including protocol choice versu
 
 ## Further reading
 
+- [smart bulbs](https://china-sourcing-agents.com/products/smart-bulb/)
+- [smart plugs](https://china-sourcing-agents.com/products/smart-socket-type-g/)
 - [SASO](https://china-sourcing-agents.com/wiki/saso-certification/)
 - [Matter certification](https://china-sourcing-agents.com/wiki/matter-certification/)
-- [Zigbee modules](https://china-sourcing-agents.com/wiki/zigbee-modules/)
-- [sourcing smart home devices for Saudi Arabia](https://china-sourcing-agents.com/guides/sourcing-smart-home-devices-saudi-arabia/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/tuya-smart-platform/)
 

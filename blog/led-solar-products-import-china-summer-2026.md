@@ -33,5 +33,9 @@ One context note before the products: US importers face stacked tariffs on most 
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/blog/led-solar-products-import-china-summer-2026/)
+## Further reading
+
+- [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [inspection service](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/led-solar-products-import-china-summer-2026/)
 

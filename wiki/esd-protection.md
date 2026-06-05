@@ -12,7 +12,7 @@ ESD protection for China-sourced electronics: HBM/CDM models, TVS diode selectio
 
 ---
 
-ESD (electrostatic discharge) damages electronics in two ways: catastrophic failure (immediate, obvious) and latent damage (weakened gate oxide or junction, reduced reliability, field failure after 6–18 months). Latent ESD damage is the dangerous one — it passes all factory tests, ships, and fails in the field. Both types are prevented by correct circuit protection design and ESD-safe handling during manufacturing.
+ESD (electrostatic discharge) damages electronics in two ways: catastrophic failure (immediate, obvious) and latent damage (weakened gate oxide or junction, reduced reliability, field failure after 6–18 months). Latent ESD damage is the dangerous one — it passes all factory tests, ships, and fails in the field. Both types are prevented by correct circuit protection design and ESD-safe handling during manufacturing — especially critical for products like industrial IoT gateways that operate in uncontrolled electrostatic environments.
 
 ESD events happen when a charged object (human body, machine, component) rapidly discharges into a circuit. The discharge is characterized by peak current (tens of amperes), rise time (nanoseconds), and total energy (microjoules). Gate oxides in modern CMOS (2–5 nm thick in 28 nm process nodes) break down at voltages as low as 1–2V across the gate. ESD events typically deliver hundreds to thousands of volts to the device terminals.
 
@@ -34,9 +34,9 @@ ESD events happen when a charged object (human body, machine, component) rapidly
 
 ## Further reading
 
+- [industrial IoT gateways](https://china-sourcing-agents.com/products/industrial-iot-gateway/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [SMT Assembly Process](https://china-sourcing-agents.com/wiki/smt-process/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/esd-protection/)
 

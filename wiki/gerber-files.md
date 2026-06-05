@@ -12,7 +12,7 @@ PCB fabrication data for Chinese factories: RS-274X Gerber format, Excellon dril
 
 ---
 
-The Gerber package is the set of files you send a PCB assembly factory to manufacture your board. An incomplete or ambiguous Gerber package results in the factory making assumptions — and factory assumptions often produce boards that are technically "as drawn" but functionally wrong. Knowing exactly what to include and how to specify it eliminates the most common PCB fabrication errors. Getting this right before sourcing a manufacturer saves costly revision cycles later.
+The Gerber package is the set of files you send a PCB assembly factory to manufacture your board — whether you're producing a simple 2-layer prototype or a complex multilayer PCB. An incomplete or ambiguous Gerber package results in the factory making assumptions — and factory assumptions often produce boards that are technically "as drawn" but functionally wrong. Knowing exactly what to include and how to specify it eliminates the most common PCB fabrication errors. Getting this right before sourcing a manufacturer saves costly revision cycles later.
 
 PCB fabrication data has evolved through three main formats: legacy Gerber (RS-274D, obsolete), extended Gerber (RS-274X, universal), and newer formats like ODB++ and IPC-2581 that include netlist and assembly data in a single file. Most Chinese factories accept RS-274X as their primary input; a growing number prefer ODB++ for complex boards. IPC-2581 adoption is increasing in automotive and aerospace but remains uncommon in contract manufacturing.
 
@@ -36,8 +36,8 @@ The Gerber package describes geometry only — what copper is where, where solde
 ## Further reading
 
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [multilayer PCB](https://china-sourcing-agents.com/products/multilayer-pcb/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [PCB Substrate Materials](https://china-sourcing-agents.com/wiki/pcb-materials/)
-- [DFM Guidelines](https://china-sourcing-agents.com/wiki/dfm-guidelines/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/gerber-files/)
 

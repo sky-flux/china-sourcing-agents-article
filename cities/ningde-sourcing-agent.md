@@ -33,6 +33,9 @@ CATL's Ningde campus employs over 30,000 people and produces lithium iron phosph
 
 ## Further reading
 
-- [Factory audits](https://china-sourcing-agents.com/services/factory-audit/)
+- [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
+- [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
+- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [industrial IoT hardware sourcing](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/ningde-sourcing-agent/)
 

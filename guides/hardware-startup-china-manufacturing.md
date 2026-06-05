@@ -35,9 +35,9 @@ The hardware startup mental model is usually: build prototype, run campaign, shi
 
 ## Further reading
 
+- [FCC](https://china-sourcing-agents.com/wiki/fcc-certification/)
+- [CE](https://china-sourcing-agents.com/wiki/ce-marking/)
 - [compared with Leeline Sourcing](https://china-sourcing-agents.com/alternatives/leelinesourcing-vs-china-sourcing-agent/)
 - [compared with Owlsourcing](https://china-sourcing-agents.com/alternatives/owlsourcing-vs-china-sourcing-agent/)
-- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/hardware-startup-china-manufacturing/)
 

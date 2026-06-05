@@ -16,7 +16,7 @@ Conformal coating is a polymeric film applied to assembled PCBs to protect again
 
 Without conformal coating, an assembled PCBA exposes bare copper traces, solder joints, and component leads to the operating environment. In tropical or coastal environments (humidity 80% RH), or in industrial environments with chemical vapor exposure, uncoated boards experience: dendritic growth (copper migration between traces under moisture and bias), corrosion of solder joints and component leads, and leakage current paths that degrade signal integrity or cause functional failures.
 
-Conformal coating is standard for: automotive electronics (AEC-Q200 qualified suppliers), industrial IoT control PCBAs, outdoor IoT sensors, marine electronics, and any product with an IP54 or higher environmental rating where the PCB is inside the sealed enclosure. For consumer electronics in a dry indoor environment, coating is typically not applied.
+Conformal coating is standard for: automotive electronics (AEC-Q200 qualified suppliers), industrial IoT control PCBAs in rugged gateways, outdoor IoT sensors, marine electronics, and any product with an IP54 or higher environmental rating where the PCB is inside the sealed enclosure. For consumer electronics in a dry indoor environment, coating is typically not applied.
 
 ---
 
@@ -36,8 +36,8 @@ Conformal coating is standard for: automotive electronics (AEC-Q200 qualified su
 ## Further reading
 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [rugged gateways](https://china-sourcing-agents.com/products/industrial-iot-gateway/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [SMT Assembly Process](https://china-sourcing-agents.com/wiki/smt-process/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/conformal-coating/)
 

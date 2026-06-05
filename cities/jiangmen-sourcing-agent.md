@@ -12,7 +12,7 @@ China sourcing agent in Jiangmen: motorcycles, small engines, motor components, 
 
 ---
 
-Jiangmen sits at the western edge of the Pearl River Delta, 75 km from Guangzhou and 110 km from Shenzhen. It is one of the largest cities in Guangdong by land area, and while less internationally recognized than Dongguan or Shenzhen, Jiangmen holds a globally significant position in one specific industry: motorcycle manufacturing. One in five motorcycles exported from China originates here, with total motorcycle export value exceeding 21 billion yuan — nearly one quarter of China's national motorcycle export total. For buyers in the two-wheel vehicle or small engine categories, Jiangmen is not a secondary option; it is the primary destination.
+Jiangmen sits at the western edge of the Pearl River Delta, 75 km from Guangzhou and 110 km from Shenzhen. It is one of the largest cities in Guangdong by land area, and while less internationally recognized than Dongguan or Shenzhen, Jiangmen holds a globally significant position in one specific industry: motorcycle manufacturing. One in five motorcycles exported from China originates here, with total motorcycle export value exceeding 21 billion yuan — nearly one quarter of China's national motorcycle export total. For buyers in the two-wheel vehicle or small engine categories, Jiangmen is not a secondary option; it is the primary destination. Our sourcing services include factory verification, certification documentation review, and production monitoring for motorcycle and small engine programs.
 
 The motorcycle cluster concentrates in Pengjiang district and the surrounding industrial zones. Dachangjiang Group, Tayo (Jiangmen Tayo Motorcycle Industry), and JMZF are among the largest manufacturers, but the real depth of the cluster is in the supply chain beneath them: engine block foundries, transmission gear manufacturers, brake system assemblers, electrical harness producers, instrument cluster factories, and plastic body panel injection molders — hundreds of specialized suppliers within a 30 km radius.
 
@@ -31,5 +31,11 @@ This vertical integration is what makes Jiangmen genuinely competitive for motor
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/jiangmen-sourcing-agent/)
+## Further reading
+
+- [sourcing services](https://china-sourcing-agents.com/services/sourcing/)
+- [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
+- [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
+- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/jiangmen-sourcing-agent/)
 

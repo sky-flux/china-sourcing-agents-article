@@ -12,7 +12,7 @@ DIN rail terminal blocks from China: screw, cage clamp, and spring clamp types, 
 
 ---
 
-Terminal blocks are the least glamorous component on an industrial IoT control panel BOM and the most common source of field failures in IoT gateway and industrial hardware enclosures. The failure mode is almost never dramatic — it is an intermittent connection that appears after six months of thermal cycling or vibration, produces a ghost fault in the PLC log, and takes a field engineer three hours to find. Specifying the right clamping mechanism and verifying it from the right factory prevents that outcome.
+Terminal blocks are the least glamorous component on an industrial IoT control panel BOM — alongside DIN rail breakers and PLC controllers — and the most common source of field failures in IoT gateway and industrial hardware enclosures. The failure mode is almost never dramatic — it is an intermittent connection that appears after six months of thermal cycling or vibration, produces a ghost fault in the PLC log, and takes a field engineer three hours to find. Specifying the right clamping mechanism and verifying it from the right factory prevents that outcome.
 
 Terminal blocks connect external wiring to a PCB or DIN rail bus without soldering. There are two broad product families: PCB-mount terminal blocks (screw or spring clamp terminals soldered directly to the board) and DIN rail terminal blocks (modular blocks that clip to 35 mm TS35 rail inside an enclosure). The two families serve different roles and have different sourcing considerations.
 
@@ -33,8 +33,8 @@ PCB-mount blocks are specified by pitch (distance between poles), current rating
 ## Further reading
 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [DIN rail breakers](https://china-sourcing-agents.com/products/din-rail-smart-breaker/)
+- [PLC controllers](https://china-sourcing-agents.com/products/industrial-plc/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [CE Marking](https://china-sourcing-agents.com/wiki/ce-marking/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/terminal-blocks-din-rail/)
 

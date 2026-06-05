@@ -12,7 +12,7 @@ Engineer-led China sourcing in Baotou. Rare earth capital: NdFeB magnets, phosph
 
 ---
 
-Baotou occupies a singular position in global electronics supply chains that most buyers do not fully appreciate until they trace where critical materials in their products actually come from. The city sits adjacent to the Bayan Obo deposit, the world's largest rare earth reserve, and its processing industry converts that resource into the materials that power permanent magnet motors, LED phosphors, semiconductor polishing processes, and precision optical components. For electronics and hardware buyers, Baotou is not a finished goods sourcing destination — it is the upstream origin point for materials that end up inside products assembled elsewhere.
+Baotou occupies a singular position in global electronics supply chains that most buyers do not fully appreciate until they trace where critical materials in their products actually come from. The city sits adjacent to the Bayan Obo deposit, the world's largest rare earth reserve, and its processing industry converts that resource into the materials that power permanent magnet motors, LED phosphors, semiconductor polishing processes, and precision optical components. For electronics and hardware buyers, Baotou is not a finished goods sourcing destination — it is the upstream origin point for materials that end up inside products assembled elsewhere. Engaging a sourcing agent with technical materials expertise is strongly recommended for navigating grade specifications, coating requirements, and magnetic property tolerances.
 
 Inner Mongolia Rare Earth Hi-Tech (内蒙古北方稀土高科技股份有限公司, known as 北方稀土), listed on the Shanghai Stock Exchange, is headquartered in Baotou and operates as one of China's six major rare earth group companies. Its subsidiary network controls a significant share of global NdFeB magnet precursor material production and the downstream processing of neodymium, praseodymium, lanthanum, cerium, and europium into forms usable by manufacturers. For foreign buyers, understanding this corporate structure is the first step toward effective supplier engagement.
 
@@ -28,5 +28,11 @@ Inner Mongolia Rare Earth Hi-Tech (内蒙古北方稀土高科技股份有限公
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/baotou-sourcing-agent/)
+## Further reading
+
+- [sourcing agent](https://china-sourcing-agents.com/services/sourcing/)
+- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/baotou-sourcing-agent/)
 

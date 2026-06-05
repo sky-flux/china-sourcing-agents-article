@@ -12,7 +12,7 @@ UL is a US safety certification (an NRTL mark). What UL Listed vs Recognized mea
 
 ---
 
-UL (Underwriters Laboratories) is a US product-safety certification body — one of several **Nationally Recognized Testing Laboratories (NRTLs)** authorized by OSHA. A UL mark signals that a product was tested to the relevant UL safety standard. For electronics sourced from China and sold in the United States, UL is the safety credential US retailers, Amazon, and distributors most often demand — particularly for anything containing a lithium battery or mains power. Unlike CE (which is self-declared in the EU), UL requires testing and ongoing factory surveillance by UL or another NRTL.
+UL (Underwriters Laboratories) is a US product-safety certification body — one of several **Nationally Recognized Testing Laboratories (NRTLs)** authorized by OSHA. A UL mark signals that a product was tested to the relevant UL safety standard. For electronics sourced from China and sold in the United States, UL is the safety credential US retailers, Amazon, and distributors most often demand — particularly for anything containing a lithium battery, such as portable power banks or LiFePO4 batteries, or mains power. Unlike CE (which is self-declared in the EU), UL requires testing and ongoing factory surveillance by UL or another NRTL.
 
 The distinction matters and is often confused:
 
@@ -31,9 +31,9 @@ A factory may claim "UL" when it only holds a UL Recognized *component* (e.g., a
 
 ## Further reading
 
+- [portable power banks](https://china-sourcing-agents.com/products/portable-power-bank/)
+- [LiFePO4 batteries](https://china-sourcing-agents.com/products/lifepo4-battery/)
 - [UN 38.3](https://china-sourcing-agents.com/wiki/un38-3-battery/)
 - [IEC 62133](https://china-sourcing-agents.com/wiki/iec-62133/)
-- [FCC](https://china-sourcing-agents.com/wiki/fcc-certification/)
-- [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/ul-certification/)
 

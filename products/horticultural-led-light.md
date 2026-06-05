@@ -28,5 +28,11 @@ The three metrics that matter are PPF, PPFD, and PPE. PPF (Photosynthetic Photon
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/products/horticultural-led-light/)
+## Further reading
+
+- [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
+- [LED lighting](https://china-sourcing-agents.com/industries/led-lighting/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
+- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/horticultural-led-light/)
 

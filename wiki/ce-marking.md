@@ -12,7 +12,7 @@ CE marking for electronics from China: RED, LVD, and EMC Directive scope, self-d
 
 ---
 
-CE marking is a legal requirement for electronics placed on the EU market — it signifies that a product complies with applicable EU directives. Unlike FCC or TELEC, CE is not a certification issued by a third-party body: it is a self-declaration by the manufacturer or importer (the "responsible person" under EU law). Understanding this distinction matters operationally — there is no CE certificate to request from a factory, only a technical file and a signed Declaration of Conformity (DoC).
+CE marking is a legal requirement for electronics placed on the EU market — from Bluetooth speakers to smart TVs — it signifies that a product complies with applicable EU directives. Unlike FCC or TELEC, CE is not a certification issued by a third-party body: it is a self-declaration by the manufacturer or importer (the "responsible person" under EU law). Understanding this distinction matters operationally — there is no CE certificate to request from a factory, only a technical file and a signed Declaration of Conformity (DoC).
 
 CE marking derives from the New Legislative Framework (NLF). Multiple EU directives can apply simultaneously to the same product; the responsible person must identify which directives apply and comply with all of them. The CE mark on a product declares conformity with all applicable directives.
 
@@ -33,9 +33,9 @@ Enforcement is via EU member-state market surveillance authorities (e.g., German
 
 ## Further reading
 
+- [Bluetooth speakers](https://china-sourcing-agents.com/products/bluetooth-speaker-oem/)
+- [smart TVs](https://china-sourcing-agents.com/products/android-tv-box-oem/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [UKCA Marking](https://china-sourcing-agents.com/wiki/ukca-marking/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/ce-marking/)
 

@@ -32,5 +32,6 @@ The four mainstream membrane types available from Chinese factories serve differ
 
 - [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/waterproofing-membrane/)
 

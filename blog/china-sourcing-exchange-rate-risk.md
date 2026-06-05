@@ -32,5 +32,6 @@ For EUR, GBP, AUD, or JPY buyers, the exposure is more direct. You quote your cu
 ## Further reading
 
 - [China Payment Terms Explained](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
+- [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/china-sourcing-exchange-rate-risk/)
 

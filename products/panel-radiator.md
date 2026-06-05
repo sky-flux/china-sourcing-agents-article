@@ -31,6 +31,7 @@ The corrosion constraint with steel is significant and often underspecified on c
 ## Further reading
 
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/panel-radiator/)
 

@@ -12,7 +12,7 @@ ESP32 module families compared for China sourcing: ESP32 vs S3 vs C3 vs H2, WROO
 
 ---
 
-ESP32 modules from Espressif and their licensed partners are among the easiest wireless IoT modules to source from China — Espressif operates an extensive certified partner network, pre-certified modules are widely stocked, and the documentation is genuinely good. The sourcing risk is almost entirely concentrated in clone modules from uncertified fabs.
+ESP32 modules from Espressif and their licensed partners are among the easiest wireless IoT modules to source from China — Espressif operates an extensive certified partner network, pre-certified modules are widely stocked, and the documentation is genuinely good. They are the wireless core in many industrial IoT gateways and consumer smart devices. The sourcing risk is almost entirely concentrated in clone modules from uncertified fabs.
 
 Espressif Systems (乐鑫信息科技, Shanghai) designs the ESP32 SoC family. They sell bare chips and manufacture reference modules (WROOM, WROVER series) which third parties also produce under license. The SoC integrates Xtensa LX6/LX7 or RISC-V cores with Wi-Fi, Bluetooth, and peripheral blocks on a single die. On-module variants add flash, PSRAM, antenna, crystal, and filtering, reducing the host PCB BOM to a few decoupling capacitors.
 
@@ -35,8 +35,8 @@ Espressif's total shipped volume exceeds 1 billion chips as of 2024. This scale 
 ## Further reading
 
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
+- [industrial IoT gateways](https://china-sourcing-agents.com/products/industrial-iot-gateway/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
-- [How to Source Electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/esp32-modules/)
 

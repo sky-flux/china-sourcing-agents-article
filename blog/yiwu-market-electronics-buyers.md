@@ -34,6 +34,7 @@ The market is organized by product type: District 1 covers jewelry, accessories,
 ## Further reading
 
 - [Shenzhen electronics market guide](https://china-sourcing-agents.com/guides/shenzhen-electronics-market-guide/)
+- [sourcing agent](https://china-sourcing-agents.com/services/sourcing/)
 - [Alibaba vs 1688 comparison guide](https://china-sourcing-agents.com/guides/alibaba-vs-1688/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/yiwu-market-electronics-buyers/)
 

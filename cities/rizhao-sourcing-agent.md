@@ -33,6 +33,9 @@ Container services exist at Rizhao Port but operate at a fraction of Qingdao's c
 
 ## Further reading
 
+- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [factory audits](https://china-sourcing-agents.com/services/factory-audit/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/rizhao-sourcing-agent/)
 

@@ -20,5 +20,11 @@ note: 'Matters most when your product has non-standard specs, custom firmware, o
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/alternatives/sourcify-vs-china-sourcing-agent/)
+## Further reading
+
+- [sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [product development](https://china-sourcing-agents.com/services/product-development/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
+- [QC process](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/alternatives/sourcify-vs-china-sourcing-agent/)
 

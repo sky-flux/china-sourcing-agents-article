@@ -38,6 +38,6 @@ Chinese manufacturers almost never quote a single price. They quote a price sche
 - [complete electronics sourcing guide](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [China payment terms guide](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
-- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
+- [FCC](https://china-sourcing-agents.com/wiki/fcc-certification/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-electronics-wholesale-guide/)
 

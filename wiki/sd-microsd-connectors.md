@@ -16,7 +16,7 @@ SD and microSD connectors are among the most substituted components in Chinese e
 
 SD connectors accept SD Association-specified memory cards. The physical interface is defined by the SD Physical Layer Simplified Specification (available from the SD Association). The standard defines contact count, contact arrangement, card dimensions, insertion force, and minimum mating cycle life. What the standard does not define is the quality of any particular manufacturer's spring steel, contact plating, or housing tolerance — that is where sourcing decisions matter.
 
-Full-size SD cards (32 mm × 24 mm × 2.1 mm) are used in cameras, data loggers, and single-board computers where board space is not the primary constraint. MicroSD (11 mm × 15 mm × 1 mm), also called TF (TransFlash), dominates in smartphones, IoT modules, wearables, and any embedded design where space is constrained. MiniSD is legacy and should not be designed in for new products. SD and microSD connectors are a high-substitution-risk component in consumer electronics manufacturing — professional inspection with incoming eject force measurement is the most reliable way to catch non-compliant parts before they reach production.
+Full-size SD cards (32 mm × 24 mm × 2.1 mm) are used in dash cams, data loggers, and single-board computers where board space is not the primary constraint. MicroSD (11 mm × 15 mm × 1 mm), also called TF (TransFlash), dominates in smartphones, IoT modules, wearables, and any embedded design where space is constrained. MiniSD is legacy and should not be designed in for new products. SD and microSD connectors are a high-substitution-risk component in consumer electronics manufacturing — professional inspection with incoming eject force measurement is the most reliable way to catch non-compliant parts before they reach production.
 
 ---
 
@@ -32,9 +32,9 @@ Full-size SD cards (32 mm × 24 mm × 2.1 mm) are used in cameras, data loggers,
 
 ## Further reading
 
+- [dash cams](https://china-sourcing-agents.com/products/dash-cam/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [DFM Guidelines](https://china-sourcing-agents.com/wiki/dfm-guidelines/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/sd-microsd-connectors/)
 

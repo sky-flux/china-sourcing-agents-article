@@ -33,8 +33,8 @@ The market splits into through-hole (THT) headers for hand assembly and prototyp
 ## Further reading
 
 - [source from China](https://china-sourcing-agents.com/services/sourcing/)
+- [LoRa modules](https://china-sourcing-agents.com/products/lora-module-sx1262/)
+- [industrial controllers](https://china-sourcing-agents.com/products/industrial-plc/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [BOM Management](https://china-sourcing-agents.com/wiki/bom-management/)
-- [IPC-A-610 Acceptance Criteria](https://china-sourcing-agents.com/wiki/ipc-a-610/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/pin-headers-dupont/)
 

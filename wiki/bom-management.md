@@ -12,7 +12,7 @@ BOM management for China-sourced electronics: required columns, MPN vs generic s
 
 ---
 
-A BOM (Bill of Materials) is the definitive list of every component in your product. In China manufacturing, the BOM is also a legal document — it defines what the factory is authorized to buy and assemble. An incomplete or under-specified BOM is the primary cause of unauthorized component substitutions, compliance failures, and yield problems that trace back to wrong parts. A thorough sourcing process reviews the BOM before supplier selection to flag lifecycle and single-source risks early.
+A BOM (Bill of Materials) is the definitive list of every component in your product — from a simple USB-C hub to a complex industrial gateway. In China manufacturing, the BOM is also a legal document — it defines what the factory is authorized to buy and assemble. An incomplete or under-specified BOM is the primary cause of unauthorized component substitutions, compliance failures, and yield problems that trace back to wrong parts. A thorough sourcing process reviews the BOM before supplier selection to flag lifecycle and single-source risks early.
 
 Your BOM serves three audiences simultaneously: your PCB layout engineer (who needs footprint and value), your purchasing team (who needs MPN and AVL to buy parts), and your factory (who needs enough detail to source consistently without calling you for every ambiguous item). These audiences have different needs, which is why one-column "component name" BOMs fail in all three cases.
 
@@ -35,9 +35,9 @@ For China sourcing specifically, the BOM also determines whether your product wi
 
 ## Further reading
 
+- [USB-C hub](https://china-sourcing-agents.com/products/usb-c-hub/)
+- [industrial gateway](https://china-sourcing-agents.com/products/industrial-iot-gateway/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/bom-management/)
 

@@ -33,6 +33,7 @@ China's official National Bureau of Statistics manufacturing PMI for April 2026 
 ## Further reading
 
 - [full tariff analysis for 2026](https://china-sourcing-agents.com/blog/china-electronics-tariff-2026-guide/)
+- [sourcing and supplier matching service](https://china-sourcing-agents.com/services/sourcing/)
 - [China electronics industry overview](https://china-sourcing-agents.com/guides/china-electronics-industry-overview/)
 - [import electronics from China to the US guide](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/china-electronics-manufacturing-may-2026/)

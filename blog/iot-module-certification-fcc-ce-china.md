@@ -12,7 +12,7 @@ How FCC, CE RED, and SRRC certification actually work for IoT modules made in Ch
 
 ---
 
-Certifying an IoT module or wireless product is harder than certifying most electronics because you're not dealing with one regulator — you're dealing with three simultaneously. Here's how the actual process works.
+Certifying an IoT module or wireless product is harder than certifying most electronics because you're not dealing with one regulator — you're dealing with three simultaneously. Here's how the actual process works, and how it fits into the broader electronics quality control framework for China manufacturing.
 
 A USB charger needs CE marking for Europe. A Bluetooth speaker needs FCC for the US. But an IoT module with a radio transmitter needs SRRC (China), FCC (US), and CE RED (EU) before it can legally be manufactured in China and sold in both markets. Each has different test labs, different paperwork, and different timelines. They don't coordinate with each other.
 
@@ -34,9 +34,9 @@ The complexity compounds if you're building the module into a host device — no
 
 ## Further reading
 
+- [electronics quality control framework](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
 - [Japanese distributor was sourcing LoRa gateways](https://china-sourcing-agents.com/cases/jp-distributor-lora-gateway/)
 - [IoT module](https://china-sourcing-agents.com/industries/iot-modules/)
 - [Sourcing & Supplier Matching](https://china-sourcing-agents.com/services/sourcing/)
-- [Amazon seller IoT sensor case](https://china-sourcing-agents.com/cases/amazon-seller-iot-sensor/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/iot-module-certification-fcc-ce-china/)
 

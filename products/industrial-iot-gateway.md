@@ -12,7 +12,7 @@ Industrial IoT gateway: Modbus RTU/TCP, MQTT, OPC-UA bridging. -40°C to 75°C, 
 
 ---
 
-The primary value of an industrial IoT gateway is translating legacy serial protocols (Modbus RTU/ASCII) to modern cloud protocols (MQTT, OPC-UA). When sourcing, evaluate the gateway's protocol bridging capabilities in detail:
+The primary value of an industrial IoT gateway is translating legacy serial protocols (Modbus RTU/ASCII) to modern cloud protocols (MQTT, OPC-UA). When sourcing an industrial IoT gateway, evaluate the protocol bridging capabilities in detail:
 
 **Modbus slave to MQTT publisher.** The gateway polls Modbus RTU devices (PLCs, sensors, meters) on the RS-485 bus and publishes register values to an MQTT broker at configurable intervals. Key parameters: polling rate (down to 100ms for fast data), register count per device, number of simultaneous Modbus slave devices supported (typical: 32–247 per bus segment).
 
@@ -29,5 +29,10 @@ The primary value of an industrial IoT gateway is translating legacy serial prot
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/products/industrial-iot-gateway/)
+## Further reading
+
+- [sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/industrial-iot-gateway/)
 

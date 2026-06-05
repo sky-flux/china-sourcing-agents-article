@@ -31,6 +31,7 @@ Both chips are manufactured in volume in China. The differences that matter for 
 
 ## Further reading
 
+- [complete guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [IoT module sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [IoT modules industry page](https://china-sourcing-agents.com/industries/iot-modules/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/ble-module-china-sourcing/)

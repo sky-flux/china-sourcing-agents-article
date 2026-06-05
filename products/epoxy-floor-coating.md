@@ -31,6 +31,7 @@ Chinese epoxy floor coating factories produce across all three system types, and
 ## Further reading
 
 - [inspection engagement](https://china-sourcing-agents.com/services/inspection/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing process](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/epoxy-floor-coating/)
 

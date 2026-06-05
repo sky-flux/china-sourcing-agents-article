@@ -34,9 +34,9 @@ China's electronics manufacturing dominance is the result of 40 years of deliber
 
 ## Further reading
 
+- [SMT lines](https://china-sourcing-agents.com/wiki/smt-process/)
 - [consumer electronics sourcing](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [IoT module sourcing](https://china-sourcing-agents.com/industries/iot-modules/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [Wearables](https://china-sourcing-agents.com/industries/wearables/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-electronics-industry-overview/)
 

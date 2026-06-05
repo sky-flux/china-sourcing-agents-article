@@ -31,6 +31,8 @@ The two dominant silicone sealant cure systems release different byproducts duri
 
 ## Further reading
 
+- [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/silicone-sealant/)
 

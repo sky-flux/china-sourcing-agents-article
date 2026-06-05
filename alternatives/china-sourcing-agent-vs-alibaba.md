@@ -20,5 +20,11 @@ note: 'If you have time and product knowledge to vet suppliers yourself, the mar
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/alternatives/china-sourcing-agent-vs-alibaba/)
+## Further reading
+
+- [sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [on-site factory audit](https://china-sourcing-agents.com/services/factory-audit/)
+- [three-stage quality inspection](https://china-sourcing-agents.com/services/inspection/)
+- [product development](https://china-sourcing-agents.com/services/product-development/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/alternatives/china-sourcing-agent-vs-alibaba/)
 

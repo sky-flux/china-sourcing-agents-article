@@ -20,5 +20,11 @@ note: 'Engineering depth matters most for non-standard electronics: custom PCBs,
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/alternatives/leelinesourcing-vs-china-sourcing-agent/)
+## Further reading
+
+- [electronics sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [UN 38.3 battery certification](https://china-sourcing-agents.com/wiki/un38-3-battery/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
+- [QC](https://china-sourcing-agents.com/services/inspection/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/alternatives/leelinesourcing-vs-china-sourcing-agent/)
 

@@ -32,6 +32,8 @@ Most Chinese factories quote in USD and require T/T (telegraphic transfer / bank
 
 ## Further reading
 
+- [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
+- [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/source-electronics-china-africa-buyers/)
 

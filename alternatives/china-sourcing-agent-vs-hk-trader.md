@@ -20,5 +20,10 @@ note: 'A trader margin of 15–30% hidden in the unit price is common. A visible
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/alternatives/china-sourcing-agent-vs-hk-trader/)
+## Further reading
+
+- [electronics sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [product development](https://china-sourcing-agents.com/services/product-development/)
+- [on-site factory audit](https://china-sourcing-agents.com/services/factory-audit/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/alternatives/china-sourcing-agent-vs-hk-trader/)
 

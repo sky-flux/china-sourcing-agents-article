@@ -32,5 +32,8 @@ Track lighting systems use three competing mechanical and electrical standards. 
 ## Further reading
 
 - [DALI vs 0-10V vs PWM wiki](https://china-sourcing-agents.com/wiki/dali-vs-0-10v-vs-pwm-dimming/)
+- [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
+- [LED lighting](https://china-sourcing-agents.com/industries/led-lighting/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/led-track-light/)
 

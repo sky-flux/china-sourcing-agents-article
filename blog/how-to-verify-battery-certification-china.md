@@ -32,9 +32,9 @@ UN38.3 is purely a transport document — it does not certify that the battery i
 
 ## Further reading
 
+- [electronics quality control guide](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [UN38.3 testing requirements](https://china-sourcing-agents.com/wiki/un38-3-battery/)
 - [IEC 62133 safety certification](https://china-sourcing-agents.com/wiki/iec-62133/)
-- [UL certification verification](https://china-sourcing-agents.com/wiki/ul-certification/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/how-to-verify-battery-certification-china/)
 

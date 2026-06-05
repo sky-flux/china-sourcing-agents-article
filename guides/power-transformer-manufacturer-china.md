@@ -32,5 +32,11 @@ Before contacting any manufacturer, define your specification precisely. Chinese
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/guides/power-transformer-manufacturer-china/)
+## Further reading
+
+- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
+- [CE marking](https://china-sourcing-agents.com/wiki/ce-marking/)
+- [UL](https://china-sourcing-agents.com/wiki/ul-certification/)
+- [UKCA marking](https://china-sourcing-agents.com/wiki/ukca-marking/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/power-transformer-manufacturer-china/)
 

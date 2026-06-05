@@ -32,6 +32,7 @@ The scale is zero-anchored at 50. Above 50 means more survey respondents reporte
 
 ## Further reading
 
+- [sourcing consultant](https://china-sourcing-agents.com/services/consulting/)
 - [China electronics industry overview](https://china-sourcing-agents.com/guides/china-electronics-industry-overview/)
 - [2026 tariff guide](https://china-sourcing-agents.com/blog/china-electronics-tariff-2026-guide/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/china-manufacturing-pmi-what-buyers-need-to-know/)

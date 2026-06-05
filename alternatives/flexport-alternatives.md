@@ -20,5 +20,10 @@ p style="font-size: 0.9375rem; color: var(--color-fg); margin: 0; line-height: 1
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/alternatives/flexport-alternatives/)
+## Further reading
+
+- [factory sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [quality inspection](https://china-sourcing-agents.com/services/inspection/)
+- [freight and customs](https://china-sourcing-agents.com/services/logistics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/alternatives/flexport-alternatives/)
 

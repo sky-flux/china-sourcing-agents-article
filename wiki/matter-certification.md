@@ -33,6 +33,7 @@ Matter uses a layered trust model built on Public Key Infrastructure (PKI):
 
 ## Further reading
 
+- [Tuya](https://china-sourcing-agents.com/wiki/tuya-smart-platform/)
 - [FCC Certification](https://china-sourcing-agents.com/wiki/fcc-certification/)
 - [CE Marking for Electronics](https://china-sourcing-agents.com/wiki/ce-marking/)
 - [How to Source Electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)

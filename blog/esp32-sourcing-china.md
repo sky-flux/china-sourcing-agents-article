@@ -32,6 +32,7 @@ Specifying "ESP32" on a BOM and expecting consistent delivery is one of the most
 ## Further reading
 
 - [IoT module sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [IoT modules page](https://china-sourcing-agents.com/industries/iot-modules/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/esp32-sourcing-china/)
 

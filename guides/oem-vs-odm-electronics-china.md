@@ -34,9 +34,9 @@ This guide gives you a framework by product category rather than a generic defin
 
 ## Further reading
 
+- [BOM](https://china-sourcing-agents.com/wiki/bom-management/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [IoT modules and components](https://china-sourcing-agents.com/industries/iot-modules/)
 - [Wearables](https://china-sourcing-agents.com/industries/wearables/)
-- [Industrial IoT hardware](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/oem-vs-odm-electronics-china/)
 

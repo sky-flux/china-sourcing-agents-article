@@ -36,5 +36,6 @@ Most electronics sourcing disasters are not surprises. They are known risk scena
 
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [quality inspection guide](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
+- [consulting service](https://china-sourcing-agents.com/services/consulting/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/blog/supply-chain-risk-management-china-sourcing/)
 

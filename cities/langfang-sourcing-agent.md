@@ -28,5 +28,11 @@ The city's industrial profile has been shaped decisively by the anchor investmen
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/langfang-sourcing-agent/)
+## Further reading
+
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/langfang-sourcing-agent/)
 

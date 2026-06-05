@@ -34,8 +34,8 @@ The single biggest mistake in supplier negotiation is treating the quote as one 
 ## Further reading
 
 - [how to verify a Chinese supplier](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
+- [bill of materials](https://china-sourcing-agents.com/wiki/bom-management/)
 - [Alibaba versus 1688](https://china-sourcing-agents.com/guides/alibaba-vs-1688/)
 - [source on a client's behalf](https://china-sourcing-agents.com/services/sourcing/)
-- [China payment terms explained](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/negotiate-with-chinese-suppliers/)
 

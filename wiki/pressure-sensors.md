@@ -12,7 +12,7 @@ Pressure sensors from China: MEMS piezoresistive vs capacitive, key specs, Chine
 
 ---
 
-Pressure sensors are a sourcing category where the stated specification and the delivered performance can diverge significantly. "±1% accuracy" claims are common and frequently misleading — the accuracy figure may apply only at room temperature, at a single pressure point, or after a 30-minute warm-up time that is not disclosed. For industrial IoT applications where sensor data drives control decisions or safety interlocks, understanding exactly what the accuracy specification covers is not optional.
+Pressure sensors are a sourcing category where the stated specification and the delivered performance can diverge significantly. "±1% accuracy" claims are common and frequently misleading — the accuracy figure may apply only at room temperature, at a single pressure point, or after a 30-minute warm-up time that is not disclosed. For industrial IoT applications where sensor data drives control decisions or safety interlocks — alongside temperature sensors and flow meters — understanding exactly what the accuracy specification covers is not optional.
 
 Pressure sensors measure force per unit area and output an electrical signal proportional to that pressure. The sensing element is almost universally MEMS-based in modern designs: a microfabricated silicon diaphragm whose deformation changes electrical properties (resistance in piezoresistive types, capacitance in capacitive types). These MEMS die are packaged with signal conditioning ASICs, temperature compensation circuits, and media-isolation structures to produce the complete sensor.
 
@@ -35,8 +35,8 @@ From a sourcing standpoint, there are two distinct supply chains: discrete MEMS 
 ## Further reading
 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [temperature sensors](https://china-sourcing-agents.com/products/industrial-temperature-sensor/)
+- [flow meters](https://china-sourcing-agents.com/products/flow-meter-industrial/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Industrial IoT Hardware Sourcing Guide](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/pressure-sensors/)
 

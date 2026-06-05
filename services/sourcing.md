@@ -1,6 +1,6 @@
 ---
 title: "China Electronics Sourcing & Supplier Matching Service"
-description: "Find verified Chinese suppliers for your product. We search 1688, Alibaba, and our factory network — then filter to 3–5 candidates worth vetting."
+description: "Importing electronics from China starts with finding the right factory. We search 1688, Alibaba, and our factory network to find and verify Chinese suppliers, then shortlist 3–5 worth vetting before you commit to a landed cost."
 canonical_url: "https://china-sourcing-agents.com/services/sourcing/"
 ---
 
@@ -8,7 +8,7 @@ canonical_url: "https://china-sourcing-agents.com/services/sourcing/"
 
 > **Read the full guide**: [https://china-sourcing-agents.com/services/sourcing/](https://china-sourcing-agents.com/services/sourcing/)
 
-Find verified Chinese suppliers for your product. We search 1688, Alibaba, and our factory network — then filter to 3–5 candidates worth vetting.
+Importing electronics from China starts with finding the right factory. We search 1688, Alibaba, and our factory network to find and verify Chinese suppliers, then shortlist 3–5 worth vetting before you commit to a landed cost.
 
 ---
 
@@ -16,7 +16,7 @@ China Sourcing Agents cuts the factory search from 3–6 months down to 2 weeks.
 
 Our sourcing process goes beyond Alibaba keyword searches. We cross-reference 1688 (the domestic wholesale platform), our direct factory relationships built over 7 years, and trade show contacts from Shenzhen and Dongguan. For each candidate we verify business registration, production capacity, existing client references, and whether they're a factory or a trader.
 
-We start by understanding your product at a technical level: BOM, target specs, certifications required, packaging requirements. That context lets us filter out factories that can't realistically handle your project before we waste anyone's time.
+Before you commit to a supplier, run the unit price through our import duty and landed cost calculator to estimate what the product actually costs delivered to your destination — not just the ex-factory quote.
 
 ---
 

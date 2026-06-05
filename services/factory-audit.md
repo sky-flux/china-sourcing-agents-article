@@ -27,6 +27,8 @@ The most expensive mistake in China sourcing is wiring a deposit to a trader who
 - What the audit day looks like
 - Audit report deliverables
 - When an audit fails
+- Factory audit checklist (12 points)
+- Pre-shipment inspection (PSI / AQL)
 
 ---
 

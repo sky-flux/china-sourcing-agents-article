@@ -22,9 +22,9 @@ Video doorbells are high-visibility smart home and consumer electronics products
 
 ## What this covers
 
-- What to Check When Sourcing
-- Common Issues
-- Saudi / GCC market notes
+- What to Check When Sourcing Video Doorbells
+- Common Issues with Video Doorbells
+- Sourcing Video Doorbells for Saudi Arabia & the GCC
 
 ---
 

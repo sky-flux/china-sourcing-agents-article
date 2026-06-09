@@ -22,8 +22,8 @@ Street lights face the harshest operating conditions of any luminaire: temperatu
 
 ## What this covers
 
-- What to Check When Sourcing
-- Common Issues
+- What to Check When Sourcing LED Street Lights
+- Common Issues with LED Street Lights
 
 ---
 

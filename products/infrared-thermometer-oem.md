@@ -1,18 +1,18 @@
 ---
-title: "Infrared Thermometer OEM (Non-Contact Body & Industrial IR)"
-description: "OEM infrared thermometer sourcing from China. Non-contact body thermometers and industrial IR pyrometers. FDA 510(k), CE MDR, ISO 80601-2-59."
+title: "Infrared Thermometer OEM Manufacturers in China (Body & Industrial IR)"
+description: "Source high-quality OEM infrared thermometers from China. Covering non-contact medical body thermometers and industrial IR pyrometers with FDA 510(k), CE…"
 canonical_url: "https://china-sourcing-agents.com/products/infrared-thermometer-oem/"
 ---
 
-# Infrared Thermometer OEM (Non-Contact Body & Industrial IR)
+# Infrared Thermometer OEM Manufacturers in China (Body & Industrial IR)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/infrared-thermometer-oem/](https://china-sourcing-agents.com/products/infrared-thermometer-oem/)
 
-OEM infrared thermometer sourcing from China. Non-contact body thermometers and industrial IR pyrometers. FDA 510(k), CE MDR, ISO 80601-2-59.
+Source high-quality OEM infrared thermometers from China. Covering non-contact medical body thermometers and industrial IR pyrometers with FDA 510(k), CE…
 
 ---
 
-Non-contact infrared thermometers in both categories measure thermal radiation from a surface, but the sensor design, optical filter, and calibration approach are fundamentally different. Using a body thermometer to measure industrial surfaces — or vice versa — produces readings that are systematically wrong, not just imprecise.
+Non-contact infrared thermometers in both medical device and industrial categories measure thermal radiation from a surface, but the sensor design, optical filter, and calibration approach are fundamentally different. Using a clinical body thermometer to measure industrial surfaces — or an industrial pyrometer for human temperature screening — produces readings that are systematically wrong, not just imprecise.
 
 **Thermopile sensor and spectral filter.** Both types use a thermopile array (typically 1–16 elements in a single-element TO-5 or TO-18 package) that converts incident infrared radiation to a small voltage via the Seebeck effect. The critical difference is the bandpass filter bonded to the sensor window:
 
@@ -22,9 +22,9 @@ Non-contact infrared thermometers in both categories measure thermal radiation f
 
 ## What this covers
 
-- Body Thermometer vs Industrial IR: Sensor Architecture and Why They Cannot Be Swapped
-- Accuracy Specification Verification: What the Datasheet Does Not Tell You
-- OEM Scope and Private Label: Mold Costs, Firmware, and Which Factories Accept OEM Orders
+- Body Thermometers vs. Industrial IR Pyrometers: Understanding Sensor Architectures
+- Verifying Accuracy Specifications: Beyond the Manufacturer's Datasheet
+- OEM Scope and Private Label Sourcing: Mold Costs, Firmware, and Finding the Right Factory
 
 ---
 

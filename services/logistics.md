@@ -22,11 +22,11 @@ We work with 3–4 vetted forwarders in Shenzhen and Dongguan. For most shipment
 
 ## What this covers
 
-- What We Handle
-- Shipping Mode Comparison
-- Export Documentation
-- Common Mistakes
-- Freight Cost Pass-Through
+- What Our China Freight Forwarder Coordination Handles
+- China to US/EU Shipping Mode Comparison
+- Electronics Export Documentation for Customs
+- Common Freight Forwarding & Customs Mistakes
+- Transparent Freight Forwarding Costs
 
 ---
 

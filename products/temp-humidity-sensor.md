@@ -24,7 +24,7 @@ The action item: verify the actual sensor element part number on a sample agains
 
 - Sensor element is the whole product
 - Display, battery, and protocol
-- Saudi / GCC market notes
+- Sourcing Temperature & Humidity Sensors for Saudi Arabia & the GCC
 
 ---
 

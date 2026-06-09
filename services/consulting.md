@@ -22,11 +22,11 @@ Hardware sourcing advisory covers the decisions that come before a purchase orde
 
 ## What this covers
 
-- What an Engineer-Led Consultant Does
-- Manufacturing Strategy
-- China Manufacturing Project Management
-- When to Bring Us In
-- What You Get
+- What an Engineer-Led China Sourcing Consultant Does
+- China Electronics Manufacturing Strategy
+- China Manufacturing Project Management Services
+- When to Hire a China Sourcing Consultant
+- Sourcing Consulting Deliverables
 
 ---
 

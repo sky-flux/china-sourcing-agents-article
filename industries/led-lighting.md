@@ -22,9 +22,9 @@ Commercial fixtures sold in North America almost always need DLC listing for reb
 
 ## What this covers
 
-- What LED lighting products can you source from China?
-- What are the main risks when sourcing LED lighting from China?
-- Amazon and retail compliance for LED products
+- What LED Lighting Products Can You Source from China?
+- Risks When Sourcing LED Lighting from China
+- Amazon & Retail Compliance for LED Lighting
 
 ---
 

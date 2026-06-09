@@ -22,8 +22,8 @@ TPMS is a safety-critical product — a failure to alert on a low-pressure tire 
 
 ## What this covers
 
-- What to Check When Sourcing
-- Common Issues
+- What to Check When Sourcing TPMS
+- Common Issues with TPMS
 
 ---
 

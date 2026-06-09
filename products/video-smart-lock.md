@@ -24,7 +24,7 @@ A rechargeable Li-ion pack with USB-C emergency charging is standard; confirm a 
 
 - Lock body and face recognition
 - Power, storage, and protocol
-- Saudi / GCC market notes
+- Sourcing Video Smart Locks for Saudi Arabia & the GCC
 
 ---
 

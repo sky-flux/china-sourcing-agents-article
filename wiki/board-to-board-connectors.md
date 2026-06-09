@@ -1,32 +1,32 @@
 ---
-title: "Board-to-Board Connectors: China Sourcing Reference"
-description: "Board-to-board connectors from China: mezzanine/stacking/coplanar, 0.4–1.27mm pitch, high-speed BTB for USB 3.x/PCIe/MIPI, Chinese vs OEM originals."
+title: "Board-to-Board (BTB) Connectors: Complete China Sourcing Guide"
+description: "Ultimate guide to sourcing board-to-board (BTB) connectors from China. Compare Chinese clones vs OEM originals, stacking heights, fine-pitch risks, and…"
 canonical_url: "https://china-sourcing-agents.com/wiki/board-to-board-connectors/"
 ---
 
-# Board-to-Board Connectors: China Sourcing Reference
+# Board-to-Board (BTB) Connectors: Complete China Sourcing Guide
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/board-to-board-connectors/](https://china-sourcing-agents.com/wiki/board-to-board-connectors/)
 
-Board-to-board connectors from China: mezzanine/stacking/coplanar, 0.4–1.27mm pitch, high-speed BTB for USB 3.x/PCIe/MIPI, Chinese vs OEM originals.
+Ultimate guide to sourcing board-to-board (BTB) connectors from China. Compare Chinese clones vs OEM originals, stacking heights, fine-pitch risks, and…
 
 ---
 
-Board-to-board (BTB) connectors connect two PCBs without a cable intermediary. They are used in smartphones, wearables, smartwatches, industrial modules, and any multi-board assembly where cable routing would consume too much space or introduce impedance discontinuities. Sourcing BTB connectors from China requires a clear-eyed assessment of where Chinese alternatives are acceptable and where they are not. At 0.8 mm pitch and above, well-specified Chinese alternatives perform comparably to OEM originals for industrial and non-high-speed consumer applications. At 0.5 mm pitch and below, or for any signal path running USB 3.x, PCIe, or MIPI at full rate, off-brand BTB connectors are a reliability and signal integrity risk that is difficult to characterize without lab equipment. The line is that sharp.
+Board-to-board (BTB) connectors connect two printed circuit boards (PCBs) without a cable intermediary. They are critical components in smartphones, wearables, smartwatches, industrial modules, and any multi-board electronics assembly where cable routing would consume too much space or introduce impedance discontinuities.
+
+Sourcing BTB connectors from China offers significant cost reductions, but it requires a clear-eyed assessment of where Chinese alternatives are acceptable and where they are not. At 0.8 mm pitch and above, well-specified Chinese alternatives perform comparably to OEM originals (like Hirose or Molex) for industrial and non-high-speed consumer applications. However, at 0.5 mm pitch and below, or for any signal path running high-speed data like USB 3.x, PCIe, or MIPI at full rate, off-brand BTB connectors are a reliability and signal integrity risk that is difficult to characterize without expensive lab equipment. The line between cost-savings and field failures is that sharp.
 
 BTB connectors split into three functional categories:
-
-**Mezzanine / stacking connectors:** Two PCBs parallel to each other, connected by a matched plug-and-receptacle pair. The stacking height (distance between board surfaces when mated) is a fixed dimension that determines the mechanical envelope of the assembly. Common stacking heights: 4 mm, 5 mm, 8 mm, 10 mm, 15 mm, 20 mm. Both boards must be designed with matching connector footprints — changing stacking height requires reflowing both boards.
 
 ---
 
 ## What this covers
 
-- Overview
+- Overview of Board-to-Board (BTB) Connectors
 - Key Specifications
-- Main Variants
-- Sourcing from China: What to Look For
-- Common Issues
+- Main BTB Connector Variants and Top Chinese Manufacturers
+- Sourcing BTB Connectors from China: What to Look For
+- Common Quality Issues When Sourcing Chinese BTB Connectors
 
 ---
 

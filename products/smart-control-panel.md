@@ -24,7 +24,7 @@ The action item: review the actual Arabic RTL UI on a sample unit, and verify lo
 
 - Screen, hub, and local control
 - Mounting and power
-- Saudi / GCC market notes
+- Sourcing Smart Home Control Panels for Saudi Arabia & the GCC
 
 ---
 

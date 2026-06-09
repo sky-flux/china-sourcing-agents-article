@@ -22,11 +22,11 @@ Hardware product development in China moves through four stages. We stay involve
 
 ## What this covers
 
-- The Development Lifecycle
-- Where We Build: Manufacturing Hubs
-- Essential Considerations
-- OEM vs ODM: Which Path
-- What You Get
+- The Electronics Hardware Development Lifecycle
+- Best China Manufacturing Hubs for Electronics
+- Essential Considerations for OEM/ODM Development
+- OEM vs ODM: Which Path Should You Choose?
+- Hardware Product Development Deliverables
 
 ---
 

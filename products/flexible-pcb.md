@@ -1,18 +1,18 @@
 ---
-title: "Flexible PCB (FPC) — Single & Double Layer"
-description: "Single and double layer FPC in polyimide, ZIF compatible, defined bend radius. IPC-6013. Prototype from 100, production from 1,000."
+title: "Flexible PCB Manufacturer in China: Single & Double Layer FPC"
+description: "Source high-quality FPCs from a leading flexible PCB manufacturer in China. Single, double layer, and multilayer polyimide flex circuits with ZIF…"
 canonical_url: "https://china-sourcing-agents.com/products/flexible-pcb/"
 ---
 
-# Flexible PCB (FPC) — Single & Double Layer
+# Flexible PCB Manufacturer in China: Single & Double Layer FPC
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/flexible-pcb/](https://china-sourcing-agents.com/products/flexible-pcb/)
 
-Single and double layer FPC in polyimide, ZIF compatible, defined bend radius. IPC-6013. Prototype from 100, production from 1,000.
+Source high-quality FPCs from a leading flexible PCB manufacturer in China. Single, double layer, and multilayer polyimide flex circuits with ZIF…
 
 ---
 
-The minimum bend radius is the single most critical FPC design parameter. Violating it causes conductor fatigue fractures — often intermittent failures that are difficult to diagnose in field returns. Our sourcing service helps you specify the correct material stack for your application, whether it's a PCB assembly project or a wearable device with dynamic flex requirements. See our PCB assembly guide for more on specifying and sourcing printed circuit boards from China.
+The minimum bend radius is the single most critical FPC design parameter in custom FPC fabrication. Violating it causes conductor fatigue fractures — often intermittent failures that are difficult to diagnose in field returns. When choosing a flexible PCB manufacturer in China (FPC), our sourcing service helps you specify the correct polyimide substrate and material stack for your application, whether it's a PCB assembly project or a wearable device with dynamic flex PCB requirements. See our PCB assembly guide for more on specifying and sourcing printed circuit boards from China.
 
 The IPC-2223 design guideline for static flex (bent once during assembly, not repeatedly) specifies a minimum bend radius of 6× the total FPC thickness. For dynamic flex (repeatedly bent during operation, e.g., a flip-phone hinge or wearable band), minimum bend radius is 10–20× the total FPC thickness.
 
@@ -22,7 +22,7 @@ Practical calculation: a single-layer FPC with 25µm PI base + 35µm copper + 25
 
 ## What this covers
 
-- Bend Radius Design Rule
+- Flex Circuit Board Bend Radius Design Rules
 - ZIF vs. FFC Connector Pitch Compatibility
 - Static Flex vs. Dynamic Flex Material Selection
 - Coverlay vs. Solder Mask Trade-off

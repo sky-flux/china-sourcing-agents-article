@@ -22,10 +22,10 @@ Lithium products require UN 38.3 before transport; standalone cells (PI 965) are
 
 ## What this covers
 
-- What power electronics products can you source from China?
-- What are the main risks when sourcing power electronics from China?
-- Amazon Compliance for Charging Products
-- Multi-Market Certification: Realistic Timelines and Costs
+- What Power Electronics Can You Source from China?
+- Risks When Sourcing Power Electronics from China
+- Amazon US Compliance for Charging Products
+- Multi-Market Certification Timelines & Costs
 - DOE Level VI Efficiency Requirements
 
 ---

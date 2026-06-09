@@ -1,18 +1,18 @@
 ---
-title: "18650 / 21700 Cylindrical Battery Cell (Li-ion OEM)"
-description: "18650 and 21700 cell sourcing from China. INR, LFP, NMC chemistry. Samsung SDI, LG Chem, CATL, EVE options. UN 38.3 and IEC 62133 certified."
+title: "18650 & 21700 Battery Cell Manufacturers in China: OEM & Wholesale"
+description: "Source 18650 and 21700 battery cells from top manufacturers in China. Wholesale INR, LFP, and NMC chemistries including Samsung SDI, LG Chem, CATL. UN…"
 canonical_url: "https://china-sourcing-agents.com/products/18650-21700-battery-cell/"
 ---
 
-# 18650 / 21700 Cylindrical Battery Cell (Li-ion OEM)
+# 18650 & 21700 Battery Cell Manufacturers in China: OEM & Wholesale
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/18650-21700-battery-cell/](https://china-sourcing-agents.com/products/18650-21700-battery-cell/)
 
-18650 and 21700 cell sourcing from China. INR, LFP, NMC chemistry. Samsung SDI, LG Chem, CATL, EVE options. UN 38.3 and IEC 62133 certified.
+Source 18650 and 21700 battery cells from top manufacturers in China. Wholesale INR, LFP, and NMC chemistries including Samsung SDI, LG Chem, CATL. UN…
 
 ---
 
-The cylindrical cell market in China has a well-documented counterfeit problem. Cells marked as Samsung INR18650-35E (3,500mAh) are frequently rewrapped domestic cells with actual capacities of 1,200–1,800mAh. The rewrap is not detectable by visual inspection alone — the holographic label, color, and crimping can be near-identical to authentic cells.
+The cylindrical cell market in China has a well-documented counterfeit problem. Rechargeable batteries marked as Samsung INR18650-35E (3,500mAh) are frequently rewrapped domestic cells with actual capacities of 1,200–1,800mAh. The rewrap is not detectable by visual inspection alone — the holographic label, color, and crimping can be near-identical to authentic cells.
 
 **Verification methods before placing a bulk order:**
 
@@ -22,10 +22,10 @@ The cylindrical cell market in China has a well-documented counterfeit problem. 
 
 ## What this covers
 
-- Authentic vs Counterfeit Cells: How to Verify Before Committing
-- 18650 vs 21700: When the Form Factor Change Is Worth It
+- Authentic vs Counterfeit Lithium Ion Cells: How to Verify Before Committing
+- 18650 vs 21700 Battery Cell: When the Form Factor Change Is Worth It
 - UN 38.3 and IATA PI966: What Shipping from China Actually Requires
-- LFP vs NMC: Chemistry Selection for Longevity vs Energy Density
+- LFP vs NMC: Chemistry Selection for Custom Battery Packs
 
 ---
 

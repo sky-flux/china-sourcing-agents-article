@@ -1,6 +1,6 @@
 ---
 title: "Supplier Management Services in China"
-description: "Ongoing China supplier management for electronics buyers: factory verification, production follow-up, and risk control across reorders. Finding a new supplier is the separate sourcing step that comes first."
+description: "Ongoing China supplier management for electronics buyers: factory verification, production follow-up, and risk control across reorders. Finding a new…"
 canonical_url: "https://china-sourcing-agents.com/services/supplier-management/"
 ---
 
@@ -8,7 +8,7 @@ canonical_url: "https://china-sourcing-agents.com/services/supplier-management/"
 
 > **Read the full guide**: [https://china-sourcing-agents.com/services/supplier-management/](https://china-sourcing-agents.com/services/supplier-management/)
 
-Ongoing China supplier management for electronics buyers: factory verification, production follow-up, and risk control across reorders. Finding a new supplier is the separate sourcing step that comes first.
+Ongoing China supplier management for electronics buyers: factory verification, production follow-up, and risk control across reorders. Finding a new…
 
 ---
 
@@ -22,13 +22,13 @@ These are two stages, not the same job. Finding a supplier means searching the m
 
 ## What this covers
 
-- Finding vs. managing suppliers
-- What Ongoing Supplier Management Covers
-- Supplier Verification
-- Production Oversight
-- Building a Long-Term Factory Relationship
-- What Ongoing Management Costs
-- What You Get
+- Sourcing vs. Managing Suppliers in China
+- What Our Ongoing Supplier Management Covers
+- Ongoing China Supplier Verification
+- Production Oversight & Quality Control
+- Building Long-Term Chinese Factory Relationships
+- China Supplier Management Costs & Retainers
+- Supplier Management Deliverables
 
 ---
 

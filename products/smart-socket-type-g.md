@@ -24,7 +24,7 @@ Energy metering (voltage, current, power, kWh) is a common differentiator; the m
 
 - Type G outlet and current rating
 - Energy metering and USB-C
-- Saudi / GCC market notes
+- Sourcing Smart Sockets for Saudi Arabia & the GCC
 
 ---
 

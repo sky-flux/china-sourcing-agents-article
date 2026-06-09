@@ -1,29 +1,29 @@
 ---
-title: "Air Purifier (HEPA H13 + Activated Carbon, 300–500 m³/h)"
-description: "OEM air purifiers with verified HEPA H13 filtration and CADR ratings. CARB, Energy Star, and CE compliance for US, EU, and global wholesale buyers."
+title: "Wholesale OEM Air Purifiers | HEPA H13 & CADR Certified Manufacturers"
+description: "Source high-performance OEM air purifiers directly from top Chinese manufacturers. Featuring true HEPA H13 filtration, 300-500 m³/h CADR, and full CARB/CE…"
 canonical_url: "https://china-sourcing-agents.com/products/air-purifier/"
 ---
 
-# Air Purifier (HEPA H13 + Activated Carbon, 300–500 m³/h)
+# Wholesale OEM Air Purifiers | HEPA H13 & CADR Certified Manufacturers
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/air-purifier/](https://china-sourcing-agents.com/products/air-purifier/)
 
-OEM air purifiers with verified HEPA H13 filtration and CADR ratings. CARB, Energy Star, and CE compliance for US, EU, and global wholesale buyers.
+Source high-performance OEM air purifiers directly from top Chinese manufacturers. Featuring true HEPA H13 filtration, 300-500 m³/h CADR, and full CARB/CE…
 
 ---
 
-Not all HEPA filters are equal. The EN 1822 standard classifies filters from E10 to U17 — "H13" specifically means 99.95% particle retention at the most penetrating particle size (MPPS, typically 0.12–0.25 μm). However, suppliers routinely label filters "HEPA H13" based on the filter media spec sheet without testing the assembled unit. The filter bypass around the frame seal can reduce effective efficiency below H11 levels.
+When sourcing smart home air cleaners and indoor air quality appliances, remember that not all HEPA filters are created equal. The EN 1822 standard classifies filters from E10 to U17. "H13" specifically requires a 99.95% particle retention rate at the most penetrating particle size (MPPS, typically 0.12–0.25 μm). However, many wholesale air purifier factories routinely label their products as "True HEPA H13" based solely on the raw filter media's spec sheet, rather than testing the fully assembled unit. Airflow bypass around weak frame seals can drastically reduce the effective filtration efficiency down to H11 levels.
 
-Our factory audit service can verify whether the factory's filter testing covers the assembled unit or only loose media — a distinction that directly impacts the product your customers receive. Activated carbon quality is similarly inconsistant: virgin coconut shell carbon (CTC value above 60%) outperforms coal-based carbon on VOC adsorption capacity. Request the carbon spec sheet and weight (grams per unit) — effective VOC control requires at least 150g of activated carbon for a 500 m³/h unit.
+Our factory audit service is critical here: we verify whether the OEM manufacturer conducts rigorous testing on the final assembled unit or just the loose media—a distinction that heavily impacts the air quality your customers experience.
 
-CADR (Clean Air Delivery Rate) is measured per AHAM AC-1 test method, conducted in a 1,008 cubic foot room. Factories often provide CADR figures measured in smaller test rooms or under non-standard conditions — these inflate the apparent rating by 20–40%. For US market products, AHAM certification provides third-party verified CADR figures and is recognized by CARB (California Air Resources Board).
+Activated carbon quality is similarly inconsistent across Chinese suppliers. Virgin coconut shell carbon (with a CTC value above 60%) significantly outperforms cheaper coal-based carbon in VOC (volatile organic compound) adsorption. Always request the exact carbon spec sheet and weight (in grams per unit). Effective odor and VOC control in a 500 m³/h capacity unit requires an absolute minimum of 150g of high-grade activated carbon.
 
 ---
 
 ## What this covers
 
-- HEPA H13 Filter Media: Grade Verification Matters
-- CADR Verification and CARB Certification
+- Sourcing OEM Air Purifiers: HEPA H13 Filter Verification
+- CADR Testing Validation and Global Certifications
 
 ---
 

@@ -22,9 +22,9 @@ Smart locks are both a security product and an IoT device — they have mechanic
 
 ## What this covers
 
-- What to Check When Sourcing
-- Common Issues
-- Saudi / GCC market notes
+- What to Check When Sourcing Smart Door Locks
+- Common Issues with Smart Door Locks
+- Sourcing Smart Door Locks for Saudi Arabia & the GCC
 
 ---
 

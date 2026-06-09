@@ -22,9 +22,9 @@ Industrial-grade components (-40°C to 85°C) are routinely substituted with com
 
 ## What this covers
 
-- What industrial IoT products can you source from China?
-- What are the main risks when sourcing industrial IoT hardware from China?
-- How much industrial IoT sourcing experience do you have?
+- What Industrial IoT Hardware Can You Source from China?
+- Risks When Sourcing Industrial IoT Hardware from China
+- Our Industrial IoT Sourcing Experience
 
 ---
 

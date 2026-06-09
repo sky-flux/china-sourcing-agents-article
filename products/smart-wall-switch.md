@@ -24,7 +24,7 @@ The action item: confirm the actual wiring at the installation before ordering, 
 
 - Neutral vs no-neutral — get this right first
 - Panel, load, and protocol
-- Saudi / GCC market notes
+- Sourcing Smart Wall Switches for Saudi Arabia & the GCC
 
 ---
 

@@ -1,14 +1,14 @@
 ---
-title: "AC-DC Power Module"
-description: "OEM AC-DC power modules from China: 5W–250W, IEC 62368-1/UL certified, universal input 85–264VAC. Factory audit and inspection included."
+title: "AC-DC Power Module Manufacturers in China: OEM Sourcing"
+description: "Source high-efficiency AC-DC power modules from trusted OEM manufacturers in China. Find 5W–250W modules with IEC 62368-1/UL certifications, universal…"
 canonical_url: "https://china-sourcing-agents.com/products/ac-dc-power-module/"
 ---
 
-# AC-DC Power Module
+# AC-DC Power Module Manufacturers in China: OEM Sourcing
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/ac-dc-power-module/](https://china-sourcing-agents.com/products/ac-dc-power-module/)
 
-OEM AC-DC power modules from China: 5W–250W, IEC 62368-1/UL certified, universal input 85–264VAC. Factory audit and inspection included.
+Source high-efficiency AC-DC power modules from trusted OEM manufacturers in China. Find 5W–250W modules with IEC 62368-1/UL certifications, universal…
 
 ---
 
@@ -22,9 +22,9 @@ The practical difference for power module buyers: **a CB test report citing IEC 
 
 ## What this covers
 
-- IEC 62368-1 vs IEC 60950-1: Why the Safety Standard Transition Still Catches Buyers Out
-- Standby Power and Efficiency Regulations: EU ErP Lot 6 and US DOE Level VI
-- Leakage Current and Safety Earth: Class I vs Class II for Your Application
+- IEC 62368-1 vs IEC 60950-1: Safety Standards for Power Supply Modules
+- Standby Power and Efficiency Regulations for Switching Power Supplies
+- Leakage Current and Safety Earth: Medical Power Supply and Class II Applications
 - Chinese Supplier Landscape: Tier Structure and What to Actually Check
 
 ---

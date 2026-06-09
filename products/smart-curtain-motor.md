@@ -24,7 +24,7 @@ The action item: test the motor with a representative heavy curtain on the actua
 
 - Torque, noise, and weight
 - Wired vs battery, and protocol
-- Saudi / GCC market notes
+- Sourcing Smart Curtain Motors for Saudi Arabia & the GCC
 
 ---
 

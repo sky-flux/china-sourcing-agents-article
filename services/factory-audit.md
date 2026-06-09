@@ -22,13 +22,13 @@ The most expensive mistake in China sourcing is wiring a deposit to a trader who
 
 ## What this covers
 
-- What we check
-- Trader vs. manufacturer — why this matters
-- What the audit day looks like
-- Audit report deliverables
-- When an audit fails
-- Factory audit checklist (12 points)
-- Pre-shipment inspection (PSI / AQL)
+- What We Verify During a China Factory Audit
+- Spotting Trading Companies vs Real Manufacturers
+- Our On-Site Factory Audit Process
+- China Factory Audit Report & Risk Rating
+- What Happens When a Chinese Supplier Fails an Audit
+- Our 12-Point China Factory Audit Checklist
+- Factory Audits vs Pre-Shipment Inspections
 
 ---
 

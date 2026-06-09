@@ -24,7 +24,7 @@ The action item: confirm the leak event can drive a valve actuator with the inte
 
 - Detection and alarm linkage
 - Probe options and protocol
-- Saudi / GCC market notes
+- Sourcing Water Leak Sensors for Saudi Arabia & the GCC
 
 ---
 

@@ -22,11 +22,11 @@ Wellness-category devices only — clinical/medical claims (FDA 510(k), MDR) are
 
 ## What this covers
 
-- What wearable products can you source from China?
-- What are the main risks when sourcing wearables from China?
-- Flexible PCB Tolerances: Why ±0.1mm Matters
-- Battery Certification: UN 38.3 and IEC 62133
-- Certification Timelines
+- What Wearable Electronics Can You Source from China?
+- Main Risks When Sourcing Wearables from China
+- Wearable Flexible PCB Tolerances: Why ±0.1mm Matters
+- Wearable Battery Certification: UN 38.3 & IEC 62133
+- FCC & CE Certification Timelines for Wearables
 
 ---
 

@@ -22,8 +22,8 @@ Solar panels are a 25-year investment. The price-per-watt you see on Alibaba rar
 
 ## What this covers
 
-- What to Check When Sourcing
-- Common Issues
+- What to Check When Sourcing Monocrystalline Solar Panels
+- Common Issues with Monocrystalline Solar Panels
 
 ---
 

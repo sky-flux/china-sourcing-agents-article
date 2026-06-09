@@ -24,7 +24,7 @@ The action item: require a documented high-temperature soak test (e.g., 60°C) o
 
 - Heat is the Saudi failure mode
 - Connectivity, power, and storage
-- Saudi / GCC market notes
+- Sourcing Solar 4G Security Cameras for Saudi Arabia & the GCC
 
 ---
 

@@ -26,7 +26,7 @@ Protocol selection locks in your chipset, your certification scope, and which fa
 - 24V American vs 230V European Wiring: What Changes in the Hardware
 - Temperature Measurement Accuracy: NTC vs RTD, and Where the Error Actually Comes From
 - Matter Certification Path for OEM Products: Costs, Timelines, and the Pre-Certified Module Shortcut
-- Saudi / GCC market notes
+- Sourcing Smart Thermostats for Saudi Arabia & the GCC
 
 ---
 

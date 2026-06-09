@@ -1,18 +1,18 @@
 ---
-title: "Aluminum Composite Panel / ACP (OEM, PE / FR / A2 Core)"
-description: "Aluminum composite panel from China. 3–6mm, PVDF or PE coating, FR and A2 mineral-core options. CE marked, EN 13501-1 fire classified."
+title: "Aluminum Composite Panel (ACP) | OEM PE / FR / A2 Core Manufacturer"
+description: "Source wholesale Aluminum Composite Panels (ACP) from China. 3–6mm thickness, PVDF/PE coating, fire-rated FR and A2 mineral cores. CE marked & EN 13501-1…"
 canonical_url: "https://china-sourcing-agents.com/products/aluminum-composite-panel/"
 ---
 
-# Aluminum Composite Panel / ACP (OEM, PE / FR / A2 Core)
+# Aluminum Composite Panel (ACP) | OEM PE / FR / A2 Core Manufacturer
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/aluminum-composite-panel/](https://china-sourcing-agents.com/products/aluminum-composite-panel/)
 
-Aluminum composite panel from China. 3–6mm, PVDF or PE coating, FR and A2 mineral-core options. CE marked, EN 13501-1 fire classified.
+Source wholesale Aluminum Composite Panels (ACP) from China. 3–6mm thickness, PVDF/PE coating, fire-rated FR and A2 mineral cores. CE marked & EN 13501-1…
 
 ---
 
-Aluminum composite panel is three-layer product: two aluminum skins bonded to a plastic or mineral core. The core material is the only variable that matters for fire safety compliance — and it directly determines which facade applications the product is legally permitted for in each market.
+Aluminum composite panel (often referred to as ACP sheets or alucobond panels) is a three-layer building material product: two exterior aluminum skins bonded to a central plastic or mineral core. The core material is the single variable that matters for fire safety compliance — and it directly determines which architectural facade applications the product is legally permitted for in each market.
 
 **LDPE core (standard / combustible).** Low-density polyethylene. Excellent flatness, best workability for fabrication (routing, bending, scoring). Fire performance: Class E or D under EN 13501-1 — combustible, produces dense smoke. **This core is prohibited for use on buildings over 18m in height in the UK (post-Grenfell Building Safety Act 2022), buildings over 10m in Germany (Landesbauordnungen), and high-rise facades in most EU member states.** LDPE ACP is still widely used for signage, interior fit-out, and ground-floor commercial frontage where fire height provisions do not apply.
 
@@ -22,8 +22,8 @@ Aluminum composite panel is three-layer product: two aluminum skins bonded to a 
 
 ## What this covers
 
-- Core Material and Fire Classification: The Decision That Determines Market Access
-- PVDF vs PE Coating: Long-Term Weathering Performance
+- Core Material and Fire Classification: Sourcing ACP Building Materials
+- PVDF vs PE Coating: Exterior Wall Cladding Durability
 - Peel Strength and Flatness: Fabrication and Installation Failure Modes
 - Skin Thickness and Alloy: Structural Considerations
 

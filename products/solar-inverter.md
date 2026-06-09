@@ -22,8 +22,8 @@ Off-grid inverters carry safety-critical loads — medical equipment, refrigerat
 
 ## What this covers
 
-- What to Check When Sourcing
-- Common Issues
+- What to Check When Sourcing Off-Grid Solar Inverter / Chargers
+- Common Issues with Off-Grid Solar Inverter / Chargers
 
 ---
 

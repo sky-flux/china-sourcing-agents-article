@@ -25,7 +25,7 @@ The chipset combination determines real-world performance ceilings for consumer 
 - Chipset Selection: What Actually Matters
 - EMI Compliance for Multi-Port Designs
 - HDMI Bandwidth Limits and 4K@60Hz Claims
-- Common Issues
+- Common Issues with USB-C Hub & Docking Stations
 
 ---
 

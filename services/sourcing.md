@@ -1,6 +1,6 @@
 ---
 title: "China Electronics Sourcing & Supplier Matching Service"
-description: "Importing electronics from China starts with finding the right factory. We search 1688, Alibaba, and our factory network to find and verify Chinese suppliers, then shortlist 3–5 worth vetting before you commit to a landed cost."
+description: "Importing electronics from China starts with finding the right factory. We search 1688, Alibaba, and our factory network to find and verify Chinese…"
 canonical_url: "https://china-sourcing-agents.com/services/sourcing/"
 ---
 
@@ -8,7 +8,7 @@ canonical_url: "https://china-sourcing-agents.com/services/sourcing/"
 
 > **Read the full guide**: [https://china-sourcing-agents.com/services/sourcing/](https://china-sourcing-agents.com/services/sourcing/)
 
-Importing electronics from China starts with finding the right factory. We search 1688, Alibaba, and our factory network to find and verify Chinese suppliers, then shortlist 3–5 worth vetting before you commit to a landed cost.
+Importing electronics from China starts with finding the right factory. We search 1688, Alibaba, and our factory network to find and verify Chinese…
 
 ---
 
@@ -22,13 +22,13 @@ Before you commit to a supplier, run the unit price through our import duty and 
 
 ## What this covers
 
-- What We Do
-- Our Process
-- What You Get
-- Where We Search
-- The Shortlisting Process
-- Comparison Report Format
-- What Sourcing Doesn't Include
+- What Our China Electronics Sourcing Service Does
+- Our Step-by-Step China Sourcing Process
+- China Sourcing Agent Deliverables
+- Sourcing Suppliers on 1688 vs Alibaba
+- How We Shortlist Chinese Electronics Manufacturers
+- Supplier Comparison Report & Quotes
+- Sourcing vs Factory Audits
 
 ---
 

@@ -22,9 +22,9 @@ We source the accessory/aftermarket layer only — tier-1 safety systems (engine
 
 ## What this covers
 
-- What automotive electronics can you source from China?
-- Can you source aftermarket parts for Chinese EV brands sold overseas?
-- What are the main risks when sourcing automotive electronics from China?
+- What Automotive Electronics Can You Source from China?
+- Sourcing Aftermarket Parts for Chinese EV Brands
+- Risks When Sourcing Automotive Electronics from China
 
 ---
 

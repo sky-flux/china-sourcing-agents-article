@@ -24,7 +24,7 @@ Suction pressure in Pa is measured at the suction inlet with no airflow (blocked
 
 - LiDAR vs vSLAM Navigation: What to Specify
 - Suction Pa Measurement and IEC 60312 Compliance
-- Saudi / GCC market notes
+- Sourcing Robot Vacuum Cleaners for Saudi Arabia & the GCC
 
 ---
 

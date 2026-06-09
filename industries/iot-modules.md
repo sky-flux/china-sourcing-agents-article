@@ -22,9 +22,9 @@ Band plans are region-specific (868 MHz EU, 915 MHz US, 470–510 MHz CN); pre-c
 
 ## What this covers
 
-- What IoT module products can you source from China?
-- What are the main risks when sourcing IoT modules from China?
-- How much IoT module sourcing experience do you have?
+- What IoT Modules Can You Source from China?
+- Risks When Sourcing IoT Modules from China
+- Our IoT Module Sourcing Experience
 
 ---
 

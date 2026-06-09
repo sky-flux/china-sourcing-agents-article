@@ -22,10 +22,10 @@ For the underlying wireless modules used in many of these products — Zigbee So
 
 ## What this covers
 
-- What smart home products can you source from China?
-- What are the main risks when sourcing smart home devices from China?
-- How much smart home sourcing experience do you have?
-- Can you source smart home devices for the Saudi Arabia and GCC market?
+- What Smart Home Devices Can You Source from China?
+- Risks When Sourcing Smart Home Devices from China
+- Our Smart Home Sourcing Experience
+- Sourcing Smart Home Devices for Saudi Arabia & GCC
 
 ---
 

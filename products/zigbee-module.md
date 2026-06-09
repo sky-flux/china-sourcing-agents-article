@@ -25,8 +25,8 @@ If your product uses Zigbee for its connectivity but does not market it using th
 - Zigbee Alliance Certification: Mandatory for the Trademark
 - CC2652 vs. EFR32: Ecosystem Comparison
 - Matter / Thread Migration Path
-- Common Issues
-- Saudi / GCC market notes
+- Common Issues with Zigbee 3.0 Modules
+- Sourcing Zigbee 3.0 Modules for Saudi Arabia & the GCC
 
 ---
 

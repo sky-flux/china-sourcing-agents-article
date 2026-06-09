@@ -1,6 +1,6 @@
 ---
 title: "Tuya Smart Platform: OEM Smart Home Sourcing from China"
-description: "Tuya powers most white-label smart home devices from China: the OEM app model, Arabic language support, Alexa/Google integration, and cloud-region trade-offs."
+description: "Tuya powers most white-label smart home devices from China: the OEM app model, Arabic language support, Alexa/Google integration, and cloud-region…"
 canonical_url: "https://china-sourcing-agents.com/wiki/tuya-smart-platform/"
 ---
 
@@ -8,7 +8,7 @@ canonical_url: "https://china-sourcing-agents.com/wiki/tuya-smart-platform/"
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/tuya-smart-platform/](https://china-sourcing-agents.com/wiki/tuya-smart-platform/)
 
-Tuya powers most white-label smart home devices from China: the OEM app model, Arabic language support, Alexa/Google integration, and cloud-region trade-offs.
+Tuya powers most white-label smart home devices from China: the OEM app model, Arabic language support, Alexa/Google integration, and cloud-region…
 
 ---
 

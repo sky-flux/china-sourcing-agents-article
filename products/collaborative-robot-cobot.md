@@ -1,18 +1,18 @@
 ---
-title: "Collaborative Robot / Cobot"
-description: "CE-certified collaborative robots from China. 3–20kg payload, ±0.02–0.05mm repeatability, ISO/TS 15066 compliant. OEM from AUBO, JAKA, Elite."
+title: "Wholesale Collaborative Robots (Cobots) from China: OEM & CE Certified"
+description: "Source top-tier CE-certified collaborative robots (cobots) from leading Chinese manufacturers like AUBO, JAKA, and Elite. Featuring 3–20kg payloads…"
 canonical_url: "https://china-sourcing-agents.com/products/collaborative-robot-cobot/"
 ---
 
-# Collaborative Robot / Cobot
+# Wholesale Collaborative Robots (Cobots) from China: OEM & CE Certified
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/collaborative-robot-cobot/](https://china-sourcing-agents.com/products/collaborative-robot-cobot/)
 
-CE-certified collaborative robots from China. 3–20kg payload, ±0.02–0.05mm repeatability, ISO/TS 15066 compliant. OEM from AUBO, JAKA, Elite.
+Source top-tier CE-certified collaborative robots (cobots) from leading Chinese manufacturers like AUBO, JAKA, and Elite. Featuring 3–20kg payloads…
 
 ---
 
-ISO/TS 15066 defines the power-and-force limits for collaborative robot operation — the technical standard behind every "safe for human-robot collaboration" claim. Understanding what it covers (and what it does not) is essential before committing to a supplier.
+ISO/TS 15066 defines the power-and-force limits for collaborative robot operation — the technical standard behind every "safe for human-robot collaboration" claim in smart manufacturing. Understanding what it covers (and what it does not) is essential before committing to an industrial automation supplier.
 
 **Body region contact force limits (ISO/TS 15066, Table A.2):** The standard specifies transient contact force limits by body region. Relevant thresholds for typical applications: head and neck (130N), sternum (140N), finger (140N), palm (180N), forearm (180N). These are not robot design specs — they are the limits the complete robot cell must not exceed during an unintended contact event. The cobot manufacturer's job is to provide a robot capable of being configured to stay within these limits. The integrator's job is to verify the complete cell meets them.
 
@@ -22,10 +22,10 @@ ISO/TS 15066 defines the power-and-force limits for collaborative robot operatio
 
 ## What this covers
 
-- ISO/TS 15066 and CE Machinery Directive: What the Certification Actually Covers
-- Joint Torque Sensing vs Speed-and-Separation Monitoring: The Cost-Safety Trade-off
-- Repeatability, Path Accuracy, and Total Cost of Ownership
-- Chinese Cobot Supplier Landscape
+- ISO/TS 15066 & CE Machinery Directive: Ensuring Safe Cobot Automation
+- Joint Torque Sensing vs. Speed-and-Separation Monitoring: Cost & Safety in Collaborative Robotics
+- Repeatability, Path Accuracy, and Cobot Total Cost of Ownership (TCO)
+- Top Chinese Collaborative Robot (Cobot) Supplier Landscape
 
 ---
 

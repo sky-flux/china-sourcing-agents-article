@@ -24,7 +24,7 @@ The action item: specify the exact tube diameter and the heaviest fabric/drop in
 
 - Tube size, torque, and load
 - Power and control
-- Saudi / GCC market notes
+- Sourcing Smart Tubular Motors for Saudi Arabia & the GCC
 
 ---
 

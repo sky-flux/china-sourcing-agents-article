@@ -1,30 +1,30 @@
 ---
-title: "Explosion-Proof LED Light (20W–200W)"
-description: "ATEX/IECEx Zone 1 & 2 LED luminaire for oil refineries, chemical plants, and offshore. GRP or stainless, T4–T6 temperature class."
+title: "ATEX/IECEx Explosion-Proof LED Light Manufacturer: 20W-200W"
+description: "Source certified explosion-proof LED lights (20W-200W) from top China manufacturers. ATEX and IECEx approved for Zone 1 and Zone 2 hazardous areas. Ideal…"
 canonical_url: "https://china-sourcing-agents.com/products/explosion-proof-light/"
 ---
 
-# Explosion-Proof LED Light (20W–200W)
+# ATEX/IECEx Explosion-Proof LED Light Manufacturer: 20W-200W
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/explosion-proof-light/](https://china-sourcing-agents.com/products/explosion-proof-light/)
 
-ATEX/IECEx Zone 1 & 2 LED luminaire for oil refineries, chemical plants, and offshore. GRP or stainless, T4–T6 temperature class.
+Source certified explosion-proof LED lights (20W-200W) from top China manufacturers. ATEX and IECEx approved for Zone 1 and Zone 2 hazardous areas. Ideal…
 
 ---
 
 import heroImage from '../../../assets/explosion-proof-light.webp';
 
-Explosion-proof LED lights are certified luminaires designed for installation in locations where flammable gases, vapours, or combustible dusts may be present. The term "explosion-proof" is technically a North American designation (UL 844); in the IEC/ATEX system the equivalent concept is Ex d (flameproof enclosure). Both serve the same function: preventing an internal fault or arc from igniting the surrounding atmosphere.
+<Image src={heroImage} alt="ATEX explosion-proof LED light for hazardous area Zone 1 and Zone 2 installations" widths={[400, 800]} sizes="(max-width: 640px) 100vw, 800px" loading="lazy" decoding="async" /
 
-The ATEX/IECEx zone classification system divides hazardous locations by how frequently an explosive atmosphere is present:
+Explosion-proof LED lights and industrial lighting fixtures are certified luminaires designed for installation in hazardous environments where flammable gases, vapours, or combustible dusts may be present. The term "explosion-proof" is technically a North American designation (UL 844); in the IEC/ATEX system the equivalent concept is Ex d (flameproof enclosure). Both serve the same function: preventing an internal fault or arc from igniting the surrounding atmosphere.
 
 ---
 
 ## What this covers
 
-- What This Product Is
-- Key Specifications to Specify
-- Common Issues
+- Understanding ATEX/IECEx Explosion-Proof LED Lighting
+- Key Specifications for Hazardous Area LED Lights
+- Common Sourcing Issues with Explosion-Proof Lighting from China
 
 ---
 

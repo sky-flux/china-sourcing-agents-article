@@ -25,7 +25,7 @@ ESP32-based modules can be programmed via two primary frameworks, and your choic
 - ESP-IDF vs. Arduino: Firmware Development Tradeoffs
 - Production Flash Programming
 - PCB Antenna vs. External Antenna RF Performance
-- Common Issues
+- Common Issues with WiFi + BLE Modules
 
 ---
 

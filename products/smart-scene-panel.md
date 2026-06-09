@@ -24,7 +24,7 @@ The action item: ask for a demonstration of a multi-device scene firing with the
 
 - Scene logic and local control
 - Screen vs button, and Arabic UI
-- Saudi / GCC market notes
+- Sourcing Smart Scene Panels for Saudi Arabia & the GCC
 
 ---
 

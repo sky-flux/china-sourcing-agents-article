@@ -1,18 +1,18 @@
 ---
-title: "Compact Tractor OEM Manufacturer China"
-description: "Compact tractor 18–55HP China OEM manufacturer. Diesel or EV, CE Machinery Directive, 5-unit MOQ, EU/US distributor import. Gear drive or HST."
+title: "Wholesale Compact Tractors: OEM Manufacturer in China (18-55 HP)"
+description: "Source 18-55 HP compact tractors from top OEM manufacturers in China. Available in diesel or EV, featuring CE/EPA certifications, gear drive or HST, and…"
 canonical_url: "https://china-sourcing-agents.com/products/compact-tractor-oem/"
 ---
 
-# Compact Tractor OEM Manufacturer China
+# Wholesale Compact Tractors: OEM Manufacturer in China (18-55 HP)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/compact-tractor-oem/](https://china-sourcing-agents.com/products/compact-tractor-oem/)
 
-Compact tractor 18–55HP China OEM manufacturer. Diesel or EV, CE Machinery Directive, 5-unit MOQ, EU/US distributor import. Gear drive or HST.
+Source 18-55 HP compact tractors from top OEM manufacturers in China. Available in diesel or EV, featuring CE/EPA certifications, gear drive or HST, and…
 
 ---
 
-Chinese compact tractor factories source engines from three distinct supply tiers, and the tier matters more than the badge on the bonnet.
+Chinese compact tractor factories source engines from three distinct supply tiers, and the tier matters more than the badge on the bonnet for agricultural machinery distributors.
 
 **Genuine Yanmar and Kubota engines** are the top of the hierarchy. A handful of Chinese factories — primarily those targeting the Japanese re-import market or premium European distributors — are authorised to purchase genuine Yanmar 3TNV and 3YM series engines or Kubota D and V series engines directly from the OEM. These carry full factory warranty pass-through, established spare parts networks, and exact spec conformance. They also add $1,200–2,500 per unit to ex-factory cost at low volumes.
 
@@ -22,9 +22,9 @@ Chinese compact tractor factories source engines from three distinct supply tier
 
 ## What this covers
 
-- Engine Source and Drivetrain Selection
-- CE Machinery Directive and Safety Certification
-- OEM, Private Label, and Import Logistics
+- Engine Source & Drivetrain Selection for Agricultural Machinery
+- CE Machinery Directive, EPA Tier 4, and Farm Equipment Safety Certification
+- OEM Private Label Programs & Global Import Logistics for Farm Equipment
 
 ---
 

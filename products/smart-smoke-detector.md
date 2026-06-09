@@ -26,7 +26,7 @@ UL 217 8th edition (effective January 2021) added TF (Thistle Fire) sensitivity 
 - Photoelectric vs Ionization vs Dual-Sensor: OEM Configuration Trade-offs
 - Smart Interconnect and Protocol: Zigbee vs WiFi vs Matter
 - CE and UL Certification Paths for OEM Buyers
-- Saudi / GCC market notes
+- Sourcing Smart Smoke & Carbon Monoxide Detectors for Saudi Arabia & the GCC
 
 ---
 

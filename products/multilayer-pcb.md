@@ -1,14 +1,14 @@
 ---
-title: "Multilayer PCB (4–12 Layer, FR4)"
-description: "4–12 layer FR4 PCB manufacturing: ENIG, HASL, or OSP surface finish. IPC-A-600 Class 2 and 3. Prototype from 50 panels, production from 500 panels."
+title: "Custom Multilayer PCB Manufacturer (4–12 Layer, FR4) | China Sourcing"
+description: "Source 4–12 layer FR4 printed circuit boards (PCB). ENIG, HASL, OSP finishes. IPC-A-600 Class 2/3. Prototype and high-volume PCB fabrication in China."
 canonical_url: "https://china-sourcing-agents.com/products/multilayer-pcb/"
 ---
 
-# Multilayer PCB (4–12 Layer, FR4)
+# Custom Multilayer PCB Manufacturer (4–12 Layer, FR4) | China Sourcing
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/multilayer-pcb/](https://china-sourcing-agents.com/products/multilayer-pcb/)
 
-4–12 layer FR4 PCB manufacturing: ENIG, HASL, or OSP surface finish. IPC-A-600 Class 2 and 3. Prototype from 50 panels, production from 500 panels.
+Source 4–12 layer FR4 printed circuit boards (PCB). ENIG, HASL, OSP finishes. IPC-A-600 Class 2/3. Prototype and high-volume PCB fabrication in China.
 
 ---
 
@@ -22,10 +22,10 @@ IPC-A-600 defines acceptability criteria for PCB manufacturing. Choosing the cor
 
 ## What this covers
 
-- IPC-A-600 Class 2 vs. Class 3: Choosing the Right Standard
-- ENIG vs. HASL: Surface Finish Trade-offs
-- Controlled Impedance Verification
-- Gerber File Checklist Before Placing an Order
+- IPC-A-600 Class 2 vs. Class 3: PCB Fabrication Standards
+- ENIG vs. HASL: PCB Surface Finish Trade-offs
+- Controlled Impedance for High-Speed PCB Designs
+- Gerber File Checklist for Custom PCB Manufacturing
 
 ---
 

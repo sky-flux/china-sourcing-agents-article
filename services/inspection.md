@@ -22,12 +22,12 @@ At 20–30% production completion. We pull samples from the line, run functional
 
 ## What this covers
 
-- Three-Stage QC
-- What We Check
-- When to skip a stage
-- AQL sampling in plain terms
-- Electronics-specific tests
-- What the report includes
+- Our Three-Stage China Quality Control Process
+- What Our Electronics Quality Inspectors Check
+- When to Skip a QC Inspection Stage
+- Understanding AQL Sampling for Electronics
+- Electronics-Specific Quality Control Tests
+- Quality Inspection Report Deliverables
 
 ---
 

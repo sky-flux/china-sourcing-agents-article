@@ -24,7 +24,7 @@ The action item: require the accredited photometric report at the production dri
 
 - Driver, thermal design, and efficacy
 - Control and sectional dimming
-- Saudi / GCC market notes
+- Sourcing Smart Ceiling Lights for Saudi Arabia & the GCC
 
 ---
 

@@ -24,7 +24,7 @@ The action item: require an **accredited photometric report** (ILAC lab) showing
 
 - RGBCW driver and efficacy
 - Protocol and control
-- Saudi / GCC market notes
+- Sourcing Smart Downlights for Saudi Arabia & the GCC
 
 ---
 

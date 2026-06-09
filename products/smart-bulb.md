@@ -22,9 +22,9 @@ The smart home lighting module ecosystem has consolidated around a few chipsets 
 
 ## What this covers
 
-- What to Check When Sourcing
-- Common Issues
-- Saudi / GCC market notes
+- What to Check When Sourcing Smart LED Bulbs
+- Common Issues with Smart LED Bulbs
+- Sourcing Smart LED Bulbs for Saudi Arabia & the GCC
 
 ---
 

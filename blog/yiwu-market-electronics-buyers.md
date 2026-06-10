@@ -33,6 +33,7 @@ The market is organized by product type: District 1 covers jewelry, accessories,
 
 ## Further reading
 
+- [what to sell during World Cup 2026](https://china-sourcing-agents.com/blog/what-to-sell-during-world-cup-2026/)
 - [Shenzhen electronics market guide](https://china-sourcing-agents.com/guides/shenzhen-electronics-market-guide/)
 - [sourcing agent](https://china-sourcing-agents.com/services/sourcing/)
 - [Alibaba vs 1688 comparison guide](https://china-sourcing-agents.com/guides/alibaba-vs-1688/)

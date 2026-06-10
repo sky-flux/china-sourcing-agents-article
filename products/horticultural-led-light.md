@@ -14,9 +14,9 @@ Source full-spectrum commercial horticultural LED grow lights directly from Chin
 
 import heroImage from '../../../assets/horticultural-led-light.webp';
 
-<Image src={heroImage} alt="Horticultural LED grow light for cannabis and indoor vertical farming" widths={[400, 800]} sizes="(max-width: 640px) 100vw, 800px" loading="lazy" decoding="async" /
-
 Horticultural LED grow lights are measured by a completely different set of metrics than general-purpose lighting. The standard lighting metric — lumens per watt (lm/W) — is irrelevant for plant applications. Lumens measure perceived brightness by the human eye, which is weighted toward green wavelengths. Plants use photons in the 400–700nm PAR (Photosynthetically Active Radiation) range, with red (620–700nm) and blue (400–500nm) driving the majority of photosynthesis. A supplier quoting lm/W for a commercial grow light is either uninformed or deflecting from actual agricultural performance.
+
+The three metrics that matter are PPF, PPFD, and PPE. PPF (Photosynthetic Photon Flux) is the total photon output of the fixture in µmol/s — a fixture-level number measured in an integrating sphere. PPFD (Photosynthetic Photon Flux Density) is the photon flux received at a specific point on the canopy, measured in µmol/m²/s at a stated distance and coverage area. PPE (Photon Efficacy) is the ratio of PPF to input wattage in µmol/J — the efficiency metric equivalent to lm/W in general lighting. PPE ≥2.5 µmol/J is the current commercial baseline; top-tier fixtures using Samsung LM301H at reduced drive current reach 3.0 µmol/J and above.
 
 ---
 

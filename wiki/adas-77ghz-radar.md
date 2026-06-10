@@ -14,9 +14,9 @@ canonical_url: "https://china-sourcing-agents.com/wiki/adas-77ghz-radar/"
 
 import heroImage from '../../../assets/adas-77ghz-radar.webp';
 
-<Image src={heroImage} alt="77GHz FMCW radar sensor module for ADAS" widths={[400, 800]} sizes="(max-width: 640px) 100vw, 800px" loading="lazy" decoding="async" /
-
 77 GHz FMCW radar is one of the hardest automotive electronics categories to source responsibly from China. The chipsets are real, the Chinese module OEMs are real — but the AEC-Q100 qualification gap between commercial and automotive-grade silicon is consistently misrepresented by lower-tier suppliers. For any ADAS application, verifying the actual qualification grade of the radar IC before production commits is not optional.
+
+Millimeter-wave radar sensors operating in the 76–81 GHz band (ITU-R RA.769 allocated) are the dominant sensing modality for automotive adaptive cruise control (ACC), automatic emergency braking (AEB), blind-spot detection (BSD), and lane-change assist (LCA). Unlike cameras, they operate reliably in rain, fog, dust, and darkness. Unlike LiDAR, they directly measure radial velocity via the Doppler effect with no post-processing required.
 
 ---
 

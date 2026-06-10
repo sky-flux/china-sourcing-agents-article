@@ -14,9 +14,9 @@ Source certified explosion-proof LED lights (20W-200W) from top China manufactur
 
 import heroImage from '../../../assets/explosion-proof-light.webp';
 
-<Image src={heroImage} alt="ATEX explosion-proof LED light for hazardous area Zone 1 and Zone 2 installations" widths={[400, 800]} sizes="(max-width: 640px) 100vw, 800px" loading="lazy" decoding="async" /
-
 Explosion-proof LED lights and industrial lighting fixtures are certified luminaires designed for installation in hazardous environments where flammable gases, vapours, or combustible dusts may be present. The term "explosion-proof" is technically a North American designation (UL 844); in the IEC/ATEX system the equivalent concept is Ex d (flameproof enclosure). Both serve the same function: preventing an internal fault or arc from igniting the surrounding atmosphere.
+
+The ATEX/IECEx zone classification system divides hazardous locations by how frequently an explosive atmosphere is present:
 
 ---
 

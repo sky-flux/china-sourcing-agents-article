@@ -14,9 +14,9 @@ Source high-efficiency E40 LED retrofit lamps (30W–80W, T46/T65) from China. P
 
 import heroImage from '../../../assets/e40-led-retrofit-lamp.webp';
 
-<Image src={heroImage} alt="E40 LED retrofit lamp technical sourcing illustration" widths={[400, 800]} sizes="(max-width: 640px) 100vw, 800px" loading="lazy" decoding="async" /
-
 The E40 LED retrofit lamp (often referred to as an LED corn bulb) directly replaces traditional high-intensity discharge (HID) lamps—including metal halide, high-pressure sodium, and mercury vapour lamps—in existing industrial and street-lighting fixtures without requiring you to change the physical housing. The E40 Goliath screw base is the undisputed standard for high-wattage luminaires across Europe, the Middle East, and South/Southeast Asia. Our specialized sourcing service helps you identify top-tier Chinese factories with genuine thermal test data and verified LED driver reliability—not just fabricated paper specs. Additionally, our industrial IoT expertise extends to aggressively evaluating power supply quality for large-scale, smart industrial lighting deployments.
+
+The commercial and energy-saving case is straightforward: a 40W LED retrofit delivering 7,200 lm efficiently replaces a 250W HID lamp that nominally produces 22,000 lm. Because a traditional HID fixture at end-of-life is often running at only 50–60% of its rated output, the actual replacement ratio is closer to 1:1 in perceived visual brightness. Combined with a massive 6× lower power draw, LED retrofit payback periods of 18–36 months are typical in demanding 3,000+ hour/year industrial applications.
 
 ---
 

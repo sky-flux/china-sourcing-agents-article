@@ -1,22 +1,22 @@
 ---
-title: "What to Sell During World Cup 2026: 12 IP-Safe Products to Source from China"
-description: "12 products to source from China for World Cup 2026 demand — cooling gear, watch-party electronics, outdoor kit. No FIFA license needed, air-freight ready."
+title: "What to Sell During World Cup 2026: 12 Generic Products to Source from China"
+description: "12 generic football-season products to source from China for World Cup 2026 — cooling gear, watch-party electronics, outdoor kit, no official marks."
 canonical_url: "https://china-sourcing-agents.com/blog/what-to-sell-during-world-cup-2026/"
 ---
 
-# What to Sell During World Cup 2026: 12 IP-Safe Products to Source from China
+# What to Sell During World Cup 2026: 12 Generic Products to Source from China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/blog/what-to-sell-during-world-cup-2026/](https://china-sourcing-agents.com/blog/what-to-sell-during-world-cup-2026/)
 
-12 products to source from China for World Cup 2026 demand — cooling gear, watch-party electronics, outdoor kit. No FIFA license needed, air-freight ready.
+12 generic football-season products to source from China for World Cup 2026 — cooling gear, watch-party electronics, outdoor kit, no official marks.
 
 ---
 
-The 2026 World Cup opens June 11 at Estadio Azteca in Mexico City — 48 teams, 104 matches, 16 host cities, five weeks of demand compressed into one summer. The obvious way to sell into it is tournament merchandise. It is also the wrong way: FIFA's trademark portfolio turns branded merchandise into a customs-seizure lottery unless you buy from licensed distributors at licensed margins.
+The 2026 World Cup opens June 11 at Estadio Azteca in Mexico City — 48 teams, 104 matches, 16 host cities, five weeks of demand compressed into one summer across the United States, Mexico, and Canada. The obvious product category — official-looking merchandise — is also the riskiest: FIFA's trademark portfolio turns it into a customs-seizure lottery unless you buy from licensed distributors at licensed margins.
 
-The better play is the one this article maps: products the tournament makes people buy without carrying anyone's intellectual property. A neck fan in a 35°C stadium parking lot needs no logo to sell. Neither does the projector running a backyard watch party, or the cooling towel in the colors of whoever made the quarterfinals. Twelve product categories follow, with the sourcing route and compliance notes for each — and one structural advantage over merchandise: every item on this list keeps selling after the final, because none of it says "World Cup" on it.
+The better sourcing strategy is generic football-season products: cooling gear, outdoor viewing kit, party electronics, and summer accessories that carry no official tournament marks, team crests, mascots, player images, or sponsor branding. A neck fan in a 35°C stadium parking lot needs no logo to sell. Neither does the projector running a backyard watch party, or the cooling towel in the colors of whoever made the quarterfinals. Twelve product categories follow, with the sourcing route and compliance notes for each — and one structural advantage over merchandise: every item on this list keeps selling after the final, because none of it says "World Cup" on it.
 
-Unbranded essentials clear all three problems and remove the deadline problem too: merchandise is worthless on July 20, while summer essentials sell through August.
+The same guidelines allow generic football and country-related imagery — which is exactly the territory this list stays in:
 
 ---
 

@@ -36,7 +36,7 @@ For global sourcing buyers, the immediate opportunity is not purchasing the fini
 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
-- [Qingdao sourcing](https://china-sourcing-agents.com/cities/en/qingdao-sourcing-agent/)
-- [Yantai sourcing](https://china-sourcing-agents.com/cities/en/yantai-sourcing-agent/)
+- [Qingdao sourcing](https://china-sourcing-agents.com/cities/qingdao-sourcing-agent/)
+- [Yantai sourcing](https://china-sourcing-agents.com/cities/yantai-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/jinan-sourcing-agent/)
 

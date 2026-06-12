@@ -31,7 +31,7 @@ The city sits strategically in eastern Guangdong, exactly 30 minutes from both C
 
 ## Further reading
 
-- [Chaozhou](https://china-sourcing-agents.com/cities/en/chaozhou-sourcing-agent/)
-- [Shantou](https://china-sourcing-agents.com/cities/en/shantou-sourcing-agent/)
+- [Chaozhou](https://china-sourcing-agents.com/cities/chaozhou-sourcing-agent/)
+- [Shantou](https://china-sourcing-agents.com/cities/shantou-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/jieyang-sourcing-agent/)
 

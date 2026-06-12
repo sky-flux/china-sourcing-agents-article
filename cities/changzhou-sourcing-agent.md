@@ -33,7 +33,7 @@ Beyond vehicles, Changzhou has established formidable clusters in LED lighting, 
 
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [Wuhan](https://china-sourcing-agents.com/cities/en/wuhan-sourcing-agent/)
+- [Wuhan](https://china-sourcing-agents.com/cities/wuhan-sourcing-agent/)
 - [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/changzhou-sourcing-agent/)
 

@@ -35,8 +35,8 @@ Yunnan's overwhelming flower dominance is both geographic and climatic. The prov
 ## Further reading
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [Shenzhen](https://china-sourcing-agents.com/cities/en/shenzhen-sourcing-agent/)
-- [Dongguan](https://china-sourcing-agents.com/cities/en/dongguan-sourcing-agent/)
-- [Suzhou](https://china-sourcing-agents.com/cities/en/suzhou-sourcing-agent/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
+- [Dongguan](https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/)
+- [Suzhou](https://china-sourcing-agents.com/cities/suzhou-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/kunming-sourcing-agent/)
 

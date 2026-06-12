@@ -27,6 +27,7 @@ The most expensive mistake in China sourcing is wiring a deposit to a trader who
 - Our On-Site Factory Audit Process
 - China Factory Audit Report & Risk Rating
 - What Happens When a Chinese Supplier Fails an Audit
+- Do You Need an On-Site Audit, or Is a Video Call Enough?
 - Our 12-Point China Factory Audit Checklist
 - Factory Audits vs Pre-Shipment Inspections
 

@@ -32,6 +32,7 @@ When sourcing from an electric kettle OEM manufacturer in China, variable-temper
 
 - [quality inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [private label management service](https://china-sourcing-agents.com/services/private-label/)
+- [air fryer private label guide](https://china-sourcing-agents.com/guides/air-fryer-private-label-china/)
 - [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/electric-kettle-oem/)
 

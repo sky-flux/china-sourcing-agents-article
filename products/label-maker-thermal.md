@@ -30,6 +30,8 @@ For modern buyers and tech companies developing specialized mobile printing apps
 ## Further reading
 
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
-- [product development](https://china-sourcing-agents.com/services/product-development/)
+- [logistics](https://china-sourcing-agents.com/services/logistics/)
+- [thermal printing device](https://china-sourcing-agents.com/products/thermal-pos-printer/)
+- [Chinese factories](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/label-maker-thermal/)
 

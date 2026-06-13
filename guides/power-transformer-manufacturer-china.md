@@ -36,7 +36,7 @@ Before contacting any manufacturer, define your specification precisely. Chinese
 
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [EV charging infrastructure](https://china-sourcing-agents.com/guides/ev-charger-manufacturers-china/)
+- [grid operator approval](https://china-sourcing-agents.com/wiki/netzbetreiberzulassungen/)
 - [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
-- [Xi'an](https://china-sourcing-agents.com/cities/xian-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/power-transformer-manufacturer-china/)
 

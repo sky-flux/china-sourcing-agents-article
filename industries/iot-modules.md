@@ -16,7 +16,7 @@ IoT modules are pre-assembled wireless connectivity boards — LoRa/LoRaWAN, BLE
 
 IoT module sourcing covers a fragmented supplier landscape. The products we source regularly, with the specific chips that matter:
 
-Band plans are region-specific (868 MHz EU, 915 MHz US, 470–510 MHz CN); pre-certified modules where the factory holds the certification are almost always cheaper than certifying your end product from scratch.
+For the specific sourcing risks around Espressif ESP32 modules — variant substitution, certification documentation, and Shenzhen supplier verification — see ESP32 OEM in China: Variants, Modules, and Certification.
 
 ---
 

@@ -14,9 +14,9 @@ A buyer's guide to sourcing Zigbee, Matter, and Thread smart home hardware from 
 
 Smart home devices from China cover Zigbee controllers, Thread devices, Matter-compatible hubs, smart plugs, sensors, and lighting controllers. Matter certification takes 3–6 months and costs $5,000–15,000. Multi-protocol interoperability testing adds another 4–8 weeks. If you are sourcing smart home hardware for the US or EU market, certification is the schedule-critical item — start it before production tooling is cut.
 
-This guide covers the four decisions that determine whether a smart home sourcing project runs on time: protocol choice and its certification consequences, factory selection criteria specific to smart home, simultaneous multi-market certification strategy, and quality inspection requirements. For the broader certification picture across the US, EU, and UK, see multi-market certification.
+Before contacting factories, walk a European retail show such as IFA Berlin to see which smart-home categories retailers are actually shelving — the signal is more reliable than Alibaba trend lists.
 
-The category is broader than it looks. Products that qualify include:
+This guide covers the four decisions that determine whether a smart home sourcing project runs on time: protocol choice and its certification consequences, factory selection criteria specific to smart home, simultaneous multi-market certification strategy, and quality inspection requirements. For the broader certification picture across the US, EU, and UK, see multi-market certification.
 
 ---
 

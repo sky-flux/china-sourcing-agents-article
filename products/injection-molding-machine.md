@@ -32,6 +32,8 @@ When sourcing an injection molding machine from a Chinese manufacturer, the driv
 ## Further reading
 
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [Chinese manufacturer](https://china-sourcing-agents.com/cities/ningbo-sourcing-agent/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
+- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/injection-molding-machine/)
 

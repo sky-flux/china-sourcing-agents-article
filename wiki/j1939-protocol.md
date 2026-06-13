@@ -35,7 +35,7 @@ J1939 is **not** a replacement for OBD-II in passenger cars. It is a separate ec
 
 - [4G vehicle trackers for fleet telematics](https://china-sourcing-agents.com/products/gps-4g-vehicle-tracker/)
 - [OBD2 diagnostic hardware](https://china-sourcing-agents.com/products/obd2-scanner/)
+- [D-Sub DB9 connector](https://china-sourcing-agents.com/wiki/dsub-connectors/)
 - [4G/5G industrial routers for CAN backhaul](https://china-sourcing-agents.com/products/4g-5g-industrial-router/)
-- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/j1939-protocol/)
 

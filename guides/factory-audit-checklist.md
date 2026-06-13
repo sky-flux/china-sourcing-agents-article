@@ -12,11 +12,11 @@ A practical checklist for auditing Chinese electronics factories. What to check,
 
 ---
 
+Written by Martin Wang, founder and sourcing engineer at Sky Flux.
+
 Factory audits intimidate most buyers because they don't know what to look for. This checklist covers 47 specific things to verify — with explanations of why each matters. If you're earlier in the process, start with our complete sourcing guide before diving into audit specifics. If you need to verify a supplier's legitimacy before scheduling a visit — checking their business registration, cross-referencing certifications, and running online lookups — see how to verify a Chinese supplier first.
 
 Skipping a factory audit is one of the most expensive mistakes a hardware buyer can make. The cost of a proper audit runs $300–$800. The cost of not doing one can be orders of magnitude higher.
-
-A UK consumer electronics seller ordered 3,000 units of a Bluetooth speaker from a supplier with strong Alibaba reviews and two years of Gold Supplier status. No factory audit was done. The shipment arrived eight weeks later: components didn't match the agreed BOM, FCC documentation referenced a different product model, and the packaging used a trademarked logo without authorization. Amazon rejected the entire shipment. The seller ate the cost of the goods, freight, duties, and destruction fees — approximately $28,000 in total losses, plus four months of lost sales velocity. The supplier had been a trading company reselling assembled goods from a subcontractor they'd never disclosed.
 
 ---
 

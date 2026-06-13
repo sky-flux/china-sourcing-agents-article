@@ -12,7 +12,7 @@ What the line items on a Chinese supplier quotation actually mean, the red flags
 
 ---
 
-A quote from a Chinese electronics factory looks nothing like a quote from a Western contract manufacturer. The line items are different, the terminology is different, and the things that matter are buried or missing entirely. Here's how to read one without getting surprised later.
+A quote from a Chinese electronics factory looks nothing like a quote from a Western contract manufacturer. The line items are different, the terminology is different, and the things that matter are buried or missing entirely. Here's how to read one without getting surprised later. If an abbreviation in your quote is unclear, the China electronics glossary defines the terms factories use every day.
 
 Most Chinese electronics factories built their quoting process around domestic buyers who already understand the conventions. When they quote international buyers, they often use the same format — which means a Western buyer gets a document that assumes knowledge they don't have.
 
@@ -33,9 +33,9 @@ The other factor is that many quotes are produced by salespeople, not engineers.
 
 ## Further reading
 
+- [China electronics glossary](https://china-sourcing-agents.com/guides/china-electronics-product-glossary/)
 - [freight](https://china-sourcing-agents.com/guides/china-shipping-air-vs-sea-cost/)
+- [sea and air freight costs from China to the Netherlands](https://china-sourcing-agents.com/guides/zeevracht-luchtvracht-kosten-china-nederland/)
 - [China payment terms guide](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
-- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/how-to-read-chinese-factory-quote/)
 

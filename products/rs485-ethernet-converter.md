@@ -31,9 +31,9 @@ The gateway bridges the two. Mechanically: a Modbus TCP client (your SCADA softw
 
 ## Further reading
 
+- [D-Sub connectors](https://china-sourcing-agents.com/wiki/dsub-connectors/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [industrial IoT sourcing service](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [IoT modules industry page](https://china-sourcing-agents.com/industries/iot-modules/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/rs485-ethernet-converter/)
 

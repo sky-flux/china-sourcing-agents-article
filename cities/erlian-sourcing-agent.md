@@ -31,5 +31,11 @@ Unlike Manzhouli, which routes freight primarily to Russia's Trans-Siberian rail
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/erlian-sourcing-agent/)
+## Further reading
+
+- [Erlian sourcing agent](https://china-sourcing-agents.com/services/sourcing/)
+- [logistics partner](https://china-sourcing-agents.com/services/logistics/)
+- [quality control](https://china-sourcing-agents.com/services/inspection/)
+- [electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/erlian-sourcing-agent/)
 

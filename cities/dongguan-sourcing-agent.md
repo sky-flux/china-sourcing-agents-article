@@ -16,7 +16,7 @@ Dongguan sits midway between Guangzhou and Shenzhen, 45 minutes from each by exp
 
 For electronics buyers specifically, an experienced sourcing agent in Dongguan delivers comparable consumer electronics assembly quality to Shenzhen at 15–25% lower cost. On a $500,000 production order, the savings pay for several factory audits and comprehensive quality control inspections with money to spare.
 
-**Consumer electronics assembly** is Dongguan's primary electronics strength. The city's EMS factories handle mid-to-high volume production of Bluetooth audio products, IoT controllers, smart home hardware, portable charging devices, and LED lighting electronics. Foxconn and BYD Electronics both operate significant assembly bases here, anchoring hundreds of second-tier manufacturers. A professional sourcing agent ensures rigorous quality control throughout the entire assembly process.
+**Consumer electronics assembly** is Dongguan's primary electronics strength. The city's EMS factories handle mid-to-high volume production of Bluetooth audio products, IoT controllers, smart home hardware, portable charging devices, and LED lighting electronics. Dongguan factories also assemble the connected control boards and app modules used in smart air fryers moving upmarket. Foxconn and BYD Electronics both operate significant assembly bases here, anchoring hundreds of second-tier manufacturers. A professional sourcing agent ensures rigorous quality control throughout the entire assembly process.
 
 ---
 
@@ -32,6 +32,7 @@ For electronics buyers specifically, an experienced sourcing agent in Dongguan d
 ## Further reading
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [smart air fryers](https://china-sourcing-agents.com/guides/air-fryer-private-label-china/)
 - [Dongguan's manufacturing base](https://china-sourcing-agents.com/industries/power-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/)
 

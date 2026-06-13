@@ -31,7 +31,9 @@ The single most common sourcing mistake for DALI LED drivers is confusing "DALI 
 
 ## Further reading
 
+- [smart lighting](https://china-sourcing-agents.com/industries/led-lighting/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [incoming inspection](https://china-sourcing-agents.com/services/inspection/)
+- [Chinese manufacturers](https://china-sourcing-agents.com/guides/top-led-light-manufacturers-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/dali-led-driver/)
 

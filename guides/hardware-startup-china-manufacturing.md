@@ -12,11 +12,11 @@ What happens after crowdfunding succeeds — a sourcing agent's breakdown of eve
 
 ---
 
+Written by Martin Wang, founder and sourcing engineer at Sky Flux.
+
 Most hardware crowdfunding campaigns don't fail at the fundraising stage. They fail in the four to eight months that follow — specifically in the transition from "working prototype" to "factory-ready design." A sourcing agent with an engineering background changes this equation because they catch design-for-manufacture (DFM) issues before tooling is cut, before the money is committed.
 
 This guide covers what actually happens between a Kickstarter closing and a shipping container leaving Shenzhen — the stages, the costs, what can go wrong at each, and where an experienced hand makes a measurable difference.
-
-The hardware startup mental model is usually: build prototype, run campaign, ship product. The factory side is treated as an implementation detail.
 
 ---
 

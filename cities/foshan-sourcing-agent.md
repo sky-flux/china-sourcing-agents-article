@@ -33,6 +33,7 @@ Working with an experienced **Foshan sourcing agent** is essential for navigatin
 ## Further reading
 
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
+- [air fryer private label](https://china-sourcing-agents.com/guides/air-fryer-private-label-china/)
 - [factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/foshan-sourcing-agent/)
 

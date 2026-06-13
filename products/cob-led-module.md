@@ -16,7 +16,7 @@ Color Rendering Index Ra is a weighted average of color fidelity across eight te
 
 This matters in practice for commercial lighting LED modules such as retail display lighting, hospitality, museum cases, and horticulture. Under a fixture with Ra 90 but R9 of 15, a red product appears brownish, cooked meat looks grey, and red-spectrum photosynthesis efficiency in a grow light is compromised. For these applications, **Ra≥90 with R9≥50 is the minimum workable threshold**. For high-end museum or gallery applications, specify Ra≥95 with R9≥70.
 
-**What to request from a Chinese OEM COB factory:**
+For buyers looking at flexible COB strips and other seasonal LED categories, our summer 2026 LED and solar imports guide breaks down MOQs, pricing, and certification costs.
 
 ---
 
@@ -31,7 +31,9 @@ This matters in practice for commercial lighting LED modules such as retail disp
 
 ## Further reading
 
+- [summer 2026 LED and solar imports guide](https://china-sourcing-agents.com/guides/led-solar-products-import-china-summer-2026/)
+- [Chinese OEM COB factory](https://china-sourcing-agents.com/guides/top-led-light-manufacturers-china/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [inspection service](https://china-sourcing-agents.com/services/inspection/)
+- [OEM LED lighting from China](https://china-sourcing-agents.com/industries/led-lighting/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/cob-led-module/)
 

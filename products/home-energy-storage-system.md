@@ -31,9 +31,9 @@ This is the most common compliance mistake Western buyers make when sourcing res
 
 ## Further reading
 
+- [VDE-AR-E 2510-50](https://china-sourcing-agents.com/wiki/netzbetreiberzulassungen/)
 - [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [18650/21700 battery cell sourcing page](https://china-sourcing-agents.com/products/en/18650-21700-battery-cell/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/home-energy-storage-system/)
 

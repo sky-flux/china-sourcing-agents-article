@@ -31,6 +31,8 @@ The video system is the single most commercially differentiated choice in an FPV
 ## Further reading
 
 - [sourcing team](https://china-sourcing-agents.com/services/sourcing/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
+- [AQL 2.5 / Level II](https://china-sourcing-agents.com/wiki/aql-sampling/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/fpv-drone-oem/)
 

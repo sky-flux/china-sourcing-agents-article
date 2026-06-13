@@ -35,7 +35,7 @@ Zhongshan is China's undisputed lighting capital. Guzhen Town (古镇), one of Z
 
 - [Smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [Power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
+- [private-label air fryers](https://china-sourcing-agents.com/guides/air-fryer-private-label-china/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [electronics wholesaling guide](https://china-sourcing-agents.com/guides/china-electronics-wholesale-guide/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/zhongshan-sourcing-agent/)
 

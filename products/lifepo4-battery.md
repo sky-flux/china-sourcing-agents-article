@@ -32,6 +32,6 @@ LiFePO4 (lithium iron phosphate) cells have been the dominant chemistry for rene
 - [sourcing power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [UN 38.3](https://china-sourcing-agents.com/wiki/un38-3-battery/)
-- [IEC 62133](https://china-sourcing-agents.com/wiki/iec-62133/)
+- [robotic lawn mower OEM China guide](https://china-sourcing-agents.com/guides/robotic-lawn-mower-oem-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/lifepo4-battery/)
 

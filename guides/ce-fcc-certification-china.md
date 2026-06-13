@@ -29,7 +29,7 @@ Before anything else, get this straight: FCC and CE certification applies to a s
 - 5. Labs in China that can do the actual testing
 - 6. The module shortcut and where it stops
 - 7. Realistic costs and timelines from China
-- 8. What your purchase order needs to say
+- 8. SRRC — the China radio approval most foreign buyers miss
 
 ---
 

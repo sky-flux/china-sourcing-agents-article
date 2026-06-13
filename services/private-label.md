@@ -32,7 +32,7 @@ We manage that entire process end-to-end.
 
 ## Further reading
 
-- [overview of private label electronics manufacturing in China](https://china-sourcing-agents.com/blog/private-label-electronics-china-guide/)
+- [overview of private label electronics manufacturing in China](https://china-sourcing-agents.com/guides/private-label-electronics-china-guide/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [Amazon seller project](https://china-sourcing-agents.com/cases/amazon-seller-iot-sensor/)

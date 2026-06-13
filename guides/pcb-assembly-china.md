@@ -35,9 +35,9 @@ This confusion wastes weeks. **PCB fabrication** (often just called "PCB fab") i
 
 ## Further reading
 
-- [PCBA / SMT assembly sourcing](https://china-sourcing-agents.com/products/pcba-smt/)
-- [multilayer PCB fabrication](https://china-sourcing-agents.com/products/multilayer-pcb/)
-- [Flexible PCB (FPC) sourcing](https://china-sourcing-agents.com/products/flexible-pcb/)
-- [aluminum MCPCB for LED boards](https://china-sourcing-agents.com/products/aluminum-pcb-mcpcb/)
+- [PCBA / SMT assembly sourcing](https://china-sourcing-agents.com/products/pcb-assembly/pcba-smt/)
+- [multilayer PCB fabrication](https://china-sourcing-agents.com/products/pcb-assembly/multilayer-pcb/)
+- [Flexible PCB (FPC) sourcing](https://china-sourcing-agents.com/products/pcb-assembly/flexible-pcb/)
+- [aluminum MCPCB for LED boards](https://china-sourcing-agents.com/products/pcb-assembly/aluminum-pcb-mcpcb/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
 

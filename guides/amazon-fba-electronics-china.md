@@ -16,7 +16,7 @@ The most common way electronics FBA sellers lose a listing isn't through bad rev
 
 Most China sourcing content for Amazon sellers is written with home goods, fashion, or accessories in mind. Consumer electronics operate under a different set of rules, and ignoring those differences is expensive.
 
-**Certifications are mandatory and frequently faked.** Any product with wireless functionality sold in the US requires FCC authorization. EU sales require CE marking covering the Radio Equipment Directive (RED). Amazon verifies these certificates and has become increasingly aggressive about compliance. The problem is that fake FCC certificates are easy to produce — a supplier can generate a convincing-looking document in a few hours. The real test is whether the FCC ID is searchable in the public database at apps.fcc.gov. Every legitimate FCC authorization has a publicly accessible grant document. If your supplier's FCC ID doesn't return results, the certificate is fraudulent.
+**Certifications are mandatory and frequently faked.** Any product with wireless functionality sold in the US requires FCC authorization — our FCC certification guide explains how to verify the grant. EU sales require CE marking covering the Radio Equipment Directive (RED). Amazon verifies these certificates and has become increasingly aggressive about compliance. The problem is that fake FCC certificates are easy to produce — a supplier can generate a convincing-looking document in a few hours. The real test is whether the FCC ID is searchable in the public database at apps.fcc.gov. Every legitimate FCC authorization has a publicly accessible grant document. If your supplier's FCC ID doesn't return results, the certificate is fraudulent.
 
 ---
 
@@ -34,8 +34,8 @@ Most China sourcing content for Amazon sellers is written with home goods, fashi
 ## Further reading
 
 - [Consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [FCC certification guide](https://china-sourcing-agents.com/wiki/fcc-certification/)
+- [White-label electronics](https://china-sourcing-agents.com/guides/oem-vs-odm-electronics-china/)
 - [quality inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [CE marking wiki page](https://china-sourcing-agents.com/wiki/ce-marking/)
-- [supplier qualification through shipment](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/amazon-fba-electronics-china/)
 

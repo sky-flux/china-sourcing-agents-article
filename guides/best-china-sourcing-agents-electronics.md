@@ -34,8 +34,8 @@ This list ranks 10 sourcing agents on how well they handle electronics specifica
 ## Further reading
 
 - [electronics inspection service](https://china-sourcing-agents.com/services/inspection/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
+- [Yiwu](https://china-sourcing-agents.com/cities/yiwu-sourcing-agent/)
 - [new-product introduction](https://china-sourcing-agents.com/services/product-development/)
-- [EU startup's Bluetooth speaker project](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
-- [consumer electronics sourcing](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/best-china-sourcing-agents-electronics/)
 

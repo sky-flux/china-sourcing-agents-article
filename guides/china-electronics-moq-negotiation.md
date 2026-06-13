@@ -35,9 +35,9 @@ A cable assembly or simple injection-molded enclosure has far lower setup costs 
 
 ## Further reading
 
-- [negotiating with Chinese suppliers](https://china-sourcing-agents.com/guides/negotiate-with-chinese-suppliers/)
-- [IPC-A-610 class specification](https://china-sourcing-agents.com/wiki/ipc-a-610/)
-- [AQL sampling level](https://china-sourcing-agents.com/wiki/aql-sampling/)
-- [inspection](https://china-sourcing-agents.com/services/inspection/)
+- [Bluetooth speaker](https://china-sourcing-agents.com/guides/bluetooth-speaker-manufacturers-china/)
+- [SMT setup](https://china-sourcing-agents.com/wiki/smt-process/)
+- [PCB](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-electronics-moq-negotiation/)
 

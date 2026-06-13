@@ -16,7 +16,7 @@ Shenzhen produces an estimated 90% of global consumer electronics components. Th
 
 This guide covers the three distinct zones that matter for electronics sourcing: Huaqiangbei for components and market research, Bao'an for PCB assembly and manufacturing, and Longgang for OEM/ODM production. It also covers a Dongguan day trip worth considering, and practical logistics for making the trip useful rather than overwhelming.
 
-If you're at the pre-trip stage — figuring out which factories to visit before you fly — read our sourcing guide first. Once you have a shortlist, use our factory audit checklist on every facility visit.
+If you're at the pre-trip stage — figuring out which factories to visit before you fly — read our sourcing guide first. Once you have a shortlist, use our factory audit checklist on every facility visit. For a wider view of where to source what across China, see China electronics market cities.
 
 ---
 
@@ -34,9 +34,9 @@ If you're at the pre-trip stage — figuring out which factories to visit before
 
 ## Further reading
 
+- [Dongguan](https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/)
 - [sourcing guide](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [a Shenzhen sourcing agent](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
+- [China electronics market cities](https://china-sourcing-agents.com/guides/china-electronics-market-cities/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/shenzhen-electronics-market-guide/)
 

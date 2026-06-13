@@ -35,7 +35,7 @@ For a broader view of electronics sourcing in this sector, see our power electro
 
 - [power electronics sourcing](https://china-sourcing-agents.com/industries/power-electronics/)
 - [automotive electronics sourcing](https://china-sourcing-agents.com/industries/automotive-electronics/)
-- [CE and FCC certification guide](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
-- [supplier verification checks](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
+- [Changzhou](https://china-sourcing-agents.com/cities/changzhou-sourcing-agent/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/ev-charger-manufacturers-china/)
 

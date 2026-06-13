@@ -36,8 +36,8 @@ CE marking in the European Union is self-declaration for most product categories
 ## Further reading
 
 - [industrial IoT gateways, DIN rail controllers, or Modbus converters](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [LoRaWAN sensor nodes](https://china-sourcing-agents.com/cases/jp-distributor-lora-gateway/)
+- [BLE beacons](https://china-sourcing-agents.com/wiki/ble-5-modules/)
 - [IoT modules sourcing page](https://china-sourcing-agents.com/industries/iot-modules/)
-- [CE marking](https://china-sourcing-agents.com/wiki/ce-marking/)
-- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
 

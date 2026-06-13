@@ -33,8 +33,8 @@ Flexible printed circuits (FPC) are the wiring harness inside every modern weara
 ## Further reading
 
 - [sourcing wearables from China](https://china-sourcing-agents.com/industries/wearables/)
-- [fitness band OEM production](https://china-sourcing-agents.com/products/fitness-band-oem/)
-- [smartwatch OEM manufacturing](https://china-sourcing-agents.com/products/smartwatch-oem/)
+- [fitness band OEM production](https://china-sourcing-agents.com/products/wearables/fitness-band-oem/)
+- [smartwatch OEM manufacturing](https://china-sourcing-agents.com/products/wearables/smartwatch-oem/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/wearable-manufacturing-china/)
 

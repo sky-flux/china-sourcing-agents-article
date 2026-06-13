@@ -34,9 +34,9 @@ A GaN charger sold in five markets — US, EU, UK, Japan, Korea — requires fiv
 
 ## Further reading
 
-- [portable power banks with PD output](https://china-sourcing-agents.com/products/portable-power-bank/)
+- [portable power banks with PD output](https://china-sourcing-agents.com/products/electronics/portable-power-bank/)
+- [UL 62368-1](https://china-sourcing-agents.com/wiki/ul-certification/)
 - [GaN IC](https://china-sourcing-agents.com/wiki/gan-charger-ic/)
-- [AC-DC power modules](https://china-sourcing-agents.com/products/ac-dc-power-module/)
-- [branded power banks](https://china-sourcing-agents.com/products/branded-power-bank/)
+- [AC-DC power modules](https://china-sourcing-agents.com/products/power-electronics/ac-dc-power-module/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/gan-charger-oem-china/)
 

@@ -34,9 +34,9 @@ CE is not a quality mark. It's a mandatory conformity declaration that you, as t
 
 ## Further reading
 
+- [CE marking](https://china-sourcing-agents.com/wiki/ce-marking/)
 - [full sourcing process](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [multi-market certification guide](https://china-sourcing-agents.com/guides/multi-market-certification-electronics/)
 - [RoHS compliance guide](https://china-sourcing-agents.com/wiki/rohs-compliance/)
-- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/import-electronics-china-eu/)
 

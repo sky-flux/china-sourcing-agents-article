@@ -12,7 +12,7 @@ India's electronics ambitions are real and well-funded. The manufacturing ecosys
 
 ---
 
-For hardware buyers under $500k/year sourcing custom electronics, PCBs, or IoT hardware, India is not a credible alternative to China today — the manufacturing ecosystem accessible to independent Western buyers does not exist at the required breadth. The search surge for "india manufacturing" reflects real structural ambition and genuine tariff motivation, but the infrastructure and the opportunity are separated by a decade and a supply chain that still runs through Shenzhen.
+For hardware buyers under $500k/year sourcing custom electronics, PCBs, or IoT hardware, India is not a credible alternative to China today — the manufacturing ecosystem accessible to independent Western buyers does not exist at the required breadth. For the parallel comparison, see our China vs Vietnam electronics manufacturing analysis. The search surge for "india manufacturing" reflects real structural ambition and genuine tariff motivation, but the infrastructure and the opportunity are separated by a decade and a supply chain that still runs through Shenzhen.
 
 Google Trends shows "india manufacturing" at search interest 37 globally, rising approximately 10% week-on-week — comparable to "china manufacturing company" at 25. The reason is straightforward: US Section 301 tariffs on Chinese electronics run 25–35%, and Indian-origin goods face 0–3.5%. Buyers who have absorbed a 30% tariff hit are doing arithmetic, and India shows up in the arithmetic.
 
@@ -34,9 +34,9 @@ The arithmetic is correct. The problem is the next question: what can you actual
 
 ## Further reading
 
+- [China vs Vietnam electronics manufacturing](https://china-sourcing-agents.com/guides/china-vs-vietnam-electronics-manufacturing/)
+- [OEM consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [IoT module](https://china-sourcing-agents.com/industries/iot-modules/)
-- [importing electronics from China to the US](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
-- [how to choose a sourcing agent around tariff risk](https://china-sourcing-agents.com/guides/how-to-choose-china-sourcing-agent-tariff-risks/)
-- [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
+- [Shenzhen sourcing agent](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-vs-india-electronics-manufacturing/)
 

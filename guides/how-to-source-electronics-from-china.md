@@ -36,8 +36,8 @@ Alibaba is a marketplace where both manufacturers and traders list products. You
 ## Further reading
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [IoT products](https://china-sourcing-agents.com/industries/iot-modules/)
 - [FCC](https://china-sourcing-agents.com/wiki/fcc-certification/)
 - [CE](https://china-sourcing-agents.com/wiki/ce-marking/)
-- [RoHS](https://china-sourcing-agents.com/wiki/rohs-compliance/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 

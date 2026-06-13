@@ -33,9 +33,9 @@ This list covers 9 manufacturers from the verified pool. The portable and consum
 
 ## Further reading
 
+- [Dongguan](https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
+- [FCC](https://china-sourcing-agents.com/wiki/fcc-certification/)
 - [EU startup Bluetooth speaker case](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
-- [supplier verification guide](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
-- [CE and FCC certification guide](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
-- [consumer electronics sourcing](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/bluetooth-speaker-manufacturers-china/)
 

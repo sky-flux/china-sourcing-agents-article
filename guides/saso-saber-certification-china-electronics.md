@@ -14,7 +14,7 @@ How SASO and SABER certification works via FASAH: who applies, the IEC test repo
 
 To import electronics into Saudi Arabia you need a **Certificate of Conformity registered on the SABER platform**, backed by **SASO** technical regulations. There is no self-declaration path. The Saudi importer of record registers the product; the Chinese factory supplies accredited **IEC test reports**; a SASO-approved Conformity Assessment Body issues a **Product Certificate of Conformity (PCoC)** per model, then a **Shipment Certificate (SCoC)** per consignment. Get the reports right up front and the whole chain takes 1–3 weeks per model. Get them wrong and the goods stop at customs.
 
-This guide explains who does what, which SASO regulations apply to electronics, and the points where China orders most often stall. It is the companion to the Saudi smart home sourcing guide; for the broader multi-market picture see multi-market certification.
+This guide explains who does what, which SASO regulations apply to electronics, and the points where China orders most often stall. It is the companion to the Saudi smart home sourcing guide and our smart home sourcing work; for the broader multi-market picture see multi-market certification.
 
 These three names get used interchangeably and they should not be:
 
@@ -37,6 +37,6 @@ These three names get used interchangeably and they should not be:
 - [SABER](https://china-sourcing-agents.com/wiki/saber-certification/)
 - [SASO](https://china-sourcing-agents.com/wiki/saso-certification/)
 - [Saudi smart home sourcing guide](https://china-sourcing-agents.com/guides/sourcing-smart-home-devices-saudi-arabia/)
-- [multi-market certification](https://china-sourcing-agents.com/guides/multi-market-certification-electronics/)
+- [smart home sourcing](https://china-sourcing-agents.com/industries/smart-home/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/saso-saber-certification-china-electronics/)
 

@@ -34,9 +34,9 @@ China's electronics manufacturing dominance is the result of 40 years of deliber
 
 ## Further reading
 
+- [Bluetooth speakers](https://china-sourcing-agents.com/guides/bluetooth-speaker-manufacturers-china/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [SMT lines](https://china-sourcing-agents.com/wiki/smt-process/)
 - [consumer electronics sourcing](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [IoT module sourcing](https://china-sourcing-agents.com/industries/iot-modules/)
-- [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-electronics-industry-overview/)
 

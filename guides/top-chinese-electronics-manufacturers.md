@@ -35,9 +35,9 @@ Chinese electronics manufacturing has two distinct layers that are easy to confl
 
 ## Further reading
 
+- [OEM vs ODM guide](https://china-sourcing-agents.com/guides/oem-vs-odm-electronics-china/)
 - [CE marking](https://china-sourcing-agents.com/wiki/ce-marking/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [IoT module manufacturers](https://china-sourcing-agents.com/industries/iot-modules/)
-- [PCB and PCBA](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [electronics inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/top-chinese-electronics-manufacturers/)
 

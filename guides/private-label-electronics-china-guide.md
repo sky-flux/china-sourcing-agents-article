@@ -12,7 +12,7 @@ How private label electronics from China works: ODM spectrum, tooling costs, rea
 
 ---
 
-Most people who say they want to "private label electronics from China" don't actually want true private label. They want something that looks like their product, carries their brand, and doesn't require them to design hardware from scratch. That's ODM, and understanding the distinction is the first thing that separates realistic projects from expensive misunderstandings.
+Most people who say they want to "private label electronics from China" don't actually want true private label. They want something that looks like their product, carries their brand, and doesn't require them to design hardware from scratch. That's ODM, and understanding the distinction — see our OEM vs ODM guide — is the first thing that separates realistic projects from expensive misunderstandings.
 
 It helps to think of customization as a spectrum rather than a binary:
 
@@ -34,9 +34,9 @@ It helps to think of customization as a spectrum rather than a binary:
 
 ## Further reading
 
+- [OEM vs ODM guide](https://china-sourcing-agents.com/guides/oem-vs-odm-electronics-china/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Private Label & OEM Management](https://china-sourcing-agents.com/services/private-label/)
-- [inspection process](https://china-sourcing-agents.com/services/inspection/)
-- [Amazon seller building a private-label IoT sensor](https://china-sourcing-agents.com/cases/amazon-seller-iot-sensor/)
-- [electronics sourcing guide](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [supplier matching](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/private-label-electronics-china-guide/)
 

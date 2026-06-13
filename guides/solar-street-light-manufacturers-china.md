@@ -33,9 +33,9 @@ This list covers ten manufacturers that are genuinely active in solar street lig
 
 ## Further reading
 
-- [all-in-one solar street lights](https://china-sourcing-agents.com/products/lighting/all-in-one-solar-light/)
-- [LED lighting](https://china-sourcing-agents.com/industries/led-lighting/)
-- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
-- [Africa buyers sourcing guide](https://china-sourcing-agents.com/guides/source-electronics-china-africa-buyers/)
+- [UN 38.3](https://china-sourcing-agents.com/wiki/un38-3-battery/)
+- [Qingdao](https://china-sourcing-agents.com/cities/qingdao-sourcing-agent/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
+- [Zhuhai](https://china-sourcing-agents.com/cities/zhuhai-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/solar-street-light-manufacturers-china/)
 

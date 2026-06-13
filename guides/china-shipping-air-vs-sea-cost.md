@@ -33,9 +33,9 @@ There are effectively four options when shipping from China, not two:
 
 ## Further reading
 
+- [Q4 electronics sourcing timeline](https://china-sourcing-agents.com/guides/q4-holiday-electronics-sourcing-timeline/)
+- [import electronics from China to EU guide](https://china-sourcing-agents.com/guides/import-electronics-china-eu/)
 - [import electronics from China to the US guide](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
 - [China payment terms guide](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
-- [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-shipping-air-vs-sea-cost/)
 

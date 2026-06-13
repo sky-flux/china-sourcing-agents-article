@@ -16,7 +16,7 @@ China's LED lighting industry is split into three clusters with different streng
 
 If you are sourcing LED lights, the first decision is which cluster matches your product. A Zhongshan factory can deliver a finished ceiling panel at low cost, but it may source the driver from Shenzhen. A Shenzhen factory can build a smart RGB system, but it may not be the cheapest source for a plain white downlight. This list covers both finished-fixture manufacturers and module specialists.
 
-For sourcing strategy across the sector, see our LED lighting sourcing industry page.
+For sourcing strategy across the sector, see our LED lighting sourcing industry page. If you need help matching a factory to your spec, our LED sourcing service reviews supplier fit, test reports, and sample quality before you commit.
 
 ---
 
@@ -33,9 +33,9 @@ For sourcing strategy across the sector, see our LED lighting sourcing industry 
 
 ## Further reading
 
+- [Zhongshan](https://china-sourcing-agents.com/cities/zhongshan-sourcing-agent/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [LED lighting sourcing](https://china-sourcing-agents.com/industries/led-lighting/)
-- [COB LED modules](https://china-sourcing-agents.com/products/lighting/cob-led-module/)
-- [solar street lights](https://china-sourcing-agents.com/products/lighting/all-in-one-solar-light/)
-- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
+- [LED sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/top-led-light-manufacturers-china/)
 

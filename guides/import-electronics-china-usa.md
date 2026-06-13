@@ -37,7 +37,7 @@ This guide covers each layer in plain terms, with actual numbers. For the upstre
 
 - [FCC certification](https://china-sourcing-agents.com/wiki/fcc-certification/)
 - [full sourcing guide](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [logistics coordination](https://china-sourcing-agents.com/services/logistics/)
+- [power supplies](https://china-sourcing-agents.com/industries/power-electronics/)
+- [sourcing partner](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
 

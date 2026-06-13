@@ -35,9 +35,9 @@ This guide covers five cities and regions that matter for electronics sourcing, 
 
 ## Further reading
 
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [IPC Class 3](https://china-sourcing-agents.com/wiki/ipc-a-610/)
 - [Shenzhen electronics market guide](https://china-sourcing-agents.com/guides/shenzhen-electronics-market-guide/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-electronics-market-cities/)
 

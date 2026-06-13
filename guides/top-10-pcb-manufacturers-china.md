@@ -14,7 +14,7 @@ Compare the top 10 PCB manufacturers in China — from low-cost prototype shops 
 
 Search "PCB manufacturer China" and the results split into two different industries wearing similar websites. On one side are online prototype platforms quoting $2 for five 2-layer boards and turning them around in 24 hours. On the other side are listed factories running multilayer boards for telecom base stations and automotive ECUs, where the first meaningful conversation starts at thousands of square meters per year. Both are valid answers; which one fits you depends on whether you are validating a design or supplying a product.
 
-The real risk is choosing the wrong category for the job. A prototype shop can fabricate a board cheaply but may not have the material traceability or process controls for medical or automotive life-cycle requirements. A tier-one listed factory can build a 16-layer HDI board but will not answer emails about five pieces, and its quoting process can take weeks. The list below separates the two pools clearly, with the prototype platforms first and the volume manufacturers second.
+The real risk is choosing the wrong category for the job. A prototype shop can fabricate a board cheaply but may not have the material traceability or process controls for medical or automotive life-cycle requirements. A tier-one listed factory can build a 16-layer HDI board but will not answer emails about five pieces, and its quoting process can take weeks. If you are not sure which pool matches your project, our Sourcing & Supplier Matching service filters the list to factories that actually fit your layer count, volume, and certification needs. The list below separates the two pools clearly, with the prototype platforms first and the volume manufacturers second.
 
 This ranking is based on public company data, factory visits, and export-track records we have checked over the last three years. Any specification we could not verify independently is omitted rather than invented.
 
@@ -33,9 +33,9 @@ This ranking is based on public company data, factory visits, and export-track r
 
 ## Further reading
 
+- [Sourcing & Supplier Matching](https://china-sourcing-agents.com/services/sourcing/)
+- [PCB assembly](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
+- [PCB substrate materials reference](https://china-sourcing-agents.com/wiki/pcb-materials/)
 - [PCB and SMT assembly sourcing](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [aluminum PCB manufacturing](https://china-sourcing-agents.com/products/pcb-assembly/aluminum-pcb-mcpcb/)
-- [supplier verification guide](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
-- [electronics inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/top-10-pcb-manufacturers-china/)
 

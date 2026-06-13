@@ -12,7 +12,7 @@ Supply chain risk management for electronics buyers: five specific failure modes
 
 ---
 
-Most electronics sourcing disasters are not surprises. They are known risk scenarios that were not planned for before they materialized. The five scenarios below account for the majority of costly disruptions reported by Western buyers in the first two years of China sourcing. Each one is preventable with specific actions taken before the event, not after.
+Most consumer electronics and IoT sourcing disasters are not surprises. They are known risk scenarios that were not planned for before they materialized. The five scenarios below account for the majority of costly disruptions reported by Western buyers in the first two years of China sourcing. Each one is preventable with specific actions taken before the event, not after.
 
 **What happens**: A key component in your BOM — a Bluetooth SoC, a specialized sensor, a custom PMIC — goes end-of-life, enters allocation, or has a lead time extension from 8 weeks to 52 weeks. Your factory cannot build. Sales commitments cannot be met.
 
@@ -34,8 +34,9 @@ Most electronics sourcing disasters are not surprises. They are known risk scena
 
 ## Further reading
 
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [quality inspection guide](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
-- [consulting service](https://china-sourcing-agents.com/services/consulting/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [IoT](https://china-sourcing-agents.com/industries/iot-modules/)
+- [alternative electronic components search](https://china-sourcing-agents.com/guides/china-alternative-electronic-components-search/)
+- [FCC certification](https://china-sourcing-agents.com/wiki/fcc-certification/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/supply-chain-risk-management-china-sourcing/)
 

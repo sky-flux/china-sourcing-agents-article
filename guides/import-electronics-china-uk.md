@@ -35,8 +35,8 @@ UKCA (UK Conformity Assessed) replaced CE marking as the mandatory conformity ma
 ## Further reading
 
 - [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [CE marking](https://china-sourcing-agents.com/wiki/ce-marking/)
 - [UKCA marking overview](https://china-sourcing-agents.com/wiki/ukca-marking/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [RoHS compliance guide](https://china-sourcing-agents.com/wiki/rohs-compliance/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/import-electronics-china-uk/)
 

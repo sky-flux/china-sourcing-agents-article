@@ -35,9 +35,9 @@ This guide covers what a buyer needs to know before placing an order for air con
 
 ## Further reading
 
+- [2-layer board](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [air conditioner control boards](https://china-sourcing-agents.com/industries/power-electronics/)
 - [PCB assembly buyer's guide](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
 - [PCB substrate materials reference](https://china-sourcing-agents.com/wiki/pcb-materials/)
-- [product development](https://china-sourcing-agents.com/services/product-development/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/air-conditioner-control-board-china/)
 

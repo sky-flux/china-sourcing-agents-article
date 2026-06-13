@@ -14,7 +14,7 @@ How to source power transformers from China — top manufacturers, IEC 60076 sta
 
 China manufactures roughly 40% of the world's power transformers by installed capacity. Yet most Western buyers default to European or North American suppliers — paying 30–60% more — because they do not know which Chinese manufacturers are worth working with and which certifications actually transfer to their home market.
 
-This guide covers the full sourcing picture: who the credible Chinese manufacturers are, how to evaluate them technically, what certifications apply to your market, and what realistic pricing and lead times look like in 2026.
+This guide covers the full sourcing picture for power electronics: who the credible Chinese manufacturers are, how to evaluate them technically, what certifications apply to your market, and what realistic pricing and lead times look like in 2026.
 
 Before contacting any manufacturer, define your specification precisely. Chinese factories quote fast when specs are clear; they quote slowly and inaccurately when specs are vague.
 
@@ -34,9 +34,9 @@ Before contacting any manufacturer, define your specification precisely. Chinese
 
 ## Further reading
 
-- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
-- [CE marking](https://china-sourcing-agents.com/wiki/ce-marking/)
-- [UL](https://china-sourcing-agents.com/wiki/ul-certification/)
-- [UKCA marking](https://china-sourcing-agents.com/wiki/ukca-marking/)
+- [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
+- [EV charging infrastructure](https://china-sourcing-agents.com/guides/ev-charger-manufacturers-china/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
+- [Xi'an](https://china-sourcing-agents.com/cities/xian-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/power-transformer-manufacturer-china/)
 

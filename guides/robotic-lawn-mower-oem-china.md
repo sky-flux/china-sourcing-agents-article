@@ -12,7 +12,7 @@ Robot mower shipments grew 63.8% YoY. Chinese factories now produce wire-free RT
 
 ---
 
-Robotic lawn mower shipments grew 63.8% year-over-year in 2025. Wire-free models — the ones that navigate using RTK GPS or vision-based boundary detection instead of a perimeter wire — now account for 66% of shipments. Chinese manufacturers drove most of that growth. Segway (Ninebot) and Mammotion (Agilex) are shipping wire-free units into the US and European markets at price points that repositioned what $800–1,500 buys. Behind them is a second tier of ODM factories that most Western brands have not found yet.
+Robotic lawn mower shipments grew 63.8% year-over-year in 2025. Wire-free models — the ones that navigate using RTK GPS or vision-based boundary detection instead of a perimeter wire — now account for 66% of shipments. Chinese manufacturers drove most of that growth. Segway (Ninebot) and Mammotion (Agilex) are shipping wire-free units into the US and European markets at price points that repositioned what $800–1,500 buys. Behind them is a second tier of ODM factories that most Western brands have not found yet. This is a specialized corner of industrial IoT hardware sourcing.
 
 This is what the sourcing picture looks like if you want to put your brand on a wire-free robot mower.
 
@@ -33,7 +33,9 @@ The perimeter-wire model has been around since Husqvarna's Automower launched in
 
 ## Further reading
 
-- [OEM product development cycle](https://china-sourcing-agents.com/services/product-development/)
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [Hangzhou](https://china-sourcing-agents.com/cities/hangzhou-sourcing-agent/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
+- [Dongguan](https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/robotic-lawn-mower-oem-china/)
 

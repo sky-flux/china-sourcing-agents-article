@@ -12,7 +12,7 @@ How to find Chinese alternative parts on LCSC, 1688, Alibaba and Huaqiangbei: pi
 
 ---
 
-Searching for alternative electronic components in China is not merely a cost-cutting measure. Supply disruption, EOL (End-of-Life) notices, lead times that spike suddenly — against these real procurement risks, China's component ecosystem offers the largest pool of alternative candidates in the world.
+Searching for alternative electronic components in China is not merely a cost-cutting measure. Supply disruption, EOL (End-of-Life) notices, lead times that spike suddenly — against these real procurement risks, China's electronics sourcing ecosystem offers the largest pool of alternative candidates in the world.
 
 From 2024 to 2026, the major semiconductor makers (Texas Instruments, Analog Devices, STMicroelectronics, Infineon) issued EOL notices on more than 3,800 general-purpose ICs in total. For a Japanese company with products that use these parts, there are only three options: a last-time buy (high cost, inventory risk), a redesign (6 to 18 months, several hundred thousand to several million yen in NRE costs), or finding a pin-compatible Chinese alternative.
 
@@ -32,9 +32,9 @@ There are three reasons China's electronic-component ecosystem is the primary fi
 
 ## Further reading
 
+- [China's electronics sourcing ecosystem](https://china-sourcing-agents.com/services/sourcing/)
+- [1688](https://china-sourcing-agents.com/guides/alibaba-vs-1688/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [Huaqiangbei guide](https://china-sourcing-agents.com/guides/shenzhen-electronics-market-guide/)
-- [BLE 5 modules](https://china-sourcing-agents.com/wiki/ble-5-modules/)
-- [ESP32 modules](https://china-sourcing-agents.com/wiki/esp32-modules/)
+- [Shenzhen's Huaqiangbei electronics market](https://china-sourcing-agents.com/services/china-tours/huaqiangbei-tour/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-alternative-electronic-components-search/)
 

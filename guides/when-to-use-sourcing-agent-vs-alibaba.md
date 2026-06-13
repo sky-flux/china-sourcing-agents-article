@@ -30,9 +30,9 @@ Direct Alibaba sourcing works well in a specific set of conditions. All of these
 
 ## Further reading
 
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
+- [IoT module](https://china-sourcing-agents.com/industries/iot-modules/)
 - [EU startup Bluetooth speaker case study](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
-- [sourcing and supplier matching service](https://china-sourcing-agents.com/services/sourcing/)
-- [which sourcing agents handle electronics best](https://china-sourcing-agents.com/guides/best-china-sourcing-agents-electronics/)
-- [complete guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/when-to-use-sourcing-agent-vs-alibaba/)
 

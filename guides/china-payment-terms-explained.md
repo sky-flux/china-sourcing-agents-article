@@ -36,8 +36,8 @@ Factories want money before they spend on materials and labor. Buyers want goods
 ## Further reading
 
 - [full sourcing process](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [negotiation](https://china-sourcing-agents.com/guides/negotiate-with-chinese-suppliers/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
 

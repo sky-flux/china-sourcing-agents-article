@@ -12,7 +12,7 @@ Yiwu is the world's largest commodity market — ideal for accessories, LED stri
 
 ---
 
-Yiwu is the world's largest small-commodity wholesale market, not an electronics sourcing hub. If you are looking for custom electronics, PCB assemblies, or IoT hardware, Yiwu is the wrong place. If you need LED strip lights, USB cables, phone cases, or packaging materials at wholesale prices, it is one of the most efficient sourcing environments in China.
+Yiwu is the world's largest small-commodity wholesale market, not an electronics sourcing hub. If you are looking for custom electronics, PCB assemblies, or IoT hardware, Yiwu is the wrong place. If you need LED strip lights, USB cables, phone cases, or packaging materials at wholesale prices, it is one of the most efficient sourcing environments in China for consumer electronics accessories.
 
 The Yiwu International Trade Market — locals call it 义乌国际商贸城 — spans 5.5 million square meters across five districts. It houses roughly 75,000 merchant booths covering over 1,900 product categories. Annual transaction volume is around $30 billion.
 
@@ -33,9 +33,9 @@ The market is organized by product type: District 1 covers jewelry, accessories,
 
 ## Further reading
 
+- [Yiwu](https://china-sourcing-agents.com/cities/yiwu-sourcing-agent/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [LED strips](https://china-sourcing-agents.com/products/lighting/led-strip-light/)
 - [what to sell during World Cup 2026](https://china-sourcing-agents.com/guides/what-to-sell-during-world-cup-2026/)
-- [Shenzhen electronics market guide](https://china-sourcing-agents.com/guides/shenzhen-electronics-market-guide/)
-- [sourcing agent](https://china-sourcing-agents.com/services/sourcing/)
-- [Alibaba vs 1688 comparison guide](https://china-sourcing-agents.com/guides/alibaba-vs-1688/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/yiwu-market-electronics-buyers/)
 

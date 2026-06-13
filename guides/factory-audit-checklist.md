@@ -37,7 +37,7 @@ A UK consumer electronics seller ordered 3,000 units of a Bluetooth speaker from
 
 - [complete sourcing guide](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [how to verify a Chinese supplier](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
+- [factory visit](https://china-sourcing-agents.com/services/china-tours/factory-tour/)
 - [consumer electronics sourcing](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [PCB assembly factories](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 

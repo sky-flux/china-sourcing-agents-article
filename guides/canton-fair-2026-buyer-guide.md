@@ -33,9 +33,9 @@ The official name is the China Import and Export Fair. It is held at the Pazhou 
 
 ## Further reading
 
+- [Guangzhou](https://china-sourcing-agents.com/cities/guangzhou-sourcing-agent/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [Sourcing from China without this verification step](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/canton-fair-2026-buyer-guide/)
 

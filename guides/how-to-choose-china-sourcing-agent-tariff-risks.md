@@ -33,9 +33,9 @@ For the current tariff rate structure and landed cost formula, see our China Ele
 
 ## Further reading
 
+- [quality control capability](https://china-sourcing-agents.com/services/inspection/)
 - [China Electronics Tariffs 2026 guide](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [CE marking](https://china-sourcing-agents.com/wiki/ce-marking/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/how-to-choose-china-sourcing-agent-tariff-risks/)
 

@@ -32,8 +32,9 @@ Most Chinese factories quote in USD and require T/T (telegraphic transfer / bank
 
 ## Further reading
 
-- [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [Guangzhou](https://china-sourcing-agents.com/cities/guangzhou-sourcing-agent/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
+- [freight forwarding service](https://china-sourcing-agents.com/services/logistics/)
+- [shipping from China: air vs sea](https://china-sourcing-agents.com/guides/china-shipping-air-vs-sea-cost/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/source-electronics-china-africa-buyers/)
 

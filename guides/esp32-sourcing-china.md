@@ -32,8 +32,8 @@ Specifying "ESP32" on a BOM and expecting consistent delivery is one of the most
 ## Further reading
 
 - [Matter](https://china-sourcing-agents.com/wiki/matter-certification/)
+- [verify](https://china-sourcing-agents.com/services/inspection/)
+- [Shenzhen suppliers](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [FCC certification](https://china-sourcing-agents.com/wiki/fcc-certification/)
-- [IoT module sourcing](https://china-sourcing-agents.com/services/sourcing/)
-- [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/esp32-sourcing-china/)
 

@@ -35,9 +35,9 @@ The difference isn't just about price — though a trader typically adds 20–40
 
 ## Further reading
 
+- [Alibaba](https://china-sourcing-agents.com/guides/alibaba-vs-1688/)
+- [use a sourcing agent](https://china-sourcing-agents.com/guides/when-to-use-sourcing-agent-vs-alibaba/)
 - [SMT line](https://china-sourcing-agents.com/wiki/smt-process/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [supplier verification guide](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
-- [sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-electronics-manufacturing-companies/)
 

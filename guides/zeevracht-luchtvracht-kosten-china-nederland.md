@@ -33,7 +33,9 @@ The choice between sea and air freight turns on three variables: **volume**, **t
 
 ## Further reading
 
-- [air vs sea freight guide](https://china-sourcing-agents.com/guides/china-shipping-air-vs-sea-cost/)
-- [Logistics & Customs Coordination](https://china-sourcing-agents.com/services/logistics/)
+- [Shanghai](https://china-sourcing-agents.com/cities/shanghai-sourcing-agent/)
+- [Ningbo](https://china-sourcing-agents.com/cities/ningbo-sourcing-agent/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/zeevracht-luchtvracht-kosten-china-nederland/)
 

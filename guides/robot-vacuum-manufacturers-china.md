@@ -33,9 +33,9 @@ I have sorted the list by scale and OEM openness, not by brand fame. For each en
 
 ## Further reading
 
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
+- [Suzhou](https://china-sourcing-agents.com/cities/suzhou-sourcing-agent/)
 - [robot vacuum OEM guide](https://china-sourcing-agents.com/guides/robot-vacuum-oem-china/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [supplier verification](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
-- [smart home device sourcing](https://china-sourcing-agents.com/industries/smart-home/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/robot-vacuum-manufacturers-china/)
 

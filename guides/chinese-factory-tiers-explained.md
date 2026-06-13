@@ -30,9 +30,9 @@ The price premium over the next tier is typically 15–25% on assembly cost. For
 
 ## Further reading
 
+- [IPC-A-610 wiki reference](https://china-sourcing-agents.com/wiki/ipc-a-610/)
+- [PCBA](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [supplier verification guide](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [factory audit checklist guide](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [process of sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/chinese-factory-tiers-explained/)
 

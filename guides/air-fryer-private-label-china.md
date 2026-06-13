@@ -33,7 +33,9 @@ The multi-function combos — 6-in-1 or 8-in-1 units with a flip-lid design, dua
 
 ## Further reading
 
-- [product development service](https://china-sourcing-agents.com/services/product-development/)
-- [how to source electronics from China guide](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [ODM vs OEM distinction](https://china-sourcing-agents.com/guides/oem-vs-odm-electronics-china/)
+- [product inspection](https://china-sourcing-agents.com/services/inspection/)
+- [private label](https://china-sourcing-agents.com/services/private-label/)
+- [factory audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/air-fryer-private-label-china/)
 

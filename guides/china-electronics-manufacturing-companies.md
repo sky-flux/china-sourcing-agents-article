@@ -37,7 +37,7 @@ The difference isn't just about price — though a trader typically adds 20–40
 
 - [SMT line](https://china-sourcing-agents.com/wiki/smt-process/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [supplier verification guide](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
 - [sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-electronics-manufacturing-companies/)
 

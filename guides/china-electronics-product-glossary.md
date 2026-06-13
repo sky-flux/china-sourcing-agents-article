@@ -33,8 +33,8 @@ This glossary covers the ~80 terms you're most likely to encounter. It's organiz
 ## Further reading
 
 - [sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [PCB assembly guide](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [IoT modules and components](https://china-sourcing-agents.com/industries/iot-modules/)
-- [IPC-A-610 wiki page](https://china-sourcing-agents.com/wiki/ipc-a-610/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [OEM vs ODM guide](https://china-sourcing-agents.com/guides/oem-vs-odm-electronics-china/)
+- [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-electronics-product-glossary/)
 

@@ -35,7 +35,7 @@ For a broader view of electronics sourcing in this sector, see our power electro
 
 - [power electronics sourcing](https://china-sourcing-agents.com/industries/power-electronics/)
 - [automotive electronics sourcing](https://china-sourcing-agents.com/industries/automotive-electronics/)
-- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [multi-market certification guide](https://china-sourcing-agents.com/guides/multi-market-certification-electronics/)
+- [CE and FCC certification guide](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
+- [supplier verification checks](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/ev-charger-manufacturers-china/)
 

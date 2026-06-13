@@ -34,8 +34,8 @@ I have sorted the field by production scale and OEM openness. Any uncertain spec
 ## Further reading
 
 - [GaN charger OEM guide](https://china-sourcing-agents.com/guides/gan-charger-oem-china/)
+- [GaN power IC](https://china-sourcing-agents.com/wiki/gan-charger-ic/)
 - [electrical safety inspection](https://china-sourcing-agents.com/services/inspection/)
 - [FCC and CE certification guide](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
-- [power electronics sourcing](https://china-sourcing-agents.com/industries/power-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/gan-charger-manufacturers-china/)
 

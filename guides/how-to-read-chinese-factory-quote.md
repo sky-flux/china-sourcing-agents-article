@@ -33,9 +33,9 @@ The other factor is that many quotes are produced by salespeople, not engineers.
 
 ## Further reading
 
+- [China payment terms guide](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
+- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
+- [how to negotiate with Chinese suppliers](https://china-sourcing-agents.com/guides/negotiate-with-chinese-suppliers/)
 - [Sourcing & Supplier Matching](https://china-sourcing-agents.com/services/sourcing/)
-- [Factory Audit Checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [EU startup Bluetooth speaker case](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
-- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/how-to-read-chinese-factory-quote/)
 

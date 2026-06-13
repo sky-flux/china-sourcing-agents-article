@@ -32,9 +32,9 @@ Luxshare is a $15B+ company with roughly 250,000 employees. Its Vietnam faciliti
 
 ## Further reading
 
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [consumer electronics industry page](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [EU electronics import guide](https://china-sourcing-agents.com/guides/import-electronics-china-eu/)
-- [real case study of Bluetooth speaker production](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-vs-vietnam-electronics-manufacturing/)
 

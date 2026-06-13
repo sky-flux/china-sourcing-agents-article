@@ -31,7 +31,9 @@ For EUR, GBP, AUD, or JPY buyers, the exposure is more direct. You quote your cu
 
 ## Further reading
 
-- [China Payment Terms Explained](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
-- [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
+- [IoT sensors and modules](https://china-sourcing-agents.com/industries/iot-modules/)
+- [import electronics from China to the US guide](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
+- [Japanese distributor importing LoRa gateways](https://china-sourcing-agents.com/cases/jp-distributor-lora-gateway/)
+- [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-sourcing-exchange-rate-risk/)
 

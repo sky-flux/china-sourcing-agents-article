@@ -31,8 +31,9 @@ Both chips are manufactured in volume in China. The differences that matter for 
 
 ## Further reading
 
-- [complete guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [IoT module sourcing](https://china-sourcing-agents.com/services/sourcing/)
-- [IoT modules industry page](https://china-sourcing-agents.com/industries/iot-modules/)
+- [BLE 5 module reference](https://china-sourcing-agents.com/wiki/ble-5-modules/)
+- [ESP32 module overview](https://china-sourcing-agents.com/wiki/esp32-modules/)
+- [FCC certification basics](https://china-sourcing-agents.com/wiki/fcc-certification/)
+- [multi-market certification guide](https://china-sourcing-agents.com/guides/multi-market-certification-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/ble-module-china-sourcing/)
 

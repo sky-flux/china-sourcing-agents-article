@@ -34,7 +34,9 @@ The arithmetic is correct. The problem is the next question: what can you actual
 
 ## Further reading
 
+- [IoT module](https://china-sourcing-agents.com/industries/iot-modules/)
 - [importing electronics from China to the US](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
+- [how to choose a sourcing agent around tariff risk](https://china-sourcing-agents.com/guides/how-to-choose-china-sourcing-agent-tariff-risks/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-vs-india-electronics-manufacturing/)
 

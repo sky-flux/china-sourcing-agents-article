@@ -32,8 +32,9 @@ The scale is zero-anchored at 50. Above 50 means more survey respondents reporte
 
 ## Further reading
 
+- [Japanese distributor sourcing LoRa gateways](https://china-sourcing-agents.com/cases/jp-distributor-lora-gateway/)
+- [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing consultant](https://china-sourcing-agents.com/services/consulting/)
-- [China electronics industry overview](https://china-sourcing-agents.com/guides/china-electronics-industry-overview/)
-- [2026 tariff guide](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
+- [factory sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-manufacturing-pmi-what-buyers-need-to-know/)
 

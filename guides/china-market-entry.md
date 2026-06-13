@@ -35,9 +35,9 @@ The phrase is used two ways. One meaning: a foreign company entering China as a 
 
 ## Further reading
 
+- [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Shenzhen electronics market guide](https://china-sourcing-agents.com/guides/shenzhen-electronics-market-guide/)
-- [FCC](https://china-sourcing-agents.com/wiki/fcc-certification/)
-- [CE](https://china-sourcing-agents.com/wiki/ce-marking/)
-- [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-market-entry/)
 

@@ -33,8 +33,9 @@ There are effectively four options when shipping from China, not two:
 
 ## Further reading
 
+- [import electronics from China to the US guide](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
 - [China payment terms guide](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
-- [Logistics & Customs Coordination](https://china-sourcing-agents.com/services/logistics/)
-- [EU startup Bluetooth speaker case](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
+- [inspection](https://china-sourcing-agents.com/services/inspection/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-shipping-air-vs-sea-cost/)
 

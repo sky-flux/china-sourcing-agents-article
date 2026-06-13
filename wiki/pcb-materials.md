@@ -37,6 +37,6 @@ Woven E-glass reinforcement in an epoxy resin matrix. Standard FR4 has Tg of 130
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [Aluminum substrate (MCPCB)](https://china-sourcing-agents.com/products/aluminum-pcb-mcpcb/)
-- [SMT Assembly Process](https://china-sourcing-agents.com/wiki/smt-process/)
+- [air conditioner inverter control boards](https://china-sourcing-agents.com/guides/air-conditioner-control-board-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/pcb-materials/)
 

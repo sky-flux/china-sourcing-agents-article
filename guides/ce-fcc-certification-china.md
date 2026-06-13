@@ -37,7 +37,7 @@ Before anything else, get this straight: FCC and CE certification applies to a s
 
 - [FCC](https://china-sourcing-agents.com/wiki/fcc-certification/)
 - [CE marking](https://china-sourcing-agents.com/wiki/ce-marking/)
+- [air conditioner inverter control board](https://china-sourcing-agents.com/guides/air-conditioner-control-board-china/)
 - [electronics quality control in China](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
-- [multi-market certification guide](https://china-sourcing-agents.com/guides/multi-market-certification-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
 

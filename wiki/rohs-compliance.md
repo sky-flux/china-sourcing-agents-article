@@ -36,6 +36,6 @@ RoHS applies to any manufacturer, importer, or distributor placing EEE on the EU
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Bluetooth speakers](https://china-sourcing-agents.com/products/bluetooth-speaker-oem/)
 - [smart TVs](https://china-sourcing-agents.com/products/android-tv-box-oem/)
-- [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [air conditioner control boards](https://china-sourcing-agents.com/guides/air-conditioner-control-board-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/rohs-compliance/)
 

@@ -32,7 +32,6 @@ The product: a TWS-capable BLE 5.2 stereo speaker with USB-C PD charging, passiv
 - Approach
 - Implementation
 - Outcomes
-- Frequently asked questions
 - What We'd Do Differently
 
 ---

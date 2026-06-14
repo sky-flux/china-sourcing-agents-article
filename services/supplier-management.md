@@ -29,6 +29,7 @@ These are two stages, not the same job. Finding a supplier means searching the m
 - Building Long-Term Chinese Factory Relationships
 - China Supplier Management Costs & Retainers
 - Supplier Management Deliverables
+- When to Use This Service
 
 ---
 

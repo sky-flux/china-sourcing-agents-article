@@ -26,6 +26,10 @@ For the underlying wireless modules used in many of these products — Zigbee So
 - Risks When Sourcing Smart Home Devices from China
 - Our Smart Home Sourcing Experience
 - Sourcing Smart Home Devices for Saudi Arabia & GCC
+- Engineering Capabilities in the Smart Home Industry
+- Typical Client Profile
+- How We Source for Smart Home Devices
+- Key Manufacturing Regions
 
 ---
 

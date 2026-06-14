@@ -25,6 +25,11 @@ For the specific sourcing risks around Espressif ESP32 modules — variant subst
 - What IoT Modules Can You Source from China?
 - Risks When Sourcing IoT Modules from China
 - Our IoT Module Sourcing Experience
+- Engineering Capabilities in This Industry
+- Typical Client Profile
+- How We Source for IoT Modules
+- Key Manufacturing Regions
+- Results / Social Proof
 
 ---
 

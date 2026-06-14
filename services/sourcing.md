@@ -29,6 +29,7 @@ Before you commit to a supplier, run the unit price through our import duty and 
 - How We Shortlist Chinese Electronics Manufacturers
 - Supplier Comparison Report & Quotes
 - Sourcing vs Factory Audits
+- When to Use This Service
 
 ---
 

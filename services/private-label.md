@@ -27,6 +27,9 @@ We manage that entire process end-to-end.
 - Custom Molds and Tooling for Electronics
 - Retail Packaging Coordination
 - IP Protection During Manufacturing in China
+- When to Use This Service
+- What Engineer-Led Private Label & OEM Management Looks Like
+- Typical Timeline & Milestones
 
 ---
 

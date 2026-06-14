@@ -27,6 +27,9 @@ Hardware sourcing advisory covers the decisions that come before a purchase orde
 - China Manufacturing Project Management Services
 - When to Hire a China Sourcing Consultant
 - Sourcing Consulting Deliverables
+- When to Use This Service
+- What Engineer-Led China Sourcing Consultant Looks Like
+- Typical Timeline & Milestones
 
 ---
 

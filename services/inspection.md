@@ -28,6 +28,8 @@ At 20–30% production completion. We pull samples from the line, run functional
 - Understanding AQL Sampling for Electronics
 - Electronics-Specific Quality Control Tests
 - Quality Inspection Report Deliverables
+- When to Use China Quality Inspection
+- What Engineer-Led Quality Inspection Looks Like
 
 ---
 

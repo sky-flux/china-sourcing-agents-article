@@ -23,6 +23,11 @@ The point of this specificity: a buyer searching for "TWS earphone manufacturer 
 ## What this covers
 
 - What Consumer Electronics Can You Source from China?
+- Engineering Capabilities in This Industry
+- Typical Client Profile
+- How We Source for Consumer Electronics
+- Key Manufacturing Regions
+- Results / Social Proof
 - Risks When Sourcing Consumer Electronics from China
 
 ---

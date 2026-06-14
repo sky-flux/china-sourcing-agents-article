@@ -27,6 +27,9 @@ Lithium products require UN 38.3 before transport; standalone cells (PI 965) are
 - Amazon US Compliance for Charging Products
 - Multi-Market Certification Timelines & Costs
 - DOE Level VI Efficiency Requirements
+- Engineering Capabilities in Power Electronics
+- Typical Client Profile
+- How We Source for Power Electronics
 
 ---
 

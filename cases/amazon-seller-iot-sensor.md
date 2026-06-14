@@ -32,7 +32,6 @@ We started with a technical spec definition session. The client knew what they w
 - Approach
 - Implementation
 - Outcomes
-- Frequently asked questions
 - What We'd Do Differently
 
 ---

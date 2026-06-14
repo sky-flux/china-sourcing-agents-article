@@ -27,6 +27,9 @@ Hardware product development in China moves through four stages. We stay involve
 - Essential Considerations for OEM/ODM Development
 - OEM vs ODM: Which Path Should You Choose?
 - Hardware Product Development Deliverables
+- When to Use This Service
+- What Engineer-Led Electronics Product Development Looks Like
+- Typical Timeline & Milestones
 
 ---
 

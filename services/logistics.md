@@ -27,6 +27,9 @@ We work with 3–4 vetted forwarders in Shenzhen and Dongguan. For most shipment
 - Electronics Export Documentation for Customs
 - Common Freight Forwarding & Customs Mistakes
 - Transparent Freight Forwarding Costs
+- When to Use This Service
+- What Engineer-Led China Freight Forwarder & Logistics Coordination Looks Like
+- Typical Timeline & Milestones
 
 ---
 

@@ -32,7 +32,6 @@ This engagement was primarily a direct manufacturer identification and verificat
 - Approach
 - Implementation
 - Outcomes
-- Frequently asked questions
 - What We'd Do Differently
 
 ---

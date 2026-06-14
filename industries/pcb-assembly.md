@@ -25,6 +25,11 @@ IPC-A-610 Class 2 is the minimum standard on all orders; Class 3 (high-reliabili
 - PCB Fabrication & Assembly Services in China
 - Risks When Sourcing PCB Assembly (PCBA) from China
 - Our PCB Assembly Sourcing Experience
+- Engineering capabilities we evaluate for PCB assembly
+- Typical client profile
+- How we source for PCB assembly
+- Key manufacturing regions
+- Results / social proof
 
 ---
 

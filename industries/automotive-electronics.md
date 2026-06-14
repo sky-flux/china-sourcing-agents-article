@@ -25,6 +25,10 @@ We source the accessory/aftermarket layer only — tier-1 safety systems (engine
 - What Automotive Electronics Can You Source from China?
 - Sourcing Aftermarket Parts for Chinese EV Brands
 - Risks When Sourcing Automotive Electronics from China
+- Engineering Capabilities in This Industry
+- Typical Client Profile
+- How We Source for Automotive Electronics
+- Key Manufacturing Regions
 
 ---
 

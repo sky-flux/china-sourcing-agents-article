@@ -32,7 +32,6 @@ The problem was verifying it. They couldn't tell if the Alibaba seller was the a
 - Approach
 - Implementation
 - Outcomes
-- Frequently asked questions
 - What We'd Do Differently
 
 ---

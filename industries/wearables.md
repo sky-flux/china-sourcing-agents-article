@@ -27,6 +27,9 @@ Wellness-category devices only — clinical/medical claims (FDA 510(k), MDR) are
 - Wearable Flexible PCB Tolerances: Why ±0.1mm Matters
 - Wearable Battery Certification: UN 38.3 & IEC 62133
 - FCC & CE Certification Timelines for Wearables
+- Engineering Capabilities in Wearables
+- Typical Client Profile
+- How We Source for Wearables & Health Tech
 
 ---
 

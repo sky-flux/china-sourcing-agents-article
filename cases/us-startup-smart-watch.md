@@ -32,7 +32,6 @@ Certifications required: FCC (United States) and CE (European Union). The founde
 - Approach
 - Implementation
 - Outcomes
-- Frequently asked questions
 - What We'd Do Differently
 
 ---

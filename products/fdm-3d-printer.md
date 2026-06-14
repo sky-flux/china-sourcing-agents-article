@@ -32,6 +32,7 @@ The kinematic architecture defines the performance ceiling of the machine and ca
 
 - [factory audit](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [inspection service](https://china-sourcing-agents.com/services/inspection/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/fdm-3d-printer/)
 

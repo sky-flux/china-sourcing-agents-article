@@ -12,7 +12,7 @@ Importing electronics from China starts with finding the right factory. We searc
 
 ---
 
-China Sourcing Agents cuts the factory search from 3–6 months down to 2 weeks. Most hardware startups spend that time talking to traders on Alibaba who present themselves as manufacturers — by the time they realize the mistake, they've wasted samples, deposits, and a product launch window.
+China Sourcing Agents cuts the factory search from 3–6 months down to 2 weeks. Most hardware startups spend that time talking to traders on Alibaba who present themselves as manufacturers — by the time they realize the mistake, they've wasted samples, deposits, and a product launch window. Our own research into China electronics market websites and the top Chinese electronics manufacturers shapes how we qualify factories before adding them to a shortlist.
 
 Our sourcing process goes beyond Alibaba keyword searches. We cross-reference 1688 (the domestic wholesale platform), our direct factory relationships built over 7 years, and trade show contacts from Shenzhen and Dongguan. For each candidate we verify business registration, production capacity, existing client references, and whether they're a factory or a trader.
 
@@ -35,9 +35,9 @@ Before you commit to a supplier, run the unit price through our import duty and 
 
 ## Further reading
 
+- [China electronics market websites](https://china-sourcing-agents.com/guides/china-electronics-market-websites/)
+- [top Chinese electronics manufacturers](https://china-sourcing-agents.com/guides/top-chinese-electronics-manufacturers/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [a recent sourcing project](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
-- [Amazon seller IoT sensor project](https://china-sourcing-agents.com/cases/amazon-seller-iot-sensor/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/services/sourcing/)
 

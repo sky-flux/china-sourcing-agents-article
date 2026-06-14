@@ -1,10 +1,10 @@
 ---
-title: "Fangchenggang Sourcing Agent | China-Vietnam Trade & Bulk Materials"
+title: "Fangchenggang Sourcing Agent | Vietnam Trade"
 description: "Work with a verified Fangchenggang sourcing agent. Procure iron ore, manganese, and steel, and manage China-Vietnam border trade logistics via Dongxing."
 canonical_url: "https://china-sourcing-agents.com/cities/fangchenggang-sourcing-agent/"
 ---
 
-# Fangchenggang Sourcing Agent | China-Vietnam Trade & Bulk Materials
+# Fangchenggang Sourcing Agent | Vietnam Trade
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/fangchenggang-sourcing-agent/](https://china-sourcing-agents.com/cities/fangchenggang-sourcing-agent/)
 
@@ -31,5 +31,11 @@ Fangchenggang Port is classified as one of China's national key ports, and its c
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/fangchenggang-sourcing-agent/)
+## Further reading
+
+- [aluminum composite panels](https://china-sourcing-agents.com/products/building-materials/aluminum-composite-panel/)
+- [aluminum extrusion profiles](https://china-sourcing-agents.com/products/building-materials/aluminum-extrusion-profile/)
+- [epoxy floor coatings](https://china-sourcing-agents.com/products/building-materials/epoxy-floor-coating/)
+- [panel radiators](https://china-sourcing-agents.com/products/building-materials/panel-radiator/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/fangchenggang-sourcing-agent/)
 

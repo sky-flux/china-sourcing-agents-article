@@ -1,10 +1,10 @@
 ---
-title: "Custom Aluminum Extrusion Profile | OEM Manufacturer in China"
+title: "Custom Aluminum Extrusion Profile | OEM China"
 description: "Source custom aluminum extrusion profiles from China. 6063-T5, 6061-T6, 6082-T6 alloys. Mill finish, anodized, powder-coated. Custom die tooling in 15-30…"
 canonical_url: "https://china-sourcing-agents.com/products/aluminum-extrusion-profile/"
 ---
 
-# Custom Aluminum Extrusion Profile | OEM Manufacturer in China
+# Custom Aluminum Extrusion Profile | OEM China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/aluminum-extrusion-profile/](https://china-sourcing-agents.com/products/aluminum-extrusion-profile/)
 
@@ -34,5 +34,6 @@ Aluminum extrusion alloy selection determines mechanical strength, surface finis
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
+- [smart home sourcing team](https://china-sourcing-agents.com/industries/smart-home/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/aluminum-extrusion-profile/)
 

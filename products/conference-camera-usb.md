@@ -1,10 +1,10 @@
 ---
-title: "Wholesale OEM 4K USB & NDI Conference Cameras | China Manufacturer"
+title: "Wholesale 4K USB & NDI Conference Cameras | China OEM"
 description: "Source high-quality OEM 4K USB and NDI conference cameras directly from China. Featuring AI auto-tracking, 12x optical zoom, UVC compliance, and CE/FCC…"
 canonical_url: "https://china-sourcing-agents.com/products/conference-camera-usb/"
 ---
 
-# Wholesale OEM 4K USB & NDI Conference Cameras | China Manufacturer
+# Wholesale 4K USB & NDI Conference Cameras | China OEM
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/conference-camera-usb/](https://china-sourcing-agents.com/products/conference-camera-usb/)
 
@@ -33,5 +33,6 @@ Cameras that rely on a proprietary SDK for USB output — common in some NDI-pri
 - [sourcing conference cameras](https://china-sourcing-agents.com/services/sourcing/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [consumer electronics sourcing](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/conference-camera-usb/)
 

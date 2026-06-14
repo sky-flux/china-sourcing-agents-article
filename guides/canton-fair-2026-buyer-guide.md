@@ -28,6 +28,8 @@ The official name is the China Import and Export Fair. It is held at the Pazhou 
 - At the fair: what to actually do
 - What Canton Fair cannot do for you
 - The autumn 2026 session: what to expect
+- Budgeting the trip realistically
+- How to read booth badges and company materials
 
 ---
 

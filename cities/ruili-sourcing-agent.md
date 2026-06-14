@@ -34,6 +34,7 @@ Jade and rough gemstones dominate Ruili's inbound trade in value terms. Myanmar'
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [electric scooters](https://china-sourcing-agents.com/products/electric-scooter/)
+- [electric bicycles](https://china-sourcing-agents.com/products/electric-bicycle/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/ruili-sourcing-agent/)
 

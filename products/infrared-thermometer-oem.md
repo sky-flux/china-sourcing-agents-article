@@ -1,10 +1,10 @@
 ---
-title: "Infrared Thermometer OEM Manufacturers in China (Body & Industrial IR)"
+title: "Infrared Thermometer OEM in China: Body & Industrial IR"
 description: "Source high-quality OEM infrared thermometers from China. Covering non-contact medical body thermometers and industrial IR pyrometers with FDA 510(k), CE…"
 canonical_url: "https://china-sourcing-agents.com/products/infrared-thermometer-oem/"
 ---
 
-# Infrared Thermometer OEM Manufacturers in China (Body & Industrial IR)
+# Infrared Thermometer OEM in China: Body & Industrial IR
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/infrared-thermometer-oem/](https://china-sourcing-agents.com/products/infrared-thermometer-oem/)
 
@@ -33,5 +33,6 @@ Non-contact infrared thermometers in both medical device and industrial categori
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
+- [consumer electronics industry overview](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/infrared-thermometer-oem/)
 

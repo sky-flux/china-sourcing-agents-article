@@ -14,9 +14,9 @@ How to source air conditioner control boards (DC inverter PCBA) from China — s
 
 import heroImage from '../../../assets/air-conditioner-control-board-china.webp';
 
-An air conditioner control board is a mains-voltage power-electronics PCBA, not a generic logic board — and that single fact changes how you source it. The board switches the compressor and fan, carries 220–310V on the inverter DC bus, and has to survive heat, humidity, and years of duty cycling inside an outdoor unit. Source it like an ordinary 2-layer board and you will get one that passes the factory's visual check and fails in a customer's wall a year later.
+An air conditioner control board is a mains-voltage power-electronics PCBA, not a generic logic board — and that single fact changes how you source it. The board switches the compressor and fan, carries 220–310V on the inverter DC bus, and has to survive heat, humidity, and years of duty cycling inside an outdoor unit. Source it like an ordinary 2-layer board and you will get one that passes the factory's visual check and fails in a customer's wall a year later. The same discipline applies when sourcing a mini-split inverter AC unit or a smart thermostat with mains-voltage control boards.
 
-This guide covers what a buyer needs to know before placing an order for air conditioner control boards in China: what the board actually is, how to specify it so the quote is comparable, how to tell a contract manufacturer apart from a parts reseller, what mains-voltage quality control looks like, and what it really costs.
+This guide covers what a buyer needs to know before placing an order for air conditioner control boards in China, whether the end product is an AC unit, an air purifier, or another appliance with a high-voltage PCBA: what the board actually is, how to specify it so the quote is comparable, how to tell a contract manufacturer apart from a parts reseller, what mains-voltage quality control looks like, and what it really costs.
 
 ---
 
@@ -36,8 +36,8 @@ This guide covers what a buyer needs to know before placing an order for air con
 ## Further reading
 
 - [2-layer board](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [mini-split inverter AC unit](https://china-sourcing-agents.com/products/mini-split-ac-inverter/)
+- [smart thermostat](https://china-sourcing-agents.com/products/smart-thermostat/)
 - [air conditioner control boards](https://china-sourcing-agents.com/industries/power-electronics/)
-- [PCB assembly buyer's guide](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
-- [PCB substrate materials reference](https://china-sourcing-agents.com/wiki/pcb-materials/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/air-conditioner-control-board-china/)
 

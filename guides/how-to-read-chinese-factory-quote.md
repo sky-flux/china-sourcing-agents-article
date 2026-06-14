@@ -24,10 +24,12 @@ The other factor is that many quotes are produced by salespeople, not engineers.
 
 - Why Chinese factory quotes look the way they do
 - The standard line items, and what they actually mean
+- Quote validity and component price volatility
 - Red flags in quotes
+- Hidden cost categories to surface
 - How to compare multiple quotes fairly
+- Amortizing tooling and break-even math
 - What to do when you don't understand a line item
-- What good quotes look like in practice
 
 ---
 

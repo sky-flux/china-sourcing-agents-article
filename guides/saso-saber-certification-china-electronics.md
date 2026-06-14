@@ -29,6 +29,7 @@ These three names get used interchangeably and they should not be:
 - Wireless: CST runs in parallel
 - Timeline and who pays
 - Where China orders stall — and how to avoid it
+- Product-specific compliance notes
 
 ---
 

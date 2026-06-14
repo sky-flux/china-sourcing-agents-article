@@ -25,6 +25,11 @@ A rechargeable Li-ion pack with USB-C emergency charging is standard; confirm a 
 - Lock body and face recognition
 - Power, storage, and protocol
 - Sourcing Video Smart Locks for Saudi Arabia & the GCC
+- Typical specs to confirm before sampling
+- A common pitfall: lock body that does not fit Gulf doors
+- Buyer profile: KSA villa developer
+- Recommended next steps
+- Supply-chain and inspection notes
 
 ---
 
@@ -33,6 +38,6 @@ A rechargeable Li-ion pack with USB-C emergency charging is standard; confirm a 
 - [smart door lock](https://china-sourcing-agents.com/products/smart-home/smart-door-lock/)
 - [CST](https://china-sourcing-agents.com/guides/saso-saber-certification-china-electronics/)
 - [Tuya platform reference](https://china-sourcing-agents.com/wiki/tuya-smart-platform/)
-- [sourcing smart home devices for Saudi Arabia](https://china-sourcing-agents.com/guides/sourcing-smart-home-devices-saudi-arabia/)
+- [Zhongshan lock and lighting cluster](https://china-sourcing-agents.com/cities/zhongshan-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/video-smart-lock/)
 

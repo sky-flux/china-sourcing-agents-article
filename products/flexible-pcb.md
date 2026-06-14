@@ -12,16 +12,20 @@ Source high-quality FPCs from a leading flexible PCB manufacturer in China. Sing
 
 ---
 
-The minimum bend radius is the single most critical FPC design parameter in custom FPC fabrication. Violating it causes conductor fatigue fractures — often intermittent failures that are difficult to diagnose in field returns. When choosing a flexible PCB manufacturer in China (FPC), our sourcing service helps you specify the correct polyimide substrate and material stack for your application, whether it's a PCB assembly project or a wearable device with dynamic flex PCB requirements. See our PCB assembly guide for more on specifying and sourcing printed circuit boards from China.
+A flexible PCB (FPC) is a thin circuit built on polyimide film instead of rigid FR4, allowing it to bend, fold, or flex inside a product. It is used when a connection needs to move, fit a tight space, or reduce connector count between sub-assemblies. Common applications include wearable devices, camera modules, medical probes, and foldable consumer electronics.
 
-The IPC-2223 design guideline for static flex (bent once during assembly, not repeatedly) specifies a minimum bend radius of 6× the total FPC thickness. For dynamic flex (repeatedly bent during operation, e.g., a flip-phone hinge or wearable band), minimum bend radius is 10–20× the total FPC thickness.
+Before a flexible PCB manufacturer can quote accurately, confirm the specs that drive material choice and fatigue life:
 
-Practical calculation: a single-layer FPC with 25µm PI base + 35µm copper + 25µm coverlay = 85µm total. Minimum static bend radius: 6 × 0.085mm = 0.51mm. Minimum dynamic bend radius: 10 × 0.085mm = 0.85mm.
+Most FPC specialists are clustered in the Pearl River Delta near Shenzhen and Dongguan, where connector supply chains and quick-turn lamination shops are dense.
 
 ---
 
 ## What this covers
 
+- What to Specify When Quoting a Flexible PCB
+- Common Pitfall: Confusing FPC with FFC
+- Typical Buyer Profile
+- Recommended Next Steps
 - Flex Circuit Board Bend Radius Design Rules
 - ZIF vs. FFC Connector Pitch Compatibility
 - Static Flex vs. Dynamic Flex Material Selection
@@ -31,9 +35,9 @@ Practical calculation: a single-layer FPC with 25µm PI base + 35µm copper + 25
 
 ## Further reading
 
-- [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [wearable device](https://china-sourcing-agents.com/industries/wearables/)
-- [PCB assembly guide](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
+- [wearable devices](https://china-sourcing-agents.com/industries/wearables/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
+- [PCB assembly in China](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/flexible-pcb/)
 

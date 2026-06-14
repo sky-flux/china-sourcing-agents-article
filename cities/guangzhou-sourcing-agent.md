@@ -1,10 +1,10 @@
 ---
-title: "Guangzhou Sourcing Agent | Canton Fair, Apparel & Electronics Hub"
+title: "Guangzhou Sourcing Agent | Canton Fair & Electronics"
 description: "Work with an expert Guangzhou sourcing agent. Navigate the Canton Fair, apparel markets, beauty OEM, automotive electronics, and Nansha Port logistics."
 canonical_url: "https://china-sourcing-agents.com/cities/guangzhou-sourcing-agent/"
 ---
 
-# Guangzhou Sourcing Agent | Canton Fair, Apparel & Electronics Hub
+# Guangzhou Sourcing Agent | Canton Fair & Electronics
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/guangzhou-sourcing-agent/](https://china-sourcing-agents.com/cities/guangzhou-sourcing-agent/)
 

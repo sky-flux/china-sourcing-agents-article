@@ -25,6 +25,11 @@ The action item: specify the exact tube diameter and the heaviest fabric/drop in
 - Tube size, torque, and load
 - Power and control
 - Sourcing Smart Tubular Motors for Saudi Arabia & the GCC
+- Typical specs to confirm before sampling
+- A common pitfall: tube-diameter mismatch or underspecced torque
+- Buyer profile: KSA shading contractor
+- Recommended next steps
+- Supply-chain and inspection notes
 
 ---
 
@@ -33,6 +38,6 @@ The action item: specify the exact tube diameter and the heaviest fabric/drop in
 - [CST](https://china-sourcing-agents.com/guides/saso-saber-certification-china-electronics/)
 - [Tuya reference](https://china-sourcing-agents.com/wiki/tuya-smart-platform/)
 - [scene panel](https://china-sourcing-agents.com/products/smart-home/smart-scene-panel/)
-- [sourcing smart home devices for Saudi Arabia](https://china-sourcing-agents.com/guides/sourcing-smart-home-devices-saudi-arabia/)
+- [Foshan hardware hub](https://china-sourcing-agents.com/cities/foshan-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/smart-tubular-motor/)
 

@@ -33,6 +33,7 @@ The power take-off (PTO) shaft and 3-point hitch category are the two mechanical
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [inspection service](https://china-sourcing-agents.com/services/inspection/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [Chongqing](https://china-sourcing-agents.com/cities/chongqing-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/rotary-tiller-cultivator/)
 

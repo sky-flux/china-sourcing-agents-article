@@ -1,10 +1,10 @@
 ---
-title: "Wholesale SMD Crystal Oscillators (TCXO, OCXO) | China Manufacturer"
+title: "Wholesale SMD Crystal Oscillators (TCXO, OCXO) China"
 description: "Source reliable SMD crystal oscillators, TCXO, and OCXO from top China manufacturers. Frequencies from 32.768kHz to 1GHz. AEC-Q200 compliant options…"
 canonical_url: "https://china-sourcing-agents.com/products/crystal-oscillator/"
 ---
 
-# Wholesale SMD Crystal Oscillators (TCXO, OCXO) | China Manufacturer
+# Wholesale SMD Crystal Oscillators (TCXO, OCXO) China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/crystal-oscillator/](https://china-sourcing-agents.com/products/crystal-oscillator/)
 

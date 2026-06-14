@@ -1,14 +1,14 @@
 ---
-title: "Changzhou Sourcing Agent — NEV & Smart Manufacturing Hub"
-description: "Expert China sourcing agent in Changzhou. We specialize in procurement, quality control, and factory audits for NEV, EV supply chain, auto parts, and LED…"
+title: "Changzhou Sourcing Agent | NEV & Auto Parts"
+description: "Expert China sourcing agent in Changzhou. Procurement, QC, and factory audits for NEV, EV supply chain, auto parts, and LED lighting."
 canonical_url: "https://china-sourcing-agents.com/cities/changzhou-sourcing-agent/"
 ---
 
-# Changzhou Sourcing Agent — NEV & Smart Manufacturing Hub
+# Changzhou Sourcing Agent | NEV & Auto Parts
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/changzhou-sourcing-agent/](https://china-sourcing-agents.com/cities/changzhou-sourcing-agent/)
 
-Expert China sourcing agent in Changzhou. We specialize in procurement, quality control, and factory audits for NEV, EV supply chain, auto parts, and LED…
+Expert China sourcing agent in Changzhou. Procurement, QC, and factory audits for NEV, EV supply chain, auto parts, and LED lighting.
 
 ---
 

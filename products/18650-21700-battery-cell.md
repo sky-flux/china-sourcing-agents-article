@@ -1,10 +1,10 @@
 ---
-title: "18650 & 21700 Battery Cell Manufacturers in China: OEM & Wholesale"
+title: "18650 & 21700 Battery Cell Manufacturers China: Wholesale"
 description: "Source 18650 and 21700 battery cells from top manufacturers in China. Wholesale INR, LFP, and NMC chemistries including Samsung SDI, LG Chem, CATL. UN…"
 canonical_url: "https://china-sourcing-agents.com/products/18650-21700-battery-cell/"
 ---
 
-# 18650 & 21700 Battery Cell Manufacturers in China: OEM & Wholesale
+# 18650 & 21700 Battery Cell Manufacturers China: Wholesale
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/18650-21700-battery-cell/](https://china-sourcing-agents.com/products/18650-21700-battery-cell/)
 
@@ -34,6 +34,6 @@ The cylindrical cell market in China has a well-documented counterfeit problem. 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [logistics coordination service](https://china-sourcing-agents.com/services/logistics/)
-- [LiFePO4 battery pack](https://china-sourcing-agents.com/products/lifepo4-battery/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/18650-21700-battery-cell/)
 

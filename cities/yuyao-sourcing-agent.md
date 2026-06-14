@@ -34,7 +34,9 @@ The depth of the cluster is what sets Yuyao apart from other plastics manufactur
 
 ## Further reading
 
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [China electronics industry overview](https://china-sourcing-agents.com/guides/china-electronics-industry-overview/)
+- [injection molding machines](https://china-sourcing-agents.com/products/injection-molding-machine/)
+- [storage containers](https://china-sourcing-agents.com/products/storage-container-oem/)
+- [smart tubular motors](https://china-sourcing-agents.com/products/smart-tubular-motor/)
+- [electric kettles](https://china-sourcing-agents.com/products/electric-kettle-oem/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/yuyao-sourcing-agent/)
 

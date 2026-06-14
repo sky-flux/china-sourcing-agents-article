@@ -12,7 +12,7 @@ Source IoT modules from China — LoRa, BLE, WiFi, Zigbee. We verify genuine chi
 
 ---
 
-IoT modules are pre-assembled wireless connectivity boards — LoRa/LoRaWAN, BLE 5.x, WiFi 6, Zigbee, NB-IoT/Cat-M, and sensor nodes — that drop a certified radio and SoC into an end product without designing the RF section from scratch. Sourcing them requires genuine technical depth: the difference between a Semtech SX1276-based module from a qualified manufacturer and a counterfeit or poorly characterized part can cost months of debugging and a failed FCC certification. Our IoT module sourcing service identifies qualified manufacturers and validates them before you commit to a purchase order.
+IoT modules are pre-assembled wireless connectivity boards — LoRa/LoRaWAN, BLE 5.x, WiFi 6, Zigbee, NB-IoT/Cat-M, and sensor nodes — that drop a certified radio and SoC into an end product without designing the RF section from scratch. Sourcing them requires genuine technical depth: the difference between a Semtech SX1276-based module from a qualified manufacturer and a counterfeit or poorly characterized part can cost months of debugging and a failed FCC certification. Our IoT module sourcing service identifies qualified manufacturers and validates them before you commit to a purchase order. For early reconnaissance, see our China electronics market websites guide and the top Chinese electronics manufacturers ranking.
 
 IoT module sourcing covers a fragmented supplier landscape. The products we source regularly, with the specific chips that matter:
 
@@ -36,8 +36,8 @@ For the specific sourcing risks around Espressif ESP32 modules — variant subst
 ## Further reading
 
 - [IoT module sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [China electronics market websites](https://china-sourcing-agents.com/guides/china-electronics-market-websites/)
+- [top Chinese electronics manufacturers](https://china-sourcing-agents.com/guides/top-chinese-electronics-manufacturers/)
 - [LoRa/LoRaWAN modules](https://china-sourcing-agents.com/products/iot-modules/lora-module-sx1262/)
-- [BLE 5.x modules](https://china-sourcing-agents.com/products/iot-modules/ble-module-nrf52840/)
-- [WiFi 6 modules](https://china-sourcing-agents.com/products/iot-modules/wifi-module-esp32/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/industries/iot-modules/)
 

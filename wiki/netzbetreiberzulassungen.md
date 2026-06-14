@@ -1,10 +1,10 @@
 ---
-title: "Grid Operator Approvals for China Electronics: VDE-AR-N, Requirements and Testing"
+title: "Grid Operator Approvals for China Electronics (VDE-AR-N)"
 description: "China electronics: VDE-AR-N 4110/4120, TCR certification and NA protection. Conformity evidence for German and European grid connection."
 canonical_url: "https://china-sourcing-agents.com/wiki/netzbetreiberzulassungen/"
 ---
 
-# Grid Operator Approvals for China Electronics: VDE-AR-N, Requirements and Testing
+# Grid Operator Approvals for China Electronics (VDE-AR-N)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/netzbetreiberzulassungen/](https://china-sourcing-agents.com/wiki/netzbetreiberzulassungen/)
 

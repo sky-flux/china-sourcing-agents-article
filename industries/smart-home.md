@@ -12,7 +12,7 @@ Source smart home devices from China — Zigbee, Matter, WiFi. We handle FCC/CE/
 
 ---
 
-Smart home devices are connected household products — smart bulbs, plugs, door locks, robot vacuums, video doorbells, sensors, and hubs — that communicate over Zigbee, Thread/Matter, WiFi, or Bluetooth and integrate with platforms like Apple Home, Google Home, Amazon Alexa, and Home Assistant. The category is at an inflection point: Matter has reshaped the certification landscape, and factories that produced Zigbee-only devices are scrambling to add Thread and Matter stacks, producing many half-finished implementations. Our smart home device sourcing process filters for factories with validated Matter or Zigbee implementations — not just claimed support.
+Smart home devices are connected household products — smart bulbs, plugs, door locks, robot vacuums, video doorbells, sensors, and hubs — that communicate over Zigbee, Thread/Matter, WiFi, or Bluetooth and integrate with platforms like Apple Home, Google Home, Amazon Alexa, and Home Assistant. The category is at an inflection point: Matter has reshaped the certification landscape, and factories that produced Zigbee-only devices are scrambling to add Thread and Matter stacks, producing many half-finished implementations. Our smart home device sourcing process filters for factories with validated Matter or Zigbee implementations — not just claimed support. For market context, see our China electronics market websites guide and the top Chinese electronics manufacturers ranking.
 
 The category covers a wide range of hardware, but not all of it is equally straightforward to source. Specific products we've worked with:
 
@@ -36,8 +36,8 @@ For the underlying wireless modules used in many of these products — Zigbee So
 ## Further reading
 
 - [smart home device sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [China electronics market websites](https://china-sourcing-agents.com/guides/china-electronics-market-websites/)
+- [top Chinese electronics manufacturers](https://china-sourcing-agents.com/guides/top-chinese-electronics-manufacturers/)
 - [Smart bulbs](https://china-sourcing-agents.com/products/smart-home/smart-bulb/)
-- [Smart door locks](https://china-sourcing-agents.com/products/smart-home/smart-door-lock/)
-- [Robot vacuums](https://china-sourcing-agents.com/products/smart-home/robot-vacuum/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/industries/smart-home/)
 

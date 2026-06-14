@@ -1,14 +1,14 @@
 ---
-title: "Chongqing Sourcing Agent & Procurement: Motorcycles, Auto Parts & Rail"
-description: "Partner with an expert Chongqing sourcing agent for motorcycle manufacturing, auto parts procurement, and strict quality control. Leverage China-Europe…"
+title: "Chongqing Sourcing Agent | Motorcycles & Auto"
+description: "Partner with a Chongqing sourcing agent for motorcycle manufacturing, auto parts procurement, and strict quality control."
 canonical_url: "https://china-sourcing-agents.com/cities/chongqing-sourcing-agent/"
 ---
 
-# Chongqing Sourcing Agent & Procurement: Motorcycles, Auto Parts & Rail
+# Chongqing Sourcing Agent | Motorcycles & Auto
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/chongqing-sourcing-agent/](https://china-sourcing-agents.com/cities/chongqing-sourcing-agent/)
 
-Partner with an expert Chongqing sourcing agent for motorcycle manufacturing, auto parts procurement, and strict quality control. Leverage China-Europe…
+Partner with a Chongqing sourcing agent for motorcycle manufacturing, auto parts procurement, and strict quality control.
 
 ---
 
@@ -34,6 +34,7 @@ As your dedicated sourcing agent in Chongqing, we oversee the entire procurement
 
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [factory audits](https://china-sourcing-agents.com/services/factory-audit/)
+- [android car head units](https://china-sourcing-agents.com/products/automotive/android-car-head-unit/)
+- [car air purifiers](https://china-sourcing-agents.com/products/automotive/car-air-purifier/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/chongqing-sourcing-agent/)
 

@@ -25,6 +25,11 @@ Energy metering (voltage, current, power, kWh) is a common differentiator; the m
 - Type G outlet and current rating
 - Energy metering and USB-C
 - Sourcing Smart Sockets for Saudi Arabia & the GCC
+- Typical specs to confirm before sampling
+- A common pitfall: re-stickered universal sockets
+- Buyer profile: KSA e-commerce seller launching a smart plug brand
+- Recommended next steps
+- Supply-chain and inspection notes
 
 ---
 
@@ -33,6 +38,6 @@ Energy metering (voltage, current, power, kWh) is a common differentiator; the m
 - [Type G plug standard](https://china-sourcing-agents.com/wiki/type-g-plug-bs1363/)
 - [SASO 2203](https://china-sourcing-agents.com/wiki/saso-certification/)
 - [Tuya reference](https://china-sourcing-agents.com/wiki/tuya-smart-platform/)
-- [CST](https://china-sourcing-agents.com/guides/saso-saber-certification-china-electronics/)
+- [Ningbo electronics supplier base](https://china-sourcing-agents.com/cities/ningbo-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/smart-socket-type-g/)
 

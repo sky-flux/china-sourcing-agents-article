@@ -1,10 +1,10 @@
 ---
-title: "Source DALI-2 LED Drivers from Top China Manufacturers (OEM/ODM)"
+title: "DALI-2 LED Driver Manufacturer China | OEM/ODM"
 description: "Find certified DALI-2 LED driver manufacturers in China. Ensure IEC 62386 compliance, flicker-free dimming, and DiiA registration for commercial lighting."
 canonical_url: "https://china-sourcing-agents.com/products/dali-led-driver/"
 ---
 
-# Source DALI-2 LED Drivers from Top China Manufacturers (OEM/ODM)
+# DALI-2 LED Driver Manufacturer China | OEM/ODM
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/dali-led-driver/](https://china-sourcing-agents.com/products/dali-led-driver/)
 

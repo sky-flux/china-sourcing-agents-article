@@ -1,10 +1,10 @@
 ---
-title: "Industrial Inductive Proximity Sensors with IO-Link | China Sourcing"
+title: "Inductive Proximity Sensors with IO-Link | China"
 description: "Source high-quality inductive proximity sensors from China. M8–M30 barrel sizes, NPN/PNP, IO-Link, IP67, CE & UL certified. OEM pricing starting at $3.50."
 canonical_url: "https://china-sourcing-agents.com/products/inductive-proximity-sensor/"
 ---
 
-# Industrial Inductive Proximity Sensors with IO-Link | China Sourcing
+# Inductive Proximity Sensors with IO-Link | China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/inductive-proximity-sensor/](https://china-sourcing-agents.com/products/inductive-proximity-sensor/)
 
@@ -26,6 +26,7 @@ These ranges reflect variation across sensor designs — coil geometry, oscillat
 - NPN vs PNP Output: Matching Your Inductive Sensor to the PLC
 - Choosing the Right Output: IO-Link vs Analog vs Switching
 - Evaluating Inductive Sensor Manufacturers in China: Quality Indicators
+- Sourcing Next Steps
 
 ---
 

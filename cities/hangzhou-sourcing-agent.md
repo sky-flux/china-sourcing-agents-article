@@ -1,14 +1,14 @@
 ---
-title: "Hangzhou Sourcing Agent & Procurement | E-Com, Digital Health & Smart Home"
-description: "Expert sourcing agent in Hangzhou. Access Alibaba-ecosystem apparel (Yuhang), digital health devices, smart home IoT, and bonded logistics. Quality…"
+title: "Hangzhou Sourcing Agent | E-Com & Smart Home"
+description: "Expert Hangzhou sourcing agent for Alibaba-ecosystem apparel, digital health devices, smart home IoT, and bonded logistics."
 canonical_url: "https://china-sourcing-agents.com/cities/hangzhou-sourcing-agent/"
 ---
 
-# Hangzhou Sourcing Agent & Procurement | E-Com, Digital Health & Smart Home
+# Hangzhou Sourcing Agent | E-Com & Smart Home
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/hangzhou-sourcing-agent/](https://china-sourcing-agents.com/cities/hangzhou-sourcing-agent/)
 
-Expert sourcing agent in Hangzhou. Access Alibaba-ecosystem apparel (Yuhang), digital health devices, smart home IoT, and bonded logistics. Quality…
+Expert Hangzhou sourcing agent for Alibaba-ecosystem apparel, digital health devices, smart home IoT, and bonded logistics.
 
 ---
 
@@ -32,9 +32,9 @@ Hangzhou is not a generic manufacturing city. It is a trade-and-technology hub w
 
 ## Further reading
 
-- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [smart home](https://china-sourcing-agents.com/industries/smart-home/)
-- [wearables](https://china-sourcing-agents.com/industries/wearables/)
-- [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
+- [body fat scale OEM](https://china-sourcing-agents.com/products/medical-devices/body-fat-scale-oem/)
+- [hair styling tool OEM](https://china-sourcing-agents.com/products/personal-care/hair-styling-tool-oem/)
+- [smart tubular motors](https://china-sourcing-agents.com/products/smart-home/smart-tubular-motor/)
+- [air purifiers](https://china-sourcing-agents.com/products/home-appliances/air-purifier/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/hangzhou-sourcing-agent/)
 

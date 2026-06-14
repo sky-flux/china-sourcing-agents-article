@@ -1,10 +1,10 @@
 ---
-title: "Android TV Box OEM Manufacturer China | Private Label Smart TV Stick"
+title: "Android TV Box OEM Manufacturer China | Private Label"
 description: "Partner with an Android TV box OEM manufacturer in China for private label smart TV sticks. Amlogic/Rockchip SoCs, 4K HDR, AOSP/ATV options, and low MOQ."
 canonical_url: "https://china-sourcing-agents.com/products/android-tv-box-oem/"
 ---
 
-# Android TV Box OEM Manufacturer China | Private Label Smart TV Stick
+# Android TV Box OEM Manufacturer China | Private Label
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/android-tv-box-oem/](https://china-sourcing-agents.com/products/android-tv-box-oem/)
 

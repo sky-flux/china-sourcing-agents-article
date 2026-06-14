@@ -25,6 +25,11 @@ The action item: confirm the leak event can drive a valve actuator with the inte
 - Detection and alarm linkage
 - Probe options and protocol
 - Sourcing Water Leak Sensors for Saudi Arabia & the GCC
+- Typical specs to confirm before sampling
+- A common pitfall: cloud-only alerts with no local action
+- Buyer profile: KSA property manager
+- Recommended next steps
+- Supply-chain and inspection notes
 
 ---
 
@@ -33,6 +38,6 @@ The action item: confirm the leak event can drive a valve actuator with the inte
 - [CST](https://china-sourcing-agents.com/guides/saso-saber-certification-china-electronics/)
 - [gateway](https://china-sourcing-agents.com/products/smart-home/multi-mode-gateway/)
 - [Tuya reference](https://china-sourcing-agents.com/wiki/tuya-smart-platform/)
-- [sourcing smart home devices for Saudi Arabia](https://china-sourcing-agents.com/guides/sourcing-smart-home-devices-saudi-arabia/)
+- [Shenzhen electronics hub](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/water-leak-sensor/)
 

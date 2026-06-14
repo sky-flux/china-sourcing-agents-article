@@ -25,6 +25,11 @@ Video doorbells are high-visibility smart home and consumer electronics products
 - What to Check When Sourcing Video Doorbells
 - Common Issues with Video Doorbells
 - Sourcing Video Doorbells for Saudi Arabia & the GCC
+- What this product is
+- Typical specs to confirm before sampling
+- A common pitfall: latency above five seconds
+- Buyer profile: EU Amazon private-label seller
+- Recommended next steps
 
 ---
 

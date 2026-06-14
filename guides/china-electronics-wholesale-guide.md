@@ -36,8 +36,8 @@ Chinese manufacturers almost never quote a single price. They quote a price sche
 ## Further reading
 
 - [complete electronics sourcing guide](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [private label](https://china-sourcing-agents.com/services/private-label/)
-- [OEM vs ODM guide](https://china-sourcing-agents.com/guides/oem-vs-odm-electronics-china/)
+- [TWS earphones](https://china-sourcing-agents.com/products/tws-earphones-oem/)
+- [smartwatches](https://china-sourcing-agents.com/products/smartwatch-oem/)
+- [LED strip lights](https://china-sourcing-agents.com/products/led-strip-light/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-electronics-wholesale-guide/)
 

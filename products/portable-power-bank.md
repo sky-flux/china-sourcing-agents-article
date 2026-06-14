@@ -26,6 +26,7 @@ The single most impactful quality variable in sourcing consumer electronics like
 - UN 38.3 Certification for Air Freight of Custom Power Banks
 - Real Capacity vs. Rated Capacity in Fast Charging Power Banks
 - Common Pitfalls When Sourcing Private Label Power Banks
+- Typical Specs and Buyer Profile for Custom Power Banks
 
 ---
 

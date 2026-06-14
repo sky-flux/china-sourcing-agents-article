@@ -12,27 +12,30 @@ Custom quartz dress watch, Miyota or domestic movement, sapphire or mineral crys
 
 ---
 
-The movement is the single highest-impact component decision in an OEM quartz watch programme. It determines accuracy, service life, repairability, and the credibility of any technical marketing claims. For broader consumer electronics sourcing context, this is comparable to chipset selection in wearables.
+A custom quartz dress watch is a battery-powered wristwatch built around a stepping-motor movement rather than a mechanical calibre, which makes it the standard entry point for private-label watch programmes. OEM runs typically start at 300 units and let buyers configure case diameter, dial artwork, hands, crystal type, strap, and water-resistance rating while the factory keeps the movement platform and assembly jigs unchanged. It suits fashion labels, corporate gift buyers, and micro-brands that want a controlled inventory with simpler after-sales service than automatic watches require, and most capable suppliers sit in the Shenzhen-Dongguan watch belt.
 
-Miyota (Citizen Watch Co.) calibre 2115 is the dominant choice for $20–80 retail price dress watches. It carries an ISO 1541 accuracy specification of ±20 seconds per month (roughly ±0.67 s/day). In practice, factory-tested units typically perform at ±10–15 s/month. The 2115 has an established global service network, a 10-year parts availability commitment from Miyota, and a track record of 20+ years in volume production. Factory gate cost is approximately $3.20–4.50 per unit at 1,000+ quantity.
+Lock these details before requesting tooling quotes: movement reference and accuracy grade, crystal material, case diameter and lug width, water-resistance target, case-back gasket compound, and strap attachment system. Ask for the actual movement datasheet, not a marketing sheet, and confirm whether the factory holds authorised distributor status for Miyota or sources grey-market movements. A 316L stainless-steel case with mineral crystal is the conservative default; sapphire and PVD finishes move the unit into the $35–65 band.
 
-Seagull ST16 is a Chinese-made movement from Tianjin Sea-Gull Watch Group, a state-owned enterprise with a 60-year manufacturing history. Accuracy specification is ±30 seconds per month. At $1.80–2.50 per unit, it represents a meaningful BOM saving, and for brands distributing through value channels (retail $30–50), it is a defensible choice. However, international service infrastructure is thin — replacement parts outside China require advance planning.
+Also confirm lug width and whether the strap uses standard spring bars; a 20mm lug with quick-release spring bars is the safest choice for aftermarket strap compatibility and reduces service complaints. Standard battery life for a Miyota 2115 is approximately 2–3 years with a Sony SR626SW or equivalent; confirm the cell type and whether the case back is press-fit or screw-down for future replacement.
 
 ---
 
 ## What this covers
 
+- Specs buyers should confirm before sampling
 - Movement selection: Miyota vs. Seagull vs. generic movements
 - Dial and case customization workflow
 - Water resistance testing and common failures
+- A common pitfall: buying the cheap movement
+- Buyer profile: 500-unit micro-brand launch
 
 ---
 
 ## Further reading
 
+- [Shenzhen-Dongguan watch belt](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [consumer electronics sourcing](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing at 300–1,000 units](https://china-sourcing-agents.com/services/sourcing/)
-- [private-label watch programmes](https://china-sourcing-agents.com/services/private-label/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/quartz-watch-oem/)
 

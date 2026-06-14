@@ -20,6 +20,12 @@ note: 'Engineering review matters most when your product has custom specs, RF co
 
 ---
 
+## What this covers
+
+- Product categories in the OwlSourcing comparison
+
+---
+
 ## Further reading
 
 - [electronics sourcing](https://china-sourcing-agents.com/services/sourcing/)

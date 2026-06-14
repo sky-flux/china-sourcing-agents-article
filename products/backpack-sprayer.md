@@ -33,5 +33,6 @@ The choice between a **manual piston pump** and a **battery-powered diaphragm pu
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/backpack-sprayer/)
 

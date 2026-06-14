@@ -1,10 +1,10 @@
 ---
-title: "Putian Sourcing Agent & Procurement | Footwear OEM & Medical Supplies"
+title: "Putian Sourcing Agent | Footwear, Medical Supplies & Granite"
 description: "Expert sourcing agent in Putian, Fujian. Secure private-label footwear, medical consumables, and granite. Factory audits, QC, and supply chain management."
 canonical_url: "https://china-sourcing-agents.com/cities/putian-sourcing-agent/"
 ---
 
-# Putian Sourcing Agent & Procurement | Footwear OEM & Medical Supplies
+# Putian Sourcing Agent | Footwear, Medical Supplies & Granite
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/putian-sourcing-agent/](https://china-sourcing-agents.com/cities/putian-sourcing-agent/)
 
@@ -33,6 +33,9 @@ Because Putian's footwear sector contains both highly capable legitimate OEMs an
 
 ## Further reading
 
-- [factory audits](https://china-sourcing-agents.com/services/factory-audit/)
+- [mesh nebulizers](https://china-sourcing-agents.com/products/mesh-nebulizer-oem/)
+- [pulse oximeters](https://china-sourcing-agents.com/products/pulse-oximeter-oem/)
+- [blood glucose meters](https://china-sourcing-agents.com/products/blood-glucose-meter-oem/)
+- [infrared thermometers](https://china-sourcing-agents.com/products/infrared-thermometer-oem/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/putian-sourcing-agent/)
 

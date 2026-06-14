@@ -34,9 +34,9 @@ Wenzhou holds the title of "city of valves" (阀门之城). The valve and pipe f
 
 ## Further reading
 
+- [Brass faucet mixer taps](https://china-sourcing-agents.com/products/brass-faucet-mixer-tap/)
+- [shower systems](https://china-sourcing-agents.com/products/shower-system/)
+- [stainless bolts sets](https://china-sourcing-agents.com/products/stainless-bolts-set/)
 - [Automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
-- [China payment terms explained](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
-- [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [quality inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/wenzhou-sourcing-agent/)
 

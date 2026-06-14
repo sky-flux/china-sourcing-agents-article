@@ -31,6 +31,8 @@ Understanding Ürümqi requires separating two distinct roles. As a **manufactur
 ## Further reading
 
 - [Consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [solar water heaters](https://china-sourcing-agents.com/products/solar-water-heater/)
+- [submersible pumps](https://china-sourcing-agents.com/products/submersible-pump/)
+- [agricultural drone sprayers](https://china-sourcing-agents.com/products/agricultural-drone-sprayer/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/urumqi-sourcing-agent/)
 

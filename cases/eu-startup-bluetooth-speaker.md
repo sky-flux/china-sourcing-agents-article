@@ -1,6 +1,6 @@
 ---
 title: "Bluetooth Speaker from China: EU Startup, 5,000 Units"
-description: "EU startup sources 5,000-unit Bluetooth speaker from China. Factory audit, 3-stage inspection, FCC/CE certification — 0.4% defect rate, 18% margin gain."
+description: "EU startup sources 5,000 Bluetooth speakers from China. Factory audit, 3-stage inspection, FCC/CE certification — 0.4% defect rate and 18% margin gain."
 canonical_url: "https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/"
 ---
 
@@ -8,7 +8,7 @@ canonical_url: "https://china-sourcing-agents.com/cases/eu-startup-bluetooth-spe
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
 
-EU startup sources 5,000-unit Bluetooth speaker from China. Factory audit, 3-stage inspection, FCC/CE certification — 0.4% defect rate, 18% margin gain.
+EU startup sources 5,000 Bluetooth speakers from China. Factory audit, 3-stage inspection, FCC/CE certification — 0.4% defect rate and 18% margin gain.
 
 **Outcome**: EU startup delivered 5,000 Bluetooth speakers on time with 0.4% defect rate. 18% margin improvement vs their prior sourcing agent. FCC + CE certified.
 
@@ -42,7 +42,7 @@ The immediate problem was not just cost. The previous agent had priced the speak
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Bluetooth speaker manufacturers in China](https://china-sourcing-agents.com/guides/bluetooth-speaker-manufacturers-china/)
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [quality inspection](https://china-sourcing-agents.com/services/inspection/)
+- [sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
 

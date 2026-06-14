@@ -20,10 +20,17 @@ p style="font-size: 0.9375rem; color: var(--color-fg); margin: 0; line-height: 1
 
 ---
 
+## What this covers
+
+- Flexport alternatives for machinery and agricultural equipment
+
+---
+
 ## Further reading
 
 - [factory sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [freight and customs](https://china-sourcing-agents.com/services/logistics/)
+- [collaborative robot cobot](https://china-sourcing-agents.com/products/industrial-iot/collaborative-robot-cobot/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/alternatives/flexport-alternatives/)
 

@@ -1,14 +1,14 @@
 ---
-title: "Dongguan Sourcing Agent & Quality Control: Electronics, Toys & Furniture"
-description: "Expert Dongguan sourcing agent for electronics contract manufacturing, toy procurement, and premium furniture. Save 15-25% vs Shenzhen with strict quality…"
+title: "Dongguan Sourcing Agent | Electronics & Toys"
+description: "Expert Dongguan sourcing agent for electronics contract manufacturing, toy procurement, and premium furniture. Save 15-25% vs Shenzhen with strict quality."
 canonical_url: "https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/"
 ---
 
-# Dongguan Sourcing Agent & Quality Control: Electronics, Toys & Furniture
+# Dongguan Sourcing Agent | Electronics & Toys
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/](https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/)
 
-Expert Dongguan sourcing agent for electronics contract manufacturing, toy procurement, and premium furniture. Save 15-25% vs Shenzhen with strict quality…
+Expert Dongguan sourcing agent for electronics contract manufacturing, toy procurement, and premium furniture. Save 15-25% vs Shenzhen with strict quality.
 
 ---
 
@@ -37,7 +37,7 @@ For electronics buyers specifically, an experienced sourcing agent in Dongguan d
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [smart air fryers](https://china-sourcing-agents.com/guides/air-fryer-private-label-china/)
-- [Dongguan's manufacturing base](https://china-sourcing-agents.com/industries/power-electronics/)
-- [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [building blocks sets](https://china-sourcing-agents.com/products/toys-games/building-blocks-set/)
+- [RC cars](https://china-sourcing-agents.com/products/toys-games/rc-car-wholesale/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/)
 

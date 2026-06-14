@@ -12,7 +12,7 @@ PMI at 49.0: buyer's market on factory capacity in May 2026, but US tariffs rema
 
 ---
 
-The China electronics manufacturing environment in May 2026 is a buyer's market on capacity but a complicated market on cost. PMI is below 50, factories are actively competing for orders, but the US tariff structure remains punishing for buyers shipping to America, and a specific set of component categories are moving in the wrong direction on price.
+The China electronics manufacturing environment in May 2026 is a buyer's market on capacity but a complicated market on cost. Categories like home energy storage, Level 2 EV chargers, LED grow lights, and WiFi 6 modules all sit in this soft-capacity window. PMI is below 50, factories are actively competing for orders, but the US tariff structure remains punishing for buyers shipping to America, and a specific set of component categories are moving in the wrong direction on price.
 
 Here is what the current data actually means if you are placing orders now.
 
@@ -26,15 +26,18 @@ China's official National Bureau of Statistics manufacturing PMI for April 2026 
 - The tariff picture: no relief on the horizon for US-bound electronics
 - The "China plus one" reality check
 - Component market conditions: what to watch
+- Exchange rate, freight, and labor conditions
+- What to ask your factory contacts this month
+- Scenario planning for the rest of 2026
 - What this means if you are placing orders now
 
 ---
 
 ## Further reading
 
-- [PMI](https://china-sourcing-agents.com/guides/china-manufacturing-pmi-what-buyers-need-to-know/)
-- [full tariff analysis for 2026](https://china-sourcing-agents.com/guides/import-electronics-china-usa/)
-- [Vietnam](https://china-sourcing-agents.com/guides/china-vs-vietnam-electronics-manufacturing/)
-- [India](https://china-sourcing-agents.com/guides/china-vs-india-electronics-manufacturing/)
+- [home energy storage](https://china-sourcing-agents.com/products/home-energy-storage-system/)
+- [Level 2 EV chargers](https://china-sourcing-agents.com/products/ev-charger-level2-evse/)
+- [LED grow lights](https://china-sourcing-agents.com/products/led-grow-light/)
+- [WiFi 6 modules](https://china-sourcing-agents.com/products/wifi-module-esp32/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-electronics-manufacturing-may-2026/)
 

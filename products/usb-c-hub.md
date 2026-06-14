@@ -26,6 +26,7 @@ The chipset combination determines real-world performance ceilings for consumer 
 - EMI Compliance for Multi-Port Designs
 - HDMI Bandwidth Limits and 4K@60Hz Claims
 - Common Issues with USB-C Hub & Docking Stations
+- What to Confirm Before Ordering a USB-C Hub from China
 
 ---
 

@@ -12,7 +12,7 @@ Source reliable robotic pool vacuums from a top Chinese OEM manufacturer. We off
 
 ---
 
-Pool cleaning robots sold from Chinese factories divide into three mechanical platforms: **tracked**, **wheeled**, and **gyroscope-guided wheeled** designs. The choice has direct consequences for cleaning coverage, maintenance frequency, and the retail price bracket you can realistically reach when sourcing from a robotic pool vacuum supplier.
+Pool cleaning robots sold from Chinese factories divide into three mechanical platforms: **tracked**, **wheeled**, and **gyroscope-guided wheeled** designs. The choice has direct consequences for cleaning coverage, maintenance frequency, and the retail price bracket you can realistically reach when sourcing from a robotic pool vacuum supplier. Most production is concentrated in Shenzhen, Dongguan, and Foshan, where a Shenzhen sourcing agent can reach motor, mold, and RF module suppliers within the same metro area.
 
 **Tracked platforms** use rubber or ABS tracks similar to a miniature bulldozer. Traction is higher on smooth plaster and vinyl liner surfaces, which matters when the robot needs to climb walls. The main limitation is that tracks wear faster when the pool finish is rough aggregate or pebble-tec — expect track replacement every 200–300 operating hours in those conditions. Ex-factory cost for a tracked floor-and-wall model starts around $90–130 at 100-unit volumes for B2B wholesale pool cleaner buyers.
 
@@ -30,6 +30,7 @@ Pool cleaning robots sold from Chinese factories divide into three mechanical pl
 
 ## Further reading
 
+- [Shenzhen sourcing agent](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit engagement](https://china-sourcing-agents.com/services/factory-audit/)

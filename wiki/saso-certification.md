@@ -1,10 +1,10 @@
 ---
-title: "SASO Certification Guide: Exporting Electronics from China to Saudi Arabia"
+title: "SASO Certification Guide for China Exports to Saudi Arabia"
 description: "Complete guide to SASO certification for exporting electronics to Saudi Arabia. Covers SABER registration, IEC 62368, SASO 2902, 60Hz requirements, and…"
 canonical_url: "https://china-sourcing-agents.com/wiki/saso-certification/"
 ---
 
-# SASO Certification Guide: Exporting Electronics from China to Saudi Arabia
+# SASO Certification Guide for China Exports to Saudi Arabia
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/saso-certification/](https://china-sourcing-agents.com/wiki/saso-certification/)
 

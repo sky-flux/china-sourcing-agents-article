@@ -1,6 +1,6 @@
 ---
 title: "Smart Home Control Panel (Touchscreen, Wall-Mount)"
-description: "Smart home control panels from China: 4–10\\\" touchscreen, built-in Zigbee hub, local control, Arabic UI. OEM from 300 units, FCC/CE/SASO, CST."
+description: "Smart home control panels from China: 4–10 inch touchscreen, built-in Zigbee hub, local control, Arabic UI. OEM from 300 units, FCC/CE/SASO, CST."
 canonical_url: "https://china-sourcing-agents.com/products/smart-control-panel/"
 ---
 
@@ -8,7 +8,7 @@ canonical_url: "https://china-sourcing-agents.com/products/smart-control-panel/"
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/smart-control-panel/](https://china-sourcing-agents.com/products/smart-control-panel/)
 
-Smart home control panels from China: 4–10\" touchscreen, built-in Zigbee hub, local control, Arabic UI. OEM from 300 units, FCC/CE/SASO, CST.
+Smart home control panels from China: 4–10 inch touchscreen, built-in Zigbee hub, local control, Arabic UI. OEM from 300 units, FCC/CE/SASO, CST.
 
 ---
 
@@ -25,6 +25,11 @@ The action item: review the actual Arabic RTL UI on a sample unit, and verify lo
 - Screen, hub, and local control
 - Mounting and power
 - Sourcing Smart Home Control Panels for Saudi Arabia & the GCC
+- Typical specs to confirm before sampling
+- A common pitfall: cloud-dependent panels that go blank offline
+- Buyer profile: KSA villa fit-out contractor
+- Recommended next steps
+- Supply-chain and inspection notes
 
 ---
 
@@ -33,6 +38,6 @@ The action item: review the actual Arabic RTL UI on a sample unit, and verify lo
 - [gateway](https://china-sourcing-agents.com/products/smart-home/multi-mode-gateway/)
 - [CST](https://china-sourcing-agents.com/guides/saso-saber-certification-china-electronics/)
 - [SASO](https://china-sourcing-agents.com/wiki/saso-certification/)
-- [sourcing smart home devices for Saudi Arabia](https://china-sourcing-agents.com/guides/sourcing-smart-home-devices-saudi-arabia/)
+- [Shenzhen electronics hub](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/smart-control-panel/)
 

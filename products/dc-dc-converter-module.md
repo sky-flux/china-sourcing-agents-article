@@ -1,10 +1,10 @@
 ---
-title: "Source DC-DC Converter Modules from China (Isolated & Non-Isolated)"
+title: "DC-DC Converter Module Manufacturers China (Isolated)"
 description: "Wholesale DC-DC converter modules from top Chinese manufacturers. Buck, boost, and flyback topologies with CE/UL certifications. Custom OEM available."
 canonical_url: "https://china-sourcing-agents.com/products/dc-dc-converter-module/"
 ---
 
-# Source DC-DC Converter Modules from China (Isolated & Non-Isolated)
+# DC-DC Converter Module Manufacturers China (Isolated)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/dc-dc-converter-module/](https://china-sourcing-agents.com/products/dc-dc-converter-module/)
 
@@ -16,7 +16,7 @@ The decision between an isolated and non-isolated DC-DC converter power supply u
 
 **Non-isolated converters** (buck, boost, buck-boost voltage regulators) share a direct common ground between input and output. They are highly appropriate when:
 
-Synchronous buck converters sourced from top Chinese manufacturers operating at a fast 300–600kHz switching frequency consistently achieve a robust 90–95% efficiency at moderate loads. The massive efficiency advantage directly comes from elegantly replacing the older Schottky rectifier diode with a second sophisticated synchronous MOSFET, entirely eliminating the diode forward voltage drop (~0.4–0.6V at full load). At a high 5A output, this smart recovery of 2–3W as latent heat is incredibly significant in a highly compact module.
+Synchronous buck converters sourced from top Chinese manufacturers operating at a fast 300–600kHz switching frequency consistently achieve 90–95% efficiency at moderate loads. The massive efficiency advantage directly comes from elegantly replacing the older Schottky rectifier diode with a second sophisticated synchronous MOSFET, entirely eliminating the diode forward voltage drop (~0.4–0.6V at full load). At a high 5A output, this smart recovery of 2–3W as latent heat is incredibly significant in a highly compact module.
 
 ---
 

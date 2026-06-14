@@ -36,8 +36,8 @@ The table above is the answer most buyers need. The rest of this article explain
 ## Further reading
 
 - [LoRa modules](https://china-sourcing-agents.com/wiki/lora-modules/)
-- [Alibaba vs 1688 comparison](https://china-sourcing-agents.com/guides/alibaba-vs-1688/)
-- [China electronics wholesale guide](https://china-sourcing-agents.com/guides/china-electronics-wholesale-guide/)
-- [IoT module and component sourcing](https://china-sourcing-agents.com/industries/iot-modules/)
+- [BLE modules](https://china-sourcing-agents.com/products/ble-module-nrf52840/)
+- [WiFi modules](https://china-sourcing-agents.com/products/wifi-module-esp32/)
+- [smartwatches](https://china-sourcing-agents.com/products/smartwatch-oem/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-electronics-market-websites/)
 

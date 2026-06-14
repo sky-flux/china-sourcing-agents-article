@@ -1,10 +1,10 @@
 ---
-title: "FPV Racing Drone OEM Manufacturer China: Custom Freestyle Drones"
+title: "FPV Racing Drone OEM Manufacturer China | Freestyle"
 description: "Source premium FPV racing drones from OEM manufacturers in China. Offering custom 5-inch freestyle and 3-inch Cinewhoop builds, Betaflight F4/F7, CE/FCC…"
 canonical_url: "https://china-sourcing-agents.com/products/fpv-drone-oem/"
 ---
 
-# FPV Racing Drone OEM Manufacturer China: Custom Freestyle Drones
+# FPV Racing Drone OEM Manufacturer China | Freestyle
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/fpv-drone-oem/](https://china-sourcing-agents.com/products/fpv-drone-oem/)
 

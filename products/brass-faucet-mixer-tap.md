@@ -1,10 +1,10 @@
 ---
-title: "Lead-Free Brass Faucet & Mixer Tap OEM: China Wholesale Manufacturing"
+title: "Lead-Free Brass Faucet & Mixer Tap OEM China"
 description: "Source premium lead-free brass faucets and mixer taps directly from Chinese OEM manufacturers. Compliant with NSF/ANSI 61, EN 817, and WRAS. Available in…"
 canonical_url: "https://china-sourcing-agents.com/products/brass-faucet-mixer-tap/"
 ---
 
-# Lead-Free Brass Faucet & Mixer Tap OEM: China Wholesale Manufacturing
+# Lead-Free Brass Faucet & Mixer Tap OEM China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/brass-faucet-mixer-tap/](https://china-sourcing-agents.com/products/brass-faucet-mixer-tap/)
 

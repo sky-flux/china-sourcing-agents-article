@@ -1,10 +1,10 @@
 ---
-title: "Wholesale MLCC Capacitors (Multilayer Ceramic) | OEM Supplier China"
+title: "Wholesale MLCC Capacitors (Multilayer Ceramic) China"
 description: "Source wholesale MLCC capacitors directly from China. High-quality X5R, X7R, C0G/NP0 dielectrics, AEC-Q200 automotive grade, and competitive lead times…"
 canonical_url: "https://china-sourcing-agents.com/products/mlcc-capacitor/"
 ---
 
-# Wholesale MLCC Capacitors (Multilayer Ceramic) | OEM Supplier China
+# Wholesale MLCC Capacitors (Multilayer Ceramic) China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/mlcc-capacitor/](https://china-sourcing-agents.com/products/mlcc-capacitor/)
 

@@ -26,6 +26,7 @@ Chinese AC servo manufacturers now ship three encoder tiers across most product 
 - Bus Protocol Selection: Pulse+Dir, CANopen, or EtherCAT
 - Motor Frame Size, Mounting Interface, and Environmental Options
 - Chinese Servo Supplier Landscape and Performance Verification
+- Sourcing Next Steps
 
 ---
 

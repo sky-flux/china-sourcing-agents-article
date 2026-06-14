@@ -25,6 +25,11 @@ The action item: ask for a demonstration of a multi-device scene firing with the
 - Scene logic and local control
 - Screen vs button, and Arabic UI
 - Sourcing Smart Scene Panels for Saudi Arabia & the GCC
+- Typical specs to confirm before sampling
+- A common pitfall: cloud-only scene triggering
+- Buyer profile: KSA apartment-building automation installer
+- Recommended next steps
+- Supply-chain and inspection notes
 
 ---
 
@@ -33,6 +38,6 @@ The action item: ask for a demonstration of a multi-device scene firing with the
 - [Tuya reference](https://china-sourcing-agents.com/wiki/tuya-smart-platform/)
 - [gateway](https://china-sourcing-agents.com/products/smart-home/multi-mode-gateway/)
 - [SASO](https://china-sourcing-agents.com/wiki/saso-certification/)
-- [CST](https://china-sourcing-agents.com/guides/saso-saber-certification-china-electronics/)
+- [Shenzhen electronics hub](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/smart-scene-panel/)
 

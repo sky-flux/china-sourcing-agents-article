@@ -35,7 +35,8 @@ Samsung Semiconductor Xi'an operates two NAND flash wafer fabrication plants in 
 ## Further reading
 
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [factory audit process](https://china-sourcing-agents.com/services/factory-audit/)
+- [machine vision cameras](https://china-sourcing-agents.com/products/machine-vision-camera/)
+- [industrial temperature sensors](https://china-sourcing-agents.com/products/industrial-temperature-sensor/)
+- [digital clamp meters](https://china-sourcing-agents.com/products/digital-clamp-meter/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/xian-sourcing-agent/)
 

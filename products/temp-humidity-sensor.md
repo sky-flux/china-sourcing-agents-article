@@ -25,6 +25,11 @@ The action item: verify the actual sensor element part number on a sample agains
 - Sensor element is the whole product
 - Display, battery, and protocol
 - Sourcing Temperature & Humidity Sensors for Saudi Arabia & the GCC
+- Typical specs to confirm before sampling
+- A common pitfall: generic sensor elements that drift within months
+- Buyer profile: KSA HVAC integrator
+- Recommended next steps
+- Supply-chain and inspection notes
 
 ---
 
@@ -32,7 +37,7 @@ The action item: verify the actual sensor element part number on a sample agains
 
 - [CST](https://china-sourcing-agents.com/guides/saso-saber-certification-china-electronics/)
 - [Tuya reference](https://china-sourcing-agents.com/wiki/tuya-smart-platform/)
+- [Shenzhen electronics hub](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [sourcing smart home devices for Saudi Arabia](https://china-sourcing-agents.com/guides/sourcing-smart-home-devices-saudi-arabia/)
-- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/temp-humidity-sensor/)
 

@@ -1,10 +1,10 @@
 ---
-title: "SABER Certification Guide: Saudi Arabia Compliance for Importers"
+title: "SABER Certification Guide for Saudi Arabia Imports"
 description: "Comprehensive guide to SABER certification for Saudi Arabia imports. Learn how PCoC and SCoC certificates work, SASO compliance, FASAH customs clearance…"
 canonical_url: "https://china-sourcing-agents.com/wiki/saber-certification/"
 ---
 
-# SABER Certification Guide: Saudi Arabia Compliance for Importers
+# SABER Certification Guide for Saudi Arabia Imports
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/saber-certification/](https://china-sourcing-agents.com/wiki/saber-certification/)
 

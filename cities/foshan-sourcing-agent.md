@@ -1,10 +1,10 @@
 ---
-title: "Foshan Sourcing Agent | Furniture, Ceramics & Home Appliances"
+title: "Foshan Sourcing Agent | Furniture & Ceramics"
 description: "Work with an expert Foshan sourcing agent. Navigate the world's largest furniture cluster, ceramic tile capital, and Midea/Galanz appliance supply chains."
 canonical_url: "https://china-sourcing-agents.com/cities/foshan-sourcing-agent/"
 ---
 
-# Foshan Sourcing Agent | Furniture, Ceramics & Home Appliances
+# Foshan Sourcing Agent | Furniture & Ceramics
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/foshan-sourcing-agent/](https://china-sourcing-agents.com/cities/foshan-sourcing-agent/)
 
@@ -36,6 +36,6 @@ Foshan is not primarily an electronics city in the way Shenzhen is, but it matte
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [air fryer private label](https://china-sourcing-agents.com/guides/air-fryer-private-label-china/)
 - [Tuya Smart](https://china-sourcing-agents.com/wiki/tuya-smart-platform/)
-- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [air purifiers](https://china-sourcing-agents.com/products/home-appliances/air-purifier/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/foshan-sourcing-agent/)
 

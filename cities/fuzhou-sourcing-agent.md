@@ -1,10 +1,10 @@
 ---
-title: "Fuzhou Sourcing Agent | Electronics, Seafood & Port Gateway"
+title: "Fuzhou Sourcing Agent | Electronics & Seafood"
 description: "Work with an expert Fuzhou sourcing agent. Discover Lenovo/Dell electronics suppliers, laptop components, premium seafood, and Jiangdao port logistics."
 canonical_url: "https://china-sourcing-agents.com/cities/fuzhou-sourcing-agent/"
 ---
 
-# Fuzhou Sourcing Agent | Electronics, Seafood & Port Gateway
+# Fuzhou Sourcing Agent | Electronics & Seafood
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/fuzhou-sourcing-agent/](https://china-sourcing-agents.com/cities/fuzhou-sourcing-agent/)
 
@@ -33,8 +33,8 @@ Fuzhou's electronics manufacturing base is not self-organized around general-pur
 ## Further reading
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [Factory audits](https://china-sourcing-agents.com/services/factory-audit/)
-- [inspection services](https://china-sourcing-agents.com/services/inspection/)
-- [How to Source Electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [LED digital clocks OEM](https://china-sourcing-agents.com/products/watches-clocks/led-digital-clock-oem/)
+- [digital clamp meters](https://china-sourcing-agents.com/products/electronics/digital-clamp-meter/)
+- [machine vision cameras](https://china-sourcing-agents.com/products/industrial-iot/machine-vision-camera/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/fuzhou-sourcing-agent/)
 

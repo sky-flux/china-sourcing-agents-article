@@ -34,6 +34,6 @@ For Android-only or mixed-market products, Qi 1.x EPP at 10W covers most of the 
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [guide on sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/wireless-charger-pad/)
 

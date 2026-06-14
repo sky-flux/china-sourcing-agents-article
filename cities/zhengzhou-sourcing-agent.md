@@ -35,8 +35,8 @@ Foxconn's Zhengzhou campus in the Airport Economic Zone is the world's largest i
 ## Further reading
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
-- [factory audit process](https://china-sourcing-agents.com/services/factory-audit/)
-- [How to Source Electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [air purifiers](https://china-sourcing-agents.com/products/air-purifier/)
+- [electric kettles](https://china-sourcing-agents.com/products/electric-kettle-oem/)
+- [LED digital clocks](https://china-sourcing-agents.com/products/led-digital-clock-oem/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/zhengzhou-sourcing-agent/)
 

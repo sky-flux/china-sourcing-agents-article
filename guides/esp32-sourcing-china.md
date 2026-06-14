@@ -24,8 +24,12 @@ Specifying "ESP32" on a BOM and expecting consistent delivery is one of the most
 
 - The variant differences that affect sourcing
 - OEM module suppliers: the real choices
+- Module supplier evaluation checklist
 - FCC certification: pre-certified module vs. full certification
+- Certification by export market
 - The BOM mistake that costs a PCB respin
+- Production testing and yield
+- Firmware and SDK lockdown
 
 ---
 

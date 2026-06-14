@@ -1,10 +1,10 @@
 ---
-title: "Android Car Head Unit OEM Manufacturer China | CarPlay & Android Auto"
+title: "Android Head Unit OEM China | CarPlay & Android Auto"
 description: "Source Android car head units from a top OEM manufacturer in China. Offering Qualcomm SA8155P, Snapdragon 665, wireless CarPlay, Android Auto, and 32-band…"
 canonical_url: "https://china-sourcing-agents.com/products/android-car-head-unit/"
 ---
 
-# Android Car Head Unit OEM Manufacturer China | CarPlay & Android Auto
+# Android Head Unit OEM China | CarPlay & Android Auto
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/android-car-head-unit/](https://china-sourcing-agents.com/products/android-car-head-unit/)
 
@@ -12,7 +12,7 @@ Source Android car head units from a top OEM manufacturer in China. Offering Qua
 
 ---
 
-The terms "wireless CarPlay" and "Android Auto" appear on nearly every Chinese aftermarket head unit listing. The distinction between what is being offered and what the buyer expects is significant enough to cause product returns, listing removals, and compliance issues when sourcing an **Android car head unit OEM manufacturer from China**.
+The terms "wireless CarPlay" and "Android Auto" appear on nearly every Chinese aftermarket head unit listing. The distinction between what is being offered and what the buyer expects is significant enough to cause product returns, listing removals, and compliance issues when sourcing an **Android car head unit OEM manufacturer from China**. These units sit at the intersection of automotive electronics and consumer infotainment, with the bulk of export manufacturing centered in Shenzhen.
 
 **CarPlay: projection protocol, not an OS license.** Apple CarPlay (both wired and wireless) operates via Apple's iAP2 accessory protocol combined with, for wireless, a proprietary 5GHz WiFi Direct connection negotiated through a Bluetooth 5.0 pairing handshake. Apple does not require MFi (Made for iPhone) certification for head unit manufacturers using the CarPlay accessory license — MFi applies to cable accessories (Lightning/USB-C adapters). However, Apple does require manufacturers to sign the CarPlay entitlement agreement and implement the protocol correctly. Chinese OEM factories producing aftermarket head units overwhelmingly implement wireless CarPlay through this route. Units marketed as "wireless CarPlay compatible" from reputable Shenzhen factories (Joying, Ezonetronics, Atoto OEM lines) do function seamlessly with current iPhone models.
 
@@ -31,8 +31,9 @@ The terms "wireless CarPlay" and "Android Auto" appear on nearly every Chinese a
 
 ## Further reading
 
+- [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
-- [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/android-car-head-unit/)
 

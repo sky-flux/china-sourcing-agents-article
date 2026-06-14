@@ -24,7 +24,7 @@ Industrial PLCs and SCADA RTUs are the major exception. Many require strict <5ms
 
 - Switchover Time and Equipment Compatibility for Industrial DC UPS
 - LiFePO4 vs SLA Battery Chemistry for Long-Term Backup Power Reliability
-- DIN-Rail Form Factor and Seamless Industrial System Integration
+- DIN-Rail Form Factor and Industrial System Integration
 
 ---
 
@@ -33,5 +33,6 @@ Industrial PLCs and SCADA RTUs are the major exception. Many require strict <5ms
 - [industrial IoT gateways](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/dc-backup-power/)
 

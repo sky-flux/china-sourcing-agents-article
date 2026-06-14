@@ -1,14 +1,14 @@
 ---
-title: "Mohan Sourcing Agent | China-Laos Railway & ASEAN Gateway Logistics"
-description: "Engineer-led China sourcing agent in Mohan. Navigate China-Laos Railway freight, the ASEAN logistics corridor, and border trade for Southeast Asia supply…"
+title: "Mohan Sourcing Agent | China-Laos Railway & ASEAN"
+description: "Engineer-led China sourcing agent in Mohan. Navigate China-Laos Railway freight and ASEAN logistics for Southeast Asia supply chains."
 canonical_url: "https://china-sourcing-agents.com/cities/mohan-sourcing-agent/"
 ---
 
-# Mohan Sourcing Agent | China-Laos Railway & ASEAN Gateway Logistics
+# Mohan Sourcing Agent | China-Laos Railway & ASEAN
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/mohan-sourcing-agent/](https://china-sourcing-agents.com/cities/mohan-sourcing-agent/)
 
-Engineer-led China sourcing agent in Mohan. Navigate China-Laos Railway freight, the ASEAN logistics corridor, and border trade for Southeast Asia supply…
+Engineer-led China sourcing agent in Mohan. Navigate China-Laos Railway freight and ASEAN logistics for Southeast Asia supply chains.
 
 ---
 
@@ -34,6 +34,7 @@ The China-Laos Railway (中老铁路) runs 1,035 kilometers from Kunming south t
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [how to source electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [electric bicycles](https://china-sourcing-agents.com/products/electric-bicycle/)
+- [electric scooters](https://china-sourcing-agents.com/products/electric-scooter/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/mohan-sourcing-agent/)
 

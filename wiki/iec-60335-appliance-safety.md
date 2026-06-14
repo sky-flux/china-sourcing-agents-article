@@ -1,10 +1,10 @@
 ---
-title: "IEC 60335 Appliance Safety: What It Covers and When It Applies"
+title: "IEC 60335 Appliance Safety: Scope & Application"
 description: "IEC 60335 is the safety standard for household electrical appliances: what it covers, how it differs from IEC 62368, and its role in Saudi SASO conformity."
 canonical_url: "https://china-sourcing-agents.com/wiki/iec-60335-appliance-safety/"
 ---
 
-# IEC 60335 Appliance Safety: What It Covers and When It Applies
+# IEC 60335 Appliance Safety: Scope & Application
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/iec-60335-appliance-safety/](https://china-sourcing-agents.com/wiki/iec-60335-appliance-safety/)
 

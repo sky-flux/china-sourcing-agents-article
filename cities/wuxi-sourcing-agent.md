@@ -32,9 +32,9 @@ For product buyers, this means a city where the quality baseline for electronics
 
 ## Further reading
 
-- [Power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [Industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [quality inspection](https://china-sourcing-agents.com/services/inspection/)
+- [electric bicycles](https://china-sourcing-agents.com/products/electric-bicycle/)
+- [electric scooters](https://china-sourcing-agents.com/products/electric-scooter/)
+- [electric motorcycles](https://china-sourcing-agents.com/products/electric-motorcycle-oem/)
+- [electric golf carts](https://china-sourcing-agents.com/products/electric-golf-cart/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/wuxi-sourcing-agent/)
 

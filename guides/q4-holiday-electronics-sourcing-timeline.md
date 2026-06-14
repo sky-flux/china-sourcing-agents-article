@@ -16,7 +16,7 @@ Most electronics buyers start thinking about Q4 in September. By then, the windo
 
 This article works backwards from the key retail dates to give you the exact weeks that matter, with specific numbers for each stage.
 
-For a standard consumer electronics product (Bluetooth speaker, smart home device, fitness wearable) ordered on ocean freight from China to the US or EU, the minimum realistic timeline is:
+For a standard consumer electronics product (Bluetooth speaker, smart home device, TWS earphones) ordered on ocean freight from China to the US or EU, the minimum realistic timeline is:
 
 ---
 
@@ -24,7 +24,10 @@ For a standard consumer electronics product (Bluetooth speaker, smart home devic
 
 - The core math: how long does it actually take?
 - Month-by-month Q4 sourcing calendar
+- Inventory planning for FBA and 3PL
 - Category-specific lead time adjustments
+- Chinese New Year and Q4 overlap
+- Risk mitigation: what can go wrong and how to buffer it
 - The one thing buyers consistently get wrong
 - Starting late: the air freight option
 
@@ -33,8 +36,8 @@ For a standard consumer electronics product (Bluetooth speaker, smart home devic
 ## Further reading
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [Bluetooth speaker](https://china-sourcing-agents.com/products/electronics/bluetooth-speaker-oem/)
+- [TWS earphones](https://china-sourcing-agents.com/products/wearables/tws-earphones-oem/)
 - [supplier sourcing and factory shortlisting](https://china-sourcing-agents.com/services/sourcing/)
-- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/q4-holiday-electronics-sourcing-timeline/)
 

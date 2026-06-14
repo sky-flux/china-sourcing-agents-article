@@ -1,10 +1,10 @@
 ---
-title: "Horgos Sourcing Agent & Logistics: China-Kazakhstan FTZ & Rail Port"
+title: "Horgos Sourcing Agent & Logistics: China-Kazakhstan FTZ"
 description: "Work with a trusted Horgos sourcing agent. Manage China–Kazakhstan FTZ trade, quality control, cross-border procurement, and China–Europe rail logistics."
 canonical_url: "https://china-sourcing-agents.com/cities/horgos-sourcing-agent/"
 ---
 
-# Horgos Sourcing Agent & Logistics: China-Kazakhstan FTZ & Rail Port
+# Horgos Sourcing Agent & Logistics: China-Kazakhstan FTZ
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/horgos-sourcing-agent/](https://china-sourcing-agents.com/cities/horgos-sourcing-agent/)
 
@@ -24,6 +24,8 @@ The city's defining feature for international trade is the Horgos–East Gate Sp
 
 - Cross-Border Procurement: Trade Flows Through Horgos
 - Supply Chain Management: Logistics Corridors & Transit Routes
+- Horgos vs. Alashankou: Choosing the Right Land Border
+- What a Horgos Sourcing Agent Adds
 - Practical Sourcing Notes and Supply Chain Operations
 
 ---
@@ -33,6 +35,6 @@ The city's defining feature for international trade is the Horgos–East Gate Sp
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [china electronics industry overview](https://china-sourcing-agents.com/guides/china-electronics-industry-overview/)
+- [E40 LED retrofit lamps](https://china-sourcing-agents.com/products/lighting/e40-led-retrofit-lamp/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/horgos-sourcing-agent/)
 

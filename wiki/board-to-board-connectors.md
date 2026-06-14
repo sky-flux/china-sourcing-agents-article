@@ -1,10 +1,10 @@
 ---
-title: "Board-to-Board (BTB) Connectors: Complete China Sourcing Guide"
+title: "Board-to-Board (BTB) Connectors: China Sourcing Guide"
 description: "Ultimate guide to sourcing board-to-board (BTB) connectors from China. Compare Chinese clones vs OEM originals, stacking heights, fine-pitch risks, and…"
 canonical_url: "https://china-sourcing-agents.com/wiki/board-to-board-connectors/"
 ---
 
-# Board-to-Board (BTB) Connectors: Complete China Sourcing Guide
+# Board-to-Board (BTB) Connectors: China Sourcing Guide
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/board-to-board-connectors/](https://china-sourcing-agents.com/wiki/board-to-board-connectors/)
 

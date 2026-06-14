@@ -12,7 +12,7 @@ Source ADAS sensors, EV charging equipment, and automotive-grade electronics fro
 
 ---
 
-Automotive electronics covers the accessory and aftermarket layer of vehicle hardware — ADAS sensor modules, EV charging equipment (EVSE), dashcams, telematics, infotainment, and diagnostic tools — sourced from China for importers and distributors, not tier-1 safety-critical systems. Sourcing it is viable, but only if you treat it differently from consumer electronics: the gap between a factory that *claims* IATF 16949 certification and one whose quality system actually functions is wide, and the consequences surface 18 months into a vehicle program, not at incoming inspection. Our automotive supplier matching starts with documentation review and factory assessment before we shortlist anyone.
+Automotive electronics covers the accessory and aftermarket layer of vehicle hardware — ADAS sensor modules, EV charging equipment (EVSE), dashcams, telematics, infotainment, and diagnostic tools — sourced from China for importers and distributors, not tier-1 safety-critical systems. Sourcing it is viable, but only if you treat it differently from consumer electronics: the gap between a factory that *claims* IATF 16949 certification and one whose quality system actually functions is wide, and the consequences surface 18 months into a vehicle program, not at incoming inspection. Our automotive supplier matching starts with documentation review and factory assessment before we shortlist anyone. For context on where these factories list and how they rank, see our China electronics market websites guide and the top Chinese electronics manufacturers ranking.
 
 **EV accessories & aftermarket electronics**
 
@@ -35,8 +35,8 @@ We source the accessory/aftermarket layer only — tier-1 safety systems (engine
 ## Further reading
 
 - [automotive supplier matching](https://china-sourcing-agents.com/services/sourcing/)
+- [China electronics market websites](https://china-sourcing-agents.com/guides/china-electronics-market-websites/)
+- [top Chinese electronics manufacturers](https://china-sourcing-agents.com/guides/top-chinese-electronics-manufacturers/)
 - [77GHz millimeter-wave radar modules](https://china-sourcing-agents.com/wiki/adas-77ghz-radar/)
-- [NXP TEF810X radar transceiver IC](https://china-sourcing-agents.com/wiki/tef810x-radar-transceiver/)
-- [TPMS sensors](https://china-sourcing-agents.com/products/automotive/tpms/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/industries/automotive-electronics/)
 

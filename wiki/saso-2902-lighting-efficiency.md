@@ -1,10 +1,10 @@
 ---
-title: "SASO 2902: Saudi Arabia Lighting Efficiency Rules for LED Sourcing"
+title: "SASO 2902: Saudi Arabia LED Efficiency Rules for Sourcing"
 description: "Complete guide to SASO 2902:2023 lighting efficiency standards for Saudi Arabia. Learn the 90 lm/W LED minimum, SABER certification steps, and compliance…"
 canonical_url: "https://china-sourcing-agents.com/wiki/saso-2902-lighting-efficiency/"
 ---
 
-# SASO 2902: Saudi Arabia Lighting Efficiency Rules for LED Sourcing
+# SASO 2902: Saudi Arabia LED Efficiency Rules for Sourcing
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/saso-2902-lighting-efficiency/](https://china-sourcing-agents.com/wiki/saso-2902-lighting-efficiency/)
 

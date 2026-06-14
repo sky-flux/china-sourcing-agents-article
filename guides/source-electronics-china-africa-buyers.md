@@ -25,8 +25,11 @@ Most Chinese factories quote in USD and require T/T (telegraphic transfer / bank
 - The payment problem is the first blocker
 - Import duty arithmetic for major African markets
 - Shipping routes and realistic timelines
+- Incoterms: who books the freight and where risk transfers
 - Supplier qualification from a distance
+- Sample orders and first-payment terms
 - What actually makes sense to source from China for African markets
+- Bonded warehouses and free zones: a useful structure
 
 ---
 

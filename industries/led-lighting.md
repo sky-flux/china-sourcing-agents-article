@@ -12,7 +12,7 @@ Source LED strip, bulbs, fixtures and smart lighting from China with UL, DLC, CE
 
 ---
 
-LED lighting covers light sources and luminaires built around light-emitting diodes — strip lights, bulbs, downlights, panel lights, high-bay and street fixtures, and connected smart lighting — sourced from China for global markets. China produces the majority of the world's LED lighting, but the category is compliance-heavy in ways buyers underestimate: a fixture pulled from a commercial project for a missing DLC listing, or a smart bulb blocked by Amazon for an invalid FCC report, costs far more than getting certification right before production. Our engineering background means we read the actual LM-79 and LM-80 test reports rather than just confirming a logo exists. Our sourcing service covers the full path from factory shortlist to a verified, audit-backed quote.
+LED lighting covers light sources and luminaires built around light-emitting diodes — strip lights, bulbs, downlights, panel lights, high-bay and street fixtures, and connected smart lighting — sourced from China for global markets. China produces the majority of the world's LED lighting, but the category is compliance-heavy in ways buyers underestimate: a fixture pulled from a commercial project for a missing DLC listing, or a smart bulb blocked by Amazon for an invalid FCC report, costs far more than getting certification right before production. Our engineering background means we read the actual LM-79 and LM-80 test reports rather than just confirming a logo exists. Our sourcing service covers the full path from factory shortlist to a verified, audit-backed quote. Market context is in our China electronics market websites guide and top Chinese electronics manufacturers ranking.
 
 Commercial fixtures sold in North America almost always need DLC listing for rebate eligibility, which in turn requires current LM-79 and LM-80 reports. China's lighting production concentrates around Zhongshan — the Guzhen cluster is the country's lighting capital — with strong supplier bases in Shenzhen for smart and strip lighting and Ningbo for export-grade fixtures.
 
@@ -36,8 +36,8 @@ Commercial fixtures sold in North America almost always need DLC listing for reb
 ## Further reading
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
-- [Matter](https://china-sourcing-agents.com/wiki/matter-certification/)
-- [Zhongshan](https://china-sourcing-agents.com/cities/zhongshan-sourcing-agent/)
-- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
+- [China electronics market websites](https://china-sourcing-agents.com/guides/china-electronics-market-websites/)
+- [top Chinese electronics manufacturers](https://china-sourcing-agents.com/guides/top-chinese-electronics-manufacturers/)
+- [LED grow lights](https://china-sourcing-agents.com/products/agricultural-machinery/led-grow-light/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/industries/led-lighting/)
 

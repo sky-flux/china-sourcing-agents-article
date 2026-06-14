@@ -34,5 +34,6 @@ When sourcing wholesale agricultural machinery, the threshing system determines 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/mini-combine-harvester/)
 

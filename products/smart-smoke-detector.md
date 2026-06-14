@@ -12,11 +12,11 @@ OEM smart smoke detector sourcing from China. Photoelectric + CO combo, Zigbee 3
 
 ---
 
+A smart smoke and carbon monoxide detector is a life-safety device that uses a photoelectric chamber — and optionally an electrochemical CO cell — to trigger a local alarm and wireless alerts. It sits at the regulated end of the smart home product range, so certification work dominates sourcing decisions more than feature lists do.
+
 These three standards govern the same product category but test for different things. Specifying the wrong one for your target market will either block customs clearance or require a complete re-certification — neither is cheap after tooling has been cut.
 
 **UL 217 (United States, Canada via ULC-S531)**
-
-UL 217 8th edition (effective January 2021) added TF (Thistle Fire) sensitivity requirements — a smoldering, low-smoke-output fire scenario that previous editions missed. The test sequence includes:
 
 ---
 
@@ -32,9 +32,9 @@ UL 217 8th edition (effective January 2021) added TF (Thistle Fire) sensitivity 
 
 ## Further reading
 
+- [smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [CST](https://china-sourcing-agents.com/guides/saso-saber-certification-china-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/smart-smoke-detector/)
 

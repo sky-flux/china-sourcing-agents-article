@@ -33,5 +33,6 @@ The **click joint system** profoundly matters for swift installation performance
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
+- [smart home sourcing practice](https://china-sourcing-agents.com/industries/smart-home/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/laminate-flooring-oem/)
 

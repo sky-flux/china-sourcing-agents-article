@@ -1,10 +1,10 @@
 ---
-title: "Wholesale E40 LED Retrofit Lamps (30W-80W) | HID Corn Bulb Replacements"
+title: "E40 LED Retrofit Lamp China | 30W-80W HID Replacement"
 description: "Source high-efficiency E40 LED retrofit lamps (30W–80W, T46/T65) from China. Perfect for industrial high-bay and street-light housings. Features 180+ lm/W…"
 canonical_url: "https://china-sourcing-agents.com/products/e40-led-retrofit-lamp/"
 ---
 
-# Wholesale E40 LED Retrofit Lamps (30W-80W) | HID Corn Bulb Replacements
+# E40 LED Retrofit Lamp China | 30W-80W HID Replacement
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/e40-led-retrofit-lamp/](https://china-sourcing-agents.com/products/e40-led-retrofit-lamp/)
 
@@ -33,7 +33,7 @@ The commercial and energy-saving case is straightforward: a 40W LED retrofit del
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [industrial IoT expertise](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [inspection service](https://china-sourcing-agents.com/services/inspection/)
-- [private label service](https://china-sourcing-agents.com/services/private-label/)
+- [Zhongshan](https://china-sourcing-agents.com/cities/zhongshan-sourcing-agent/)
+- [top LED light manufacturers in China](https://china-sourcing-agents.com/guides/top-led-light-manufacturers-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/e40-led-retrofit-lamp/)
 

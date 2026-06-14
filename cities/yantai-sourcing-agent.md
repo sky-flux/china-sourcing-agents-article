@@ -33,7 +33,9 @@ Yantai's food industry identity rests on three pillars: fruit processing, seafoo
 
 ## Further reading
 
-- [factory audit process](https://china-sourcing-agents.com/services/factory-audit/)
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [stainless cookware sets](https://china-sourcing-agents.com/products/stainless-cookware-set/)
+- [ceramic mugs](https://china-sourcing-agents.com/products/ceramic-mug-oem/)
+- [borosilicate bottles](https://china-sourcing-agents.com/products/borosilicate-bottle-oem/)
+- [vacuum-insulated bottles](https://china-sourcing-agents.com/products/vacuum-insulated-bottle-oem/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/yantai-sourcing-agent/)
 

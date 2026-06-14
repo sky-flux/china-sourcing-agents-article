@@ -36,6 +36,6 @@ This ranking is based on public company data, factory visits, and export-track r
 - [Sourcing & Supplier Matching](https://china-sourcing-agents.com/services/sourcing/)
 - [PCB assembly](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
 - [PCB substrate materials reference](https://china-sourcing-agents.com/wiki/pcb-materials/)
-- [PCB and SMT assembly sourcing](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [silicone wire](https://china-sourcing-agents.com/products/electronics/silicone-wire/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/top-10-pcb-manufacturers-china/)
 

@@ -33,5 +33,6 @@ The ATEX/IECEx zone classification system divides hazardous locations by how fre
 - [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [industrial IoT page](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [power electronics page](https://china-sourcing-agents.com/industries/power-electronics/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/explosion-proof-light/)
 

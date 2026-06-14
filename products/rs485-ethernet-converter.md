@@ -26,6 +26,7 @@ The gateway bridges the two. Mechanically: a Modbus TCP client (your SCADA softw
 - RS485 Electrical Isolation: Why It Matters and How to Verify It
 - Transparent Mode vs Modbus TCP Gateway Mode vs Virtual COM Port
 - Chinese Supplier Landscape
+- Sourcing Next Steps
 
 ---
 

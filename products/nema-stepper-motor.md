@@ -25,6 +25,7 @@ Dynamic torque drops with increasing speed due to two electrical phenomena. Firs
 - Torque Curve vs Holding Torque for Step Motors
 - Stepper Motor Driver Selection: TMC2209 vs DM542
 - Stepper Motor Winding Inspection and Quality Verification
+- Specifying and Sourcing Stepper Motors from China
 
 ---
 
@@ -33,5 +34,6 @@ Dynamic torque drops with increasing speed due to two electrical phenomena. Firs
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/nema-stepper-motor/)
 

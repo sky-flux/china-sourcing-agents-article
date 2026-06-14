@@ -25,6 +25,7 @@ Magnetic levitation (maglev) designs, used in premium handles, use opposing magn
 - Motor Type and Performance: LRA vs. Magnetic Levitation in Sonic Toothbrushes
 - IPX7 vs. IPX8 Waterproofing for White Label Electric Toothbrushes
 - Handle Customization and Brush Head Sourcing for OEM Toothbrushes
+- Sourcing Checklist for Custom Sonic Toothbrushes
 
 ---
 

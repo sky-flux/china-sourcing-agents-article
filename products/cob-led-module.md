@@ -1,10 +1,10 @@
 ---
-title: "COB LED Modules | High CRI OEM Lighting Manufacturing in China"
+title: "COB LED Module Manufacturer China | High CRI OEM"
 description: "Source 10-200W COB LED modules from China. High CRI (Ra≥90/95), tunable CCT, and LM-80 certified. Partner with top manufacturers like Citizen, Bridgelux &…"
 canonical_url: "https://china-sourcing-agents.com/products/cob-led-module/"
 ---
 
-# COB LED Modules | High CRI OEM Lighting Manufacturing in China
+# COB LED Module Manufacturer China | High CRI OEM
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/cob-led-module/](https://china-sourcing-agents.com/products/cob-led-module/)
 

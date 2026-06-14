@@ -34,6 +34,6 @@ The limiting thermal resistance is the dielectric layer bonded between the coppe
 - [PCB sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [PCB assembly industry page](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
+- [PCB assembly in China](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/aluminum-pcb-mcpcb/)
 

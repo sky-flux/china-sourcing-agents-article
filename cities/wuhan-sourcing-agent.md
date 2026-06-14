@@ -31,8 +31,9 @@ Dongfeng Motor Group's headquarters and primary R&D facilities are in Wuhan, and
 
 ## Further reading
 
+- [gas detector transmitters](https://china-sourcing-agents.com/products/gas-detector-transmitter/)
+- [VFD frequency inverters](https://china-sourcing-agents.com/products/vfd-frequency-inverter/)
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
-- [factory audit process](https://china-sourcing-agents.com/services/factory-audit/)
-- [quality inspection](https://china-sourcing-agents.com/services/inspection/)
+- [machine vision cameras](https://china-sourcing-agents.com/products/machine-vision-camera/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/wuhan-sourcing-agent/)
 

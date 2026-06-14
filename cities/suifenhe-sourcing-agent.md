@@ -33,8 +33,8 @@ Suifenhe is China's eastern gateway to the Russian Far East — a border city in
 ## Further reading
 
 - [sourcing services](https://china-sourcing-agents.com/services/sourcing/)
-- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [china electronics industry overview](https://china-sourcing-agents.com/guides/china-electronics-industry-overview/)
+- [agricultural drone sprayers](https://china-sourcing-agents.com/products/agricultural-drone-sprayer/)
+- [compact tractors](https://china-sourcing-agents.com/products/compact-tractor-oem/)
+- [mini combine harvesters](https://china-sourcing-agents.com/products/mini-combine-harvester/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/suifenhe-sourcing-agent/)
 

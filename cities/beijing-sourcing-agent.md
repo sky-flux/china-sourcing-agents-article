@@ -1,14 +1,14 @@
 ---
-title: "Beijing Sourcing Agent & Procurement | Medical Devices & AI Hardware R&D"
-description: "Expert sourcing agent in Beijing. Specialize in NMPA medical device registration, Zhongguancun AI tech hub partnerships, R&D procurement, and quality…"
+title: "Beijing Sourcing Agent | Medtech & AI R&D"
+description: "Expert Beijing sourcing agent for medical device NMPA registration, Zhongguancun AI hardware R&D, and procurement coordination."
 canonical_url: "https://china-sourcing-agents.com/cities/beijing-sourcing-agent/"
 ---
 
-# Beijing Sourcing Agent & Procurement | Medical Devices & AI Hardware R&D
+# Beijing Sourcing Agent | Medtech & AI R&D
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/beijing-sourcing-agent/](https://china-sourcing-agents.com/cities/beijing-sourcing-agent/)
 
-Expert sourcing agent in Beijing. Specialize in NMPA medical device registration, Zhongguancun AI tech hub partnerships, R&D procurement, and quality…
+Expert Beijing sourcing agent for medical device NMPA registration, Zhongguancun AI hardware R&D, and procurement coordination.
 
 ---
 
@@ -36,8 +36,8 @@ Because Beijing focuses heavily on R&D and regulatory affairs rather than sheer 
 ## Further reading
 
 - [wearable health monitoring devices](https://china-sourcing-agents.com/industries/wearables/)
-- [AI/edge modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [blood glucose meter OEM](https://china-sourcing-agents.com/products/medical-devices/blood-glucose-meter-oem/)
+- [infrared thermometer OEM](https://china-sourcing-agents.com/products/medical-devices/infrared-thermometer-oem/)
+- [pulse oximeter OEM](https://china-sourcing-agents.com/products/medical-devices/pulse-oximeter-oem/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/beijing-sourcing-agent/)
 

@@ -32,9 +32,9 @@ For electronics buyers, the practical advantage is integration. A smart downligh
 
 ## Further reading
 
-- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [lighting](https://china-sourcing-agents.com/products/lighting/)
-- [smart home](https://china-sourcing-agents.com/products/smart-home/)
+- [LED PAR stage lights](https://china-sourcing-agents.com/products/led-par-stage-light/)
+- [tri-proof lights](https://china-sourcing-agents.com/products/tri-proof-light/)
+- [E40 LED retrofit lamps](https://china-sourcing-agents.com/products/e40-led-retrofit-lamp/)
+- [electric kettles](https://china-sourcing-agents.com/products/electric-kettle-oem/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/zhongshan-sourcing-agent/)
 

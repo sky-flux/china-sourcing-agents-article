@@ -25,6 +25,7 @@ Top-tier Chinese diode laser module manufacturers use NUBM44 or equivalent Nichi
 - Optical Output Power vs. Electrical Input: Understanding True Laser Performance
 - Laser Safety Classifications: Navigating CE and FDA Compliance for OEM Brands
 - Air Assist, Enclosures, and Fume Extraction: Tailoring Your Laser Engraver to Target Markets
+- Sourcing Diode Laser Engravers from China: Buyer Checklist
 
 ---
 
@@ -33,5 +34,6 @@ Top-tier Chinese diode laser module manufacturers use NUBM44 or equivalent Nichi
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [private label service](https://china-sourcing-agents.com/services/private-label/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/diode-laser-engraver/)
 

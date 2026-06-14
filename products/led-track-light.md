@@ -1,10 +1,10 @@
 ---
-title: "OEM LED Track Light Manufacturer China | 15W-50W Retail Lighting"
+title: "LED Track Light Manufacturer China | 15W-50W Retail"
 description: "Direct-from-factory LED track lights. 15W-50W, CRI90+, H/J/L rail compatible. CE & UL 1574 certified. Ideal for retail, gallery, and commercial lighting."
 canonical_url: "https://china-sourcing-agents.com/products/led-track-light/"
 ---
 
-# OEM LED Track Light Manufacturer China | 15W-50W Retail Lighting
+# LED Track Light Manufacturer China | 15W-50W Retail
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/led-track-light/](https://china-sourcing-agents.com/products/led-track-light/)
 
@@ -31,9 +31,9 @@ Track lighting systems use three competing mechanical and electrical standards. 
 
 ## Further reading
 
-- [DALI vs 0-10V vs PWM wiki](https://china-sourcing-agents.com/wiki/dali-vs-0-10v-vs-pwm-dimming/)
+- [DALI-2 LED driver reference](https://china-sourcing-agents.com/products/dali-led-driver/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [LED lighting](https://china-sourcing-agents.com/industries/led-lighting/)
-- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
+- [Zhongshan](https://china-sourcing-agents.com/cities/zhongshan-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/led-track-light/)
 

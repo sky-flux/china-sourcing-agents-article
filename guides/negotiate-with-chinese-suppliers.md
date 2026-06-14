@@ -28,8 +28,8 @@ The single biggest mistake in supplier negotiation is treating the quote as one 
 - Negotiating without destroying the relationship
 - Timing: negotiate before the PO, not after
 - Protect the deal after you've agreed the price
-- What not to do
-- A practical opening
+- Negotiation by buyer profile
+- When to walk away
 
 ---
 

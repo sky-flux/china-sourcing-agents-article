@@ -1,14 +1,14 @@
 ---
-title: "Harbin Sourcing Agent & Procurement | Power Machinery & Industrial Hardware"
-description: "Expert sourcing agent in Harbin. Procure power generation equipment, steam turbines, and cold-climate industrial hardware. Factory audits and quality…"
+title: "Harbin Sourcing Agent | Power Machinery & Hardware"
+description: "Expert Harbin sourcing agent for power generation equipment, steam turbines, and cold-climate industrial hardware. Factory audits and QC."
 canonical_url: "https://china-sourcing-agents.com/cities/harbin-sourcing-agent/"
 ---
 
-# Harbin Sourcing Agent & Procurement | Power Machinery & Industrial Hardware
+# Harbin Sourcing Agent | Power Machinery & Hardware
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/harbin-sourcing-agent/](https://china-sourcing-agents.com/cities/harbin-sourcing-agent/)
 
-Expert sourcing agent in Harbin. Procure power generation equipment, steam turbines, and cold-climate industrial hardware. Factory audits and quality…
+Expert Harbin sourcing agent for power generation equipment, steam turbines, and cold-climate industrial hardware. Factory audits and QC.
 
 ---
 
@@ -33,8 +33,9 @@ Sourcing heavy machinery, tier-2 power components, and ruggedized industrial har
 
 ## Further reading
 
-- [Factory audits](https://china-sourcing-agents.com/services/factory-audit/)
-- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
+- [gas detector transmitters](https://china-sourcing-agents.com/products/industrial-iot/gas-detector-transmitter/)
+- [VFD frequency inverters](https://china-sourcing-agents.com/products/industrial-iot/vfd-frequency-inverter/)
+- [industrial temperature sensors](https://china-sourcing-agents.com/products/industrial-iot/industrial-temperature-sensor/)
+- [photoelectric sensors](https://china-sourcing-agents.com/products/industrial-iot/photoelectric-sensor/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/harbin-sourcing-agent/)
 

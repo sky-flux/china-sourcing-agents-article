@@ -22,12 +22,14 @@ The perimeter-wire model has been around since Husqvarna's Automower launched in
 
 ## What this covers
 
-- Why Wire-Free Is the Only Product Worth Sourcing
-- The ODM Factory Landscape
-- CE Certification: What Is Actually Required
-- Battery and Charging: The Outdoor-Specific Issues
-- What a First Order Looks Like
-- The Question to Ask Every Factory Before You Sign
+- Why wire-free is the only product worth sourcing
+- The ODM factory landscape
+- RTK vs vision: which should your product use?
+- CE certification: what is actually required
+- US market: FCC and safety considerations
+- Battery and charging: the outdoor-specific issues
+- Marketing claims to verify before launch
+- Warranty, spare parts, and after-sales planning
 
 ---
 
@@ -35,7 +37,7 @@ The perimeter-wire model has been around since Husqvarna's Automower launched in
 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [Hangzhou](https://china-sourcing-agents.com/cities/hangzhou-sourcing-agent/)
+- [servo drive and motor systems](https://china-sourcing-agents.com/products/industrial-iot/servo-drive-motor/)
 - [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
-- [Dongguan](https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/robotic-lawn-mower-oem-china/)
 

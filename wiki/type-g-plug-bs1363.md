@@ -1,10 +1,10 @@
 ---
-title: "Type G Plug (BS 1363): Sourcing Electronics for Saudi Arabia & the UK"
+title: "Type G Plug (BS 1363): Sourcing Electronics for Saudi & UK"
 description: "The Type G (BS 1363) plug is required in Saudi Arabia and the UK. Pinout, the mandatory 13A fuse, 220V/60Hz, and what to specify to a China factory."
 canonical_url: "https://china-sourcing-agents.com/wiki/type-g-plug-bs1363/"
 ---
 
-# Type G Plug (BS 1363): Sourcing Electronics for Saudi Arabia & the UK
+# Type G Plug (BS 1363): Sourcing Electronics for Saudi & UK
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/type-g-plug-bs1363/](https://china-sourcing-agents.com/wiki/type-g-plug-bs1363/)
 

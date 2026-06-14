@@ -25,11 +25,11 @@ Factories want money before they spend on materials and labor. Buyers want goods
 - The core tension
 - Telegraphic Transfer (T/T)
 - Letter of Credit (L/C)
+- Documentary Collection (D/P and D/A)
 - Escrow
+- Payment fraud and invoice verification
 - What to actually do at each stage
 - Currency risk
-- Payment methods compared
-- Summary: a decision tree
 
 ---
 

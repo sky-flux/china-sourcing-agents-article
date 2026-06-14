@@ -35,6 +35,7 @@ Shantou is eastern Guangdong's primary coastal industrial city, located 470 km e
 
 - [sourcing services](https://china-sourcing-agents.com/services/sourcing/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [RC cars](https://china-sourcing-agents.com/products/rc-car-wholesale/)
+- [building block sets](https://china-sourcing-agents.com/products/building-blocks-set/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/shantou-sourcing-agent/)
 

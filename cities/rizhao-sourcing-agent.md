@@ -1,10 +1,10 @@
 ---
-title: "Rizhao Sourcing Agent | Bulk Port, Steel Manufacturing & Logistics"
+title: "Rizhao Sourcing Agent | Bulk Port, Steel & Logistics"
 description: "Work with an expert Rizhao sourcing agent in Shandong. Navigate Rizhao Iron & Steel, bulk cargo port logistics, textile yarn, and honest factory…"
 canonical_url: "https://china-sourcing-agents.com/cities/rizhao-sourcing-agent/"
 ---
 
-# Rizhao Sourcing Agent | Bulk Port, Steel Manufacturing & Logistics
+# Rizhao Sourcing Agent | Bulk Port, Steel & Logistics
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/rizhao-sourcing-agent/](https://china-sourcing-agents.com/cities/rizhao-sourcing-agent/)
 
@@ -35,7 +35,7 @@ Rizhao Port ranks among China's top ten ports by annual cargo throughput, a posi
 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [factory audits](https://china-sourcing-agents.com/services/factory-audit/)
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [stainless bolt sets](https://china-sourcing-agents.com/products/stainless-bolts-set/)
+- [metal shelving racks](https://china-sourcing-agents.com/products/metal-shelving-rack/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/rizhao-sourcing-agent/)
 

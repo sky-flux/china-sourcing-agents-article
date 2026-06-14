@@ -12,7 +12,7 @@ Source smart watches, fitness trackers, and TWS earbuds from China with UN 38.3 
 
 ---
 
-Wearables are body-worn electronic devices — smart watches, fitness trackers, TWS earbuds, and consumer health-monitoring patches — that combine flexible PCBs, small lithium cells, wireless radios, and skin-contact materials in a tight enclosure. They are mechanically and electrically harder to source than most consumer electronics, because FPC precision, multi-region certification, battery transport rules, and material compliance all compound at once. Most wearable device manufacturers in China can handle individual pieces of this — very few handle all of them on one line with consistent process control. Our sourcing service is structured around these requirements from day one — not patched in after a factory has already been selected.
+Wearables are body-worn electronic devices — smart watches, fitness trackers, TWS earbuds, and consumer health-monitoring patches — that combine flexible PCBs, small lithium cells, wireless radios, and skin-contact materials in a tight enclosure. They are mechanically and electrically harder to source than most consumer electronics, because FPC precision, multi-region certification, battery transport rules, and material compliance all compound at once. Most wearable device manufacturers in China can handle individual pieces of this — very few handle all of them on one line with consistent process control. Our sourcing service is structured around these requirements from day one — not patched in after a factory has already been selected. We also publish a China electronics market websites guide and a ranked list of top Chinese electronics manufacturers for preliminary supplier mapping.
 
 Wellness-category devices only — clinical/medical claims (FDA 510(k), MDR) are out of scope. Battery cells in any wearable need UN 38.3 before air transport.
 
@@ -36,8 +36,8 @@ Wellness-category devices only — clinical/medical claims (FDA 510(k), MDR) are
 ## Further reading
 
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
+- [China electronics market websites](https://china-sourcing-agents.com/guides/china-electronics-market-websites/)
+- [top Chinese electronics manufacturers](https://china-sourcing-agents.com/guides/top-chinese-electronics-manufacturers/)
 - [Smart watches](https://china-sourcing-agents.com/products/wearables/smartwatch-oem/)
-- [Fitness trackers and health monitoring bands](https://china-sourcing-agents.com/products/wearables/fitness-band-oem/)
-- [TWS earbuds with heart rate and SpO2 sensors](https://china-sourcing-agents.com/products/electronics/tws-earphones-oem/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/industries/wearables/)
 

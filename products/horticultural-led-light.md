@@ -1,10 +1,10 @@
 ---
-title: "Commercial Horticultural LED Grow Lights (200W–1000W) | China Sourcing"
+title: "Horticultural LED Grow Light 200W–1000W | China"
 description: "Source full-spectrum commercial horticultural LED grow lights directly from China. Samsung LM301H, 2.5–3.0 µmol/J PPE for cannabis, vertical farms, and…"
 canonical_url: "https://china-sourcing-agents.com/products/horticultural-led-light/"
 ---
 
-# Commercial Horticultural LED Grow Lights (200W–1000W) | China Sourcing
+# Horticultural LED Grow Light 200W–1000W | China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/horticultural-led-light/](https://china-sourcing-agents.com/products/horticultural-led-light/)
 
@@ -30,9 +30,9 @@ The three metrics that matter are PPF, PPFD, and PPE. PPF (Photosynthetic Photon
 
 ## Further reading
 
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [LED lighting](https://china-sourcing-agents.com/industries/led-lighting/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/horticultural-led-light/)
 

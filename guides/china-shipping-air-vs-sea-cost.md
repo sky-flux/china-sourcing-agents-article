@@ -26,8 +26,10 @@ There are effectively four options when shipping from China, not two:
 - What these rates don't include
 - Incoterms: who pays for what
 - The landed cost calculation
+- Real-world examples by product category
 - When to use each mode
-- Using a freight forwarder
+- Seasonality, capacity, and booking windows
+- Choosing a freight forwarder
 
 ---
 

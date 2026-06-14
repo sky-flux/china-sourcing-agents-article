@@ -35,9 +35,9 @@ Suzhou packs three distinct sourcing ecosystems into one metro area: precision e
 
 ## Further reading
 
-- [Consumer Electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [PCB & SMT Manufacturing](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [Industrial IoT & IIoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [Automotive Electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
+- [collaborative robots](https://china-sourcing-agents.com/products/collaborative-robot-cobot/)
+- [machine vision cameras](https://china-sourcing-agents.com/products/machine-vision-camera/)
+- [NEMA stepper motors](https://china-sourcing-agents.com/products/nema-stepper-motor/)
+- [blood glucose meters](https://china-sourcing-agents.com/products/blood-glucose-meter-oem/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/suzhou-sourcing-agent/)
 

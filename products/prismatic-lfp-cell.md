@@ -1,10 +1,10 @@
 ---
-title: "Wholesale Prismatic LFP Cells | Grade A CATL, EVE, CALB (50Ah–304Ah)"
+title: "Prismatic LFP Cell Manufacturer China | CATL & EVE"
 description: "Source genuine Grade A prismatic LFP cells (LiFePO4) directly from China. CATL, EVE, CALB 50Ah-304Ah batteries. Verified 6,000 cycle life, UN 38.3 & UL…"
 canonical_url: "https://china-sourcing-agents.com/products/prismatic-lfp-cell/"
 ---
 
-# Wholesale Prismatic LFP Cells | Grade A CATL, EVE, CALB (50Ah–304Ah)
+# Prismatic LFP Cell Manufacturer China | CATL & EVE
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/prismatic-lfp-cell/](https://china-sourcing-agents.com/products/prismatic-lfp-cell/)
 
@@ -34,5 +34,6 @@ The wholesale prismatic LFP cell (Lithium Iron Phosphate) market in China operat
 - [quality inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [cell sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit and verification service](https://china-sourcing-agents.com/services/factory-audit/)
+- [Ningde](https://china-sourcing-agents.com/cities/ningde-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/prismatic-lfp-cell/)
 

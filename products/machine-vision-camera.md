@@ -25,6 +25,7 @@ The dominant global shutter sensor family for Chinese industrial camera OEMs is 
 - CMOS Sensor Selection: Global Shutter vs. Rolling Shutter
 - Camera Interface Protocols and System Integration
 - Quality Assessment and Machine Vision Factory Evaluation
+- Sourcing Next Steps
 
 ---
 

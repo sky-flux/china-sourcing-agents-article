@@ -1,10 +1,10 @@
 ---
-title: "Alibaba vs China Sourcing Agents: Buy Direct or Use an Agent?"
+title: "China Sourcing Agent vs Alibaba: Buy Direct?"
 description: "Alibaba vs China Sourcing Agents for electronics — marketplace DIY vs an engineer-led managed agent. When direct buying wins, and when audits matter."
 canonical_url: "https://china-sourcing-agents.com/alternatives/china-sourcing-agent-vs-alibaba/"
 ---
 
-# Alibaba vs China Sourcing Agents: Buy Direct or Use an Agent?
+# China Sourcing Agent vs Alibaba: Buy Direct?
 
 > **Read the full guide**: [https://china-sourcing-agents.com/alternatives/china-sourcing-agent-vs-alibaba/](https://china-sourcing-agents.com/alternatives/china-sourcing-agent-vs-alibaba/)
 
@@ -17,6 +17,12 @@ alibaba: 'Self-serve marketplace — you search, message suppliers, and place or
 skyflux: 'Managed service — we find, vet, negotiate, inspect, and manage on your behalf',
 
 note: 'If you have time and product knowledge to vet suppliers yourself, the marketplace is fine. If you want the work done and verified, use an agent.',
+
+---
+
+## What this covers
+
+- Products this comparison applies to
 
 ---
 

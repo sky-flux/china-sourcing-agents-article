@@ -32,7 +32,7 @@ Emission certification requirements differ substantially by destination market, 
 
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [automotive electronics and vehicle components](https://china-sourcing-agents.com/industries/automotive-electronics/)
+- [Chongqing sourcing region](https://china-sourcing-agents.com/cities/chongqing-sourcing-agent/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
-- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/petrol-motorcycle-oem/)
 

@@ -1,10 +1,10 @@
 ---
-title: "Wholesale Collaborative Robots (Cobots) from China: OEM & CE Certified"
+title: "China Collaborative Robot (Cobot) Manufacturers | OEM & CE"
 description: "Source top-tier CE-certified collaborative robots (cobots) from leading Chinese manufacturers like AUBO, JAKA, and Elite. Featuring 3–20kg payloads…"
 canonical_url: "https://china-sourcing-agents.com/products/collaborative-robot-cobot/"
 ---
 
-# Wholesale Collaborative Robots (Cobots) from China: OEM & CE Certified
+# China Collaborative Robot (Cobot) Manufacturers | OEM & CE
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/collaborative-robot-cobot/](https://china-sourcing-agents.com/products/collaborative-robot-cobot/)
 
@@ -26,6 +26,7 @@ ISO/TS 15066 defines the power-and-force limits for collaborative robot operatio
 - Joint Torque Sensing vs. Speed-and-Separation Monitoring: Cost & Safety in Collaborative Robotics
 - Repeatability, Path Accuracy, and Cobot Total Cost of Ownership (TCO)
 - Top Chinese Collaborative Robot (Cobot) Supplier Landscape
+- Sourcing Next Steps
 
 ---
 

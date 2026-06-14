@@ -33,5 +33,6 @@ For industrial IoT and industrial electrical applications, True RMS is the corre
 - [industrial IoT and industrial electrical applications](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [sourcing via a qualified agent](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection and specification stage](https://china-sourcing-agents.com/services/inspection/)
+- [industrial IoT hardware sourcing guide](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/digital-clamp-meter/)
 

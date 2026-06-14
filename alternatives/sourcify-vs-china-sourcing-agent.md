@@ -20,6 +20,12 @@ note: 'Matters most when your product has non-standard specs, custom firmware, o
 
 ---
 
+## What this covers
+
+- Products where Sourcify vs China Sourcing Agents gets compared
+
+---
+
 ## Further reading
 
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)

@@ -14,7 +14,7 @@ CE and RoHS compliance for EU buyers sourcing solar panels, LED fixtures, and sm
 
 European buyers face a compliance burden that most Asian-market buyers do not. When you import solar products or LED lighting into the EU, you are the importer of record. That means you — not the factory in Shenzhen — hold the legal obligation to prove your product meets CE and RoHS requirements before it crosses an EU border. A customs rejection or market surveillance action is your problem to solve and your fine to pay.
 
-This guide covers the directives, standards, and documentation you need for solar products and LED lighting sourced from China. It also covers what we check on your behalf when we manage the compliance process — because the gap between a factory claiming CE compliance and a product that actually passes third-party testing is wider than most buyers expect.
+This guide covers the directives, standards, and documentation you need for solar products and LED lighting sourced from China. It also covers what we check on your behalf when we manage the compliance process — because the gap between a factory claiming CE compliance and a product that actually passes third-party testing is wider than most buyers expect. Specific product examples we work with include LED strip lights, smart ceiling lights, and DALI-2 LED drivers.
 
 If you're at the earlier stage of evaluating suppliers, read our complete electronics sourcing guide first. For buyers doing their own factory verification, the factory audit checklist covers what to check on-site. If your product is also bound for the US or UK, see multi-market certification.
 
@@ -38,6 +38,6 @@ If you're at the earlier stage of evaluating suppliers, read our complete electr
 - [CE](https://china-sourcing-agents.com/wiki/ce-marking/)
 - [RoHS](https://china-sourcing-agents.com/wiki/rohs-compliance/)
 - [LED lighting](https://china-sourcing-agents.com/industries/led-lighting/)
-- [complete electronics sourcing guide](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [LED strip lights](https://china-sourcing-agents.com/products/lighting/led-strip-light/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/solar-led-ce-rohs-compliance-china/)
 

@@ -26,7 +26,10 @@ Luxshare is a $15B+ company with roughly 250,000 employees. Its Vietnam faciliti
 - The German buyer distress factor
 - The EU tariff gap: stronger than the US case
 - The cost gap is smaller than the headline numbers suggest
+- Substantial transformation: the transshipment trap
+- Power, infrastructure, and operational risk
 - When Vietnam makes sense: updated thresholds
+- Updated decision matrix
 
 ---
 

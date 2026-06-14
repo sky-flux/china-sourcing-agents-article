@@ -35,8 +35,8 @@ The processing industry is structured around large integrated facilities that ha
 ## Further reading
 
 - [sourcing services](https://china-sourcing-agents.com/services/sourcing/)
-- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [waterproofing membranes](https://china-sourcing-agents.com/products/waterproofing-membrane/)
+- [epoxy floor coatings](https://china-sourcing-agents.com/products/epoxy-floor-coating/)
+- [silicone sealant](https://china-sourcing-agents.com/products/silicone-sealant/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/zhanjiang-sourcing-agent/)
 

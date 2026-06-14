@@ -1,10 +1,10 @@
 ---
-title: "Lianyungang Sourcing Agent & Procurement | Land Bridge & Chemicals"
+title: "Lianyungang Sourcing Agent | Land Bridge & Port"
 description: "Expert sourcing agent in Lianyungang. Navigate the New Eurasian Land Bridge, manage chemical/pharma API procurement, quartz sourcing, and port logistics."
 canonical_url: "https://china-sourcing-agents.com/cities/lianyungang-sourcing-agent/"
 ---
 
-# Lianyungang Sourcing Agent & Procurement | Land Bridge & Chemicals
+# Lianyungang Sourcing Agent | Land Bridge & Port
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/lianyungang-sourcing-agent/](https://china-sourcing-agents.com/cities/lianyungang-sourcing-agent/)
 
@@ -34,8 +34,9 @@ Because Lianyungang’s primary industries—chemical APIs and heavy rail logist
 
 ## Further reading
 
-- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [industrial IoT hardware sourcing](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
-- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [explosion-proof lights](https://china-sourcing-agents.com/products/explosion-proof-light/)
+- [flow meters](https://china-sourcing-agents.com/products/flow-meter-industrial/)
+- [gas detector transmitters](https://china-sourcing-agents.com/products/gas-detector-transmitter/)
+- [industrial temperature sensors](https://china-sourcing-agents.com/products/industrial-temperature-sensor/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/lianyungang-sourcing-agent/)
 

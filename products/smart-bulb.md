@@ -25,6 +25,11 @@ The smart home lighting module ecosystem has consolidated around a few chipsets 
 - What to Check When Sourcing Smart LED Bulbs
 - Common Issues with Smart LED Bulbs
 - Sourcing Smart LED Bulbs for Saudi Arabia & the GCC
+- What this product is
+- Typical specs to confirm before sampling
+- A common pitfall: "Matter compatible" without CSA certification
+- Buyer profile: EU Amazon private-label seller
+- Recommended next steps
 
 ---
 

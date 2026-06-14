@@ -20,6 +20,12 @@ note: 'Engineering depth matters most for non-standard electronics: custom PCBs,
 
 ---
 
+## What this covers
+
+- Categories where the LeelineSourcing comparison comes up
+
+---
+
 ## Further reading
 
 - [electronics sourcing](https://china-sourcing-agents.com/services/sourcing/)

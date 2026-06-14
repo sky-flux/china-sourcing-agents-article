@@ -1,10 +1,10 @@
 ---
-title: "Wholesale Mini Projectors (DLP/LCD) | OEM Manufacturer China"
+title: "Wholesale Mini Projectors (DLP/LCD) | OEM China"
 description: "Source wholesale mini projectors from leading OEM manufacturers in China. Explore DLP & LCD models with 200-500 ANSI lumens, HDMI, WiFi, and custom…"
 canonical_url: "https://china-sourcing-agents.com/products/mini-projector/"
 ---
 
-# Wholesale Mini Projectors (DLP/LCD) | OEM Manufacturer China
+# Wholesale Mini Projectors (DLP/LCD) | OEM China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/mini-projector/](https://china-sourcing-agents.com/products/mini-projector/)
 
@@ -26,6 +26,7 @@ When sourcing mini projectors from an OEM manufacturer in China, always request 
 - DLP vs. LCD Optics for Mini Projectors
 - Auto-Keystone Accuracy & Image Correction
 - Lumen Decay Testing & LED Light Source Lifespan
+- What to Lock Down Before Sourcing a Mini Projector OEM
 
 ---
 

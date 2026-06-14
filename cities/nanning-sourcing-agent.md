@@ -1,10 +1,10 @@
 ---
-title: "Nanning Sourcing Agent & Cross-Border Logistics: ASEAN Trade Hub"
+title: "Nanning Sourcing Agent | ASEAN Trade Hub"
 description: "Your expert Nanning sourcing agent. Manage China-ASEAN cross-border procurement, electronics assembly, sugar supply chains, and Vietnam logistics."
 canonical_url: "https://china-sourcing-agents.com/cities/nanning-sourcing-agent/"
 ---
 
-# Nanning Sourcing Agent & Cross-Border Logistics: ASEAN Trade Hub
+# Nanning Sourcing Agent | ASEAN Trade Hub
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/nanning-sourcing-agent/](https://china-sourcing-agents.com/cities/nanning-sourcing-agent/)
 
@@ -26,12 +26,14 @@ The annual **China-ASEAN Expo (CAEXPO)** draws over 80,000 buyers from across AS
 - Agricultural Supply Chain: Sugar Processing and Commodities
 - Electronics Manufacturing and Quality Control
 - Supply Chain Logistics: Beibu Gulf Port Cluster and Vietnam Border
+- When to Use a Nanning Sourcing Agent
 - Practical Sourcing Notes
 
 ---
 
 ## Further reading
 
+- [Guangzhou](https://china-sourcing-agents.com/cities/guangzhou-sourcing-agent/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [smart home](https://china-sourcing-agents.com/industries/smart-home/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)

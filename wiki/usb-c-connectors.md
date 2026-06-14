@@ -1,10 +1,10 @@
 ---
-title: "USB-C Connectors: The Complete China Sourcing & Quality Guide"
+title: "USB-C Connectors: Complete China Sourcing & Quality Guide"
 description: "Expert guide to sourcing USB-C connectors from China. Learn how to verify PD 3.1 240W ratings, gold plating thickness, PCB retention, and detect…"
 canonical_url: "https://china-sourcing-agents.com/wiki/usb-c-connectors/"
 ---
 
-# USB-C Connectors: The Complete China Sourcing & Quality Guide
+# USB-C Connectors: Complete China Sourcing & Quality Guide
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/usb-c-connectors/](https://china-sourcing-agents.com/wiki/usb-c-connectors/)
 

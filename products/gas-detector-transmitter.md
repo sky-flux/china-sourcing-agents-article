@@ -1,10 +1,10 @@
 ---
-title: "Industrial Gas Detector Transmitter Manufacturer China: ATEX/IECEx OEM"
+title: "Industrial Gas Detector Manufacturer China | ATEX OEM"
 description: "Source robust OEM industrial gas detector transmitters from China. ATEX/IECEx certified, 4-20mA, Modbus RTU. Detect CO, H2S, CH4, VOC & CO2 safely."
 canonical_url: "https://china-sourcing-agents.com/products/gas-detector-transmitter/"
 ---
 
-# Industrial Gas Detector Transmitter Manufacturer China: ATEX/IECEx OEM
+# Industrial Gas Detector Manufacturer China | ATEX OEM
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/gas-detector-transmitter/](https://china-sourcing-agents.com/products/gas-detector-transmitter/)
 
@@ -26,6 +26,7 @@ The limiting factors are environmental sensitivity and finite sensor life. Elect
 - ATEX and IECEx Certification for OEM Gas Detectors in Hazardous Areas
 - Calibration & Drift Management: Sustaining Gas Transmitter Accuracy
 - Chinese Gas Detector Manufacturer Landscape: Reference Points & Red Flags
+- Sourcing Next Steps
 
 ---
 

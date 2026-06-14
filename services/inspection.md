@@ -12,7 +12,7 @@ Pre-production, during-production, and pre-shipment QC in China. Three checkpoin
 
 ---
 
-A pre-shipment inspection on 2,000 units costs $250. Returning 2,000 defective units from Germany costs $8,000–12,000 plus 6 weeks of delay and a damaged customer relationship. The math is simple. We run three-stage QC across product categories including consumer electronics and smart home devices, and the results speak for themselves — the Bluetooth speaker project for an EU startup finished with a 0.4% defect rate across 5,000 units. Inspection works best when it follows a factory audit — knowing the factory's quality systems in advance tells us exactly where to focus our inspection effort.
+A pre-shipment inspection on 2,000 units costs $250. Returning 2,000 defective units from Germany costs $8,000–12,000 plus 6 weeks of delay and a damaged customer relationship. The math is simple. We run three-stage QC across product categories including consumer electronics and smart home devices, and the results speak for themselves — the Bluetooth speaker project for an EU startup finished with a 0.4% defect rate across 5,000 units. Inspection works best when it follows a factory audit — knowing the factory's quality systems in advance tells us exactly where to focus our inspection effort. Buyers new to the China supply chain often start with our China electronics market websites overview and the top Chinese electronics manufacturers ranking to understand who actually makes what.
 
 Before materials are committed. We verify the factory has received correct components, the right BOM version is in use, tooling is correct, and line workers are briefed on your specific requirements. Most defects are designed in at this stage.
 

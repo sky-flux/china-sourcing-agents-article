@@ -1,10 +1,10 @@
 ---
-title: "Ningbo Sourcing Agent & Quality Control: Stationery, Tools & Electronics"
+title: "Ningbo Sourcing Agent: Stationery, Tools, Electronics & QC"
 description: "Your expert Ningbo sourcing agent. Manage procurement for stationery (Deli/Beifa), precision tools, injection molds, PCB assembly, and port logistics."
 canonical_url: "https://china-sourcing-agents.com/cities/ningbo-sourcing-agent/"
 ---
 
-# Ningbo Sourcing Agent & Quality Control: Stationery, Tools & Electronics
+# Ningbo Sourcing Agent: Stationery, Tools, Electronics & QC
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/ningbo-sourcing-agent/](https://china-sourcing-agents.com/cities/ningbo-sourcing-agent/)
 

@@ -27,8 +27,9 @@ Everything in this guide comes back to those three facts.
 - Compliance to lock down before tooling is cut
 - How SABER and SASO actually work
 - Tuya vs Zigbee vs Matter for the Gulf
-- What we check on-site for Saudi orders
-- Action item
+- Supplier geography: Shenzhen vs Ningbo for smart home
+- Sample orders and pilot runs
+- Packaging and labeling for Saudi customs
 
 ---
 

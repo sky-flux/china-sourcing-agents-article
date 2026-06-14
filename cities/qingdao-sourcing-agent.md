@@ -32,7 +32,9 @@ Qingdao is Shandong Province's economic capital and the headquarters of Haier â€
 
 ## Further reading
 
-- [China payment terms explained](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
-- [factory audit process](https://china-sourcing-agents.com/services/factory-audit/)
+- [air purifiers](https://china-sourcing-agents.com/products/air-purifier/)
+- [electric kettles](https://china-sourcing-agents.com/products/electric-kettle-oem/)
+- [commercial blenders](https://china-sourcing-agents.com/products/commercial-blender/)
+- [stainless cookware sets](https://china-sourcing-agents.com/products/stainless-cookware-set/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/qingdao-sourcing-agent/)
 

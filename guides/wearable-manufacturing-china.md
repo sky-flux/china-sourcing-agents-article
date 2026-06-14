@@ -34,7 +34,7 @@ If Europe is a target market, also review IFA Berlin before the trip — it show
 
 - [sourcing wearables from China](https://china-sourcing-agents.com/industries/wearables/)
 - [fitness band OEM production](https://china-sourcing-agents.com/products/wearables/fitness-band-oem/)
-- [smartwatch OEM manufacturing](https://china-sourcing-agents.com/products/wearables/smartwatch-oem/)
-- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
+- [TWS earphones](https://china-sourcing-agents.com/products/wearables/tws-earphones-oem/)
+- [wireless charger pads](https://china-sourcing-agents.com/products/electronics/wireless-charger-pad/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/wearable-manufacturing-china/)
 

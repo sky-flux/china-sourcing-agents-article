@@ -1,10 +1,10 @@
 ---
-title: "OEM DIN Rail Power Supply (24V DC, 10A–40A) | UL 508 & CE"
+title: "OEM DIN Rail Power Supply 24V DC 10A–40A | UL 508 CE"
 description: "Discover premium 24V DC DIN rail power supplies for industrial control panels. Features 10A–40A output, >91% efficiency, and UL 508/CE compliance for PLC…"
 canonical_url: "https://china-sourcing-agents.com/products/din-rail-power-supply/"
 ---
 
-# OEM DIN Rail Power Supply (24V DC, 10A–40A) | UL 508 & CE
+# OEM DIN Rail Power Supply 24V DC 10A–40A | UL 508 CE
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/din-rail-power-supply/](https://china-sourcing-agents.com/products/din-rail-power-supply/)
 
@@ -26,6 +26,7 @@ Two UL marks frequently appear on DIN rail power supplies, and they are absolute
 - Navigating Derating Curves in High-Temperature Industrial Environments
 - Optimizing Hold-Up Time for PLC Applications and Automation Systems
 - Verifying MTBF for Reliable DIN Rail PSU Performance
+- Sourcing Next Steps
 
 ---
 

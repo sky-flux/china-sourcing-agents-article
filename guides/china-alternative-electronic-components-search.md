@@ -26,15 +26,18 @@ There are three reasons China's electronic-component ecosystem is the primary fi
 - Five ways to find alternative parts
 - Search tips
 - Points to watch
-- Conclusion
+- Datasheet red flags that save weeks of debugging
+- The sample verification process
+- When not to use a Chinese alternative
+- Cost modeling beyond the unit price
 
 ---
 
 ## Further reading
 
 - [China's electronics sourcing ecosystem](https://china-sourcing-agents.com/services/sourcing/)
-- [1688](https://china-sourcing-agents.com/guides/alibaba-vs-1688/)
-- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [Shenzhen's Huaqiangbei electronics market](https://china-sourcing-agents.com/services/china-tours/huaqiangbei-tour/)
+- [MLCC capacitors](https://china-sourcing-agents.com/products/mlcc-capacitor/)
+- [crystal oscillators](https://china-sourcing-agents.com/products/crystal-oscillator/)
+- [DC-DC converter modules](https://china-sourcing-agents.com/products/dc-dc-converter-module/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-alternative-electronic-components-search/)
 

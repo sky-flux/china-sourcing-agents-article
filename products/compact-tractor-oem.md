@@ -32,6 +32,7 @@ Chinese compact tractor factories source engines from three distinct supply tier
 
 - [sourcing engagement](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [logistics coordination service](https://china-sourcing-agents.com/services/logistics/)
+- [automotive electronics sourcing standards](https://china-sourcing-agents.com/industries/automotive-electronics/)
+- [air vs. sea freight guide](https://china-sourcing-agents.com/guides/china-shipping-air-vs-sea-cost/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/compact-tractor-oem/)
 

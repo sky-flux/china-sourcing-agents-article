@@ -1,14 +1,14 @@
 ---
-title: "Alashankou Sourcing Agent & Rail Freight Logistics | China–Europe Gateway"
-description: "Expert sourcing agent services via Alashankou. Navigate China's largest rail border to Kazakhstan, manage quality control, customs clearance, and…"
+title: "Alashankou Sourcing Agent | Rail Freight Hub"
+description: "Expert Alashankou sourcing agent for China–Europe rail freight. Manage gauge exchange, customs clearance, and quality control at the Kazakhstan border."
 canonical_url: "https://china-sourcing-agents.com/cities/alashankou-sourcing-agent/"
 ---
 
-# Alashankou Sourcing Agent & Rail Freight Logistics | China–Europe Gateway
+# Alashankou Sourcing Agent | Rail Freight Hub
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/alashankou-sourcing-agent/](https://china-sourcing-agents.com/cities/alashankou-sourcing-agent/)
 
-Expert sourcing agent services via Alashankou. Navigate China's largest rail border to Kazakhstan, manage quality control, customs clearance, and…
+Expert Alashankou sourcing agent for China–Europe rail freight. Manage gauge exchange, customs clearance, and quality control at the Kazakhstan border.
 
 ---
 
@@ -33,5 +33,7 @@ While Alashankou itself is a logistics hub rather than a factory epicenter, havi
 
 - [logistics management](https://china-sourcing-agents.com/services/logistics/)
 - [sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [industrial temperature sensors](https://china-sourcing-agents.com/products/industrial-iot/industrial-temperature-sensor/)
+- [photoelectric sensors](https://china-sourcing-agents.com/products/industrial-iot/photoelectric-sensor/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/alashankou-sourcing-agent/)
 

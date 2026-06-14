@@ -32,5 +32,11 @@ Among the three Beibu Gulf ports — Qinzhou, Fangchenggang, and Beihai — Qinz
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/qinzhou-sourcing-agent/)
+## Further reading
+
+- [SPC/LVT flooring](https://china-sourcing-agents.com/products/spc-lvt-flooring/)
+- [laminate flooring](https://china-sourcing-agents.com/products/laminate-flooring-oem/)
+- [storage containers](https://china-sourcing-agents.com/products/storage-container-oem/)
+- [waterproofing membranes](https://china-sourcing-agents.com/products/waterproofing-membrane/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/qinzhou-sourcing-agent/)
 

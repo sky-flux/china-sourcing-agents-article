@@ -33,5 +33,6 @@ When partnering with an epoxy floor coating OEM manufacturer in China, system se
 - [inspection engagement](https://china-sourcing-agents.com/services/inspection/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [sourcing process](https://china-sourcing-agents.com/services/sourcing/)
+- [consumer electronics sourcing team](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/epoxy-floor-coating/)
 

@@ -23,8 +23,13 @@ The price premium over the next tier is typically 15–25% on assembly cost. For
 ## What this covers
 
 - The four types of operations you'll encounter
+- Tier definitions with hard numbers
+- Matching factory tier to product lifecycle
 - What to look for on the factory floor
+- Common mistakes in tier selection
 - How factory tier should affect your sourcing strategy
+- Factory tier scorecard
+- Tier progression and supplier lifecycle
 
 ---
 

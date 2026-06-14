@@ -35,8 +35,8 @@ The processing chain starts with raw magnesite ore (magnesium carbonate, MgCO3) 
 ## Further reading
 
 - [sourcing services](https://china-sourcing-agents.com/services/sourcing/)
-- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [industrial IoT hardware sourcing](https://china-sourcing-agents.com/guides/industrial-iot-hardware-sourcing/)
+- [silicone sealant](https://china-sourcing-agents.com/products/silicone-sealant/)
+- [stainless bolts sets](https://china-sourcing-agents.com/products/stainless-bolts-set/)
+- [aluminum extrusion profiles](https://china-sourcing-agents.com/products/aluminum-extrusion-profile/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/yingkou-sourcing-agent/)
 

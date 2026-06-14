@@ -31,5 +31,11 @@ For foreign buyers, the commercially accessible layer is the tier-2 and tier-3 s
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/zhaoqing-sourcing-agent/)
+## Further reading
+
+- [electric kettles](https://china-sourcing-agents.com/products/electric-kettle-oem/)
+- [LED emergency lights](https://china-sourcing-agents.com/products/led-emergency-light/)
+- [aluminum extrusion profiles](https://china-sourcing-agents.com/products/aluminum-extrusion-profile/)
+- [aluminum window profiles](https://china-sourcing-agents.com/products/aluminum-window-profile/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/zhaoqing-sourcing-agent/)
 

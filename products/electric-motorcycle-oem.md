@@ -1,10 +1,10 @@
 ---
-title: "OEM Electric Motorcycles & E-Mopeds: 3kW-10kW Models from China"
+title: "OEM Electric Motorcycles & E-Mopeds: 3-10kW China"
 description: "Source custom OEM electric motorcycles and e-mopeds directly from China manufacturers. EU L1e/L3e and DOT type approval ready, with 60V/72V Li-ion…"
 canonical_url: "https://china-sourcing-agents.com/products/electric-motorcycle-oem/"
 ---
 
-# OEM Electric Motorcycles & E-Mopeds: 3kW-10kW Models from China
+# OEM Electric Motorcycles & E-Mopeds: 3-10kW China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/electric-motorcycle-oem/](https://china-sourcing-agents.com/products/electric-motorcycle-oem/)
 
@@ -33,6 +33,6 @@ European vehicle type approval is strictly mandatory for road-legal custom elect
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [automotive electronics industry page](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [power electronics page](https://china-sourcing-agents.com/industries/power-electronics/)
-- [audit service](https://china-sourcing-agents.com/services/factory-audit/)
+- [Wuxi sourcing corridor](https://china-sourcing-agents.com/cities/wuxi-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/electric-motorcycle-oem/)
 

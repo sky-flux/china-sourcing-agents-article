@@ -27,8 +27,9 @@ Most consumer electronics and IoT sourcing disasters are not surprises. They are
 - Scenario 3: Certification failure discovered after production
 - Scenario 4: Tariff reclassification
 - Scenario 5: Unauthorized component substitution
+- Scenario 6: Logistics and port disruption
+- Scenario 7: Currency and foreign-exchange exposure
 - Turning this into a plan: the one-page risk register
-- Where a sourcing agent changes the risk profile
 
 ---
 
@@ -36,7 +37,7 @@ Most consumer electronics and IoT sourcing disasters are not surprises. They are
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [IoT](https://china-sourcing-agents.com/industries/iot-modules/)
-- [alternative electronic components search](https://china-sourcing-agents.com/guides/china-alternative-electronic-components-search/)
-- [FCC certification](https://china-sourcing-agents.com/wiki/fcc-certification/)
+- [MLCC capacitors](https://china-sourcing-agents.com/products/electronics/mlcc-capacitor/)
+- [crystal oscillators](https://china-sourcing-agents.com/products/electronics/crystal-oscillator/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/supply-chain-risk-management-china-sourcing/)
 

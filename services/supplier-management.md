@@ -12,7 +12,7 @@ Ongoing China supplier management for electronics buyers: factory verification, 
 
 ---
 
-Supplier management services in China keep your electronics factory accountable after the first order — verification, production follow-up, and risk control across every reorder. Sourcing a good factory is the easy half. Keeping that factory at the same quality and price two years and ten orders later is where most buyers quietly lose margin.
+Supplier management services in China keep your electronics factory accountable after the first order — verification, production follow-up, and risk control across every reorder. Sourcing a good factory is the easy half. Keeping that factory at the same quality and price two years and ten orders later is where most buyers quietly lose margin. The starting point is still knowing the landscape: our China electronics market websites guide and top Chinese electronics manufacturers ranking are the references we use when re-verifying a supplier's position in the market.
 
 This is a standing role, not a one-time project. A factory that shipped a clean first batch can drift: a sub-supplier swaps a connector, a tooling repair shifts a tolerance, the contact who knew your product leaves. Ongoing China supplier management catches that drift before it reaches your warehouse.
 
@@ -35,9 +35,9 @@ These are two stages, not the same job. Finding a supplier means searching the m
 
 ## Further reading
 
+- [China electronics market websites](https://china-sourcing-agents.com/guides/china-electronics-market-websites/)
+- [top Chinese electronics manufacturers](https://china-sourcing-agents.com/guides/top-chinese-electronics-manufacturers/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [inspection](https://china-sourcing-agents.com/services/inspection/)
-- [guide to verifying a Chinese supplier](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/services/supplier-management/)
 

@@ -12,28 +12,30 @@ OEM TWS earphones, BT 5.3, active noise cancellation, Qualcomm or Airoha chipset
 
 ---
 
+OEM TWS (True Wireless Stereo) earphones are cord-free Bluetooth earbuds sold under a buyer's brand, typically built around a reference design from a Qualcomm, Airoha, or BES chipset platform. A standard project covers the buds, charging case, custom enclosure, tuning, and BQB/CE/FCC certification. Most first-time buyers order 500–1,000 units, while established consumer-electronics brands use TWS as a low-risk entry into wearable audio. Buyers typically source these through the Shenzhen electronics cluster because the ecosystem covers chipset distributors, acoustic labs, and plastic-injection tooling within a short drive.
+
+Typical specs to confirm before quoting include Bluetooth version (5.3 is current), chipset family, driver configuration, ANC architecture and attenuation curve, battery life at a defined volume, IP rating, and charging interface. Also clarify whether the factory provides the companion app source code or only a white-label binary.
+
 The chipset choice defines the SDK environment, reference design availability, and NRE (Non-Recurring Engineering) cost for customization. When sourcing wearable audio devices, the chipset decision has long-term implications for firmware maintenance:
-
-**Qualcomm QCC3072 (and QCC3056 for lower-cost ANC).** Industry benchmark for audio quality and ANC performance. Qualcomm's Aqstic audio codec is included on-chip, providing reference-quality DAC performance. Large ecosystem of third-party firmware partners. SDK access requires signing a Qualcomm development agreement — available through authorized design houses. NRE for a custom firmware layer (button remapping, EQ presets, ANC tuning): typically $8,000–20,000 for a full design house engagement. Preferred choice for products competing in the $40+ retail price range where audio quality is a differentiator.
-
-**Airoha AC6973 (or AC6975 for higher-end features).** MediaTek subsidiary chip. Lower BOM cost than Qualcomm — $1.20–2.00 cheaper per unit. Competitive ANC performance for mid-range products. Airoha's SDK is more accessible through Chinese ODM factories, which reduces NRE cost (typically $3,000–8,000 for equivalent customization). Good choice for products targeting the $15–35 retail price range.
 
 ---
 
 ## What this covers
 
+- What OEM TWS Earphones Are
 - Qualcomm vs. Airoha Chipset: Ecosystem and NRE Cost
 - ANC Performance Measurement
 - Eartip Fitting and IP Rating Test Method
 - Regulatory Compliance for TWS Earphones
+- Common Pitfall and Recommended Next Step
 
 ---
 
 ## Further reading
 
-- [sourcing wearable audio devices](https://china-sourcing-agents.com/industries/wearables/)
+- [wearable audio](https://china-sourcing-agents.com/industries/wearables/)
+- [Shenzhen electronics cluster](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [consumer electronics certification](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [wearable device manufacturing](https://china-sourcing-agents.com/guides/wearable-manufacturing-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/tws-earphones-oem/)
 

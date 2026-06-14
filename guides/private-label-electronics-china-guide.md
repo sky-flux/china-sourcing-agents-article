@@ -27,16 +27,17 @@ It helps to think of customization as a spectrum rather than a binary:
 - Tooling costs, honestly
 - Finding factories that actually do private label
 - The IP problem no one warns you about
+- Packaging and brand presentation
+- ODM contract terms to include
 - Realistic minimums and timelines
-- Why inspection matters more for ODM than commodity sourcing
 
 ---
 
 ## Further reading
 
 - [OEM vs ODM guide](https://china-sourcing-agents.com/guides/oem-vs-odm-electronics-china/)
-- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [Private Label & OEM Management](https://china-sourcing-agents.com/services/private-label/)
-- [supplier matching](https://china-sourcing-agents.com/services/sourcing/)
+- [private-label Android TV box](https://china-sourcing-agents.com/products/electronics/android-tv-box-oem/)
+- [wireless charger pad](https://china-sourcing-agents.com/products/electronics/wireless-charger-pad/)
+- [pin headers and Dupont connectors](https://china-sourcing-agents.com/wiki/pin-headers-dupont/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/private-label-electronics-china-guide/)
 

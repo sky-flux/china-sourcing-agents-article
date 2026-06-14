@@ -25,9 +25,11 @@ The choice between sea and air freight turns on three variables: **volume**, **t
 - Sea Freight vs. Air Freight: when do you choose what?
 - Current sea freight costs to the Netherlands (2026)
 - Air freight costs to the Netherlands (2026)
+- Rail freight: the middle option
 - Additional costs: the full picture
-- 5 practical savings tips for Dutch importers
-- Need help with your shipping from China?
+- Incoterms: who controls the freight
+- Container loading and LCL consolidation
+- Dutch customs and Article 23 deferment
 
 ---
 
@@ -36,6 +38,6 @@ The choice between sea and air freight turns on three variables: **volume**, **t
 - [Shanghai](https://china-sourcing-agents.com/cities/shanghai-sourcing-agent/)
 - [Ningbo](https://china-sourcing-agents.com/cities/ningbo-sourcing-agent/)
 - [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
-- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [RJ45 Ethernet connectors](https://china-sourcing-agents.com/wiki/rj45-ethernet-connectors/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/zeevracht-luchtvracht-kosten-china-nederland/)
 

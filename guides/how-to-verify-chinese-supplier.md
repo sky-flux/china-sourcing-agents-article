@@ -28,8 +28,8 @@ Factory verification has five levels. Most buyers stop at level one. This guide 
 - Level 3: Technical capability check
 - Level 4: Sample validation
 - Level 5: On-site audit
+- Trading company or factory? Why it matters
 - Five red flags that should disqualify a factory immediately
-- When you're ready to pay
 
 ---
 

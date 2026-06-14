@@ -31,5 +31,11 @@ The core sourcing categories in Shaoxing are textiles in their various forms. Th
 
 ---
 
-[Read the full guide on China Sourcing Agent →](https://china-sourcing-agents.com/cities/shaoxing-sourcing-agent/)
+## Further reading
+
+- [custom tote bags](https://china-sourcing-agents.com/products/custom-tote-bag/)
+- [canvas backpacks](https://china-sourcing-agents.com/products/canvas-backpack-oem/)
+- [camping tents](https://china-sourcing-agents.com/products/camping-tent-wholesale/)
+- [hardshell spinner luggage](https://china-sourcing-agents.com/products/hardshell-spinner-luggage-oem/)
+- [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/shaoxing-sourcing-agent/)
 

@@ -25,14 +25,19 @@ The action item: confirm the actual wiring at the installation before ordering, 
 - Neutral vs no-neutral — get this right first
 - Panel, load, and protocol
 - Sourcing Smart Wall Switches for Saudi Arabia & the GCC
+- Typical specs to confirm before sampling
+- A common pitfall: no-neutral switches flickering with low-wattage LEDs
+- Buyer profile: KSA electrical retrofit contractor
+- Recommended next steps
+- Supply-chain and inspection notes
 
 ---
 
 ## Further reading
 
 - [Tuya reference](https://china-sourcing-agents.com/wiki/tuya-smart-platform/)
+- [Foshan hardware hub](https://china-sourcing-agents.com/cities/foshan-sourcing-agent/)
 - [CST](https://china-sourcing-agents.com/guides/saso-saber-certification-china-electronics/)
 - [SASO](https://china-sourcing-agents.com/wiki/saso-certification/)
-- [SABER](https://china-sourcing-agents.com/wiki/saber-certification/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/smart-wall-switch/)
 

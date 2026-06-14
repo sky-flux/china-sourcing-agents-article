@@ -25,6 +25,11 @@ Smart locks are both a security product and an IoT device — they have mechanic
 - What to Check When Sourcing Smart Door Locks
 - Common Issues with Smart Door Locks
 - Sourcing Smart Door Locks for Saudi Arabia & the GCC
+- What this product is
+- Typical specs to confirm before sampling
+- A common pitfall: optical fingerprint sensors fooled by photographs
+- Buyer profile: US rental-property manager
+- Recommended next steps
 
 ---
 

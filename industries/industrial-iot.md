@@ -12,7 +12,7 @@ Source IIoT hardware from China: industrial gateways, DIN rail switches, Modbus 
 
 ---
 
-Industrial IoT (IIoT) hardware is the connectivity and sensing layer for factories and utilities — industrial gateways, DIN-rail Ethernet switches, Modbus/OPC-UA protocol converters, wide-temperature field sensors, and ruggedized edge nodes — built to survive harsh environments and decade-long deployments. It is a different sourcing problem from consumer electronics: the standards are stricter (IEC 61850, IEC 62443, EN 55032), operating ranges are harsher, and a component discontinued after 18 months can break an installed base with a 10-year lifecycle. Our IIoT supplier matching starts with compliance documentation review before we shortlist any manufacturer.
+Industrial IoT (IIoT) hardware is the connectivity and sensing layer for factories and utilities — industrial gateways, DIN-rail Ethernet switches, Modbus/OPC-UA protocol converters, wide-temperature field sensors, and ruggedized edge nodes — built to survive harsh environments and decade-long deployments. It is a different sourcing problem from consumer electronics: the standards are stricter (IEC 61850, IEC 62443, EN 55032), operating ranges are harsher, and a component discontinued after 18 months can break an installed base with a 10-year lifecycle. Our IIoT supplier matching starts with compliance documentation review before we shortlist any manufacturer. We also publish a China electronics market websites guide and a ranked list of top Chinese electronics manufacturers for buyers doing preliminary market mapping.
 
 Industrial-grade components (-40°C to 85°C) are routinely substituted with commercial-grade (0°C to 70°C) without disclosure — temperature rating is verified at the component level, not from the marketing datasheet.
 
@@ -36,8 +36,8 @@ Industrial-grade components (-40°C to 85°C) are routinely substituted with com
 ## Further reading
 
 - [IIoT supplier matching](https://china-sourcing-agents.com/services/sourcing/)
-- [DIN rail power supplies](https://china-sourcing-agents.com/products/industrial-iot/din-rail-power-supply/)
-- [MPPT charge controllers](https://china-sourcing-agents.com/products/industrial-iot/mppt-controller/)
-- [PTZ IP cameras](https://china-sourcing-agents.com/products/industrial-iot/ptz-ip-camera-oem/)
+- [China electronics market websites](https://china-sourcing-agents.com/guides/china-electronics-market-websites/)
+- [top Chinese electronics manufacturers](https://china-sourcing-agents.com/guides/top-chinese-electronics-manufacturers/)
+- [Ethernet switches](https://china-sourcing-agents.com/wiki/rj45-ethernet-connectors/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/industries/industrial-iot/)
 

@@ -26,6 +26,7 @@ The three detection modes have fundamentally different operating principles and 
 - PNP vs. NPN Sensor Outputs: The Wiring Mistake That Kills Automation Sensors
 - EMI Susceptibility: Modulation Frequency and Ambient Light Rejection
 - IP67 vs. IP69K Waterproof Sensors for Wash-down Environments
+- Sourcing Next Steps
 
 ---
 

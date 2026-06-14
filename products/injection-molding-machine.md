@@ -12,7 +12,7 @@ Source high-performance 80T–650T injection molding machines direct from Chines
 
 ---
 
-When sourcing an injection molding machine from a Chinese manufacturer, the drive mechanism selection has a significant impact on your high-volume manufacturing energy costs and overall cycle time:
+When sourcing an injection molding machine from a Chinese manufacturer for industrial IoT or general manufacturing, the drive mechanism selection has a significant impact on your high-volume manufacturing energy costs and overall cycle time:
 
 **Hydraulic (fixed-displacement pump).** This offers the lowest upfront purchase price for your plastic injection molding equipment. The hydraulic pump runs continuously at full speed regardless of the machine cycle state, generating heat even during the idle (mold open) phase. Energy consumption serves as the 100% baseline reference, and cooling water demand is high. It is highly suitable for low-cycle-count applications (<200,000 shots/year) where energy cost is secondary to the initial capital investment.
 
@@ -33,7 +33,7 @@ When sourcing an injection molding machine from a Chinese manufacturer, the driv
 
 - [sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [Chinese manufacturer](https://china-sourcing-agents.com/cities/ningbo-sourcing-agent/)
+- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/injection-molding-machine/)
 

@@ -1,10 +1,10 @@
 ---
-title: "Custom Lithium Polymer Pouch Cell Manufacturer in China (OEM/ODM)"
+title: "Lithium Polymer Pouch Cell Manufacturer China (OEM)"
 description: "Reliable China OEM for custom lithium polymer pouch cells (NMC & LFP chemistry). Flexible 100mAh–10,000mAh capacities, UN 38.3 compliant for wearables…"
 canonical_url: "https://china-sourcing-agents.com/products/lithium-pouch-cell/"
 ---
 
-# Custom Lithium Polymer Pouch Cell Manufacturer in China (OEM/ODM)
+# Lithium Polymer Pouch Cell Manufacturer China (OEM)
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/lithium-pouch-cell/](https://china-sourcing-agents.com/products/lithium-pouch-cell/)
 

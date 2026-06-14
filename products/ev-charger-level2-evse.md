@@ -1,10 +1,10 @@
 ---
-title: "Level 2 EV Charger Manufacturer: 7kW-22kW OEM EVSE from China"
+title: "Level 2 EV Charger Manufacturer: 7kW-22kW OEM China"
 description: "Source high-quality Level 2 EV chargers (7kW-22kW) direct from China. Our OEM EVSE solutions feature Type 2, J1772, and GB/T connectors, OCPP 1.6/2.0, CE…"
 canonical_url: "https://china-sourcing-agents.com/products/ev-charger-level2-evse/"
 ---
 
-# Level 2 EV Charger Manufacturer: 7kW-22kW OEM EVSE from China
+# Level 2 EV Charger Manufacturer: 7kW-22kW OEM China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/ev-charger-level2-evse/](https://china-sourcing-agents.com/products/ev-charger-level2-evse/)
 
@@ -12,7 +12,7 @@ Source high-quality Level 2 EV chargers (7kW-22kW) direct from China. Our OEM EV
 
 ---
 
-The connector standard is not a styling choice — it determines which vehicles can charge and which regulatory approvals are required. Specifying the wrong connector for a target market results in an unsellable product. For automotive electronics hardware and electric vehicle charging infrastructure, this is the first decision to lock down before engaging an EVSE manufacturer in China.
+The connector standard is not a styling choice — it determines which vehicles can charge and which regulatory approvals are required. Specifying the wrong connector for a target market results in an unsellable product. For automotive electronics hardware and electric vehicle charging infrastructure, this is the first decision to lock down before engaging an EVSE manufacturer in China. Most export-focused EVSE factories are located in the Shenzhen and Dongguan corridor, where power-electronics supply chains and connector tooling are concentrated.
 
 **Type 2 (IEC 62196-2) — European standard.** Mandatory for all EV charging points sold in the EU and UK under the AFIR regulation (Alternative Fuels Infrastructure Regulation, effective 2024). 7-pin connector supports both single-phase (3.7kW / 7.4kW) and three-phase (11kW / 22kW). The Type 2 socket (untethered) is preferred for public charging points, allowing users to bring their own cable. The Type 2 tethered cable is common in residential and workplace charging. For CE marking, compliance with IEC 61851-1 (Electric vehicle conductive charging systems) and EN 61851-22 is mandatory.
 
@@ -32,6 +32,7 @@ The connector standard is not a styling choice — it determines which vehicles 
 ## Further reading
 
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/ev-charger-level2-evse/)

@@ -33,6 +33,7 @@ The drip emitter is the crucial flow-control element that delivers precise amoun
 
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
-- [product sourcing service](https://china-sourcing-agents.com/services/sourcing/)
+- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [China payment terms guide](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/drip-irrigation-system/)
 

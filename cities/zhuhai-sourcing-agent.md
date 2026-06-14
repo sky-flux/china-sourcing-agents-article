@@ -26,6 +26,7 @@ The cluster's anchor is Ninestar Group (纳思达 / Apex Technology), headquarte
 - IP Risks in Compatible Cartridges — An Honest Assessment
 - Semiconductor Design and the Geehy MCU Cluster
 - PCB Manufacturing in Doumen District
+- Manufacturing Equipment Sourcing
 - Logistics via the HKZMB and Gaolan Port
 - Zhuhai vs. Shenzhen for Electronics Sourcing
 - Practical Notes
@@ -35,7 +36,8 @@ The cluster's anchor is Ninestar Group (纳思达 / Apex Technology), headquarte
 ## Further reading
 
 - [factory audit process](https://china-sourcing-agents.com/services/factory-audit/)
-- [payment terms guide](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
-- [sourcing process](https://china-sourcing-agents.com/services/sourcing/)
+- [FDM 3D printers](https://china-sourcing-agents.com/products/fdm-3d-printer/)
+- [CNC router machines](https://china-sourcing-agents.com/products/cnc-router-machine/)
+- [fiber laser cutters](https://china-sourcing-agents.com/products/fiber-laser-cutter/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/zhuhai-sourcing-agent/)
 

@@ -25,6 +25,11 @@ The action item: test the motor with a representative heavy curtain on the actua
 - Torque, noise, and weight
 - Wired vs battery, and protocol
 - Sourcing Smart Curtain Motors for Saudi Arabia & the GCC
+- Typical specs to confirm before sampling
+- A common pitfall: underspecced torque on heavy Gulf blackout curtains
+- Buyer profile: KSA interior automation contractor
+- Recommended next steps
+- Supply-chain and inspection notes
 
 ---
 
@@ -33,6 +38,6 @@ The action item: test the motor with a representative heavy curtain on the actua
 - [CST](https://china-sourcing-agents.com/guides/saso-saber-certification-china-electronics/)
 - [Tuya reference](https://china-sourcing-agents.com/wiki/tuya-smart-platform/)
 - [scene panel](https://china-sourcing-agents.com/products/smart-home/smart-scene-panel/)
-- [sourcing smart home devices for Saudi Arabia](https://china-sourcing-agents.com/guides/sourcing-smart-home-devices-saudi-arabia/)
+- [Foshan hardware hub](https://china-sourcing-agents.com/cities/foshan-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/smart-curtain-motor/)
 

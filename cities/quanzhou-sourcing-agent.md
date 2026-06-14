@@ -33,6 +33,9 @@ The district's international profile is anchored by Anta (安踏), Xtep (特步)
 
 ## Further reading
 
-- [Factory audits](https://china-sourcing-agents.com/services/factory-audit/)
+- [custom tote bags](https://china-sourcing-agents.com/products/custom-tote-bag/)
+- [canvas backpacks](https://china-sourcing-agents.com/products/canvas-backpack-oem/)
+- [camping tents](https://china-sourcing-agents.com/products/camping-tent-wholesale/)
+- [hardshell spinner luggage](https://china-sourcing-agents.com/products/hardshell-spinner-luggage-oem/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/quanzhou-sourcing-agent/)
 

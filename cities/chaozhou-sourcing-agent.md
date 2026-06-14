@@ -1,14 +1,14 @@
 ---
-title: "Chaozhou Sourcing Agent — Ceramic & Kitchenware Procurement Hub"
-description: "Expert China sourcing agent in Chaozhou. We provide procurement, factory audits, and quality control for ceramic sanitary ware, tableware, and stainless…"
+title: "Chaozhou Sourcing Agent | Ceramics & Cookware"
+description: "Expert China sourcing agent in Chaozhou. Procurement, factory audits, and QC for ceramic sanitary ware, tableware, and stainless cookware."
 canonical_url: "https://china-sourcing-agents.com/cities/chaozhou-sourcing-agent/"
 ---
 
-# Chaozhou Sourcing Agent — Ceramic & Kitchenware Procurement Hub
+# Chaozhou Sourcing Agent | Ceramics & Cookware
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/chaozhou-sourcing-agent/](https://china-sourcing-agents.com/cities/chaozhou-sourcing-agent/)
 
-Expert China sourcing agent in Chaozhou. We provide procurement, factory audits, and quality control for ceramic sanitary ware, tableware, and stainless…
+Expert China sourcing agent in Chaozhou. Procurement, factory audits, and QC for ceramic sanitary ware, tableware, and stainless cookware.
 
 ---
 
@@ -34,7 +34,7 @@ The city sits in eastern Guangdong, part of the bustling Chaozhou–Shantou–Ji
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [Guangzhou](https://china-sourcing-agents.com/cities/guangzhou-sourcing-agent/)
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [ceramic mug OEM](https://china-sourcing-agents.com/products/ceramics-glassware/ceramic-mug-oem/)
+- [borosilicate bottle OEM](https://china-sourcing-agents.com/products/ceramics-glassware/borosilicate-bottle-oem/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/chaozhou-sourcing-agent/)
 

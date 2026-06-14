@@ -33,5 +33,6 @@ STAR mode compatibility is a separate consideration. POS software built on STAR'
 - [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [factory sourcing](https://china-sourcing-agents.com/services/sourcing/)
 - [private label setup](https://china-sourcing-agents.com/services/private-label/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/thermal-pos-printer/)
 

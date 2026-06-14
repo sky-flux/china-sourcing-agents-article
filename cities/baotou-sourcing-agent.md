@@ -1,14 +1,14 @@
 ---
-title: "Baotou Sourcing Agent & Procurement | Rare Earth Magnets & Electronics Materials"
-description: "Expert sourcing agent in Baotou. Navigate the rare earth capital for NdFeB magnets, phosphors, and polishing compounds. Quality control and factory audits."
+title: "Baotou Sourcing Agent | Rare Earth Magnets"
+description: "Expert sourcing agent in Baotou. Source NdFeB magnets, rare earth materials, and electronics raw materials with factory audits and QC."
 canonical_url: "https://china-sourcing-agents.com/cities/baotou-sourcing-agent/"
 ---
 
-# Baotou Sourcing Agent & Procurement | Rare Earth Magnets & Electronics Materials
+# Baotou Sourcing Agent | Rare Earth Magnets
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/baotou-sourcing-agent/](https://china-sourcing-agents.com/cities/baotou-sourcing-agent/)
 
-Expert sourcing agent in Baotou. Navigate the rare earth capital for NdFeB magnets, phosphors, and polishing compounds. Quality control and factory audits.
+Expert sourcing agent in Baotou. Source NdFeB magnets, rare earth materials, and electronics raw materials with factory audits and QC.
 
 ---
 
@@ -34,5 +34,6 @@ Inner Mongolia Rare Earth Hi-Tech (内蒙古北方稀土高科技股份有限公
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [NEMA stepper motors](https://china-sourcing-agents.com/products/machinery-equipment/nema-stepper-motor/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/baotou-sourcing-agent/)
 

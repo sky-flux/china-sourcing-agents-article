@@ -32,9 +32,9 @@ Buyers come to Shanghai for categories where documentation, traceability, and fi
 
 ## Further reading
 
-- [Automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
-- [automotive products category](https://china-sourcing-agents.com/products/automotive/)
-- [Industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [industrial IoT hardware](https://china-sourcing-agents.com/products/industrial-iot/)
+- [collaborative robot cobots](https://china-sourcing-agents.com/products/collaborative-robot-cobot/)
+- [machine vision cameras](https://china-sourcing-agents.com/products/machine-vision-camera/)
+- [commercial treadmills](https://china-sourcing-agents.com/products/commercial-treadmill/)
+- [standing desks](https://china-sourcing-agents.com/products/standing-desk/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/shanghai-sourcing-agent/)
 

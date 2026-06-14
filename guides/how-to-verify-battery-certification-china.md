@@ -25,7 +25,10 @@ UN38.3 is purely a transport document — it does not certify that the battery i
 - The three certificates you'll encounter
 - How to verify a UN38.3 summary document
 - How to verify an IEC 62133 certificate
+- How to verify UL 62133-1 and UL 1642/2054
 - Red flags in supplier responses
+- What to do when verification fails
+- Building a battery certificate library
 - Quick 5-step verification checklist
 
 ---
@@ -35,6 +38,6 @@ UN38.3 is purely a transport document — it does not certify that the battery i
 - [lithium-ion polymer](https://china-sourcing-agents.com/wiki/lipo-battery-cells/)
 - [BMS](https://china-sourcing-agents.com/wiki/bms-lithium/)
 - [Chinese supplier](https://china-sourcing-agents.com/services/sourcing/)
-- [electronics quality control guide](https://china-sourcing-agents.com/guides/electronics-quality-control-china/)
+- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/how-to-verify-battery-certification-china/)
 

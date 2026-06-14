@@ -1,10 +1,10 @@
 ---
-title: "Aluminum Composite Panel (ACP) | OEM PE / FR / A2 Core Manufacturer"
+title: "Aluminum Composite Panel | OEM PE/FR/A2 Core China"
 description: "Source wholesale Aluminum Composite Panels (ACP) from China. 3–6mm thickness, PVDF/PE coating, fire-rated FR and A2 mineral cores. CE marked & EN 13501-1…"
 canonical_url: "https://china-sourcing-agents.com/products/aluminum-composite-panel/"
 ---
 
-# Aluminum Composite Panel (ACP) | OEM PE / FR / A2 Core Manufacturer
+# Aluminum Composite Panel | OEM PE/FR/A2 Core China
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/aluminum-composite-panel/](https://china-sourcing-agents.com/products/aluminum-composite-panel/)
 
@@ -34,5 +34,6 @@ Aluminum composite panel (often referred to as ACP sheets or alucobond panels) i
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit service](https://china-sourcing-agents.com/services/factory-audit/)
+- [smart home sourcing practice](https://china-sourcing-agents.com/industries/smart-home/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/aluminum-composite-panel/)
 

@@ -33,5 +33,6 @@ When sourcing custom OEM managed PoE switches, understanding real-world power li
 - [sourcing team](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [industrial IoT deployments](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/managed-poe-switch/)
 

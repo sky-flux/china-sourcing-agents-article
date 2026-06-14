@@ -22,10 +22,14 @@ For EUR, GBP, AUD, or JPY buyers, the exposure is more direct. You quote your cu
 
 ## What this covers
 
-- Why Exchange Rate Matters More Than Buyers Think
-- The Math: How a 10% Currency Move Affects Landed Cost
-- Four Practical Strategies
-- What NOT to Do
+- Why exchange rate matters more than buyers think
+- The math: how a 10% currency move affects landed cost
+- How RMB/USD dynamics affect factory pricing
+- Four practical strategies
+- Hedging instruments compared
+- Contract clauses that protect against FX drift
+- What NOT to do
+- Action checklist
 
 ---
 
@@ -34,6 +38,6 @@ For EUR, GBP, AUD, or JPY buyers, the exposure is more direct. You quote your cu
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [sourcing consultant](https://china-sourcing-agents.com/services/consulting/)
 - [IoT sensors and modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [air vs sea freight cost guide](https://china-sourcing-agents.com/guides/china-shipping-air-vs-sea-cost/)
+- [industrial IoT gateways](https://china-sourcing-agents.com/products/industrial-iot-gateway/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-sourcing-exchange-rate-risk/)
 

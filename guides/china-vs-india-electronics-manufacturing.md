@@ -25,10 +25,11 @@ The arithmetic is correct. The problem is the next question: what can you actual
 - What is actually driving the search surge
 - What India is actually manufacturing
 - The component import problem
+- Component ecosystem gaps by category
 - Infrastructure: the honest assessment
 - Where India does make sense
 - The threshold questions
-- What the search data actually means for sourcing decisions
+- Risk mitigation if you do source from India
 
 ---
 
@@ -36,7 +37,7 @@ The arithmetic is correct. The problem is the next question: what can you actual
 
 - [China vs Vietnam electronics manufacturing](https://china-sourcing-agents.com/guides/china-vs-vietnam-electronics-manufacturing/)
 - [OEM consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [IoT module](https://china-sourcing-agents.com/industries/iot-modules/)
-- [Shenzhen sourcing agent](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
+- [Bluetooth speakers](https://china-sourcing-agents.com/products/bluetooth-speaker-oem/)
+- [smartwatches](https://china-sourcing-agents.com/products/smartwatch-oem/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/china-vs-india-electronics-manufacturing/)
 

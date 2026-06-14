@@ -23,11 +23,13 @@ The market is organized by product type: District 1 covers jewelry, accessories,
 ## What this covers
 
 - What Yiwu actually is
+- Visiting Yiwu: logistics and planning
 - What Yiwugo is and when to use it
+- District 5 for electronics buyers
+- Price negotiation and MOQ
+- Order consolidation and mixed containers
 - Where Yiwu works well for electronics adjacent sourcing
 - Where Yiwu does not work for electronics
-- Shenzhen vs. Yiwu: the practical comparison
-- The practical conclusion for electronics buyers
 
 ---
 
@@ -35,7 +37,7 @@ The market is organized by product type: District 1 covers jewelry, accessories,
 
 - [Yiwu](https://china-sourcing-agents.com/cities/yiwu-sourcing-agent/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [freight forwarding service](https://china-sourcing-agents.com/services/logistics/)
 - [LED strips](https://china-sourcing-agents.com/products/lighting/led-strip-light/)
-- [what to sell during World Cup 2026](https://china-sourcing-agents.com/guides/what-to-sell-during-world-cup-2026/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/yiwu-market-electronics-buyers/)
 

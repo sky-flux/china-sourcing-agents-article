@@ -25,6 +25,7 @@ For mass-market straighteners at the $15–30 retail price point, PTC is the cor
 - PTC Heater vs. NTC Control in OEM Hair Straighteners
 - Dual-Voltage Compliance for Global Hair Styling Tool Markets
 - Plate Coating Durability: Ceramic vs. Tourmaline vs. Titanium Flat Irons
+- Sourcing Checklist for Custom Hair Styling Tools
 
 ---
 
@@ -33,5 +34,6 @@ For mass-market straighteners at the $15–30 retail price point, PTC is the cor
 - [inspection service](https://china-sourcing-agents.com/services/inspection/)
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [private label service](https://china-sourcing-agents.com/services/private-label/)
+- [CE and FCC certification guide](https://china-sourcing-agents.com/guides/ce-fcc-certification-china/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/hair-styling-tool-oem/)
 

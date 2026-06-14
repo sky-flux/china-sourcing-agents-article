@@ -16,7 +16,7 @@ Search "smart lock manufacturers in china" and the results split into two worlds
 
 For buyers, the real divide is not geography — it is whether the supplier understands the certification stack your market demands. A fingerprint lock that ships fine on Tuya/TTLock may still fail ANSI/BHMA Grade 2 cycle testing, or carry an FCC report for a different SKU. The factory-floor capability in China is there; the gap is usually in documentation, platform choice, and outdoor durability. The typical OEM price band for a fingerprint smart lock sits between $15 and $60 at factory-exit, which tells you the category is competitive and that small spec differences decide whether a unit is entry-level or premium.
 
-This list covers ten manufacturers we have either visited or screened for US and EU smart home brands. I have grouped them by cluster and platform, with honest filters on where each is — and is not — the right fit. For the broader sourcing workflow, our smart home device sourcing guide covers verification and BOM checks. If you need help shortlisting, our Sourcing & Supplier Matching team covers smart lock factories in Wenzhou, Shenzhen, and Zhongshan.
+This list covers ten manufacturers we have either visited or screened for US and EU smart home brands. I have grouped them by cluster and platform, with honest filters on where each is — and is not — the right fit. Related product categories we source from the same ecosystem include outdoor bullet cameras and multi-mode gateways. For the broader sourcing workflow, our smart home device sourcing guide covers verification and BOM checks. If you need help shortlisting, our Sourcing & Supplier Matching team covers smart lock factories in Wenzhou, Shenzhen, and Zhongshan.
 
 ---
 
@@ -33,9 +33,9 @@ This list covers ten manufacturers we have either visited or screened for US and
 
 ## Further reading
 
+- [outdoor bullet cameras](https://china-sourcing-agents.com/products/security-systems/outdoor-bullet-camera/)
+- [multi-mode gateways](https://china-sourcing-agents.com/products/smart-home/multi-mode-gateway/)
 - [smart home device sourcing guide](https://china-sourcing-agents.com/guides/smart-home-device-sourcing/)
 - [Sourcing & Supplier Matching](https://china-sourcing-agents.com/services/sourcing/)
-- [Wenzhou](https://china-sourcing-agents.com/cities/wenzhou-sourcing-agent/)
-- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/smart-lock-manufacturers-china/)
 

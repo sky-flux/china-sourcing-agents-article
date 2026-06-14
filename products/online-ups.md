@@ -1,10 +1,10 @@
 ---
-title: "OEM Online UPS Systems | Double-Conversion | China Manufacturer"
+title: "Online UPS Systems | Double-Conversion | China OEM"
 description: "Wholesale 1kVA-10kVA online double-conversion UPS systems from China. Zero transfer time, IEC 62040 certified, VFI topology. Tower and rack-mount OEM."
 canonical_url: "https://china-sourcing-agents.com/products/online-ups/"
 ---
 
-# OEM Online UPS Systems | Double-Conversion | China Manufacturer
+# Online UPS Systems | Double-Conversion | China OEM
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/online-ups/](https://china-sourcing-agents.com/products/online-ups/)
 
@@ -33,5 +33,6 @@ The IEC 62040-3 standard defines Uninterruptible Power Supply (UPS) topology cla
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [guide to sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
+- [Shenzhen](https://china-sourcing-agents.com/cities/shenzhen-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/online-ups/)
 

@@ -16,7 +16,7 @@ Xiamen occupies a distinct position in Chinese manufacturing: it is simultaneous
 
 Xiamen is not merely a large fitness equipment city — it is the dominant global sourcing point for home fitness equipment. The cluster spans treadmills, elliptical trainers, rowing machines, stationary bikes, resistance training equipment, and outdoor fitness installations. Over 80 fitness companies and 500+ sporting goods factories operate in and around Xiamen, concentrated in the Haicang, Jimei, and Tongan districts.
 
-**Treadmills and cardio equipment** represent the deepest concentration. Factories here produce for brands including Johnson Health Tech (Taiwan), BH Fitness (Spain), and private label programs for major retailers. The vertical integration is substantial: motor winding, steel frame fabrication, belt production, console electronics, and final assembly can all be sourced within a 30-kilometer radius. For buyers developing a branded treadmill line, this cluster means a single sourcing trip can address every BOM component with local supplier relationships.
+**Treadmills and cardio equipment** represent the deepest concentration. Factories here produce for brands including Johnson Health Tech (Taiwan), BH Fitness (Spain), and private label programs for major retailers. The vertical integration is substantial: motor winding, steel frame fabrication, belt production, console electronics, and final assembly can all be sourced within a 30-kilometer radius. For buyers developing a branded commercial treadmill line or sourcing commercial blenders for fitness and wellness programs, this cluster means a single sourcing trip can address every BOM component with local supplier relationships.
 
 ---
 
@@ -32,9 +32,9 @@ Xiamen is not merely a large fitness equipment city — it is the dominant globa
 
 ## Further reading
 
+- [commercial treadmill](https://china-sourcing-agents.com/products/commercial-treadmill/)
+- [commercial blenders](https://china-sourcing-agents.com/products/commercial-blender/)
 - [Wearables](https://china-sourcing-agents.com/industries/wearables/)
-- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
-- [wearable manufacturing guide](https://china-sourcing-agents.com/guides/wearable-manufacturing-china/)
+- [electric toothbrushes](https://china-sourcing-agents.com/products/electric-toothbrush-oem/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/xiamen-sourcing-agent/)
 

@@ -1,14 +1,14 @@
 ---
-title: "Jiangmen Sourcing Agent & Procurement: Motorcycle & Engine Hub"
-description: "Work with a specialized Jiangmen sourcing agent for motorcycles, small engines, and hardware. Expert procurement, factory audits, and strict quality…"
+title: "Jiangmen Sourcing Agent | Motorcycles & Engines"
+description: "Work with a specialized Jiangmen sourcing agent for motorcycles, small engines, and hardware. Expert procurement, factory audits, and QC."
 canonical_url: "https://china-sourcing-agents.com/cities/jiangmen-sourcing-agent/"
 ---
 
-# Jiangmen Sourcing Agent & Procurement: Motorcycle & Engine Hub
+# Jiangmen Sourcing Agent | Motorcycles & Engines
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/jiangmen-sourcing-agent/](https://china-sourcing-agents.com/cities/jiangmen-sourcing-agent/)
 
-Work with a specialized Jiangmen sourcing agent for motorcycles, small engines, and hardware. Expert procurement, factory audits, and strict quality…
+Work with a specialized Jiangmen sourcing agent for motorcycles, small engines, and hardware. Expert procurement, factory audits, and QC.
 
 ---
 
@@ -33,9 +33,9 @@ This vertical integration is what makes Jiangmen genuinely competitive for motor
 
 ## Further reading
 
-- [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
-- [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
+- [electric motorcycle OEM](https://china-sourcing-agents.com/products/motorcycles/electric-motorcycle-oem/)
+- [petrol motorcycle OEM](https://china-sourcing-agents.com/products/motorcycles/petrol-motorcycle-oem/)
+- [LED PAR stage lights](https://china-sourcing-agents.com/products/lighting/led-par-stage-light/)
+- [angle grinders](https://china-sourcing-agents.com/products/power-tools/angle-grinder/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/jiangmen-sourcing-agent/)
 

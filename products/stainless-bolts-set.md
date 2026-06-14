@@ -12,26 +12,32 @@ ISO 3506 stainless steel hex bolts and nuts, A2-304 and A4-316 grades. Mill test
 
 ---
 
-A2 (304 stainless) is suitable for most indoor and sheltered outdoor applications. A4 (316 stainless) contains molybdenum, which gives it significantly better resistance to chloride corrosion — salt water, coastal environments, swimming pools, and chemical plants. Substituting A2 for A4 in marine applications leads to crevice corrosion within 6–18 months. The visual appearance is identical; the only way to distinguish grades is XRF analysis or a mill test report (MTR). When sourcing stainless fasteners, always require MTR documentation.
+Stainless steel hex bolts and nuts are threaded mechanical fasteners used to clamp metal, plastic, or composite parts into a removable assembly. The hexagonal head allows high-torque tightening with standard open-end or socket wrenches, while the matching nut provides a secure, reusable joint. A2-70 and A4-80 denote austenitic stainless steel grades classified under ISO 3506, with minimum tensile strengths of 700 MPa and 800 MPa respectively. These fasteners are standard in outdoor structures, marine hardware, industrial machinery, electrical enclosures, and automotive assemblies where both mechanical strength and corrosion resistance are required.
 
-MTR traceability is the baseline quality requirement for industrial and construction buyers: the MTR documents the heat number, chemical composition (Cr, Ni, Mo percentages), mechanical properties, and certifying standards. Reputable Chinese fastener manufacturers (Zhejiang Haiyan, Jiaxing, Ningbo production clusters) can provide MTRs as standard. Factories that cannot provide MTRs are either producing low-grade material or buying from unknown sources — avoid them for any application requiring material certification. A factory audit should include MTR verification as a standard checkpoint.
+Before you ask a Chinese fastener supplier for pricing, lock down the following parameters in writing:
 
-ISO 4017 tolerance class 6g/6H is the standard commercial tolerance for hex bolts and nuts — this is what buyers expect unless specifying fine threads. Check thread engagement on a sample bolt/nut pair: the nut should run down freely by hand but with no wobble. Galling (thread seizure) during assembly is a common complaint with stainless fasteners — verify that the factory passivates the threads after machining (passivation forms a chromium oxide layer that reduces galling).
+For assemblies bound for the EU market, also confirm the RoHS declaration and any required material certificates are current. Industrial buyers in the industrial IoT sector frequently need A4-80 hardware for outdoor cabinet, gateway, and sensor-mount installations.
 
 ---
 
 ## What this covers
 
+- What Are Stainless Steel Hex Bolts and Nuts?
+- Specifications to Confirm Before Requesting a Quote
 - A2 vs A4 Grade Selection and Material Traceability
 - Dimensional Inspection and Packaging for Resellers
+- Thread Standards and Head Styles
+- Salt Spray and Corrosion Testing
+- Common Quality Red Flags
+- Typical Use Case: Outdoor Electrical Enclosure Distributor
 
 ---
 
 ## Further reading
 
+- [RoHS declaration](https://china-sourcing-agents.com/wiki/rohs-compliance/)
+- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [sourcing stainless fasteners](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
-- [quality inspection](https://china-sourcing-agents.com/services/inspection/)
-- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/stainless-bolts-set/)
 

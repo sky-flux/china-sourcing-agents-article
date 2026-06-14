@@ -35,8 +35,8 @@ The product range covers the full spectrum of rod construction: carbon fiber bla
 ## Further reading
 
 - [sourcing services](https://china-sourcing-agents.com/services/sourcing/)
-- [wearables](https://china-sourcing-agents.com/industries/wearables/)
-- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [blood glucose meters](https://china-sourcing-agents.com/products/blood-glucose-meter-oem/)
+- [pulse oximeters](https://china-sourcing-agents.com/products/pulse-oximeter-oem/)
+- [infrared thermometers](https://china-sourcing-agents.com/products/infrared-thermometer-oem/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/weihai-sourcing-agent/)
 

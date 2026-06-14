@@ -1,14 +1,14 @@
 ---
-title: "Erlian Sourcing Agent & Logistics: China-Mongolia Land Port & Rail"
-description: "Partner with an Erlian sourcing agent for efficient China-Mongolia border crossing logistics. Navigate rail gauge changes, transit to Russia, and…"
+title: "Erlian Sourcing Agent | China-Mongolia Rail"
+description: "Partner with an Erlian sourcing agent for efficient China-Mongolia border logistics, rail gauge changes, and transit to Russia."
 canonical_url: "https://china-sourcing-agents.com/cities/erlian-sourcing-agent/"
 ---
 
-# Erlian Sourcing Agent & Logistics: China-Mongolia Land Port & Rail
+# Erlian Sourcing Agent | China-Mongolia Rail
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/erlian-sourcing-agent/](https://china-sourcing-agents.com/cities/erlian-sourcing-agent/)
 
-Partner with an Erlian sourcing agent for efficient China-Mongolia border crossing logistics. Navigate rail gauge changes, transit to Russia, and…
+Partner with an Erlian sourcing agent for efficient China-Mongolia border logistics, rail gauge changes, and transit to Russia.
 
 ---
 

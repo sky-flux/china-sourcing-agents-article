@@ -1,10 +1,10 @@
 ---
-title: "Commercial LED Emergency Lights & Exit Signs OEM | UL924 & EN60598"
+title: "LED Emergency Light & Exit Sign OEM China | UL924"
 description: "Partner with a top LED emergency light manufacturer in China. Source UL924 and EN60598 compliant emergency lighting and exit signs with LiFePO4 batteries…"
 canonical_url: "https://china-sourcing-agents.com/products/led-emergency-light/"
 ---
 
-# Commercial LED Emergency Lights & Exit Signs OEM | UL924 & EN60598
+# LED Emergency Light & Exit Sign OEM China | UL924
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/led-emergency-light/](https://china-sourcing-agents.com/products/led-emergency-light/)
 
@@ -26,6 +26,7 @@ EN 1838 (Lighting applications — Emergency lighting) defines the minimum illum
 - UL 924 (North America) vs EN 60598-2-22 (EU/UK) Certifications Explained
 - Battery Backup Technology: NiMH vs LiFePO4 — Total Cost of Ownership
 - Self-Test and DALI-2 Remote Monitoring Implementations
+- Sourcing Emergency Lights from China
 
 ---
 
@@ -34,5 +35,6 @@ EN 1838 (Lighting applications — Emergency lighting) defines the minimum illum
 - [sourcing process](https://china-sourcing-agents.com/services/sourcing/)
 - [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [inspection team](https://china-sourcing-agents.com/services/inspection/)
+- [Zhongshan](https://china-sourcing-agents.com/cities/zhongshan-sourcing-agent/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/led-emergency-light/)
 

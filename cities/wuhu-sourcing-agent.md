@@ -35,7 +35,7 @@ Chery's headquarters and primary manufacturing campus are located in Wuhu's Econ
 
 - [PCB assemblies](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
-- [PCB assembly guide](https://china-sourcing-agents.com/guides/pcb-assembly-china/)
-- [Factory audits](https://china-sourcing-agents.com/services/factory-audit/)
+- [Android car head units](https://china-sourcing-agents.com/products/android-car-head-unit/)
+- [car air purifiers](https://china-sourcing-agents.com/products/car-air-purifier/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/wuhu-sourcing-agent/)
 

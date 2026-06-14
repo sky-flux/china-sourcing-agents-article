@@ -12,7 +12,7 @@ Factory discovery to production management: the engineer-written guide to sourci
 
 ---
 
-Sourcing electronics from China involves five stages: defining your specification, finding and qualifying factories, placing a sample order, running a factory audit, and managing production. A first order typically takes 8–14 weeks end-to-end. This guide covers each stage with specific tactics for consumer electronics and IoT products — written by a hardware engineer who has been on both sides of the transaction.
+Sourcing electronics from China involves five stages: defining your specification, finding and qualifying factories, placing a sample order, running a factory audit, and managing production. A first order typically takes 8–14 weeks from start to finish. This guide covers each stage with specific tactics for consumer electronics and IoT products — written by a hardware engineer who has been on both sides of the transaction.
 
 The most common mistake is treating Alibaba as the endpoint rather than the starting point. This guide explains why, and what to do instead.
 

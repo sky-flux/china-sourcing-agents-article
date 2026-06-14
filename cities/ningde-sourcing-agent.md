@@ -26,6 +26,7 @@ CATL's scale has pulled over 100 tier-1 and tier-2 suppliers into the Ningde are
 - Energy Storage and Non-Automotive Battery Applications
 - BMS and Battery Pack Electronics Sourcing
 - Supply Chain Logistics: Sandu'ao Port and Hazmat Export
+- Quality Control and Inspection for Ningde Batteries
 - Practical Sourcing Notes and Quality Control
 
 ---
@@ -35,6 +36,6 @@ CATL's scale has pulled over 100 tier-1 and tier-2 suppliers into the Ningde are
 - [power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
-- [factory audits](https://china-sourcing-agents.com/services/factory-audit/)
+- [electric bicycles](https://china-sourcing-agents.com/products/electric-bicycle/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/ningde-sourcing-agent/)
 

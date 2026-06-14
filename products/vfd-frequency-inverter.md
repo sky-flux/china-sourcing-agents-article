@@ -26,6 +26,7 @@ The three control modes shipped by Chinese VFD manufacturers serve fundamentally
 - CE EMC Category: C1 vs C2 — What the Factory Will Quote
 - DC Bus Capacitor Aging and MTBF Verification
 - Thermal Derating in Enclosed Panel Installations
+- Sourcing Next Steps
 
 ---
 

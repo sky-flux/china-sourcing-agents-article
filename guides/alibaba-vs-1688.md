@@ -36,8 +36,8 @@ Alibaba.com is a B2B marketplace — not a manufacturer. This distinction matter
 ## Further reading
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [IoT module sourcing](https://china-sourcing-agents.com/industries/iot-modules/)
-- [ESP32 modules](https://china-sourcing-agents.com/wiki/esp32-modules/)
-- [Huaqiangbei Electronics Market](https://china-sourcing-agents.com/services/china-tours/huaqiangbei-tour/)
+- [BLE nRF52840 module](https://china-sourcing-agents.com/products/ble-module-nrf52840/)
+- [WiFi 6 module](https://china-sourcing-agents.com/products/wifi-module-esp32/)
+- [JST connector](https://china-sourcing-agents.com/wiki/jst-connectors/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/guides/alibaba-vs-1688/)
 

@@ -1,10 +1,10 @@
 ---
-title: "Jiaxing Sourcing Agent & Quality Control: Leather, Knitwear & Electronics"
+title: "Jiaxing Sourcing Agent | Leather & Electronics"
 description: "Work with a trusted Jiaxing sourcing agent for Haining leather, Tongxiang cashmere, down products, and electronics. Expert procurement and factory audits."
 canonical_url: "https://china-sourcing-agents.com/cities/jiaxing-sourcing-agent/"
 ---
 
-# Jiaxing Sourcing Agent & Quality Control: Leather, Knitwear & Electronics
+# Jiaxing Sourcing Agent | Leather & Electronics
 
 > **Read the full guide**: [https://china-sourcing-agents.com/cities/jiaxing-sourcing-agent/](https://china-sourcing-agents.com/cities/jiaxing-sourcing-agent/)
 
@@ -34,5 +34,7 @@ Haining City, 40 kilometers east of central Jiaxing, is China's largest producti
 
 - [Power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
 - [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
+- [NEMA stepper motors](https://china-sourcing-agents.com/products/machinery-equipment/nema-stepper-motor/)
+- [VFD frequency inverters](https://china-sourcing-agents.com/products/industrial-iot/vfd-frequency-inverter/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/jiaxing-sourcing-agent/)
 

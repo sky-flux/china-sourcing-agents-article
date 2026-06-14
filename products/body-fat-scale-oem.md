@@ -1,10 +1,10 @@
 ---
-title: "Body Fat Scale OEM Manufacturing: BIA, Bluetooth & WiFi Sourcing from China"
+title: "Body Fat Scale OEM China: BIA, Bluetooth & WiFi"
 description: "Source high-quality OEM body fat scales from China. Features BIA bioimpedance, Bluetooth LE, WiFi, and white-label smart apps. FDA and CE compliance guide…"
 canonical_url: "https://china-sourcing-agents.com/products/body-fat-scale-oem/"
 ---
 
-# Body Fat Scale OEM Manufacturing: BIA, Bluetooth & WiFi Sourcing from China
+# Body Fat Scale OEM China: BIA, Bluetooth & WiFi
 
 > **Read the full guide**: [https://china-sourcing-agents.com/products/body-fat-scale-oem/](https://china-sourcing-agents.com/products/body-fat-scale-oem/)
 

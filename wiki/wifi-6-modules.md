@@ -26,7 +26,9 @@ Wi-Fi 6E extends the band to 6 GHz (5.925–7.125 GHz in the US; 5.945–6.425 G
 - Key Specifications
 - Main Variants
 - Sourcing from China: What to Look For
-- Common Issues
+- Buyer Verification Checklist
+- Common Issues and Factory Mistakes
+- When to Engage an RF Test Lab
 - Certifications Required
 
 ---

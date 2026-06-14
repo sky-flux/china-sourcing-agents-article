@@ -26,6 +26,10 @@ For electronics buyers specifically, an experienced sourcing agent in Dongguan d
 - District-by-District: Navigating the Dongguan Supply Chain
 - Dongguan vs. Shenzhen: Supply Chain Strategy
 - Practical Sourcing Notes and Quality Control
+- Why Dongguan Matters for Electronics and Hardware Buyers
+- Key Industrial Zones and What They Produce
+- Sourcing Advantages and Caveats
+- Typical Client Profile
 
 ---
 
@@ -34,5 +38,6 @@ For electronics buyers specifically, an experienced sourcing agent in Dongguan d
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
 - [smart air fryers](https://china-sourcing-agents.com/guides/air-fryer-private-label-china/)
 - [Dongguan's manufacturing base](https://china-sourcing-agents.com/industries/power-electronics/)
+- [PCB assembly](https://china-sourcing-agents.com/industries/pcb-assembly/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/dongguan-sourcing-agent/)
 

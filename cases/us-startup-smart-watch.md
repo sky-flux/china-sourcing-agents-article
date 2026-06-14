@@ -18,29 +18,32 @@ US fitness startup sources 3,000-unit smartwatch from China with FCC + CE dual c
 
 ---
 
-A US fitness technology startup — seed-funded at $1.2M — came to us with a product they'd spent 8 months designing: a custom health smartwatch with optical heart rate monitoring, SpO2 sensing, and a form factor that was genuinely distinct from the crowded commodity band market. They had a clear technical spec, a working prototype from a design house, and a problem: the Alibaba "manufacturer" they'd been talking to for 3 months was almost certainly a trading company.
+A US fitness technology startup — seed-funded at $1.2M — had spent eight months designing a custom health smartwatch before contacting us. The device combined optical heart rate monitoring, SpO2 sensing, and a form factor distinct from the commodity fitness band market. They had a working prototype from a design house, a clear technical specification, and a six-month deadline to a first certified production batch tied to an investor milestone.
 
-The technical requirements were demanding for a first production run. The SoC was an ARM Cortex-M33-based design. Connectivity was BLE 5.3. The optical sensor module handled both heart rate and SpO2. The flex PCB — a custom FPC running from the main board to the wrist sensor array — was the part that worried us most when we first reviewed the spec. FPC design is where a lot of factories claiming "wearables capability" fall apart in practice.
+Their immediate concern was the Alibaba "manufacturer" they had been talking to for three months. The supplier avoided a factory tour, pushed Alibaba Trade Assurance exclusively, and used product photos that appeared on three separate 1688 catalogs. These are the signals we look for when a contact is a trading company rather than the actual producer, as covered in our guide to how to verify a Chinese supplier.
 
-Certifications required: FCC (United States) and CE (European Union). The founder planned to launch in both markets simultaneously. Battery compliance was also on the list: UN 38.3 for air freight of lithium cells, and IEC 62133-2 for the cell itself. Timeline: 6 months to first production batch — a hard investor milestone.
+The design was more demanding than a typical first production run. The SoC was an ARM Cortex-M33-based controller. Connectivity was BLE 5.3. The optical sensor module handled both heart rate and SpO2. The most sensitive element was the custom flex PCB — an FPC running from the main board to the wrist sensor array. FPC work is where many factories claiming wearables capability fail in practice.
 
 ---
 
 ## What this covers
 
-- The Challenge
-- Approach
-- Implementation
+- Client Context
+- Technical Challenge
+- Factory Search and Audit
+- IP Protection
+- Implementation Details
 - Outcomes
 - What We'd Do Differently
+- Key Takeaways for Similar Buyers
 
 ---
 
 ## Further reading
 
+- [how to verify a Chinese supplier](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
 - [wearables](https://china-sourcing-agents.com/industries/wearables/)
 - [audits](https://china-sourcing-agents.com/services/factory-audit/)
 - [power electronics sourcing](https://china-sourcing-agents.com/industries/power-electronics/)
-- [Private label](https://china-sourcing-agents.com/services/private-label/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cases/us-startup-smart-watch/)
 

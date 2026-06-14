@@ -16,25 +16,25 @@ Shanghai is China's most internationally connected city — and its most frequen
 
 The Yangtze River Delta — Shanghai plus Jiangsu and Zhejiang provinces — accounts for roughly 30% of China's total exports. Shanghai sits at the center of that network, with Suzhou, Ningbo, Hangzhou, and Nanjing all reachable within two hours by high-speed rail. For buyers with multi-category or multi-city sourcing needs, Shanghai is the most practical regional base in eastern China.
 
-Automotive and electric vehicle production is Shanghai's highest-value manufacturing category. Tesla Gigafactory 3 in the Lingang New Area is the anchor, but the more relevant development for buyers is the 300+ tier-1 and tier-2 automotive suppliers that have clustered around it. SAIC-GM and SAIC-Volkswagen operate large production facilities in Anting (Jiading district), reinforcing Shanghai's position as China's most concentrated automotive manufacturing hub.
+Buyers come to Shanghai for categories where documentation, traceability, and first-article consistency matter more than unit-cost minimization. The city anchors China's highest-value automotive supply chain, its most R&D-intensive personal care cluster, its largest medical-device commercialization ecosystem, and a concentrated precision-electronics base serving industrial automation, power electronics, and certified PCB assembly.
 
 ---
 
 ## What this covers
 
-- Vehicle and EV Supply Chain
-- Personal Care and Cosmetics Manufacturing
-- Medical Devices and Health Technology
-- Industrial IoT and Precision Electronics
-- Chemicals and Electronic-Grade Materials
-- Shanghai as a Yangtze Delta Base
-- Yangshan Port and Logistics Advantages
-- Practical Notes
+- Why Shanghai matters for electronics and hardware buyers
+- Key industrial zones and what they produce
+- Sourcing advantages and caveats
+- Typical client profile
+- How we work in Shanghai
 
 ---
 
 ## Further reading
 
-- [Factory audits](https://china-sourcing-agents.com/services/factory-audit/)
+- [Automotive electronics](https://china-sourcing-agents.com/industries/automotive-electronics/)
+- [automotive products category](https://china-sourcing-agents.com/products/automotive/)
+- [Industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [industrial IoT hardware](https://china-sourcing-agents.com/products/industrial-iot/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/shanghai-sourcing-agent/)
 

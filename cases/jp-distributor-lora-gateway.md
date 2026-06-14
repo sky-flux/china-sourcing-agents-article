@@ -18,29 +18,31 @@ Japanese distributor sources LoRa gateways direct from China, bypassing Hong Kon
 
 ---
 
-A Japanese IoT systems integrator had been purchasing 8-channel LoRa modules and gateways through a Hong Kong trading company for three years. They paid ¥85,000 per unit. A colleague in Germany mentioned the same gateway, sourced directly from the Shenzhen manufacturer, cost them €420 (approximately ¥67,000 at the time). The markup was the Hong Kong middleman's fee, passed on invisibly.
+The client is a Japanese industrial IoT distributor that supplies hardware to systems integrators deploying outdoor sensor networks for utilities, agriculture, and smart-city pilots. For three years they had been buying 8-channel LoRa modules and matching gateways through a Hong Kong trading company. The gateway cost them the equivalent of ¥85,000 per unit landed in Japan, and the trading company handled all communication, documentation, and markups.
 
-The technical requirements were complex: AS923 frequency band (Japan's LoRa band), IP67 weatherproofing for outdoor deployment, Modbus RTU for integration with existing sensor infrastructure, 4G LTE backhaul, and JATE/TELEC certification for Japan market compliance.
+The trigger for change came when one of the distributor's colleagues in Germany mentioned the same hardware — same enclosure, same LED layout, same web management interface — sourced directly from the Shenzhen manufacturer at roughly €420 (about ¥67,000 at the time). The distributor already had the technical team to validate gateways in-house, but no one in their organization spoke fluent Mandarin or had experience navigating Shenzhen's supplier landscape. They engaged us to identify the actual manufacturer, verify compliance, and negotiate a direct relationship without disrupting their existing customer commitments.
 
-This engagement was primarily a direct manufacturer identification and verification project. The client already knew what product they needed — the challenge was finding who actually made it, not just who resold it.
+The product was not a simple commodity. The gateway had to operate on the AS923 frequency plan used in Japan, support IP67 weatherproofing for pole-mounted outdoor installation, expose Modbus RTU over RS-485 for integration with existing sensor infrastructure, and backhaul over 4G LTE. It also required JATE and TELEC certification for legal sale and operation in Japan.
 
 ---
 
 ## What this covers
 
-- The Challenge
-- Approach
-- Implementation
+- Client Context
+- Technical Challenge
+- Approach and Process
+- Implementation Details
 - Outcomes
 - What We'd Do Differently
+- Key Takeaways for Similar Buyers
 
 ---
 
 ## Further reading
 
 - [LoRa modules](https://china-sourcing-agents.com/industries/iot-modules/)
-- [supplier sourcing work](https://china-sourcing-agents.com/services/sourcing/)
-- [payment terms](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
+- [electronics sourcing](https://china-sourcing-agents.com/services/sourcing/)
+- [China payment terms](https://china-sourcing-agents.com/guides/china-payment-terms-explained/)
 - [Factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cases/jp-distributor-lora-gateway/)
 

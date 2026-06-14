@@ -27,8 +27,9 @@ BLE 5.x improvements over BLE 4.x are not marketing — Coded PHY (LE Coded) at 
 - Main Variants
 - Certified Chinese Module Suppliers
 - Sourcing from China: What to Look For
-- Common Issues
-- Certifications Required
+- Field Notes from BLE Module Sourcing
+- Verification Checklist for Buyers
+- When to Engage a Test Lab
 
 ---
 
@@ -37,6 +38,6 @@ BLE 5.x improvements over BLE 4.x are not marketing — Coded PHY (LE Coded) at 
 - [wearables](https://china-sourcing-agents.com/industries/wearables/)
 - [ESP32 Wi-Fi + BLE combo modules](https://china-sourcing-agents.com/products/wifi-module-esp32/)
 - [nRF52840 BLE modules from vetted suppliers](https://china-sourcing-agents.com/products/ble-module-nrf52840/)
-- [inspection](https://china-sourcing-agents.com/services/inspection/)
+- [Matter certification overview](https://china-sourcing-agents.com/wiki/matter-certification/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/ble-5-modules/)
 

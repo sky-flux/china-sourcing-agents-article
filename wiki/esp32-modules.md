@@ -14,9 +14,9 @@ ESP32 module families compared for China sourcing: ESP32 vs S3 vs C3 vs H2, WROO
 
 ESP32 modules from Espressif and their licensed partners are among the easiest wireless IoT modules to source from China — Espressif operates an extensive certified partner network, pre-certified modules are widely stocked, and the documentation is genuinely good. They are the wireless core in many industrial IoT gateways and consumer smart devices. The sourcing risk is almost entirely concentrated in clone modules from uncertified fabs.
 
-Espressif Systems (乐鑫信息科技, Shanghai) designs the ESP32 SoC family. They sell bare chips and manufacture reference modules (WROOM, WROVER series) which third parties also produce under license. The SoC integrates Xtensa LX6/LX7 or RISC-V cores with Wi-Fi, Bluetooth, and peripheral blocks on a single die. On-module variants add flash, PSRAM, antenna, crystal, and filtering, reducing the host PCB BOM to a few decoupling capacitors.
+We have sourced ESP32 variants for smart-agriculture sensors, access-control panels, and industrial data loggers. The pattern that repeats across projects: buyers spend weeks comparing SoC specs, then lose time to module-level issues — wrong flash size, non-certified antenna variants, or firmware locked to an older ESP-IDF revision. This guide focuses on those module-level decisions.
 
-Espressif's total shipped volume exceeds 1 billion chips as of 2024. This scale means: broad second-source availability, stable pricing, and a large ecosystem of SDKs and community support.
+Espressif Systems (乐鑫信息科技, Shanghai) designs the ESP32 SoC family. They sell bare chips and manufacture reference modules (WROOM, WROVER series) which third parties also produce under license. The SoC integrates Xtensa LX6/LX7 or RISC-V cores with Wi-Fi, Bluetooth, and peripheral blocks on a single die. On-module variants add flash, PSRAM, antenna, crystal, and filtering, reducing the host PCB BOM to a few decoupling capacitors.
 
 ---
 
@@ -27,8 +27,9 @@ Espressif's total shipped volume exceeds 1 billion chips as of 2024. This scale 
 - Main Module Form Factors
 - Certified Suppliers
 - Sourcing from China: What to Look For
-- Common Issues
-- Certifications Required
+- Verification Checklist for Incoming Modules
+- Common Factory Mistakes and How to Catch Them
+- When to Engage a Test Lab
 
 ---
 

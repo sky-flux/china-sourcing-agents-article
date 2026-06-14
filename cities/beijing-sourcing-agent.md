@@ -26,16 +26,18 @@ Because Beijing focuses heavily on R&D and regulatory affairs rather than sheer 
 - Medical Devices: Beijing's Strongest Sourcing Vertical
 - Zhongguancun: High-Tech Electronics and AI Hardware
 - Beijing Economic-Technological Development Area (BDA)
-- Export Logistics: Airports and Tianjin Port
-- Practical Notes for Sourcing & Procurement
+- Why Beijing Matters for Electronics and Hardware Buyers
+- Key Industrial Zones and What They Produce
+- Sourcing Advantages and Caveats
+- Typical Client Profile
 
 ---
 
 ## Further reading
 
 - [wearable health monitoring devices](https://china-sourcing-agents.com/industries/wearables/)
-- [China's major electronics market cities](https://china-sourcing-agents.com/guides/china-electronics-market-cities/)
-- [sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china/)
-- [IoT modules](https://china-sourcing-agents.com/industries/iot-modules/)
+- [AI/edge modules](https://china-sourcing-agents.com/industries/iot-modules/)
+- [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
+- [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/beijing-sourcing-agent/)
 

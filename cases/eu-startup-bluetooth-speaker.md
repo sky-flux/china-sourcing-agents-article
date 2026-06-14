@@ -18,29 +18,31 @@ EU startup sources 5,000-unit Bluetooth speaker from China. Factory audit, 3-sta
 
 ---
 
-A Netherlands-based hardware startup had successfully crowdfunded a Bluetooth speaker campaign — €180,000 raised, 1,200 backers, delivery promised in 5 months. They had a design, a contract manufacturer recommendation from their previous campaign, and a problem: their previous agent had been feeding them inflated factory prices and collecting both a commission and a rebate from the factory. When they discovered this, they had 10 weeks to find a new agent and restart the sourcing process.
+The client was a Netherlands-based consumer electronics startup run by two hardware engineers and a crowdfunding manager. They had already delivered one audio accessory through a contract manufacturer recommended by their previous sourcing agent, but the campaign had been painful: late delivery, a 2.1% defect rate, and margins squeezed by quotes that looked competitive until they learned the agent was taking a hidden factory rebate. When they launched a second campaign — a TWS-capable Bluetooth speaker — they raised €180,000 from 1,200 backers and committed to a 5-month delivery window. They needed a sourcing partner who could act as a technical extension of their team, not just a broker.
 
-This is a common pattern in consumer electronics crowdfunding: tight timelines colliding with a supply chain that wasn't properly vetted from the start.
+They engaged us at week -10, meaning they had ten weeks left of their original schedule before the delivery clock became critical. The product was technically more complex than their first device: BLE 5.2, true-wireless-stereo pairing, USB-C PD charging, a passive radiator, and IPX5 waterproofing. The target markets were the US and EU, so FCC, CE, and RoHS were non-negotiable.
 
-The product: a TWS-capable BLE 5.2 stereo speaker with USB-C PD charging, passive radiator, and IPX5 waterproofing. Certifications required: FCC (US), CE (EU), RoHS.
+The immediate problem was not just cost. The previous agent had priced the speaker at an FOB level that included a hidden rebate, and the factory they recommended had no documented IPX5 process. The startup needed to:
 
 ---
 
 ## What this covers
 
-- The Challenge
-- Approach
-- Implementation
+- Client Context
+- Technical Challenge
+- Approach and Process
+- Implementation Details
 - Outcomes
 - What We'd Do Differently
+- Key Takeaways for Similar Buyers
 
 ---
 
 ## Further reading
 
 - [consumer electronics](https://china-sourcing-agents.com/industries/consumer-electronics/)
-- [sourcing process](https://china-sourcing-agents.com/services/sourcing/)
-- [On-site factory audits](https://china-sourcing-agents.com/services/factory-audit/)
+- [Bluetooth speaker manufacturers in China](https://china-sourcing-agents.com/guides/bluetooth-speaker-manufacturers-china/)
+- [factory audit checklist](https://china-sourcing-agents.com/guides/factory-audit-checklist/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cases/eu-startup-bluetooth-speaker/)
 

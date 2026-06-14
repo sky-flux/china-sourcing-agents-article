@@ -18,29 +18,31 @@ EU industrial automation integrator sources IEC 61850 gateways direct from China
 
 ---
 
-A German industrial automation integrator — 45 employees, projects across automotive and food processing — had been buying industrial IoT gateways from the same Hong Kong distributor for three years. The gateways handled protocol bridging: Modbus RTU/TCP on the plant floor side, OPC-UA and MQTT on the network side, with LTE Cat-4 for sites without reliable Ethernet infrastructure. Solid products. Reliable supply. Prices they had accepted without question.
+A German industrial automation integrator — 45 employees, active in automotive and food processing — had been buying industrial IoT gateways from the same Hong Kong distributor for three years. The gateways handled protocol bridging: Modbus RTU/TCP on the plant floor side, OPC-UA and MQTT on the network side, with LTE Cat-4 fallback. The procurement team had accepted the pricing without probing the upstream source.
 
-That changed when their procurement manager found what appeared to be the same hardware on Alibaba at 35% less. The product photos matched down to the connector layout. The PCB silk-screen in one photo showed a model number that matched the label on their existing units.
+The integrator configured, installed, and supported complete monitoring systems for end customers on 10-year maintenance contracts. A silent hardware revision, firmware gap, or unannounced component substitution could generate field service calls they would be liable for.
 
-The problem was verifying it. They couldn't tell if the Alibaba seller was the actual manufacturer, a domestic Chinese reseller, or something else. And the consequences of getting it wrong were significant: their clients spec these gateways into factory monitoring systems with 10-year maintenance contracts. A supplier switch that introduces a hardware revision or a firmware support gap could cascade into field service calls they'd be liable for.
+The procurement manager found what looked like identical hardware on Alibaba at 35% below the distributor's price. Photos matched down to the connector layout, and the PCB silk-screen showed a model number that matched their existing units. The gap justified investigation, but the team lacked the Shenzhen network or Chinese-language capability to verify who was actually building it.
 
 ---
 
 ## What this covers
 
-- The Challenge
-- Approach
-- Implementation
+- Client Context
+- Technical Challenge
+- Approach/Process
+- Implementation Details
 - Outcomes
 - What We'd Do Differently
+- Key Takeaways for Similar Buyers
 
 ---
 
 ## Further reading
 
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
+- [guide to verifying Chinese suppliers](https://china-sourcing-agents.com/guides/how-to-verify-chinese-supplier/)
 - [sourcing process](https://china-sourcing-agents.com/services/sourcing/)
 - [on-site factory audits](https://china-sourcing-agents.com/services/factory-audit/)
-- [pre-shipment inspection](https://china-sourcing-agents.com/services/inspection/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cases/eu-industrial-iot-gateway/)
 

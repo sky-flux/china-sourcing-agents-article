@@ -14,28 +14,27 @@ China sourcing agent in Zhongshan: Guzhen lighting capital — 7,000+ companies,
 
 Zhongshan is China's undisputed lighting capital. Guzhen Town (古镇), one of Zhongshan's 24 townships, concentrates more than 7,000 lighting companies and accounts for roughly 70% of China's domestic lighting market. The biannual China (Guzhen) International Lighting Fair draws tens of thousands of buyers from over 100 countries. But Zhongshan's manufacturing depth extends well beyond lighting: it is also a leading production hub for shower enclosures, baby products and juvenile furniture, small household appliances, and festive lighting installations. If you are sourcing in any of these categories, Zhongshan offers factory density and supply-chain depth that is difficult to match elsewhere in the Pearl River Delta.
 
-**Decorative and architectural lighting** is the dominant category. Guzhen's factories produce chandeliers, pendant lights, wall sconces, track lighting, and commercial downlights. Customization is the norm: housing finishes, color temperatures, beam angles, IP ratings, and lamp-cord lengths are adjusted without tooling fees on most standard platforms. MOQ for catalog products starts at 100 units; private-label orders with custom packaging typically require 500 to 1,000 units.
+Zhongshan's importance to hardware buyers goes far beyond decorative fixtures. Guzhen Town hosts more than 7,000 lighting enterprises and produces roughly 70% of China's domestic lighting market. That concentration creates a deep supplier ecosystem: die-cast aluminum housings, glass diffusers, LED modules, driver PCBs, and packaging are all available within a 30-minute radius.
 
-**Smart home LED lighting** builds on the decorative base. Factories in Guzhen produce Zigbee-, Matter-, and Z-Wave-enabled fixtures, smart bulbs, and scene controllers. The typical bill of materials stacks a Zhongshan-tooled housing with a Shenzhen-sourced wireless module (Tuya or Silicon Labs) and an LED driver PCB assembled locally. Final integration and testing happen in Zhongshan.
+For electronics buyers, the practical advantage is integration. A smart downlight, scene controller, or connected vanity mirror can be tooled, assembled, and tested in Zhongshan while the Zigbee, Matter, or Z-Wave wireless module ships from a Shenzhen supplier. The Zhongshan-Shenzhen Bridge, opened in 2024, cut that cross-city leg to about 90 minutes, making split-city supply chains routine. Beyond lighting, Zhongshan is a major hub for shower enclosures, baby products, and small household appliances — categories where mechanical manufacturing skill and export experience matter as much as the electronics inside.
 
 ---
 
 ## What this covers
 
-- What We Source in Zhongshan
-- Guzhen Town: A Deeper Look
-- Key Industrial Zones
-- Zhongshan vs. Foshan vs. Shenzhen
-- Practical Notes
-- Frequently Asked Questions
+- Why Zhongshan matters for electronics and hardware buyers
+- Key industrial zones and what they produce
+- Sourcing advantages and caveats
+- Typical client profile
+- How we work in Zhongshan
 
 ---
 
 ## Further reading
 
-- [Smart home](https://china-sourcing-agents.com/industries/smart-home/)
-- [Power electronics](https://china-sourcing-agents.com/industries/power-electronics/)
-- [private-label air fryers](https://china-sourcing-agents.com/guides/air-fryer-private-label-china/)
+- [factory audit](https://china-sourcing-agents.com/services/factory-audit/)
 - [quality inspection](https://china-sourcing-agents.com/services/inspection/)
+- [lighting](https://china-sourcing-agents.com/products/lighting/)
+- [smart home](https://china-sourcing-agents.com/products/smart-home/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/cities/zhongshan-sourcing-agent/)
 

@@ -12,7 +12,7 @@ LoRa and LoRaWAN modules from China: SX1276 vs SX1262 chipsets, regional frequen
 
 ---
 
-LoRa modules are among the most certification-intensive wireless components you can source from China. The underlying IP is owned by Semtech (US), the modules are largely manufactured in China, and the certification burden for each target market is substantial. Plan for this complexity early or you will ship non-compliant product.
+LoRa modules are among the most certification-intensive wireless components you can source from China. The underlying IP is owned by Semtech (US), the modules are largely manufactured in China, and the certification burden for each target market is substantial. In our sourcing work across Shenzhen and Dongguan RF suppliers, the same failures recur: mismatched frequency bands, falsified certification marks, and modules that pass bench tests in China but fail radiated emissions at the destination lab.
 
 LoRa (Long Range) is a proprietary chirp spread spectrum (CSS) modulation owned by Semtech. LoRaWAN is the network layer protocol stack built on top, defined by the LoRa Alliance. The two terms are often used interchangeably but they are distinct: you can run LoRa point-to-point without LoRaWAN, and LoRaWAN requires LoRa at the physical layer.
 
@@ -27,6 +27,7 @@ Typical link budget: 154–157 dB with SX1262. Maximum range in open terrain: 10
 - Main Variants
 - Sourcing from China: What to Look For
 - Common Issues
+- Practical Buyer Guidance
 - Certifications Required
 
 ---
@@ -36,6 +37,6 @@ Typical link budget: 154–157 dB with SX1262. Maximum range in open terrain: 10
 - [industrial IoT](https://china-sourcing-agents.com/industries/industrial-iot/)
 - [multi-protocol IoT gateways](https://china-sourcing-agents.com/products/multi-mode-gateway/)
 - [SX1262 LoRa modules ready to source](https://china-sourcing-agents.com/products/lora-module-sx1262/)
-- [industrial LoRaWAN IoT gateways](https://china-sourcing-agents.com/products/industrial-iot-gateway/)
+- [CE marking reference](https://china-sourcing-agents.com/wiki/ce-marking/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/wiki/lora-modules/)
 

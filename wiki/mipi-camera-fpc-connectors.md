@@ -1,6 +1,6 @@
 ---
 title: "MIPI CSI/DSI Camera & Display FPC Connectors"
-description: "MIPI CSI-2 and DSI FPC connectors from China: pin counts, ZIF types, lane configs, signal integrity limits, and non-standard Chinese pinout risks."
+description: "Source MIPI CSI/DSI camera and display FPC connectors from China. Pin counts, ZIF types, lane configs, signal integrity limits, and non-standard pinouts."
 canonical_url: "https://china-sourcing-agents.com/wiki/mipi-camera-fpc-connectors/"
 ---
 
@@ -8,7 +8,7 @@ canonical_url: "https://china-sourcing-agents.com/wiki/mipi-camera-fpc-connector
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/mipi-camera-fpc-connectors/](https://china-sourcing-agents.com/wiki/mipi-camera-fpc-connectors/)
 
-MIPI CSI-2 and DSI FPC connectors from China: pin counts, ZIF types, lane configs, signal integrity limits, and non-standard Chinese pinout risks.
+Source MIPI CSI/DSI camera and display FPC connectors from China. Pin counts, ZIF types, lane configs, signal integrity limits, and non-standard pinouts.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "UN 38.3 Battery Testing: 8 Tests, Labs & Doc Requirements"
-description: "UN 38.3 for lithium batteries shipped by air from China: 8 mandatory tests, report ownership, accredited Chinese labs, costs, and documentation failures."
+description: "UN 38.3 lithium battery testing for air freight from China. 8 mandatory tests, accredited labs, costs, and documentation that airlines require."
 canonical_url: "https://china-sourcing-agents.com/wiki/un38-3-battery/"
 ---
 
@@ -8,7 +8,7 @@ canonical_url: "https://china-sourcing-agents.com/wiki/un38-3-battery/"
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/un38-3-battery/](https://china-sourcing-agents.com/wiki/un38-3-battery/)
 
-UN 38.3 for lithium batteries shipped by air from China: 8 mandatory tests, report ownership, accredited Chinese labs, costs, and documentation failures.
+UN 38.3 lithium battery testing for air freight from China. 8 mandatory tests, accredited labs, costs, and documentation that airlines require.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "China Private Label & OEM — Electronics Manufacturing"
-description: "Your brand, your packaging, your specs — manufactured in China. We manage molds, packaging design, logo application, and regulatory marking."
+description: "Private label electronics manufacturing in China. We manage molds, packaging, regulatory marking, and sample approvals — OEM & ODM."
 canonical_url: "https://china-sourcing-agents.com/services/private-label/"
 ---
 
@@ -8,7 +8,7 @@ canonical_url: "https://china-sourcing-agents.com/services/private-label/"
 
 > **Read the full guide**: [https://china-sourcing-agents.com/services/private-label/](https://china-sourcing-agents.com/services/private-label/)
 
-Your brand, your packaging, your specs — manufactured in China. We manage molds, packaging design, logo application, and regulatory marking.
+Private label electronics manufacturing in China. We manage molds, packaging, regulatory marking, and sample approvals — OEM & ODM.
 
 ---
 

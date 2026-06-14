@@ -1,6 +1,6 @@
 ---
 title: "Top Chinese OEM Electronics Manufacturers for Private Label"
-description: "A buyer's guide to the actual Chinese electronics manufacturers that make products for Western brands — not the consumer brands you know."
+description: "A buyer's guide to the actual Chinese OEM electronics manufacturers behind Western brands — not the consumer brands you know."
 canonical_url: "https://china-sourcing-agents.com/guides/top-chinese-electronics-manufacturers/"
 ---
 
@@ -8,7 +8,7 @@ canonical_url: "https://china-sourcing-agents.com/guides/top-chinese-electronics
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/top-chinese-electronics-manufacturers/](https://china-sourcing-agents.com/guides/top-chinese-electronics-manufacturers/)
 
-A buyer's guide to the actual Chinese electronics manufacturers that make products for Western brands — not the consumer brands you know.
+A buyer's guide to the actual Chinese OEM electronics manufacturers behind Western brands — not the consumer brands you know.
 
 ---
 

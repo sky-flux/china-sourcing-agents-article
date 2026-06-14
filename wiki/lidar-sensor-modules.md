@@ -1,6 +1,6 @@
 ---
 title: "LiDAR Sensor Modules: Spinning, Solid-State & MEMS"
-description: "LiDAR modules from Chinese manufacturers: Hesai, Livox, Robosense specs, 905nm vs 1550nm, ToF vs FMCW, export control risks, and ROS integration."
+description: "How to source LiDAR sensor modules from China. Compare Hesai, Livox, Robosense; 905nm vs 1550nm; export controls; and ROS integration."
 canonical_url: "https://china-sourcing-agents.com/wiki/lidar-sensor-modules/"
 ---
 
@@ -8,7 +8,7 @@ canonical_url: "https://china-sourcing-agents.com/wiki/lidar-sensor-modules/"
 
 > **Read the full guide**: [https://china-sourcing-agents.com/wiki/lidar-sensor-modules/](https://china-sourcing-agents.com/wiki/lidar-sensor-modules/)
 
-LiDAR modules from Chinese manufacturers: Hesai, Livox, Robosense specs, 905nm vs 1550nm, ToF vs FMCW, export control risks, and ROS integration.
+How to source LiDAR sensor modules from China. Compare Hesai, Livox, Robosense; 905nm vs 1550nm; export controls; and ROS integration.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "IoT Module Sourcing China — LoRa, BLE & WiFi Suppliers"
-description: "Source IoT modules from China — LoRa gateways, BLE 5.x, WiFi SoCs, and sensor nodes. We verify genuine modules vs counterfeit reference designs."
+description: "Source IoT modules from China — LoRa, BLE, WiFi, Zigbee. We verify genuine chips, certification docs, and long-term supply commitments."
 canonical_url: "https://china-sourcing-agents.com/industries/iot-modules/"
 ---
 
@@ -8,7 +8,7 @@ canonical_url: "https://china-sourcing-agents.com/industries/iot-modules/"
 
 > **Read the full guide**: [https://china-sourcing-agents.com/industries/iot-modules/](https://china-sourcing-agents.com/industries/iot-modules/)
 
-Source IoT modules from China — LoRa gateways, BLE 5.x, WiFi SoCs, and sensor nodes. We verify genuine modules vs counterfeit reference designs.
+Source IoT modules from China — LoRa, BLE, WiFi, Zigbee. We verify genuine chips, certification docs, and long-term supply commitments.
 
 ---
 

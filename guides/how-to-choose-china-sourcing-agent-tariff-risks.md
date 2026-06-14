@@ -1,6 +1,6 @@
 ---
 title: "Choosing a China Sourcing Agent to Avoid Tariff Risks"
-description: "US-China tariffs hit 35% for most electronics in 2026. Seven criteria for vetting whether your sourcing agent can navigate the new tariff landscape."
+description: "US-China electronics tariffs hit ~35% in 2026. 7 criteria to vet whether your sourcing agent can navigate HTS codes, Incoterms, and landed cost."
 canonical_url: "https://china-sourcing-agents.com/guides/how-to-choose-china-sourcing-agent-tariff-risks/"
 ---
 
@@ -8,7 +8,7 @@ canonical_url: "https://china-sourcing-agents.com/guides/how-to-choose-china-sou
 
 > **Read the full guide**: [https://china-sourcing-agents.com/guides/how-to-choose-china-sourcing-agent-tariff-risks/](https://china-sourcing-agents.com/guides/how-to-choose-china-sourcing-agent-tariff-risks/)
 
-US-China tariffs hit 35% for most electronics in 2026. Seven criteria for vetting whether your sourcing agent can navigate the new tariff landscape.
+US-China electronics tariffs hit ~35% in 2026. 7 criteria to vet whether your sourcing agent can navigate HTS codes, Incoterms, and landed cost.
 
 ---
 

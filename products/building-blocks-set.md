@@ -16,7 +16,7 @@ A wholesale building blocks set is a construction toy made from injection-molded
 
 Lock these down before approving tooling or mass production:
 
-The two biggest quality failures in building blocks are recycled ABS sold as virgin resin and inconsistent stud clutch force. Recycled resin can deform after a few assembly cycles and may fail phthalate migration limits. Clutch force below 2 N produces bricks that fall apart during play; above 8 N, children cannot separate them. Both issues are only detectable through sample testing, not by looking at photos.
+The two biggest quality failures in building blocks are recycled ABS sold as virgin resin and inconsistent stud clutch force. To catch recycled resin, demand an EN 71-3 migration report covering the colored plastics and reject any lot exceeding its limits — phthalate restriction is separately enforced under EU REACH Annex XVII (DEHP, DBP, BBP, DIBP capped at 0.1% by weight). To catch weak clutch, pull 10 random bricks per color and measure stud clutch force with a calibrated push-pull gauge; reject the lot if readings fall outside the 2–8 N window (below 2 N the bricks fall apart during play, above 8 N children cannot separate them). Both issues are only detectable through sample testing, not by looking at photos.
 
 ---
 

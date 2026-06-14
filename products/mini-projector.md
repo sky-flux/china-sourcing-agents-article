@@ -14,9 +14,9 @@ Source wholesale mini projectors from leading OEM manufacturers in China. Explor
 
 When sourcing wholesale portable projectors, brightness claims in the consumer electronics market are frequently misleading. The industry standard measurement for a home theater projector is ANSI lumens (ANSI/INFOCOMM 3M-2011), which measures light output averaged across nine points on a white screen under defined conditions. Most factory spec sheets quote a different number entirely:
 
-**Peak lumens** (also called "LED lumens" or "equivalent lumens") measures only the center point at maximum brightness, which can be 2–4× higher than the ANSI lumen figure for the same smart projector. A mini projector advertised as "800 LED lumens" may actually measure closer to 200–250 ANSI lumens.
+**Peak lumens** (also called "LED lumens" or "equivalent lumens") measures only the center point at maximum brightness, which can be 2–4× higher than the ANSI lumen figure for the same smart projector. There is no fixed conversion ratio, so the only defensible number is the one from the nine-point measurement itself.
 
-When sourcing mini projectors from an OEM manufacturer in China, always request ANSI lumen measurement from an accredited test lab. If the factory cannot provide this, budget $300–500 to have samples tested at a third-party photometric lab before committing to mass production. For B2C listings on Amazon or Shopify, FTC guidelines require brightness claims to be substantiated — unverified peak lumen claims are an enforcement risk that could lead to delisting.
+When sourcing mini projectors from an OEM manufacturer in China, demand a photometric report measured to ANSI/INFOCOMM 3M-2011 — the nine-point average on a defined white screen — and treat any "LED lumen" figure with no nine-point test behind it as unsubstantiated. Reject samples whose measured ANSI output falls below the value you list on the retail page. If the factory cannot provide this, budget $300–500 to have samples tested at a third-party photometric lab before committing to mass production. For B2C listings on Amazon or Shopify, FTC guidelines require brightness claims to be substantiated — unverified peak lumen claims are an enforcement risk that could lead to delisting.
 
 ---
 

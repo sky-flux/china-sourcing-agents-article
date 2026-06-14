@@ -16,7 +16,7 @@ trader: 'Markup built into the unit price; you never see the factory cost',
 
 skyflux: 'Factory quote passed to you at cost; separate, named 5–8% commission',
 
-note: 'A trader margin of 15–30% hidden in the unit price is common. A visible commission lets you check the math.',
+note: "You can't size the markup until it's named. Ask for the factory's VAT export invoice (增值税专用发票) or the 1688 wholesale listing for the same part, then compare it to the trader's unit price — a visible commission lets you check that delta yourself.",
 
 ---
 

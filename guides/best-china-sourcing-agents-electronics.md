@@ -26,7 +26,6 @@ This list ranks 10 sourcing agents on how well they handle electronics specifica
 - What makes a good electronics sourcing agent?
 - The 10 best China sourcing agents for electronics in 2026
 - Which sourcing agent should you choose?
-- Frequently asked questions
 - Final word
 
 ---

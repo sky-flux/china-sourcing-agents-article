@@ -26,7 +26,6 @@ This list covers 9 manufacturers from the verified pool. If you are also evaluat
 - How we evaluate
 - The top 9 manufacturers
 - How to verify any supplier on this list
-- Frequently asked questions
 - Final word
 
 ---

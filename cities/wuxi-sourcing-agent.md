@@ -26,7 +26,6 @@ For product buyers, this means a city where the quality baseline for electronics
 - Key industrial zones
 - Wuxi vs. Suzhou for electronics sourcing
 - Practical notes
-- Frequently asked questions
 
 ---
 

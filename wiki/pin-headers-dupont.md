@@ -12,7 +12,7 @@ Pin headers and Dupont connectors from China: 2.54/2.0/1.27mm pitch, brass vs go
 
 ---
 
-Pin headers and Dupont connectors are the most commoditized interconnect components in electronics. The 2.54 mm (0.1 inch) pitch standard originated with DIP IC sockets in the 1970s and has remained unchanged because it is human-scale — fingers can seat and unseat these connectors without tools. Chinese manufacturers supply the overwhelming majority of the global market for this format. Buying from Western distributors at 10–50× the Chinese factory price is a deliberate choice, not a necessity. The relevant question is not whether to source from China but which specification points to hold and which to not bother measuring.
+Pin headers and Dupont connectors are the most commoditized interconnect components in electronics. The 2.54 mm (0.1 inch) pitch standard originated with DIP IC sockets in the 1970s and has remained unchanged because it is human-scale — fingers can seat and unseat these connectors without tools. Chinese manufacturers supply the overwhelming majority of the global market for this format. Buying from Western distributors at 10–50× the Chinese factory price is a deliberate choice, not a necessity. The relevant question is not whether to source from China but which specification points to hold and which to not bother measuring. Major manufacturers such as TE Connectivity publish similar dimensional references for comparison.
 
 A pin header is a row of press-fit or SMD pins held in a plastic housing at a defined pitch. The mating half is a Dupont-style housing with individual female crimp terminals, or a PCB-mount socket strip. The combination is used for:
 

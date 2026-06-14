@@ -16,7 +16,7 @@ A temperature and humidity sensor reports room climate and triggers HVAC or dehu
 
 The sensing element determines accuracy, drift, and repeatability:
 
-The action item: verify the actual sensor element part number on a sample against a reference meter — datasheet accuracy means nothing if the element is a generic substitute.
+An LCD or e-ink readout adds standalone value; e-ink holds the reading without battery drain. Battery life depends on Zigbee poll interval — ask for a measured average-current test. Zigbee 3.0 binds to a local hub; Tuya Wi-Fi uses the Tuya app with Arabic support (Tuya reference).
 
 ---
 
@@ -26,7 +26,6 @@ The action item: verify the actual sensor element part number on a sample agains
 - Display, battery, and protocol
 - Sourcing Temperature & Humidity Sensors for Saudi Arabia & the GCC
 - Typical specs to confirm before sampling
-- A common pitfall: generic sensor elements that drift within months
 - Buyer profile: KSA HVAC integrator
 - Recommended next steps
 - Supply-chain and inspection notes

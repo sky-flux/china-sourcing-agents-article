@@ -14,7 +14,7 @@ RoHS 2 compliance for electronics from China: 10 restricted substances, concentr
 
 RoHS 2 restricts the use of specific hazardous substances in electrical and electronic equipment (EEE) sold in the EU. Unlike CE marking — which is a declaration process — RoHS compliance means your product and its components must not exceed defined concentration limits for ten restricted substances. Most consumer electronics — from Bluetooth speakers to smart TVs — manufactured in China since 2006 are designed to be RoHS compliant, but compliance claims without supporting documentation are legally insufficient and commonly encountered.
 
-**EU Directive 2011/65/EU** (RoHS 2) repealed the original RoHS Directive (2002/95/EC). It was amended by **Directive 2015/863/EU** to add four phthalates (DEHP, BBP, DBP, DIBP) as restricted substances from July 22, 2019. These four substances brought the total from six to ten.
+**EU Directive 2011/65/EU** (RoHS 2, see the EU RoHS directive) repealed the original RoHS Directive (2002/95/EC). It was amended by **Directive 2015/863/EU** to add four phthalates (DEHP, BBP, DBP, DIBP) as restricted substances from July 22, 2019. These four substances brought the total from six to ten.
 
 RoHS applies to any manufacturer, importer, or distributor placing EEE on the EU market. Compliance is required for the finished product — not at import — but the manufacturer carries the obligation. Like CE marking, RoHS requires a Declaration of Conformity from the responsible person.
 

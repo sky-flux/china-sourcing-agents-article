@@ -16,7 +16,7 @@ USB-A, Micro-B, and Mini-B connectors are commodity components with decades of p
 
 Legacy USB connectors remain in active production and are standard in a large class of products: USB-A on host-side equipment (chargers, hubs, computers), Micro-B on accessory devices, Mini-B on older cameras and industrial equipment, and USB-B square on printers and bench instruments. Despite USB-C adoption in consumer electronics, USB-A remains the dominant upstream port on chargers and power banks worldwide, and Micro-B is still specified in automotive, industrial, and cost-sensitive consumer categories.
 
-The USB 2.0 specification (480 Mb/s) uses 4 pins: VBUS, D−, D+, GND. USB 3.x adds a SuperSpeed differential pair in each direction (5 or 10 Gb/s), bringing USB-A to 9 pins total and requiring the blue-insert housing to signal 3.0 capability.
+The USB 2.0 specification (480 Mb/s) uses 4 pins: VBUS, D−, D+, GND. The USB 3.0 specification adds a SuperSpeed differential pair in each direction (5 or 10 Gb/s), bringing USB-A to 9 pins total and requiring the blue-insert housing to signal 3.0 capability.
 
 ---
 

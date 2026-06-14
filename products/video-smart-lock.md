@@ -26,7 +26,6 @@ A rechargeable Li-ion pack with USB-C emergency charging is standard; confirm a 
 - Power, storage, and protocol
 - Sourcing Video Smart Locks for Saudi Arabia & the GCC
 - Typical specs to confirm before sampling
-- A common pitfall: lock body that does not fit Gulf doors
 - Buyer profile: KSA villa developer
 - Recommended next steps
 - Supply-chain and inspection notes

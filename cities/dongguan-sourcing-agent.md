@@ -26,10 +26,9 @@ For electronics buyers specifically, an experienced sourcing agent in Dongguan d
 - District-by-District: Navigating the Dongguan Supply Chain
 - Dongguan vs. Shenzhen: Supply Chain Strategy
 - Practical Sourcing Notes and Quality Control
-- Why Dongguan Matters for Electronics and Hardware Buyers
-- Key Industrial Zones and What They Produce
 - Sourcing Advantages and Caveats
 - Typical Client Profile
+- How We Work in Dongguan
 
 ---
 

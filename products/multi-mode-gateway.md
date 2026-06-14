@@ -14,7 +14,7 @@ Wholesale multi-mode smart home gateways from China. Supports Zigbee 3.0, BLE, a
 
 A multi-mode gateway is the home automation hub that bridges Zigbee, BLE, and Matter/Thread smart home devices to the local network and the companion app. For the Gulf market the two questions that matter most are **local control** (does automation keep working when the internet drops?) and **server region** (is the cloud close enough for low latency?). Because it contains multiple radios for Internet of Things (IoT) connectivity, the Saudi market needs CST approval. This page covers multi-mode gateways sourced from China for KSA.
 
-A true multi-mode smart gateway runs Zigbee 3.0, BLE, and Matter over Thread (acting as a Thread Border Router) concurrently, ensuring smooth interoperability across your smart ecosystem. Two things separate a reliable hub:
+A multi-mode gateway runs Zigbee 3.0, BLE, and Matter over Thread (acting as a Thread Border Router) concurrently for interoperability across the ecosystem. Two things separate a reliable hub:
 
 The action item: demand a demo of scenes and device control running with the WAN disconnected — that proves local control rather than cloud dependence.
 
@@ -26,7 +26,6 @@ The action item: demand a demo of scenes and device control running with the WAN
 - Server Region, IoT Device Capacity, and Cloud Integration
 - Sourcing Multi-Mode Smart Home Gateways for Saudi Arabia & the GCC
 - Typical specs to confirm before sampling
-- A common pitfall: cloud-only gateways that stop working during outages
 - Buyer profile: KSA smart-home system integrator
 - Recommended next steps
 - Supply-chain and inspection notes

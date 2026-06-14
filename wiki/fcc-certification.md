@@ -16,7 +16,7 @@ FCC certification is required for any electronic device sold or marketed in the 
 
 The Federal Communications Commission (FCC) regulates RF devices under the Communications Act of 1934, as amended. The relevant rules are codified in Title 47 of the Code of Federal Regulations (47 CFR). Enforcement includes market surveillance, recall authority, and fines up to $100,000 per violation per day.
 
-The FCC's Equipment Authorization System (EAS) maintains a public database at apps.fcc.gov/oetcf/eas — every certified product gets an FCC ID, and you can look up any existing grant of authorization there. This database lookup is your first check when evaluating whether a module your factory uses already has approval.
+The FCC's Equipment Authorization System (EAS) maintains a public database — every certified product gets an FCC ID, and you can look up any existing grant of authorization there. This database lookup is your first check when evaluating whether a module your factory uses already has approval.
 
 ---
 

@@ -12,7 +12,7 @@ Source OEM mmWave presence sensors from China. Featuring 24/60GHz radar, Zigbee 
 
 ---
 
-mmWave (millimetre-wave radar) presence sensors detect a stationary person — someone sitting still, working at a desk, or sleeping — where a traditional PIR sensor sees nothing. That makes them the ultimate upgrade for smart lighting and occupancy automation in Gulf majlis rooms, modern offices, and smart homes where people often sit motionless.
+mmWave (millimetre-wave radar) presence sensors detect a stationary person — someone sitting still, working at a desk, or sleeping — where a traditional PIR sensor sees nothing. That makes them a better fit for smart lighting and occupancy automation in Gulf majlis rooms, offices, and homes where people often sit motionless.
 
 Because the sensor contains a human presence radar transmitter, it needs **CST radio type approval** for the Saudi market, on top of standard SASO safety conformity. Typical OEM pricing is **$6–16 per unit** with a **30–45 day** lead time. This guide covers sourcing 24/60GHz smart occupancy sensors from top IoT sensor manufacturers in China.
 
@@ -27,7 +27,6 @@ A standard PIR sensor detects *movement* via infrared change; it loses a person 
 - Power Supply and Smart Protocol Options (Zigbee / Tuya)
 - Sourcing mmWave Presence Sensors for Saudi Arabia & the GCC
 - Typical specs to confirm before sampling
-- A common pitfall: false triggers from ceiling fans and AC airflow
 - Buyer profile: office automation integrator
 - Recommended next steps
 

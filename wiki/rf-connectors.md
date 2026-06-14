@@ -16,7 +16,7 @@ RF connector quality has a direct and measurable effect on system performance in
 
 RF connectors are standardized coaxial interfaces designed to maintain 50Ω impedance (75Ω for video applications) across a frequency range. The critical electrical parameters are VSWR (voltage standing wave ratio, ideally as close to 1.0:1 as possible), insertion loss (dB per mated pair), and contact resistance. Mechanical parameters — mating cycles, retention force, environmental sealing — determine field reliability. In China sourcing, the common failure mode is not catastrophic electrical failure; it is gradual VSWR degradation from plating wear and contact fretting that manifests as intermittent RF performance in the field.
 
-Standard SMA is the most common RF connector in electronics, used for antennas, test cables, and module interfaces from DC to 18 GHz. There are two distinct polarities that are not interchangeable:
+Standard SMA is the most common RF connector in electronics, used for antennas, test cables, and module interfaces from DC to 18 GHz; Amphenol RF publishes SMA connector specifications that are a useful reference when comparing supplier claims. There are two distinct polarities that are not interchangeable:
 
 ---
 

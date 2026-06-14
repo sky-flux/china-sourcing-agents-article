@@ -12,7 +12,7 @@ The Type G (BS 1363) plug is required in Saudi Arabia and the UK. Pinout, the ma
 
 ---
 
-The Type G plug — defined by British standard **BS 1363** — is the three-pin, fused mains plug used in the UK, Ireland, Saudi Arabia, the GCC, and much of the Gulf. For anyone sourcing mains-powered electronics from China for the Saudi market — such as air fryers or electric kettles — fitting the correct Type G plug and a compliant fuse is a non-negotiable SASO requirement. A China factory's default export plug is usually Type C or Type I — wrong for Saudi Arabia.
+The Type G plug — defined by British standard **BS 1363** (BSI specification) — is the three-pin, fused mains plug used in the UK, Ireland, Saudi Arabia, the GCC, and much of the Gulf. For anyone sourcing mains-powered electronics from China for the Saudi market — such as air fryers or electric kettles — fitting the correct Type G plug and a compliant fuse is a non-negotiable SASO requirement. A China factory's default export plug is usually Type C or Type I — wrong for Saudi Arabia.
 
 The **integral fuse** sets Type G apart from almost every other plug type. The fuse must match the load: 3A for products up to ~700W, 13A for higher loads. The wrong fuse rating is a common inspection failure.
 

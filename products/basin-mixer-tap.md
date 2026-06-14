@@ -34,9 +34,9 @@ Factories in Kaiping (Guangdong), Wenzhou, and Yuyao that export heavily to Euro
 
 ## Further reading
 
-- [home-improvement supply chain](https://china-sourcing-agents.com/industries/smart-home/)
 - [sourcing service](https://china-sourcing-agents.com/services/sourcing/)
 - [sourcing agent in Wenzhou](https://china-sourcing-agents.com/cities/wenzhou-sourcing-agent/)
 - [agent in Foshan](https://china-sourcing-agents.com/cities/foshan-sourcing-agent/)
+- [audit service](https://china-sourcing-agents.com/services/factory-audit/)
 - [Full guide on China Sourcing Agent](https://china-sourcing-agents.com/products/basin-mixer-tap/)
 
